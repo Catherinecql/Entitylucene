@@ -1,0 +1,1 @@
+Unreadabe font in ios10 <body> The font on the email size is too small. I did a soft reset and "killed" the mail app, along with turning off the "complete thread" setting.  The font didn't go back to the normal size before the new update.  Any other fixes to try?   <comment316224> Is it only in Mail or do other apps have small fonts?

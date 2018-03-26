@@ -1,0 +1,1 @@
+Some contacts don't show up <body> Contacts that I have added from email or text (create new contact) don't show up when I search for them. They do show up when I compose a message. I do not use iCloud.  

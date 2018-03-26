@@ -1,0 +1,1 @@
+How to compress pictures within pages document? <body> I have created a pages document with a lot of Photos included. Now it has ~ 80MB. But I would like to compress the size of document, decreasing the size of images. Is it possible to do it automatic way?  My document is a strongtable/strong. Images are attached as a background for some cells. 

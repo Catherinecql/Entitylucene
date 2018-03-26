@@ -1,0 +1,1 @@
+iPhone 7 Live Photo - MOV file with different dates than JPEG <body> Does anyone know why the MOV files have a create date (several days to a week after) the create date of the associated JPEG file?  This is extremely frustrating for someone who  likes to organize photos by date.  Thanks 

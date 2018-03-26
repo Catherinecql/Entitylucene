@@ -1,0 +1,1 @@
+Does the new High Sierra support Bootcamp? <body> Will I be able to create a Bootcamp partition that I can boot into from Parallels once I've upgraded to High Sierra? 

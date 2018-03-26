@@ -1,0 +1,1 @@
+Moving email from Mac Mail to Outlook <body> Is there a way to export and then import downloaded/saved e-mail from the default apple e-mail client to outlook 2011? 

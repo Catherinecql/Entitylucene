@@ -1,0 +1,1 @@
+Can I add all Junk Mail to Mail's home screen? <body> In mail I can add views like All Drafts or All Trash to my main menu, but I don't see All Junk Mail. Can I add this to Mail's home screen?  <answer115272> You cannot add a Mailbox for all Junk mails, and the only option is to create different mailboxes for each of the accounts. 

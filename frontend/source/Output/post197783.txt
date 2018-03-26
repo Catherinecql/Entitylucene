@@ -1,0 +1,1 @@
+Apple Mail 8: How to display mails in plain text? <body> Is there an option in Apple Mail 8 to have mails displayed in plain text format? I cannot find a setting for it and the classic way to disable it does not seem to work anymore. 

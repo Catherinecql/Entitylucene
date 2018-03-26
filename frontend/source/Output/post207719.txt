@@ -1,0 +1,1 @@
+Update iPhone 3GS from iOS 3.1.3 <body> How to update my iPhone 3GS from iOS 3.1.3?  <answer207727> Connect the iPhone to iTunes, select it in the top left, and then click Update.  <comment250674> @Red The iPhone 3Gs has a lower case 's'.

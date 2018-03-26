@@ -1,0 +1,1 @@
+Lion USB Thumb Drive - how to erase them? <body> I have a stack of those official Apple Lion USB thumb drives. It seems you can't wipe them using conventional means (Disk Utility, diskutil).  I think I recall reading once there was a way to erase them. Does anyone on here know how? 

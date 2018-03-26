@@ -1,0 +1,1 @@
+How can I add a margin to a table cell in Pages? <body> How do I change Cell margins and padding? I'm not seeing any options for these anywhere.   Is that possible with Pages?  <answer227258> In the format pane, go to text, layout and adjust text inset.  

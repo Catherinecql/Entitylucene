@@ -1,0 +1,1 @@
+Change music cover art slideshow in Apple TV <body> When I navigate to the Computer-My Music section of the Apple TV the systems starts to show a little slideshow on the left side of the screen. For many months I always see the same artwork and the same album covers. It there any way to update this? I got the latest Apple TV. 

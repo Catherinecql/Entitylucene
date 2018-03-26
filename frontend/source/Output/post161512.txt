@@ -1,0 +1,1 @@
+How to auto-archive mails after sent? <body> Is it possible to auto-archive mails, after sending - or adding a separate "Send and archive" button?  I use the Inbox Zero approach, so now I need to manually archive conversations that have ended.  <answer164456> This is one of the many functions that are available in the Mail.app plugin Mailhub. 

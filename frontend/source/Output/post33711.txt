@@ -1,0 +1,1 @@
+Why does the three-fingers gesture not work in Lion Launchpad <body> When Launchpad is displayed, the vertical three-fingers gesture does not switch to Mission Control as I would have expected. Is there a way to change this?   <comment38502> I wouldn't expect the gesture to work this way as launch pad is not an app that is running it is a part of the OS.

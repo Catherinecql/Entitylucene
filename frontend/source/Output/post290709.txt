@@ -1,0 +1,1 @@
+Safari Responsive Design Mode - Slider Control <body> In Safari's responsive design mode, when I move the slider left and right to adjust the width, it's impossible to control.  Do others experience this problem?  Is there a way to adjust it's sensitivity?  Thanks 

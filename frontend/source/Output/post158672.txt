@@ -1,0 +1,1 @@
+Dual monitor support from the HDMI port on a 2012 Mac Mini <body> Will the HDMI port on a late 2012 Mac Mini support dual monitors (landscape) when run to an HDMI matrix distributor for connection? 

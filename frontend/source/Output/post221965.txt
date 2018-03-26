@@ -1,0 +1,1 @@
+"This story is only available in Apple News". But it opens shortly after that? <body> When I open a story/article in the Pinterest app, this screen appears:  img src="https://i.stack.imgur.com/KGXGS.jpg" alt="enter image description here"   However, in about one or two seconds, it actually displays the article for me, without any command of mine. What's going on? 

@@ -1,0 +1,1 @@
+I can't hear sound from one Garageband project <body> My sound works perfectly on everything except one Garageband project. Everything runs normal but I can't hear anything (Including the metronome.) If I go onto media I can listen to a iTunes song but not my loops. Does anyone know what is wrong?  I'm on OS X version 10.9.3, macbook pro. garageband version 10.0.2 

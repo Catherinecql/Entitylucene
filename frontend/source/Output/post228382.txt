@@ -1,0 +1,1 @@
+Easier to achieve exercise goal in Apple Watch watchOS 2 <body> My Apple Watch has recently updated to watchOS 2.1. Since this update, I've found it is far easier to achieve the 30mins exercise goal in the Activity app. Anyone else noticed? Is this an intentional change by Apple?  

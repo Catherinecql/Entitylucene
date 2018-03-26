@@ -1,0 +1,1 @@
+Downloading offline messages for a Gmail tag <body> In the Gmail iPad app, can I automatically download messages with some tag that are not in my inbox? This is a feature on Gmail for Android but I can't find it on the iPad. 

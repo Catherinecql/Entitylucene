@@ -1,0 +1,1 @@
+How to view an open file's location? <body> I have a file open but don't know what folder it's in.  How can I determine it's location?  <answer152737> Right click on the file name in window bar.  <comment179806> Gracias!  Thank you!!!

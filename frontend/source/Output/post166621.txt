@@ -1,0 +1,1 @@
+Run OS X compiled apps in windows <body> Is there any way to run .app (standard OS X application, written in Xcode, achieved and copied from products folder) in windows (any apps like crossover or vine loader)? 

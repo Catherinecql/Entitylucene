@@ -1,0 +1,1 @@
+Pin X11 windows on top (OS X) <body> Does anyone know a program or app that let us to pin X11 windows on top, on OS X? The afloat app works for regular (maybe native) apps, but not for X11. 

@@ -1,0 +1,1 @@
+Remove Find my iPhone lost mode passcode lock from every wake <body> If I have set my iPhone with the lost mode/password lock, how do I get rid of the password lock every time I wake up or turn on my iPhone with Apple IOS 8.1?  <answer126943> http://support.apple.com/kb/PH2700 explains that you should click the Lost Mode link again to change the status on the phone.  

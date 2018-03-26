@@ -1,0 +1,1 @@
+Does Locktopus 1.1 work on iOS 4.3.1? <body> I want to upgrade to 4.3.1 but wonder whether Locktopus 1.1 still works ... thx.  <answer11739> Oh, Yes it does work. I have personally tried it. So, go ahead. 

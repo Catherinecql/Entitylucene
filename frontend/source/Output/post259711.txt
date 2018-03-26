@@ -1,0 +1,1 @@
+How do i connect/disconnect bluetooth speakers to my macbook with a shortcut? <body> I have bluetooth device (speakers set). I can connect/disconnect them in menu bar. But this is not very comfortable to do. How do i create a shortcut to toggle connection of specific device? 

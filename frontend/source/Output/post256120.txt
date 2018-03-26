@@ -1,0 +1,1 @@
+Enumerating keyboard event registrations <body> I see all the answers about how to register for keyboard events, but is there a way to enumerate all current registrations? Some key-loggers advertise that they are "virtually undetectable" I'm hoping this is not the actual case. 

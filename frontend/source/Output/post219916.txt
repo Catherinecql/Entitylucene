@@ -1,0 +1,1 @@
+How to diff Parallels snapshots? <body> Is there a way to effectively diff snapshots of virtual machines in Parallels so as to see what files changed and or file content changes? 

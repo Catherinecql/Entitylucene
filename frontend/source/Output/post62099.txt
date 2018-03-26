@@ -1,0 +1,1 @@
+How to completely disable password saving in Safari? <body> Safari keeps asking if I want to save passwords whenever I submit a login form.  Is there any way to disable this password saving feature completely?  <answer62101> If AutoFill is disabled, Safari won't ask to save passwords either.  img src="https://i.stack.imgur.com/YMjcU.png" alt=""  <comment71738> Fantastic, thanks.

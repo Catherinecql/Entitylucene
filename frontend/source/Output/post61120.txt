@@ -1,0 +1,1 @@
+How to clear find from command line? <body> I want to be able clear out the whatever is cached in find (command-f) from the command line, is there a way to do this? Whatever is in there seems to carry across between applications.  <answer61142> The magic words seem to be codepbcopy -pboard find &lt; /dev/null/code  <comment70544> Yes, thank you :)

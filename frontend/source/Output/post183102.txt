@@ -1,0 +1,1 @@
+Saving v-card from an MMS message <body> How do I save a v-card (.vcf) from an MMS on my i-phone to my contacts database? The screen goes blank when I press on the v-card attachment. I can save v-cards from email no problem.  <comment218189> I'm thinking the vcard is corrupt. It should work.

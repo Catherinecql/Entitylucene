@@ -1,0 +1,1 @@
+How do I create a complete iPhone backup without iTunes? <body> How do I create a complete iPhone backup without iTunes and which I can later restore?  <answer206149> The only other option to back up your device is to use iCloud which is encrypted and backs up Health data and other privileged information.  ul lihttps://support.apple.com/en-us/HT203977/li /ul 

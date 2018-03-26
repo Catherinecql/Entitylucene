@@ -1,0 +1,1 @@
+Apple Mail 9.2: IMAP folders only displayed to a certain depth <body> I have an IMAP email account with several depths of IMAP folders, say about 4 levels deep, but Mail only shows the first level. Can I get it to show the further subfolders? Thanks.  <comment281490> Related thread here: https://discussions.apple.com/thread/5477176?start=0&tstart=0

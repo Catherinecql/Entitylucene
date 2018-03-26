@@ -1,0 +1,1 @@
+Is there a way to have the iPhone suggest corrections but not automatically apply them? <body> The iPhone's autocorrect function is wrong for me more often than not, but I'd still like to see its suggestions and have a way to apply them - they just shouldn't be applied automatically. Is there a way to do this?  <answer29378> In a nutshell: No (but it would be nice to have) 

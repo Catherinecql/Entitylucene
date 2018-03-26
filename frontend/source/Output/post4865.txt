@@ -1,0 +1,1 @@
+Does Socks from MKD have "remove unwanted files" support? <body> A web search for a Mac cleanup utility led me to MKD's emSocks/em.  It looks like a good maintenance package, but I cannot tell from the website whether it has GUI support for finding and removing unwanted files.  Does it?  

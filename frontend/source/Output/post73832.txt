@@ -1,0 +1,1 @@
+How to hide desktop icons on a single desktop <body> I'm a big fan of multiple desktop spaces on OS X 10.7 (see image).   img src="https://i.stack.imgur.com/WldPI.png" alt="enter image description here"  I'm wondering if you can hide desktop icons on emjust one/em of the 4 spaces I have setup. Is that possible?  

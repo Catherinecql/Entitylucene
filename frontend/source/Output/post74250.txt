@@ -1,0 +1,1 @@
+Messages incorrect password or username <body> The messages app is giving me an error message that says that my yahoo password or login ID is incorrect. I'm sure i'm entering the right login ID and password. Any solutions?  <comment86261> Is that Yahoo email address and password the same that you use to purchase apps from the store, and use for your iCloud?

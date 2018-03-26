@@ -1,0 +1,1 @@
+How do I force AD dynamic DNS registration on macOS/OS X <body> How do I force AD dynamic DNS registration on Mac OS X? In Windows, we can run codeipconfig /registerdns/code.  

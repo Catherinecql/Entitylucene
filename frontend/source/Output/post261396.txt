@@ -1,0 +1,1 @@
+Trying to restore photos & movies from Time Machine but files will not appear in Finder <body> Did a clean install to Sierra, I am trying to restore my photos and movies from Time Machine. When I go to TM and look up Latest, then Drive, Users, then my folder it doesn't show anything past that. 

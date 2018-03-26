@@ -1,0 +1,1 @@
+Volume won't turn down on 2009 Macbook Pro 5,5 <body> I just replaced the hard drive, upgraded the memory, and installed Snow Leopard to upgrade to Mavericks. Now, the volume won't turn down, but I know the key is being pressed because the volume level displays on the screen - it just won't turn down.  Thoughts? 

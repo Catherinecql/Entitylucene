@@ -1,0 +1,1 @@
+Make Xcode tabs act like every other text editor <body> In every text editor that I can think of for Mac -- including Atom, Sublime Text, Textmate and even AppCode -- accessing a new file opens a new tab. If a file is opened for which a tab already exists that tab is switched to.  Is there any way to get Xcode to work like this? 

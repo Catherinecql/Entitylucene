@@ -1,0 +1,1 @@
+Unable to sync iPhone calendar with Gmail since iOS 7 upgrade <body> Since I updated iOS to iOS 7, I can't sync my iPhone calendar with gmail calendar. Only the event is created on gmail calendar can be seen on iPhone calendar. The other way is not working.   I'm running iOS 7.0.2 on an iPhone 5. 

@@ -1,0 +1,1 @@
+Weird errors in console app <body> Yesterday I noticed this log in console:     networkd[183]: -[NETClientConnection scrubParametersForEntitlements:]   client com.apple.WebKi.1353 setting source application without   entitlement   especially when I using Safari.  What is that mean and how can I fix it? 

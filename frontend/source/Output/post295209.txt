@@ -1,0 +1,1 @@
+Is there a way to enable HiDPI scaling for external monitors on MacOS? <body> https://www.macrumors.com/2016/09/23/loss-of-resolution-scaling-macos-sierra-update/  Is there a workaround to get HiDPI mode on external monitors on macOS Sierra?  

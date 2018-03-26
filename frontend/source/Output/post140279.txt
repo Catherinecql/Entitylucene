@@ -1,0 +1,1 @@
+plot boat travel on Maps in OS X Mavericks <body> Is there some (worldwide) way to paint or plot a travel plan on rivers and seas with the OS X Mavericks Maps application?   If not, is there some other OS X or service application that allows for this? 

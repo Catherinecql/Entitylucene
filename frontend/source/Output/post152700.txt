@@ -1,0 +1,1 @@
+Stop Yosemite menu bar redraw <body> The menu bar seems to redraw itself each time I switch from monitor to other. here's a short video of this happening. This guy seems to have the same problem.  I tried using guest account without any 3rd part applications but the same problem persists.  Any help troubleshooting is welcome. 

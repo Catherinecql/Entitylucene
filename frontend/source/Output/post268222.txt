@@ -1,0 +1,1 @@
+How to make Page Down key move down a whole page in Pages? <body> In Apple Pages, pressing "page down" makes the page move down one screen as opposed to one page.  Is it possible to only move down one page? I don't like seeing half pages on screen. I only ever want to see one full page.  

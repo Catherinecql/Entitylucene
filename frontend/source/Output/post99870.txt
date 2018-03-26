@@ -1,0 +1,1 @@
+Why after installing MacPorts the kernel_task RAM size raised x1.5? <body> I noticed that before installing MacPorts the codekernel_task/code RAM usage was about 200-300 Mb. After installing that the process is strongusing 482.5 Mb real RAM/strong. What are the components (maybe .kexts, which then?) MacPorts has added to the kernel_task process? 

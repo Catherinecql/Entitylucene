@@ -1,0 +1,1 @@
+Setting iCal Calendar defaults <body> I have a calendar with birthdays in them and I'd like to set the repeat to "Every year" -- unfortunately setting each manually seems quite painful. Would there be an easier way to accomplish this?  Im on an OSX 10.8.  <answer102659> You could add the birthdays to your Contacts, then you'll see each birthday every year automatically. 

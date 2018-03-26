@@ -1,0 +1,1 @@
+How do I print multiple files using same settings? <body> I can print multiple files by dragging them all onto the printer icon on my dock. However, this uses the printer's default settings and prints them single sided, which I don't want.  I'd like to print them all double-sided, but still be able to "drag-and-drop" print. Does anybody know how to this? 

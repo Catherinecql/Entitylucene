@@ -1,0 +1,1 @@
+Moving and deleting email messages fails when offline (OS X El capitan) <body> Since I upgraded to mail in El Capitan I get the following error  when I move or delete a message when I'm offline: em"An error occurred while moving messages to mailbox"/em It used to work fine in Yosemite  I'm connected to an Exchange 2007 account.  Any ideas on how to fix this? 

@@ -1,0 +1,1 @@
+Can I install Windows with Bootcamp on an external USB 3.0 Flash Drive? <body> Mine is a rMBP 13" early 2015. As far as I know, it is possible to install Windows on an external USB 3.0 HDD.  I have searched around, and could not find if someone was able to install it on a USB 3.0 Flash drive.   Is this achievable, and what are the steps? 

@@ -1,0 +1,1 @@
+Export cached webpage in Safari <body> I have a webpage cached in Safari in iOS. The website isn't available anymore. Is there an option to export the website somehow? I don't have AirPrint ...  <answer219198> I searched for AirPrint and because I have a Netgear router I used Netgear genie. Work wonderful. Can't save the page but I printed it. 

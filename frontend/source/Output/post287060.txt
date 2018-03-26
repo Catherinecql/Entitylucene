@@ -1,0 +1,1 @@
+Ikev2 vs IPSec VPN protocols <body> I would like to know the differences between ikev2 and IPSec. Differences as in speed, security, stuff like that. I've tried googling but I can't find an article focused on specifically IPSec and ikev2, they all compare all the vpn protocols. 

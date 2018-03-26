@@ -1,0 +1,1 @@
+Disabling smooth scrolling in Outlook on Mac <body> Is there a way to disable smooth scroll in Outlook (email reading pane)? 

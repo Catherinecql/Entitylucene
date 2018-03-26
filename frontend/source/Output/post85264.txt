@@ -1,0 +1,1 @@
+How to 'startx' from Single User Mode? <body> I usually run dwm inside Xquartz on OS X Mountain Lion 10.8. But is there a way to boot into Safe Mode (or a console), then codestartx/code or codexinit/code, skipping Aqua? I'd like to boot directly into X11. 

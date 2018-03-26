@@ -1,0 +1,1 @@
+How does Photo Stream Sync work? <body> If I delete photos off of photo stream and leave them on my iPhone, will they just get put back on photo stream once it syncs? Or does photo stream just take the newer pics?   <answer135524> Deleted photos won't be synced over Photo Stream. It's smart enough to recognise that you've deleted a photo and won't sync it. 

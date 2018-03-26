@@ -1,0 +1,1 @@
+Possible to disable URI on iPhone? <body> Apps can open other apps on iPhone using a URI scheme (e.g., open the Facebook app with codefb:///code). Is there a way to disable this?  <answer141189> There is no way to disable opening the apps instead of going to Safari, aside from deleting the app itself.  <comment163962> I’m fairly sure there isn’t, but I can’t prove it.

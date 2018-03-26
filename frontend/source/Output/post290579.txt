@@ -1,0 +1,1 @@
+How do I disable app badge alerts using Do Not Disturb? <body> How do temporarily disable app badge alerts (the red dot in the corner of the icon)? I don't want to have to manually disable/enable this every time I enter DND mode, which does not seem to disable these alerts. 

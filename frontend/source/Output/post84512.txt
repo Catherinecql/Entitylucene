@@ -1,0 +1,1 @@
+Data differences between Apple Contacts and GMail Contacts? <body> I'm thinking of syncing my Mac's contacts with Google. But I'm a little wary of any data syncing between platforms, since some data is usually lost.  Is there a list somewhere that describes which fields might get lost or changed during this synchronization? 

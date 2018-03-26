@@ -1,0 +1,1 @@
+print at the command line, how can I print landscape <body> Just using lp filename.txt and it's going to my local printer  How can I do something like codelp filename.txt -format=landscape/code or codelpl filename.txt/code  <answer56903> From codeman lp/code:  precode       -o landscape /code/pre  Looks like it should do what you need :) 

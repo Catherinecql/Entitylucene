@@ -1,0 +1,1 @@
+How do I prevent Expose/F3 from running on secondary monitors? <body> At home, I like to play movies on a secondary monitor while working on my primary monitor. When I press codeF3/code to Expose my windows, it disrupts the movie on the second monitor. How can I configure Expose to only run on the active/primary monitor and mirrors of the active monitor? 

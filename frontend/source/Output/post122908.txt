@@ -1,0 +1,1 @@
+Where are file permissions stored, when itunes backs up an ios system? <body> One of my ios backups seems to restore file permissions incorrectly (one of the files is restored as read only, or maybe under an incorrect user name).  Is there an easy way for me to fix this? Where are file permissions backed up to, when itunes backs up an ios device? 

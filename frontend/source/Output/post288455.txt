@@ -1,0 +1,1 @@
+How can I send iMessages to a group chat or multiple people from the command line <body> How can I send an iMessage to multiple people from Terminal using osascript / AppleScript? I know how to send it to one person, but I want to send it to a group chat or multiple people. 

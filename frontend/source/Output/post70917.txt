@@ -1,0 +1,1 @@
+Having Problem Activating my iPhone after jailbreak <body> After I had finished applying a jailbreak on my iphone 4 (iOS 6, Baseband 04 12 02) with redsn0w and installed SAM, it locked and put me on the Activation screen. I can not complete the SAM activation due to not having access to my springboard. What do I need to do? 

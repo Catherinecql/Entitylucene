@@ -1,0 +1,1 @@
+How to share annotations in PDFs between iPad and MacBook? <body> At the moment I use Dropbox to share PDFs between my MacBook and iPad. It works very well, except sharing annotations in the PDF-files. I open the PDF using Adobe Reader on my iPad and add some annotations. How to share this annotated PDF-file with my MacBook again?  Is there a better way to do that? 

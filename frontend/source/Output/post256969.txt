@@ -1,0 +1,1 @@
+When upgrading the operating system why are certain packages like Xcode CLI tools, mongodb, go, etc. required to be rebuilt? <body> I had these different dependencies installed before the upgrade but now I have to rebuild them.  Any ideas why? 

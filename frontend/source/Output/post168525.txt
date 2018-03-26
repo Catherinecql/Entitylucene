@@ -1,0 +1,1 @@
+How can I speed up Enhanced Dictation's response/ processing speed? <body> It takes around ten seconds to process a voice command, whereas speakable items are instantaneous.   <comment197883> on hat hardware ? CPU&RAM <comment201301> Related: [Changing the speech recognition speed vs. accuracy trade-off in OS X Yosemite dictation](http://apple.stackexchange.com/q/159334/20338)

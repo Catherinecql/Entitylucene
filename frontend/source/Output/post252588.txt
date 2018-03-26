@@ -1,0 +1,1 @@
+While auto-opening downloaded PDF files, how to avoid deleting downloaded zip files in Safari? <body> Is there a way to achieve the three goals at the same time in Safari?  ol liAutomatically open downloaded PDF files/li liAutomatically unzip downloaded zip files/li liNot delete those downloaded zip files/li /ol  I'd be happy with 1 and 3 only, if all three is impossible. 

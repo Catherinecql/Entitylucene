@@ -1,0 +1,1 @@
+Is it possible to disable long left-click on dock icons? <body> On my Mac, I seem to accidentally trigger the long-click on the dock icons a lot, which opens the context menu (right-click menu). Is it possible to disable this behavior? 

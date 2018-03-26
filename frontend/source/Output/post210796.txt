@@ -1,0 +1,1 @@
+Yosemite: Reduce bandwidth usage of single applications <body> Is there a way on MacOS notebooks to prevent applications accessing the internet? Like block all and except Chrome? As I have a limited data volume on a mobile data stick. This should be just the case while on that stick, not while I am in a Wifi. It should not throttle bandwidth. 

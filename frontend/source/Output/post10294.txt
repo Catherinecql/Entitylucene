@@ -1,0 +1,1 @@
+time capsule router history log <body> Does the time capsule router log web history? How?  <answer10298> No it does not.  You will need to incorporate a 3rd party device or software for that.  Expand your question to include your needs and someone may be able to help you further.  <comment10785> that pretty much helped me...now i just need to find a service :)

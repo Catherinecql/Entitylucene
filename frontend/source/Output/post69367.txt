@@ -1,0 +1,1 @@
+Wired network disconnects on 21.5" iMac <body> At work, I've got a new 21.5" iMac. If I leave the machine alone for 20-30 minutes, the wired network will lose it's connection. After I do something on the machine, the network comes back (usually after a minute or so). Is there a setting that I'm missing that turns this off automatically? 

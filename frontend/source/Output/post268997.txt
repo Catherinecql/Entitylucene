@@ -1,0 +1,1 @@
+Showing a contact's schedule in Calendar <body> When I schedule an event I can add contacts and make sure there are no scheduling conflicts via a special pane.    Is it possible to emalways/em show a contact's schedule in my Calendar app (busy/not-busy is fine) as just another visible calendar? This will simplify scheduling.br If so, how? 

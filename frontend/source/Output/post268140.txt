@@ -1,0 +1,1 @@
+macOS Sierra desktop folders empty <body> After upgrading to macOS Sierra on our Mac desktop, all of our desktop folders were as before but all subfolders were emptied.  Many years of archiving gone?  Anyone know how to retrieve?  <comment336550> If you select one of the folders and File  Get Info (⌘I), does it say it's more than a megabyte in size?

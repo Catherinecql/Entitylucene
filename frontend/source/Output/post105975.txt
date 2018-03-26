@@ -1,0 +1,1 @@
+Convert lotus notes NSF file to Outlook PST file in Mac OS X <body> Is it possible to convert a nsf archive (of Lotus Notes, containing my emails) to pst, a file that Outlook for Mac 2011 can read? I seem to find loads of tools for Windows, including SSDM from Dell. If somebody has done it already for Mac, kindly share the tip.  Thank you 

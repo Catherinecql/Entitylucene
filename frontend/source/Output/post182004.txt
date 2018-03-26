@@ -1,0 +1,1 @@
+What is the `/private` directory <body> The Apache httpd 2.4 server is bundled with Yosemite. It seems to me that the directories code/etc/apache2/code and code/private/etc/apache/code are the same. However I don't see any symlink. Did I missed something ? 

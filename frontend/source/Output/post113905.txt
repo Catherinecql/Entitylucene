@@ -1,0 +1,1 @@
+Is it possible to open several projects in one window with TextMate2? <body> Can I open several projects in one Textmate2 window like SublimeText does? 

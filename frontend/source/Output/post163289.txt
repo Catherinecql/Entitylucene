@@ -1,0 +1,1 @@
+OS X Server Open Directory Unavailable <body> I have a problem with OS X Server Open Directory. I can set it up on computers fine with a green light in System Preferences and when restarting/logging out it says that network accounts unavailable.  <comment191126> Which version of OS X Server are you using, and what version of OS X are you using on the client?

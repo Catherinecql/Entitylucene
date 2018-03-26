@@ -1,0 +1,1 @@
+How do I revert Gmail back to normal after I switched to HTML by mistake? <body> I accidentally switched my Gmail to HTML. I want to go back but don't know how on my iPhone 6s.  <answer263576> On Safari: scroll to bottom and select "standard".br If you don't see it, add a screenshot of what you emdo/em see. 

@@ -1,0 +1,1 @@
+iOS Catalog app format <body> I have iOS PDF catalog app but it takes a lot of memory and slow.  But I found this catalog app below fast and take a little memory:  https://itunes.apple.com/us/app/flipp-flyers-weekly-ads-flip/id725097967?mt=8  Can someone tell me what catalog format they are using? 

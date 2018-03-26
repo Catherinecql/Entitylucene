@@ -1,0 +1,1 @@
+Why won't my iPhone 4S let me turn on the wifi? <body> When I go to codeSettings/code then to codeWifi/code, I cannot turn it codeOn/code.  I had read in another question I should codeReset Network Settings/code but that did not seem to help.  Does anyone have any idea what I could do? 

@@ -1,0 +1,1 @@
+iMovie launches import dialog when iPhone connected <body> Any way to stop iMovie launching an import dialog each time I connect my iPhone? 

@@ -1,0 +1,1 @@
+QuickTime Player 10: move one frame ahead / backwards <body> I used to be able with previous versions of Quicktime Player to move 1 frame ahead or backwards with the arrow keys of my computer, although it seems now with Yosemite the jump is bigger (I tried with a .MTS file today).  Is this something that can be changed in the settings or because of the file type? Thanks 

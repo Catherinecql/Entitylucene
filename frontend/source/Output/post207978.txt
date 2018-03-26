@@ -1,0 +1,1 @@
+View SMS Messages After Removing SIM <body> If I remove the SIM from an iPhone, then will I be able to view the SMS Messages that I sent and received while the SIM card was in the phone after I take the SIM card out?  <answer207981> Yep. Just to confirm this, I took the SIM card out of my own iPhone 6S and all SMS texts were present.  <comment250900> Great! Thank you!!

@@ -1,0 +1,1 @@
+Shortcut to mute tabs in Safari <body> Is there any shortcut to mute one specific tab in Safari? Or to mute all except the current tab? Using only the MacBook keyboard. 

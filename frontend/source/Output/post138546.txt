@@ -1,0 +1,1 @@
+How can I open/use a .ZFS file in OS X? <body> I've got a .zfs file that holds mapping files. I want to know if I could open it up or use it on OS X. I need to get into it to change the maps.  img src="https://i.stack.imgur.com/tYl68.png" width="262" 

@@ -1,0 +1,1 @@
+Darken Background Illumination When There is No Window <body> I have a MBP in a dualscreen setup with the laptops display as secondary. I'd like to know if there is an application that dims the display's illumination when there is no window drawn on the laptop. 

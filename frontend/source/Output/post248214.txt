@@ -1,0 +1,1 @@
+Is there a way to add ‘separators’ to the menubar? <body> Does anyone know of a tiny pseudo-app that adds fake menubar widgets, ones that take effectively no resources and have no icon, so I can ‘space out’ my menubar?     (I ask because I use Bartender.app, and have ~30 menubar apps; they get pretty hard to skim over all in one line :P)  

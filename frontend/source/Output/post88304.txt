@@ -1,0 +1,1 @@
+Update Adobe Flash in Mountain Lion with ARD <body> I'd like to use ARD to upgrade Adobe flash on a number of unattended workstations. When the Adobe installer downloads and installs flash, does it create one file that I could ARD to the other computers?  <comment103494> I'm thinking /Library/Internet Plug-Ins. Have to test it.

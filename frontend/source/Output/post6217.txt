@@ -1,0 +1,1 @@
+Will EXCEL formulas be OK if they are imported within a spreadsheet into iPad Numbers? <body> Will EXCEL formulas be OK if they are imported within a spreadsheet into iPad Numbers?  <answer6229> In general yes - but there are some functions that are only in Excel.  Googling found this comparison for OSX Numbers 

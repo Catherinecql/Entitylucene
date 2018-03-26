@@ -1,0 +1,1 @@
+Is Front Row included with Lion? <body> I was trying to use Front Row on Lion and I couldn't seem to find it. Is it included with Lion?  <answer42568> No, Front Row is not included with OS X Lion. Apple dropped support for it when Lion came out. However, you can get it back by following this 9 to 5 Mac article. You can download the Front Row application here. 

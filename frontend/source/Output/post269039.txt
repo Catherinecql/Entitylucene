@@ -1,0 +1,1 @@
+Is there a way to search or filter Notifications on the iPhone? <body> I have an app that will keep on showing Notifications on the iPhone.  Is there a way to search or filter out all the Notification (on the iOS level), for all notifications that contain some words?  (such as "super important"). 

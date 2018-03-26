@@ -1,0 +1,1 @@
+Stop auto-dimming automatically <body> I've noticed my Mac didn't retain the brightness I set with the keys.  How do you stop it from auto-dimming?  <answer104981> Perhaps you have em"Automatically adjust brightness"/em turned on in the Display preference panel?   <comment123476> @lhf Yup, that's it, that's an answer!

@@ -1,0 +1,1 @@
+Google plus notifications in notification center <body> Is there a way to retrieve or push google plus notifications using applescripts to have them show up in OSX Yosemite notification center?  <answer155317> I guess it only works if the website asks you if you want to receive pushs 

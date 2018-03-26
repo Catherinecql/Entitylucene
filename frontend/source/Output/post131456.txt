@@ -1,0 +1,1 @@
+Delete selected E-mail from Time Machine Backup? <body> How do you permanently delete selected E-Mail messages from "Apple Mail" from a Time Machine Backup?  <comment154404> What OSX are you running? It'd be much easier to restore to a certain point in Time Machine and subsequently erase the set of emails than to do so from the backup itself. That's the whole point of a backup.

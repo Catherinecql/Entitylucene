@@ -1,0 +1,1 @@
+Custom ringtone not looping when someone is calling <body> I am using custom .m4r ringtone that is 5 seconds long. When someone is calling the ringtone is not repeating (plays only once). Is this bug in iOS or is there something need to be set up?  iPhone iOS 8.2 

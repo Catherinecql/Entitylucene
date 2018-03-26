@@ -1,0 +1,1 @@
+Download and view podcast <body> If I download a free podcast onto my iTunes and onto my iPhone does it still use data from my contract?  <answer103101> Downloading podcasts to iTunes on your computer and syncing it from there to your iPhone (via cable or WiFi) does not require a 3G/LTE connection, so you should be fine. 

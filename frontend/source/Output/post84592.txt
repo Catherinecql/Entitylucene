@@ -1,0 +1,1 @@
+How to restore calendar events from iCloud? <body> We use a common iCloud Account. One of the users has deleted this account from her iPhone and this has caused all the shared events disappear across the iCloud account. How can we restore this Events?  <answer84595> The only way is to have external backups. 

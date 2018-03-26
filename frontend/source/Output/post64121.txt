@@ -1,0 +1,1 @@
+Failure in Sharing iPhoto pictures <body> I couldn't share photo on facebook via iphoto (version1.0.1) using the new ipad. A non-stop loop between iphoto and facebook despite that I downloaded and installed many times the iphoto and the main issue remained the same. Is there anyone who has faced a similar problem?? 

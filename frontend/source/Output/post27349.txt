@@ -1,0 +1,1 @@
+How about Parallels 7's Lion support especially in graphics performance? <body> I heard that Parallels 6 lack of GPU acceleration with Lion guest. So it's very slow. How about this on Parallels 7? 

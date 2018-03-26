@@ -1,0 +1,1 @@
+Is there a keyboard shortcut to focus on the Ribbon in Microsoft Office 2011 products? <body> I would like to be able to create charts in Excel using my keyboard only.  Is there some way of moving focus to the Ribbon with the keyboard? 

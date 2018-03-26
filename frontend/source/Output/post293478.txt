@@ -1,0 +1,1 @@
+Photos library can't be opened because "in use by another program" <body> I copied a Photos library from an external (USB) drive to an internal drive but Photos refuses to open it because it be "in use by another program".  How can this be "fixed"?  I can't even get to the repair dialog by pressing Option-Command while starting Photos - the other dialog is faster. 

@@ -1,0 +1,1 @@
+Apply Pay - Missing transaction history if pay with Apple Watch <body> If I use Apple Watch to pay, I cannot receive notification and also no transaction history found in the Wallet app. Is it a bug?  <comment316694> surly it will be in your Emails? I doubt Apple would have made a bug as simple as this... <comment316744> no email, no push, nothing

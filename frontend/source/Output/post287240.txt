@@ -1,0 +1,1 @@
+Make Touch Bar Esc key "click" <body> Is there a way to make the Touch Bar kbdesc/kbd key emit a "click" sound when it is pressed? This way I'd have some feedback that I successfully pressed the button when using vim.   I'd be happy with an Apple Script, or whatever works. 

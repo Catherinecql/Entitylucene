@@ -1,0 +1,1 @@
+Pushing an Apple ID for App Store to IPads with Apple Configurator <body> Is there a way to push an Apple ID to the iPads with profiles via Apple Configurator?  I have several 100 and would like to push it so we do not have to enter it manually for each. 

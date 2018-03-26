@@ -1,0 +1,1 @@
+What options do we have to keeping our hard drive secure in case of theft? <body> If you have work files on your laptop that are sensitive, what measures can you take to keep things secure?  is it possible to encrypt the entire drive?  <answer71227> OS X has supported full disk encryption since 10.7. See Apple's KB article about FileVault 2. 

@@ -1,0 +1,1 @@
+Will Mavericks Server cache Yosemite updates? <body> Will Mavericks server cache Yosemite updates?  I can't tell—is it possible to actually see the saved cache?  <answer158409> Yes, the Caching service will cache updates for all possible versions of OS X on all possible Macs. You are unable to view the contents of the cache in a meaningful way though. 

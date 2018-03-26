@@ -1,0 +1,1 @@
+Toolbar icon background is pink when running a Windows app in Wineskin <body> After I install MultiGo via Wineskin on my MacBook OS X 10.10.5, the background color of toolbar icons is pink, instead of transparent.  img src="https://i.stack.imgur.com/EQNHS.png" alt="enter image description here"  I have tried a few screen options but didn't help. Any suggestions? 

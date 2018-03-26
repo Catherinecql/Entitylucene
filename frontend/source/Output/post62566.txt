@@ -1,0 +1,1 @@
+Change duration between ambient screen-brightness change <body> When the ambient light changes around my workspace, my MacBook Pro laptop responds appropriately.  However, I find that when the screen brightens or dims, it is too quick.  Is there a way to increase the duration of the fade between brightnesses? 

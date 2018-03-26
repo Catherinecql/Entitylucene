@@ -1,0 +1,1 @@
+HDMI passing sound but no picture from MacBook Pro <body> My HDMI is not working as usual. I can hear the correct sound, but no picture. I believe the last software update may have been the cause. I have attached a friend's MacBook Pro and the HDMI works correctly.  I am running a 2015 MacBook Pro with macOS 10.12.4. 

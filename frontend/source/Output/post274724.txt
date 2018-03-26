@@ -1,0 +1,1 @@
+Public docking hg in the terminal <body> Today the commands in the terminal start with "public-docking-hg-2434:~ userName$"  What is this public-docking-hg? Why did it suddenly appear?  

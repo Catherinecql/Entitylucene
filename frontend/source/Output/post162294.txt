@@ -1,0 +1,1 @@
+Navigate Finder Sidebar using arrow keys Yosemite <body> Is there a way I can navigate the sidebar items using arrow keys? I am using Yosemite.  <answer162304> There is no way of navigate that way. You can only use the following shortcuts to navigate through finder:  img src="https://i.stack.imgur.com/FqcyQ.png" alt="enter image description here" 

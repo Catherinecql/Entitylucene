@@ -1,0 +1,1 @@
+Live Boot Bluray Apple Computer <body> Are there Bluray drives that can live cd boot a mac?  I was given the impression from boot cds somewhere that the Apple USB Super drive can potentially live boot DVDs but not bluray on new computers. 

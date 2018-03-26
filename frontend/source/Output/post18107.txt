@@ -1,0 +1,1 @@
+Rubber band not working on Gmail using Safari <body> Is it just me or the rubber band scrolling is not working on Gmail (I'm on Safari)? It works on any other site.  <answer18428> They use a wrapper-div with codeoverflow: scroll/code and codeheight: 100%/code, which doesn't use the rubber-band-effect by default.  <comment19864> It's not just you.

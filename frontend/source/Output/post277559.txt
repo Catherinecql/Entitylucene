@@ -1,0 +1,1 @@
+Imation Apollo M300 HD won't mount in disk utility <body> My External drive won't mount in disk utility. Also tried mounting via Terminal but no dice. I tried loading the HD in a PC, it takes too long to boot. It also says the driver is up to date. Any suggestions in recovering my files?  img src="https://i.stack.imgur.com/GWrZb.png" alt="enter image description here" 

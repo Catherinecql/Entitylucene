@@ -1,0 +1,1 @@
+Disable Smart Substitutions permanently in Notes app <body> I asked a question about disabling spelling and grammar permanently in notes and got a great answer. Is there a similar command or set of commands I can run to disable all the smart substitutions inside the Notes app? (without disabling system-wide settings) 

@@ -1,0 +1,1 @@
+Can I add a password hint to an encrypted disk image? <body> I've got an encrypted dmg. Can I set a password hint for it?  <answer284818> No, this is not possible currently. You can put such information in the Spotlight comments accessible from Get Info in Finder. 

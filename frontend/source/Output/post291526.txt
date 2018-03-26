@@ -1,0 +1,1 @@
+WhatsApp mesages on iCloud <body> If I make a copy of WhatsApp chats on iCloud, then delete chats from WhatsApp on my phone, then make a new copy to iCloud, will the first backup with the deleted messages from before be available? 

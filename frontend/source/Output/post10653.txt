@@ -1,0 +1,1 @@
+fast forward a video with keyboard <body> I have tried kbd⌥/kbd+kbd→/kbd and kbd⌘/kbd+kbd→/kbd, but no luck. Instead iTunes jumps to the next video podcast.  Is there a way to fast forward ?  <answer10696> 5 secs forward:  kbd⌘/kbd+kbd⌥/kbd+kbd→/kbd 

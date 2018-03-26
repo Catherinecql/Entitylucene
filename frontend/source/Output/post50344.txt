@@ -1,0 +1,1 @@
+How do I remove the hostname from the bash prompt in Terminal? <body> My prompt in Terminal currently looks like:  precodeDzulhelmis-MacBook-Pro:~ myusername$ /code/pre  I want it to be as short as possible, maybe at least no hostname there. How do I change my bash prompt? 

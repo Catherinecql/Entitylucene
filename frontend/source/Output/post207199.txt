@@ -1,0 +1,1 @@
+How can I access My Photostream from a my Macbook pro? <body> How can I access My Photostream from a my Macbook pro? I'm running El Capitan.  <answer207201> ul liOpen system preferences and sign in to iCloud/li liopen photos and opt in to Photo Stream/li /ul  You can get help from the help menu searching for Photo Stream. 

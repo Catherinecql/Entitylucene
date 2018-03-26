@@ -1,0 +1,1 @@
+iPhone update causing messages to be received to other family member phones <body> after two family members updated their iPhone 4, they are now receiving messages that are sent originally to me, why is this happening and how can i stop it...i have an iPhone 5s  <comment202089> Most likely they are signed into iMessage using the same Apple ID as you.

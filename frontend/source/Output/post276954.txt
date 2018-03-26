@@ -1,0 +1,1 @@
+How to restore my Mac OS X using time machine onto a new hard drive install? <body> I have a mid 2010 MacBook Pro and want to install a new hard drive but I'm not sure how to restore my Time Machine back ups (Yosemite) with a new hard drive. 

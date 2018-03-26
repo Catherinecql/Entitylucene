@@ -1,0 +1,1 @@
+Making an inactive mailbox active <body> I made one of my mailboxes inactive. How do I make it active again?  <answer970> Under Preferences, Accounts, click on the account and then the "Advanced" tab. There will be a check box next to "Enable this account." 

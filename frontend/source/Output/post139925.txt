@@ -1,0 +1,1 @@
+Safari keyboard shortcut for iCloud tabs? <body> Is there a keyboard shortcut for the iCloud tabs in Safari (7.0.5)? So far I have to click on the cloud button to view iCloud tabs.  <answer189149> In Safari 6 or newer, kbdShift/kbdkbdCmd/kbdkbd\/kbd or a two finger pinch invokes the "Tab View" which includes iCloud tabs.  https://support.apple.com/en-us/HT202525 

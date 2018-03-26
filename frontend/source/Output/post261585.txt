@@ -1,0 +1,1 @@
+Cascade Single App (Preview) Windows <body> Is it possible to cascade windows of a single app only on Mac OS Sierra? That is, I have 10-20 PDF documents open in Preview and would like to cascade them for easier orientation and navigation.   I would also be interested in general cascading, but, as said above, that is not the main goal. 

@@ -1,0 +1,1 @@
+How do I replace the default fonts and their minimum font sizes in Safari? <body> I'm using Safari 10.0 on macOS Sierra.br I want to replace all the four default fonts in Safari - strongstandard, fixed, serif and sans-serif/strong.br I've tried looking for a .plist file that contains the information of the default fonts but haven't found it yet.br Please help. 

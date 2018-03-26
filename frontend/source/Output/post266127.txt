@@ -1,0 +1,1 @@
+slrn accessing google groups <body> I have slrn app and I want to access USENET (Google groups). What news server name shall I use for emNNTPSERVER/em env and emnnrpaccess/em in ~/.slrnrc? I tried emgroups.google.com/em but it doesn't work. Thanks, 

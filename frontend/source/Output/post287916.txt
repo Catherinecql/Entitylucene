@@ -1,0 +1,1 @@
+How to pair Bluetooth mouse with Apple Watch? <body> Can I pair my Bluetooth mouse with Apple Watch? Or, can I get the functionality of a mouse with my Apple Watch?  <answer287920> watchOS wasn't designed to be used with a mouse. As such, it does not include mouse drivers or a mouse cursor, and therefore will not pair with a Bluetooth mouse. 

@@ -1,0 +1,1 @@
+Loading custom words to dictionary in bulk <body> I use a language that has no dictionary in iOS. And when i type, autocorrect changes it to English. I'm looking for a way to load the frequent words that use to predictive dictionary in bulk.   Is there any app or way for this other than adding manually one by one? Maybe Cydia tweak for jail broken device?  

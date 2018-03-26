@@ -1,0 +1,1 @@
+Keyboard shortcut for Smart Folder <body> Would you help me to find a way how to assign a keyboard shortcut to a Smart Folder in OS X? That is, when I'm in Finder I'd like to open a given Smart Folder with the shortcut like I can do it with e.g. Documents using Cmd+Shift+O. 

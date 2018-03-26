@@ -1,0 +1,1 @@
+Can the Date Created metadata be changed after the fact on OS X? <body> I have a movie file. It was taken back in October but the date created is from last week. How can I change the date created information in the file?  <answer82939> I found the following terminal command, which allows setting the date created:  precodeSetFile -d "10/16/2012" file /code/pre 

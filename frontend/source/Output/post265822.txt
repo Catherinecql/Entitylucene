@@ -1,0 +1,1 @@
+Check mark icon on select item turn into question mark <body> I recently notice that the icon on select item changed to the question mark. it's like original checked icon is messing!  How can I fix this?  Thank you.  img src="https://i.stack.imgur.com/955nV.png" alt="enter image description here" 

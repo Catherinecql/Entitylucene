@@ -1,0 +1,1 @@
+How do I stop spotlight indexing the attachments in my mail (both sent and received)? <body> I unchecked mail &amp; messages in the spotlight preferences and also added the mail downloads folder to the exclude list but to no avail.  <comment367676> What OS version are you using? <comment367713> Im using MacOS Sierra version 10.12.5

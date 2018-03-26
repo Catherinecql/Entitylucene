@@ -1,0 +1,1 @@
+Access the GPS from Terminal <body> Is it possible to find out the location of a computer similar to the "set time by location" feature via command line?  I'm working on a little script that would update my network location settings depending on whether or not I'm within a certain city or something. 

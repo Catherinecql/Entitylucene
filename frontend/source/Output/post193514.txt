@@ -1,0 +1,1 @@
+How to hide a photo in the new Photos.app <body> I would like to know if it's possible to hide photos in the new Photos.app   <answer193516> Select any [or more than one] photo.br Right click  Hide [number of selected] Photo  img src="https://i.stack.imgur.com/cHc1L.png" alt="enter image description here" 

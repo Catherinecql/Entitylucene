@@ -1,0 +1,1 @@
+How to save or export a photo without the GPS data? <body> I have used Preview's export function to export a JPG file to PNG format, and GPS information is still embedded in the picture. Is there any tools in OSX that allows me to strip off the GPS data?  

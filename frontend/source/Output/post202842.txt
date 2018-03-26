@@ -1,0 +1,1 @@
+Disable Yosemite 'Today View' but keep notifications <body> Is it possible to disable the 'Today View' inside the notification center but keep the notifications view or vice versa? I find the 2 views to be very awkward and mostly only need the notification one.  

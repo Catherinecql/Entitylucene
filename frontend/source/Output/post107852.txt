@@ -1,0 +1,1 @@
+Visible notification quick reply text field for Messages (Mavericks) <body> Is there a way to have quick reply text field visible by default in Messages notification? Now one has to click on the reply button. But the button is too small for a fast click.  img src="https://i.stack.imgur.com/ea5ID.png" alt="enter image description here" 

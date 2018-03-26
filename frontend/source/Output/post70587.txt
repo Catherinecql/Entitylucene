@@ -1,0 +1,1 @@
+Monitoring tool for several Macs on a network? <body> Is there a tool like iStats Menu 3 which could show me the same kind of information (hard drive statistics, sensors state, network usage) for every machine running OS X on my network?  Or even better, for every machine running any OS (or at least some kind of Unix)?  <answer70589> Apple's Remote Desktop does this (and more). 

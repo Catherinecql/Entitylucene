@@ -1,0 +1,1 @@
+Keynote delay is longer than 0 seconds <body> In keynote I want to seamlessly animate a couple slides together with magic move.  However, this seems impossible because even setting the delay to '0' keynote still noticeably delays almost a whole second inbetween animations.  How do I make keynote not delay? 

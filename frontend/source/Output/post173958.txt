@@ -1,0 +1,1 @@
+Uninstall Google Chrome won't work <body> I'm in a root Finder and trying to delete Google Chrome.app in another user's folder.  I get the error message     The item “Google Chrome” can’t be moved to the Trash because some of its plugins are in use   The other user is logged out, and there are no running processes of it associated with any user 

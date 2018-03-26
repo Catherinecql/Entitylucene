@@ -1,0 +1,1 @@
+Where do my iPod's notes go when they're synchronized with my Gmail account? <body> Where do my iPod's notes go when they're synchronized with my Gmail account? Where can I find them in my browser?  <answer4039> When you go to Gmail, you should now see a 'notes' label in gmail.   This will hold your notes, but you can not edit them in gmail.  

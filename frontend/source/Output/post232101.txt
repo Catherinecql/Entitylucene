@@ -1,0 +1,1 @@
+Show directory path in Finder in OS X El Capitan <body> How to see the directory path or navigation bar in Finder? Is there any ubuntu or windows like directory bar?  <answer232102> Got the solution. codeView -&gt; Show Path Bar/code solves it.   <comment373760> This doesn't show the ful unix path though

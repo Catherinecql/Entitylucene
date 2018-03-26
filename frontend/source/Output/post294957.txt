@@ -1,0 +1,1 @@
+Why do images look pixelated on a retina Macbook Pro 2015? <body> Images which has different resolution(higher or lower) then 144 ppi look pixelated on a retina Macbook Pro 2015. I tested by creating images in Photoshop with different resolution and finding images in internet with different resolutions. But why? 

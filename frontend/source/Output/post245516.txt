@@ -1,0 +1,1 @@
+How to remove meta data from PDFs? <body> Since PDFs contain a lot of meta data like my name and the application name which created the file, I was looking for a utility that would allow me to remove all meta data from the PDF file.  Ideally, I would want a tool that I can run from the command line interface.  

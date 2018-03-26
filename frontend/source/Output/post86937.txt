@@ -1,0 +1,1 @@
+How to create new groups in iOS contacts app? <body> Title says it all: how can I create new address groups on iOS devices?  <answer86939> Unfortunately, you can't do it on iOS. 

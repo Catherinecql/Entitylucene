@@ -1,0 +1,1 @@
+What is the ppi of the MacBook Pro retina 13" when at a resolution of 1680x1050? <body> I know the resolution when it's at the retina resolution of 2560x1600, but what about when it's scaled to 1680x1050?  <answer94002> Does 148.96 PPI seem correct?  PPI Calculator  <comment110360> Does that correlate directly, though? With all the scaling?

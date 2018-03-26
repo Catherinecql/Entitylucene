@@ -1,0 +1,1 @@
+Safari won't load a page on the first try <body> This happens randomly.  el capitan 10.11.6 safari 10.0.3 macbook air 11 inches, early 2015  Thanks. 

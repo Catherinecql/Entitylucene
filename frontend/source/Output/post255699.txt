@@ -1,0 +1,1 @@
+How can I auto-highlight the previous clip after a split? <body> In iMovie the previous clip is highlighted after a kbdCommand/kbd+kbdB/kbd split. However, in Final Cut Pro, nothing is selected. I have to manually select it with the mouse.  How can I have this behave the same as iMovie?  

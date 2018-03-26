@@ -1,0 +1,1 @@
+Screensaver on external screen only <body> Is it possible to start the screensaver (preferably the origami style) on only the connected external monitor? I want to be able to use the second display as usual.  hr  A third party app would also work. 

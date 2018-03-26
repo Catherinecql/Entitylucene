@@ -1,0 +1,1 @@
+Music App: order by album release date in iOS 9? <body> When I tap in the artist in the Music app, I see the list of their albums. Is there a way to make this list sorted by year (release date)? I'm on iOS 9  <answer243839> Sadly there seems to be no way to do this natively, but Picky handles it nicely.  

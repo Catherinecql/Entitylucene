@@ -1,0 +1,1 @@
+Different countries do not show up? <body> If someone outside of the US buys an IAP or gives a review, do those not show up in the USA app store?  <answer135276> Nope, the review will be posted to the app store where you are logged in. For example, if you are logged in to the Irish App Store, the review will only appear under the Irish app store for that particular app. 

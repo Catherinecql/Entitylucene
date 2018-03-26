@@ -1,0 +1,1 @@
+Upgrading to 10.7.5 broke copy/paste system wide <body> I upgraded to 10.7.5 through software update, and it appears doing so broke the paste command. I can cut (and perhaps copy) text out of fields, but when I try to paste, the Edit menu lights up, but nothing happens. This occurs either when I hit kbdCommand &#8984;/kbd + kbdV/kbd or when I choose Edit menu - Paste. 

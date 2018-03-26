@@ -1,0 +1,1 @@
+Magnet SHIFT+ALT+X not recognized <body> I installed Magnet 2.1.0, a Window Organizer from the AppStore.  In the upper right status bar there is the Magnet icon and I can select the different window resizing functions and they work by clicking.  However, the shortcuts with kbd SHIFT /kbd + kbd Alt /kbd + X do not work.  Do I have to consider anything to access the shortcuts? 

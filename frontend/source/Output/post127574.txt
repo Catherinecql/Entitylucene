@@ -1,0 +1,1 @@
+ipod touch 7.1 not synchronising <body> Tried synchronising my iPod touch and it downloaded my photos fine but when I tried synchronising it told me there was no device attached. Tried all the usual turning off/on devices as per instructions but no good. Any suggestions? 

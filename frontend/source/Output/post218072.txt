@@ -1,0 +1,1 @@
+dsconfigad: Node name wasn't found. (2000) <body> When I rejoined domain after already joined domain successfully with codedsconfigad/code, it's failed with     dsconfigad: Node name wasn't found. (2000)   <answer235548> It's caused by incorrect time, fixed by codesudo ntpdate -u time.apple.com/code 

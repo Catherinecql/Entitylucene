@@ -1,0 +1,1 @@
+using Messages on a MacAir <body> On my Mac Air, the return key sends the message, rather than moving my text to the next line. How do I move my text to the next line or can I change Preferences so that I can use the return key to advance to the next line and another command to actually send the message.  <answer179698> kbdControl/kbd + kbdEnter/kbd will insert a newline. 

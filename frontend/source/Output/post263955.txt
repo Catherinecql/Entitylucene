@@ -1,0 +1,1 @@
+Finder losing focus on network shared folders when deleting a folder in columns view <body> ul liSwitch to column view/li liGoto an AFP shared folder/li liDelete a folder/li liObserve the focus lost http://www.giphy.com/gifs/26ybvShcMZ7BtnlNm/li /ul  I'm not exactly sure what's going on, but it's extremely annoying. 

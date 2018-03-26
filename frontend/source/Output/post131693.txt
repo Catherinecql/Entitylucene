@@ -1,0 +1,1 @@
+Hack tool for brighten calendar color imported to iOS Calendars? <body> I only have one Google calendar imported to the iOS. I would like to have it brighten, at least easily to notice. I sync it with the CalDAV to have the same colors which I define in Google Calendars. I also don't want to use other app because of one only reason: the Calendar app can change the date. 

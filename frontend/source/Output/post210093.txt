@@ -1,0 +1,1 @@
+How do I turn off AirPlay on Apple Watch? <body> On the control center screen on my Apple Watch I accidentally turned on AirPlay. When I tap on it it gives me an option to cancel or select "Apple Watch...". I've tried both and neither option toggles AirPlay off. How do I turn off AirPlay?  <answer211407> I turned my watch off, let it reboot, problem solved. 

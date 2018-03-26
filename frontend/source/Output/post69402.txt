@@ -1,0 +1,1 @@
+How do you enable retina display support on Firefox? <body> Firefox 16 does not have retina display support out of the box.  Is there a way to enable it?  <answer69403> precodeLaunch firefox. Type about:config in the URL bar Type layers.acceleration.disabled in the Search field that shows up and hit enter Change the value to true and restart  /code/pre 

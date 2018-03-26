@@ -1,0 +1,1 @@
+When I open the 'notes' app my calendar app opens as well <body> When I open the Notes app that comes with Apple, my Apple Calendar app opens as well. This hasn't always been the case. It just started doing this a few months ago. Does anyone know a fix for this. 

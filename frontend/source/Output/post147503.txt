@@ -1,0 +1,1 @@
+Opening Skype causes Spotify to pause playback since iOS 8.0.2 <body> Prior to upgrading to iOS 8.0.2, I was able to set some music playing in Spotify, then press the home button, open Skype and message-away.  Now when I launch Skype, Spotify pauses playback. This is really quite annoying.  Has anyone else noticed this?  Skype 5.5  Spotify 1.7.1  iOS 8.0.2  iPhone 4S 

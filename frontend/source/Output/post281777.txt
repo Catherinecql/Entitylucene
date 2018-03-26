@@ -1,0 +1,1 @@
+How can I disable the notification about unencrypted backups? <body> After updating my system to Sierra, I now frequently get the following notifications:     Time machine is backing up an encrypted disk to an unencrypted disk.   This is how I want my system (the backup never leaves my secure work site).  How do I disable the notifications? 

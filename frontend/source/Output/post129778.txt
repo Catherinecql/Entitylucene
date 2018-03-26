@@ -1,0 +1,1 @@
+What details are erased when using find my phone? <body> If I erase my phone through iCloud find my phone, Will it erase contacts and pictures?  <answer129809> Everything on the device is deleted, synonymous with erasing all content and settings from Settings. All the data, including contacts and photos, are deleted from the device. 

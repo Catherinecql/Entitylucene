@@ -1,0 +1,1 @@
+Number of ratings for my app. on app store <body> Recently I noticed that the number of iOS app ratings on app store is generally lower than to rating volume on Google Play. And it is not proportional to the difference between installation numbers from those app markets. Does anyone have an idea about why it can be so?  

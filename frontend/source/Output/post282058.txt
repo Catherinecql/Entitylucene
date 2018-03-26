@@ -1,0 +1,1 @@
+Sync specific albums between devices <body> I don't want to have the same music on my MacBook and iPhone.   However, I do want to be able to sync specific albums/artists.   How can I do that? 

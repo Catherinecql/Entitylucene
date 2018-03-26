@@ -1,0 +1,1 @@
+Google Chrome doesn't import Keychain credidentials after update <body> I had installed the new Google Chrome update and after I restarted the browser, it stopped using my Keychain credentials. Is  it possible to solve this problem somehow ?  <answer53591> Actually, after restarting Chrome two times the issue resolved itself. 

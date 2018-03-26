@@ -1,0 +1,1 @@
+Read only user for Open Directory <body> I need to authenticate against Open Directory on a linux box that has open-ldap installed. The program wants me to enter a username and password that can authenticate against OD. However, I do not want to provide my diradmin/password as its a read/write admin account.  How can I create a read-only user? 

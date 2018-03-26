@@ -1,0 +1,1 @@
+Updating jailbroken 6.0.1 ios to 7.1.1 <body> What are the risks for updating ios apple device, which is already jailbroken ?  <answer135582> You should strongnever/strong do this, as this will break your device and you will get in trouble restoring it. Please restore the device first so the jailbreak is removed.  You can jailbreak it afterwards again, as per Evad3rs. 

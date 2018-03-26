@@ -1,0 +1,1 @@
+Entirely remove application from notification centre - app has been uninstalled <body> How can I remove CleanMyMac 3 from appearing within the Notifications centre - the app has already been uninstalled and I cannot locate any files for it.  I am running OS X El Capitan  img src="https://i.stack.imgur.com/cibwC.png" alt="enter image description here" 

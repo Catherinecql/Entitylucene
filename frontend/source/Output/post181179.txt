@@ -1,0 +1,1 @@
+Messages with Adium or third party client <body> Is it possible to use Messages (Apple iMessage) with Adium or any other third party client.  <answer181182> Judging by the list of supported services onbr https://adium.im/help/pgs/Accounts-ListOfServices.htmlbr it looks like the answer would be no. 

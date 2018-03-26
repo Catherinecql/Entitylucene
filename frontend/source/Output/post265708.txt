@@ -1,0 +1,1 @@
+Turn on Wi-Fi on locked computer <body> I have a network based user account on my computer and therefore can't get into the computer without Wi-Fi.  I'm wondering how to turn on Wi-Fi while on the locked screen.  <comment333131> There should still be a local user account to manage the computer. Is the guest user accessible either?

@@ -1,0 +1,1 @@
+Making fine adjustment of volume the default behaviour <body> I know I can fine adjust the volume by pressing kbd&#x2325;/kbd+kbd&#x21E7;/kbd and using my keyboard's volume control wheel. How would I make fine adjustment the default behaviour, without having to use any modifier keys? 

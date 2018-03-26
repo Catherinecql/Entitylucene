@@ -1,0 +1,1 @@
+Can I make a standalone *.app using CrossOver's bottles? <body> Is it possible or is there a way to make a standalone *.app for a CrossOver bottle? Pretty much what WineSkin does. Only, instead of using WineSkin, I want to utilize CrossOver's Performance Enhanced Graphics. 

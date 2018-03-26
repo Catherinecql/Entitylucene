@@ -1,0 +1,1 @@
+Why does spotlight search system files? <body> Most of my spotlight search results are files in ~/Library (application data) and /usr/include (header files)  I already tried to rebuild the index.  Any thoughts?  <answer123246> You can remove directories from the Spotlight Index under the Privacy tab in System Preferences  Spotlight  (Described in this other question) 

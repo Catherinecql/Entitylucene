@@ -1,0 +1,1 @@
+Excluding an account from Outlook 2016's unified inbox <body> I have several email accounts set up in Outlook 2016. I use the unified inbox for them, but I have added a new account whose contents I don't want to see in the unified inbox. Is there a way to exclude them from showing? 

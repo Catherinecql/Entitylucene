@@ -1,0 +1,1 @@
+How do i get rid of key chain <body> I don't use key-chain, but it keeps on popping up asking for a password.  At this point I have to use a network password from a year ago in order to get rid of the box that won't go away until I enter a password.  How do I stop it, I can't seem to find an 'off' switch or an 'uninstall' option. 

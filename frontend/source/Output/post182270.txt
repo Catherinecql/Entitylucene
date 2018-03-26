@@ -1,0 +1,1 @@
+What happens if I create a file while Time Machine is backing up? <body> Will the file be saved onto my backup drive? Is there a possibility that I might corrupt my backup?  <answer182271> The file will be saved if the containing folder has not yet been backed up, otherwise it will be backed up next time Time Machine makes a backup. The backup will not be corrupted. 

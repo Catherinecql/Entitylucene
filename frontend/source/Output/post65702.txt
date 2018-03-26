@@ -1,0 +1,1 @@
+Force iCloud to Download All Data on IOS? <body> Is there any way to force iCloud to download all data on IOS?  For example, before boarding a flight, I'd like to be able to tell my iPad to download all keynote, numbers and pages documents to the device without having to manually click on each one.   

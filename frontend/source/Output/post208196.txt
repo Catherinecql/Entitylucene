@@ -1,0 +1,1 @@
+How to make an AppleScript that edits the next note in Mac Notes <body> I want a shortcut to edit the next note in Mac Notes. Since there is no menu alternative for this I guess I need to create an AppleScript for it. I've tried to use the Notes library in the AppleScript Editor, but can't really figure out how to do it. 

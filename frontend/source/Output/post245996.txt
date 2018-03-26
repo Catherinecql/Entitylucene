@@ -1,0 +1,1 @@
+Disable screen saver on secondary monitor <body> Is there a way to disable the screensaver from showing on my secondary display? I only want it on my primary display. Running 10.11.1 El Capitan 

@@ -1,0 +1,1 @@
+iTunes Visualizer+Pandora <body> I know it's not a standard function of iTunes, but I'd really like a way to have iTunes Visualizer respond to Pandora radio playing on my computer.  Is there a way to make the visualizer recognize Pandora either directly or by picking up the sound through the built-in microphone? 

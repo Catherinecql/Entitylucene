@@ -1,0 +1,1 @@
+What port is used in OS X for remote desktop? <body> I want to set forwarding IP address on a router. What port is used in OS X for remote desktop?  <answer271227> Maybe it could be the same port than VNC server, 5900.  <comment340928> I'll try it and answer in a few minutes, thanks! <comment341088> Unfortunately, it doesn't work for me. Maybe the problem is in another.

@@ -1,0 +1,1 @@
+What is the pause-like icon in the Safari tabs bar to the left of the title? <body> I noticed it goes away after clicking on that tab... May it be some energy saving feature?  Here's a screenshot:  img src="https://i.stack.imgur.com/WevWg.png" alt="Safari tabs bar"  <comment363618> The website in the screenshot is https://www.alfredforum.com/forum/3-share-your-workflows/

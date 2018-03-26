@@ -1,0 +1,1 @@
+Frequent location data extraction <body> How to extract frequent location data from an iOS backup?  I'd like to use it to generate GPX (location+time) output and use it to tag my photos.  Does anyone tried to adress this issue? 

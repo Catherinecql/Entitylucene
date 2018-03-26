@@ -1,0 +1,1 @@
+Changing color of application window (Mavericks) <body> Is there a way to hack just a single application to change the color of the window chrome itself, like the topmost bar where window title and min/maximize buttons are located?  <comment152469> No way. Only if you are developer of this app, or app already have custom non-default background.

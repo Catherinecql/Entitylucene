@@ -1,0 +1,1 @@
+Automatically propagate Finder tags from alias to original file/folder? <body> Is it possible to automatically propagate tags that are generated for an alias to the file/folder it points to? 

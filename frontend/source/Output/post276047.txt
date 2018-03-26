@@ -1,0 +1,1 @@
+How do the cliclick and MouseTools command line tools differ? <body> I would like to perform double-clicks via AppleScript.  Two tools that I understand are suitable for the job (since AppleScript contains no built-in mechanism to do this) are cliclick and MouseTools.  These two tools are very similar, sharing many features. Do they differ? Is one more reliable than the other? 

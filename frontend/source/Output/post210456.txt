@@ -1,0 +1,1 @@
+Column width in finder list view option <body> How can I keep the column width in the list view option of finder?  Every time I reopen a folder I have to readjust the width of the columns so I can tell what files are in the folder. It is most annoying. Option drag doesn't work. 

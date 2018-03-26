@@ -1,0 +1,1 @@
+Is there a way to change Logics temp file directory? <body> Whenever I export a song logic places temp files in the trash. I would like for them to be in /tmp/. 

@@ -1,0 +1,1 @@
+Why does opening a photo with Preview set the quarantine attribute? <body> I noted that opening a digital photo (jpeg) with Preview causes the Finder to add a  precodecom.apple.quarantine /code/pre  Extended Attribute. Why does it do that? Is it a problem? 

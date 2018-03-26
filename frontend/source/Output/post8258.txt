@@ -1,0 +1,1 @@
+Select all songs as compilations <body> How do I select all songs as compilations in my iTunes. I don't want to modify each song one at a time, I have about 2000 songs.  <answer8259> Command+A - Command+I - Options - Part of Compilation - Yes - OK  Not sure why you'd want to do this and I didn't test it because I don't want to do this to my library but that should be it. 

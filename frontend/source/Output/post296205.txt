@@ -1,0 +1,1 @@
+Mail app: switch-off auto-synchronisation of some accounts <body> I have multiple email accounts that I have configured in the mail app. Is is possible to turn the synchronisation off selectively for one or two accounts?   <comment374134> On macOS or iOS? <comment374161> on macOS (need to fill chars..)

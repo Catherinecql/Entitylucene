@@ -1,0 +1,1 @@
+What does en0,en1 etc (en) stand for? <body> So on Linux it's eth0, eth1 etc which stands for strongeth/strongernet interface 0 etc  So what does en0 on mac stand for? (the "en" part)  <answer11327> It stands for "EtherNet" as far as I know. 

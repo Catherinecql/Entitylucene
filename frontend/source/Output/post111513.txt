@@ -1,0 +1,1 @@
+Does Windows Server 2012 R2 work with Bootcamp on MacbookPro running Mavericks? <body> I am trying to figure out if I can run Windows Server 2012 R2 as a boot camp partition with Mavericks. What drivers should I use? Are there any issues?  <comment274937> I am not having any luck running it in VirtualBox in El Capitan.

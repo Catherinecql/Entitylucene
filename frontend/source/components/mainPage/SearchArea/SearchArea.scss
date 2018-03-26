@@ -1,0 +1,101 @@
+.SearchArea{
+	.resultcard1{
+		width:100%;
+
+	}
+	.resultcard{
+		width:100%;
+		margin:auto;
+
+	}
+	.clustercard{
+		// margin:5px;
+		padding:5px;
+		width:100%;
+		margin-bottom:10px !important;
+	
+	}
+	.entityhover{
+		// &:hover {
+  //       	transform: scale(1);
+  //       	background-color: skyblue;
+  //      		z-index: 1;
+		// }
+	}
+	
+	.docblock{
+		margin-top:15px;
+	}
+	.example{
+		padding-bottom: 0px !important;
+	}
+	.header{
+		text-align: center;
+	}
+
+
+	.resultheader{
+		font-size: 1.7em !important;
+		text-align: center;
+	}
+	.resultText{
+		text-align: left;
+	}
+	.meta{
+		font-size: 1.2em !important;
+		// text-align: center;
+	}
+	.docheader{
+		font-size: 1.3em !important;
+		text-align: center;
+	}
+	.description{
+		font-size: 1.3em !important;
+		
+	}
+	.clusterbutton{
+		margin-left:20px !important; 
+	}
+
+	.entityContent{
+		padding-top:20px;
+	}
+	.results {
+		text-align: center !important;
+	}
+	.searchbar{
+		 z-index: 3;
+		 padding: 0px 30px 40px 30px;
+	}
+	.searchResult{
+		padding: 0px 25px 0px 25px;
+
+	}
+	.correspondingDoc{
+		padding-top:60px !important;
+
+	}
+}
+
+.entityHeader{
+	font-size: 1.5em !important;
+	font-weight: bold;
+	text-align: center !important;
+}
+
+.labelbutton {
+	margin: 2px !important;
+}
+.addcontent{
+	font-weight: bold;
+}
+.add{
+	font-size: 15
+}
+.addname{
+	color: #ff500a;
+}
+.highlight{
+	color: orange
+}
+

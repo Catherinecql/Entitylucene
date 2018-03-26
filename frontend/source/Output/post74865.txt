@@ -1,0 +1,1 @@
+iPhone 4s GLONASS usage <body> Is there a way to identify whether received data is from GPS satellites or GLONASS satellites in iPhone 4s? If so does the iPhone 4s indicate this to the user using any symbols on the screen? Please explain. 

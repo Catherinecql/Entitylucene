@@ -1,0 +1,1 @@
+iTunes - Apple Music - songs are not playing <body> I am using Apple Music. Most of the time, if I choose the song, it wont play. Progress bar is fully filled, but not music. Sometimes, it is also jagged (1 min play, 1 min not). What to do with that?  I am using Windows 7 SP1 x64.  

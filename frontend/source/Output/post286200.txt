@@ -1,0 +1,1 @@
+Setting 8-bit/16-bit color depth on macOS without using commercial apps <body> Can I set 8-bit/16-bit color depth system-wide without buying commercial software (e.g. Display Maestro)? I would preferably do this by editing system files, but a free app is OK too.   

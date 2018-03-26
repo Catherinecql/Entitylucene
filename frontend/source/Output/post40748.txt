@@ -1,0 +1,1 @@
+Getting Siri to say 1 and not one <body> When I ask for directions and say any single digit number, Siri spells it out instead of writing it numerically. Is there away to change this, because directions does not recognize numbers spelled out?  <answer40782> Just say "numeral" followed by your number  <comment46294> Thank you so much! That was really bothering me!

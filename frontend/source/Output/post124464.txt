@@ -1,0 +1,1 @@
+Disabling App Nap in Mavericks <body> I want to disable App Nap strongemglobally/em/strong on a late 2009 iMac desktop running Mavericks, is this possible?  <answer124467> Yes you can by setting NSAppSleepDisabled globally:  precodedefaults write -g NSAppSleepDisabled -bool true /code/pre 

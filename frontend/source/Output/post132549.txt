@@ -1,0 +1,1 @@
+Time Machine not backing up iTunes <body> I have a new quad core i7 MacBook and my Time Machine is not backing up my iTunes.  How can I fix this? I did not have this problem with my older laptop with Time Machine  <comment156981> The term "is not backing up my iTunes" is somewhat ambiguous. Do you mean: Time Machine is not backing up your `~/Music/iTunes` folder?

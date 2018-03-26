@@ -1,0 +1,1 @@
+How to change the finder services submenu threshold? <body> In the finder context menu, there is a list of services at the very bottom. Once this list grows beyond 4, it becomes a submenu instead.  Is there a way to affect this threshold, i. e. have five services showing on the first menu level? 

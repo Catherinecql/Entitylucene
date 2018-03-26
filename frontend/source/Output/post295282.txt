@@ -1,0 +1,1 @@
+How to make wider space between Touch ID and Control strip <body> When I use codeTouchID/code, I often touch the right side of control strip inadvertently.  So I want to put a "Do-nothing" button in most right side of control strip.  Is there a way for it? 

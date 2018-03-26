@@ -1,0 +1,1 @@
+Pages 5: Clickable Table of Contents in pdf <body> I have a pdf exported from a Pages document, and I want to be able to click a section in the Table of Contents to scroll to that section. Is this possible to achieve in Pages?   Thanks 

@@ -1,0 +1,1 @@
+Exporting ISO data from Apple Photos <body> When I export a selection of photos from Apple Photos, it seems to export all EXIF data (aperture, shutter speed, etc) except the ISO settings.  Any idea why that might be, and is there a way of forcing it to export ISO settings? 

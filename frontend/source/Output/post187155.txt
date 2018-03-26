@@ -1,0 +1,1 @@
+Where is GNU info files stored on Mac OSX? <body> For example, where could I find the info document of bash on mac OSX. I only know the man page is stored at code/usr/share/man//code but doesn't know where to find the info file.  <answer187160> Have a look in the following locations:  code/usr/share/info//code  code/usr/local/share/info//code 

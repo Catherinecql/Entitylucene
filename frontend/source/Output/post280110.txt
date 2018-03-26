@@ -1,0 +1,1 @@
+Calendar list view scrolls <body> I keep the Calendar app in List View.  Whenever I bring up the calendar, after about 2 seconds, it scrolls a few months into the future. (I believe it is syncing in the background.)  Any way to fix this? 

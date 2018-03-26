@@ -1,0 +1,1 @@
+How to save password for Cisco IPSec in Mac native VPN client? <body> Everytime I connect to the Cisco VPN using the built-in VPN client, it asks me for the password. I am wondering is there a way we can auto save the password, like using the keychain? 

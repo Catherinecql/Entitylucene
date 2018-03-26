@@ -1,0 +1,1 @@
+VM Fusion Kali Linux Shared Folder <body> Yosemite Mac Book Pro 2011 (host system)  Latest VM Fusion   Latest Kali Linux  (virtual os)  Where is the shared folder i enabled in the settings? It does not show up in linux?  <comment192547> Did you try mounting the hgfs already? cd /mnt/hgfs <comment192602> it says cannot cd directory

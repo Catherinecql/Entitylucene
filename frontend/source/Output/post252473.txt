@@ -1,0 +1,1 @@
+Change maximum size of picture-in-picture window in Sierra <body> Does anyone know how the maximum size of the picture-in-picture window in macOS Sierra can be changed? I would really like to be able to enlarge it.  <comment314302> Are you not able to grab a corner of the video and drag to resize it, just like with any other video?

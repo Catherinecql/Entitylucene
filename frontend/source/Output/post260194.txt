@@ -1,0 +1,1 @@
+Outlook calendar not synching to iPhone 5 after upgrade to iOS 10.1.1 <body> My iPhone 5 has just upgraded to iOS 10.1.1 and my Outlook 2010 calendar is not synching. Can anyone help please?  <comment325669> It's not 10.1.1 at fault because mine works just fine.  Did you restart your phone yet?

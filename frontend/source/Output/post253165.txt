@@ -1,0 +1,1 @@
+The quality of iOS camera photos after re-enabling the camera <body> If you are to restrict the camera on iPhone and then enable it again, does that decrease the quality of the photos?  <answer253170> Absolutely no reason it would, so the answer is no. 

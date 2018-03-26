@@ -1,0 +1,1 @@
+iMac OSX 10.9.5 - Mail spelling and formatting assistance <body> is there a possibility to have word suggestions and automatic capital letters at start of sentence when writing emails in Mail? 

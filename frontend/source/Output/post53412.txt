@@ -1,0 +1,1 @@
+Intel Wireless Display (WiDi) <body> Can we use this technology on Macs?  Intel's WiDi software is only for Windows users. 

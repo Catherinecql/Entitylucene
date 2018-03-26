@@ -1,0 +1,1 @@
+In Mac OS X El Capitan, is it still possible to change the color of the bubbles in Messages? <body> I have looked through Preferences, System Preferences, even looked at a couple of 3rd-party apps.  I could find nothing of use.  So is it still possible to change the color of chat bubbles (and text) in Messages, like you could in Mavericks, or not? 

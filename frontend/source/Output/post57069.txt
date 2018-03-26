@@ -1,0 +1,1 @@
+Export iPad home screen bookmarks/Safari bookmarks to PC/Mac <body> How do you copy or export bookmarks and home screen web apps/bookmarks from iPad to PC/Mac?  <answer57091> Bookmark syncing between Mobile Safari and Safari running on OS X or Windows is part of iCloud (included in OS X and available for Windows via iCloud Control Panel for Windows v1.1). 

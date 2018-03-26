@@ -1,0 +1,1 @@
+For what does AppleTV have micro-USB port? <body> I noticed that AppleTV has a micro USB port. How and why will one use it ?  <answer156818> Service &amp; diagnostics, recovery etc.  See Restoring your Apple TV  

@@ -1,0 +1,1 @@
+How do I show the total ratio on uTorrent on a mac? <body> I wanted to view my total download/upload ratio on uTorrent (v1.8.4) of all the torrents I've downloaded/shared. Where can I view this information?  <answer142059> uTorrent all-time statistics are not available in the Mac version at the time of writing.  <comment229468> A year later: still not.

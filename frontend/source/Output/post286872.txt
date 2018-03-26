@@ -1,0 +1,1 @@
+Sum an entire column in Numbers from a different sheet? <body> Is there a way to do something like codeSheet1::Table1::SUM(A1:AΩ)/code, where codeΩ/code returns the last row number on Sheet1? This would enable leaving Sheet1 with values only, no formulas.  <answer286874> Turns out this is dead simple: codeSUM(Sheet1::Table1::A)/code, or codeSUM(Sheet1::Table1::ColumnName)/code. 

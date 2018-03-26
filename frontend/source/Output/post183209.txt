@@ -1,0 +1,1 @@
+Any Cycle Playing Option for QuickTime for videos <body> I would like to play a video in cycle i.e. to start again after end.  How can you do this?  I did not find any setting in the program.   <answer183211> It should be simple using the QuickTime menu.  Go to View and select loop.  or use codealt+cmd+l/code 

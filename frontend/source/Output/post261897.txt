@@ -1,0 +1,1 @@
+Applescript: Open Random File in Open Finder Window <body> I am trying to create an Applescript (to be run in the finder window via a button) that will open a single random file from within the folder/window currently open, including files within it's subfolders. I have been unable to find an example I can work with. Thanks for any help anyone can give me. 

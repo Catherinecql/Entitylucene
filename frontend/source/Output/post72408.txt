@@ -1,0 +1,1 @@
+How do I disable native OS X scrollbar in Sublime Text? <body> The native OS X scrollbar obviously completely defeats the purpose of Sublime Text 3's Minimap (which is a scrollbar by itself).   So I want to disable OS X scrollbars …!!  code"overlay_scroll_bars": "enabled"/code doesn't work (only hides it when not scrolling).  (I'm currently on OS X 10.9 Mavericks.) 

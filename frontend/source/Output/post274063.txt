@@ -1,0 +1,1 @@
+Have dock pop up without having mouse hit bottom <body> Is there a way I can get the dock to pop up when my mouse is say, a code1/2/code inch from the bottom, and doesn't have to touch the bottom edge? 

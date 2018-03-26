@@ -1,0 +1,1 @@
+how to install Lan messenger on Mac <body> I am trying to install LAN messenger on mac OS it gives me alert  Your security preferences allow installation of only apps from the Mac App Store and identified developers. 

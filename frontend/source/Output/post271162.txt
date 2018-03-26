@@ -1,0 +1,1 @@
+How to find out app redownload(reinstalled) date <body> I'm having trouble figuring out how to find a reinstalled date of apps. For example, Lets say I downloaded Facebook app on January 1 2016. I deleted it and reinstalled it on January 1 2017. I know that initial(original) download date can be found on itunes ( Account- view my account- show all). Can anyone help me? 

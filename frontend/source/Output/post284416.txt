@@ -1,0 +1,1 @@
+Custom group in characters viewer <body> I am trying to start with Gitmoji and so far it takes me some time to find the appropriate emoji in the Characters viewer on macOS. Is it possible to define custom group of characters? There is already Emoji, Arrows, Bullets/Stars. I am looking for a way how to add my own. I am not interested into workarounds like using Favorites group 

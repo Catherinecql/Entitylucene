@@ -1,0 +1,1 @@
+Mac OS Sierra and Bootcamp <body> I installed Windows 10 on my bootcamp partition and when I boot up and hold option to select what disk I want to boot into, it shows that I have two windows partitions.  Any ideas why? 

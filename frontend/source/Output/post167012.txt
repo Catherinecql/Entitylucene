@@ -1,0 +1,1 @@
+X11 app launching seemingly randomly <body> Since a month or two, I started seeing an X11 icon in my dock.br Killing it does not kill any other app.   Is there any way to see what process launches this app?  <answer167017> One way would be to open Activity Monitor, and check the process ID (PID) of running programs that are immediately before and after the X11 process. 

@@ -1,0 +1,1 @@
+macOS Preview Sidebar not showing text for older highlights <body> Some of the older highlights in the sidebar are no longer displaying any text, as you can see in the screenshot below. What is going on here, and how can I fix it?  img src="https://i.stack.imgur.com/zsXeL.png" alt="Screenshot" 

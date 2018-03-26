@@ -1,0 +1,1 @@
+Scroll Lock Button on MacBook <body> I cannot use my touchpad to scroll on my macbook. The arrow keys work but the touchpad will not. Is there a scroll lock button on the macbook?  <answer233695> Try shift + fn + f12 for scroll lock on/off. 

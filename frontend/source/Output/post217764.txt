@@ -1,0 +1,1 @@
+Mac Mini 1,1 (10.6.8) Missing libc++ <body> My Mac Mini 1,1 running Snow Leopard 10.6.8 is missing libc++. Is there a version for OS X 10.6.8? Is there a way to install it again through Homebrew?  <answer235632> As it turns out I had a purchased copy of Xcode for Snow Leopard. Installing that fixed it. 

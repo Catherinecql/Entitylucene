@@ -1,0 +1,1 @@
+Disable all Notification Center sounds? <body> I know it's possible to turn off sound alerts app-by-app in notification center, but is there a way to turn them off altogether. I hate all system sounds!  <answer168502> System Preferences - Sounds, and set Alert Volume to the minimum. (I'm using Yosemite, and this might not exist in earlier versions.) 

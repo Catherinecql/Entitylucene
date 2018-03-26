@@ -1,0 +1,1 @@
+How can I check location found in iOS weather app? <body> I use iOS weather app and I want to add location of my dacha (villa). Its name is 'Журавушка'. Weather app found it, but I'm not sure that this is exactly Журавушка I'm looking for :)  So, how can I check this result?  I have only one decision: go to my dacha and start the app to get this location name. 

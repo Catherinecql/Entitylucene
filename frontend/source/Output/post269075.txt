@@ -1,0 +1,1 @@
+OneNote keyboard shortcut for moving paragraph up is selecting instead <body> This shortcut isn't doing what it's supposed to on OneNote for Mac:     Move the current paragraph or several selected paragraphs up.br   COMMAND + Shift + Up Arrow   OneNote for Mac keyboard shortcuts  It's selecting upwards, which also makes sense. Any advice? 

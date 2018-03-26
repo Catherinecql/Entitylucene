@@ -1,0 +1,1 @@
+How do I force Safari to load the domain name I type in its location bar? <body> How do I disable the utterly annoying fact that Safari takes me to Google, even though I enter a valid domain name that is in my hosts file?  I emdon't/em want to have to select 'go to site' in the location bar, every time I type in a URL.  Is there a way to achieve this? 

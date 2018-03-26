@@ -1,0 +1,1 @@
+Mail 7.3 print issue <body> Mail 7.3 frequently (but not always) prints email headers on one page and body on a second page. The same problem occurs on different printers (HP &amp; Epson). Seems to occur most often when set to "US Letter" size paper. 

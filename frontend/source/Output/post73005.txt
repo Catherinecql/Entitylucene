@@ -1,0 +1,1 @@
+Ipad proxy authentication <body> in my company we're using a web proxy to filter outbound traffic. I have a lot of troubles with Ipad becaus also if I setup the proxy (with autentication), in network configuration, during web browsing i continuously get the authentication prompt. Also if I push "abort" the page load goes on...  How can i save that password?  thanks you. 

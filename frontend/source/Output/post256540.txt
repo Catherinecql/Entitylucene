@@ -1,0 +1,1 @@
+Mail stops responding after Sierra update <body> Mail stops responding when I try to attach a file to an email. This has been going on since updating to Sierra. The window goes blank and the only option is to force quit and start again. Any solution? 

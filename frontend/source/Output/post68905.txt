@@ -1,0 +1,1 @@
+Disable Notification for specific Account in Messages <body> Is there a way to disable the Notifications for a specific Account in Mountain Lion's Messages App?  <answer68926> There isn't a way to accomplish this at the moment. 

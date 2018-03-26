@@ -1,0 +1,1 @@
+How do I use a screensaver in clamshell mode? <body> Macbook pro, 10.12.6, on AC, monitor connected via thunderbolt, screen saver set to start after 1 minute. Screen saver never starts. 

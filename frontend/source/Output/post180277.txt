@@ -1,0 +1,1 @@
+Populate Exchange Global Address List on iOS <body> Is there a way to populate the Exchange Global Address List of contacts under iOS?  Contacts  Groups  Exchange Global Address List  Currently the list is empty - I can only search for contacts.  iPhone running iOS 8.3. 

@@ -1,0 +1,1 @@
+How to transfer slow motion video between two Photos libraries on Mac and save non-destructive edits <body> Same as this question, but I'd like for the changes I made to the slow motion edit positions to be preserved.  Any ideas? 

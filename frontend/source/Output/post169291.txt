@@ -1,0 +1,1 @@
+Run a shell script on visual alert <body> I have "visual alerts" set on my Mac, so the screen flashes white whenever there's a system alert sound. Is there a way I can also run a shell script whenever this happens? I'd like an attached LED to also blink white, since I can see it better.  <comment198828> what attached LED? <comment198854> A blink(1) mk2.

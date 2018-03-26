@@ -1,0 +1,1 @@
+Removing RAID designation <body> I have a disk that was part of a RAID created with SoftRaid along time ago. I have reformatted the disk but it still comes up as mounted RAID. How can I remove the RAID designation and have it come up mounted SCSI?  img src="https://i.stack.imgur.com/QWzGN.jpg" alt="enter image description here" 

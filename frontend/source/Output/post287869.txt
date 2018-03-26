@@ -1,0 +1,1 @@
+Unable to change Personal Hotspot IP (iPhone 6) <body> My Personal Hotspot is tied to a consistent IP address, but my girlfriends iPhone 5S changes IP every time it is turned off and on (and rarely returns to a previous IP).   How can I replicate this on my iPhone 6? 

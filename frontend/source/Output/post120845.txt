@@ -1,0 +1,1 @@
+RSS reader with tagging of individual posts <body> Is there an RSS reader (ideally a website / iPhone app combo) that allows individual posts to be tagged? Most seem to allow "starring", but that's it.  <answer120862> Not just an RSS reader but a much greater app that meets your requirements too: DEVONthink. 

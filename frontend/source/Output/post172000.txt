@@ -1,0 +1,1 @@
+iOS 8 Do Not Disturb mode text alert off for favorites <body> I have Do Not Disturb on, with setting for Favorites calls to come through, and they do ring. Is there a way to have text alert audible for Favorites? I'm missing texts from Favorites. 

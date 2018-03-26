@@ -1,0 +1,1 @@
+How can I find which images use a given master in Aperture? <body> When I delete certain images, I find I get the following panel:  img src="https://i.stack.imgur.com/ce0mM.png" alt="enter image description here"  How do I find the dependencies, to evaluate whether they are critical or not? 

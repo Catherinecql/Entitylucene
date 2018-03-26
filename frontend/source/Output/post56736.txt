@@ -1,0 +1,1 @@
+Find files created by program <body> Is there an app out there that lets you see what files were created by a program? Basically I need to figure out where a lock file for a Java program is.  <answer56738> Try Activity Monitor. Left-click on the Java app  Information  Open Files and Ports.  You get list of all opened files for this application. 

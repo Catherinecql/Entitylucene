@@ -1,0 +1,1 @@
+Getting all emails from folder including mailto links <body> I have an old website on my mac and I want to grab all the emails as well as mailto linked emails from the folder. Is there a simple terminal code for me to do that?  <comment253862> You mean actual emails, or email addresses? <comment253863> Email addresses as well as emails attached to mailto links.

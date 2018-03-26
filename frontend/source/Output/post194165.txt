@@ -1,0 +1,1 @@
+Finder - multiple-step Undo <body> How long has the Finder been able to do multi-step Undo with kbd Cmd ⌘ /kbd kbd Z /kbd ?  It's been able to do single, fix your last mistake Undo for quite some time, but I personally discovered it was capable of 5 Undo steps only today.  Is this new to 10.10.4 or did I just never spot it before? 

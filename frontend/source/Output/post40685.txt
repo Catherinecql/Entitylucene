@@ -1,0 +1,1 @@
+Can I increase desktop icons larger than 128x128 on OS X Lion? <body> I have a little Mac question.  Is there a way to boost the cap on desktop icon sizes from 128x128 to anything larger such as 512x512? I found some solutions for Leopard but none for Lion. It would be really cool to put my high-resolution monitor to good use :/ 

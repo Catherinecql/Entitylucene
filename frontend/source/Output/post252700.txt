@@ -1,0 +1,1 @@
+Can i delete /Library/Caches/com.apple.bird on El Captain? <body> I was trying to clear space in my mac and i found that /Library/Caches/com.apple.bird taking up lot of space (19.2 GB).  Can i delete it? 

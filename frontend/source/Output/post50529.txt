@@ -1,0 +1,1 @@
+It's May. How do I send a calendar invite for August? <body> The iPad calendar app only sends alerts two weeks ahead of time. I want to send an invite now for an event in August.   <answer50534> Alerts and invites are different things. When you invite someone the invite will be sent immediately regardless of the time of the event. 

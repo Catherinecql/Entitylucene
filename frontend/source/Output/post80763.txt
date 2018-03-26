@@ -1,0 +1,1 @@
+How to download iCloud Address book to Mac? <body> Using OS 10.7.5.  How to get all my contacts from iCloud into my address book on my Mac?  I opened up iCloud control panel, checked Address book. That doesn't do anything.  <answer80765> It takes a while for it to download. You have to wait. There is no indication that it is doing anything. 

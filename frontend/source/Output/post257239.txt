@@ -1,0 +1,1 @@
+On IPad .unable to print attachments, they come out blank. <body> After latest IPad update now cannot print attachment to emails. Tried Adobe Reader , which initially worked. Now does not work. Eventually sent attachments to Word and able to print out. Apple store unable to rectify. 

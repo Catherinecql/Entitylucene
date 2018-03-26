@@ -1,0 +1,1 @@
+Change I-Beam cursor asset for macOS <body> In the past I've been able to change the I-beam cursor for Xcode... It was a complete hack.   I'm wondering if there is a way (a hack) to change the I-beam cursor for the entire operating system? 

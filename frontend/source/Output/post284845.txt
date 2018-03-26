@@ -1,0 +1,1 @@
+View Terms of Icloud <body> I updated by iphone today. Everything is fine except that it continues to tell me to view the icloud terms. When I click to view the terms, they are not there. It goes to my Apple ID page, &amp; it is grayed out so I can't click anything.   <comment359223> Seems like a bug. You should probably backup and restore your device.

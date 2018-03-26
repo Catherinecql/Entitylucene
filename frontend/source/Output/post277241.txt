@@ -1,0 +1,1 @@
+Is it possible to generate EXS24 instruments with a script? <body> Say I have a folder with 250 audio files, and I want each of those to be in an individual EXS24 instrument. Doing that manually would take a very long time.  So I'm wondering if theres a solution to batch generate them, maybe a bash or applescript, couldn't find anything myself. 

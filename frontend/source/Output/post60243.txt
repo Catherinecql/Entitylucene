@@ -1,0 +1,1 @@
+How do I configure Textmate2 to always show wrap Column line for all files? <body> I want to show the wrap column line for all files, how can I do this? I checked the code.tm_properties/code file, but I don't see any mention of it in there.  <answer60245> Ok nevermind.  codeshowWrapColumn    = true/code fixed it. 

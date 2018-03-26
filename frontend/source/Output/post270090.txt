@@ -1,0 +1,1 @@
+Log in iTunes with existing Apple account without credit card <body> I have existing Apple ID but when I tried to log in itunes, clicking None as payment, I still can't proceed even if I click 'Next' 

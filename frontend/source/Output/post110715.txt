@@ -1,0 +1,1 @@
+Where does winetricks install stuff <body> Where does winetricks install packages? I installed steam using the command 'winetricks steam' and I couldn't find it in ~/.wine/drive_c or just anywhere in ~/.wine  <answer110718> Found it  $HOME/.local/share/wineprefixes  more info on https://code.google.com/p/winetricks/wiki/WhereAppsGo 

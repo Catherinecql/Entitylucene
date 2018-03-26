@@ -1,0 +1,1 @@
+Multiple inputs for iPhone or iOS device? <body> Does anyone know if it's possible to use both microphones(phone and headphone) at once? Is it possible to pull data from both at once??  

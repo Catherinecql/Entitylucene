@@ -1,0 +1,1 @@
+Where is the data for the "Messages" iMessage application stored? <body> Where is the data for the "Messages" iMessage application stored?  I can't find it in code"~/Library/Application Data"/code.  <answer148374> Try looking in code~/Library/Messages/code 

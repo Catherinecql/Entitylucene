@@ -1,0 +1,1 @@
+Language selection on creating new email in Outlook Mac? <body> In Outlook for Mac there is no automatic language detection anymore (i'm using 15.26), but we can set the language when creating a new email. Can someone show me how to pop-up a language selection window whenever i create a new email? I think using AppleScript this should be possible. 

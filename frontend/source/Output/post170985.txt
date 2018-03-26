@@ -1,0 +1,1 @@
+iOS app for remote audio monitoring <body> Im trying to find an app that will allow me to listen to my phone's microphone remotely over 3G. Like a walkie talkie but you press to listen, rather than press to talk.  It needs to run iOS and Android. Does such an app exist? 

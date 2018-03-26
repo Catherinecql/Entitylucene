@@ -1,0 +1,1 @@
+How do you get different color bars in Numbers 3.1? <body> In previous versions including 3.0 when you made a 3D Bar chart each data point (ie. months) would be in a different color - now I can't seem to find any way to make them different.  Is this a bug in 3.1? 

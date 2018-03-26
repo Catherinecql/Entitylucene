@@ -1,0 +1,1 @@
+Restore App Version Rejected by developer <body> Can I restore an iOS app version after Apple reviewed and confirmed my version after I accidentally rejected it? it was set to manual release (not auto nor scheduled)   Built is still showing but it is marked as "Developer Rejected" 

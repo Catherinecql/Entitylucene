@@ -1,0 +1,1 @@
+Can a Thunderbolt iMac be used in target display mode while booted into Windows 7? <body> Slightly different than what I'm seeing in search:  If I have my iMac booted into Windows 7, can I (via Thunderbolt) use the iMac as a target display from my Thunderbolt MacBook Pro running OS X? 

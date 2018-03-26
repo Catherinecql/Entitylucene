@@ -1,0 +1,1 @@
+More notification center keyboard shortcuts <body> I know there is a system wide keyboard shortcut to open the notification center and once opened you can navigate your notifications with the up/down buttons on your keyboard.   But is there also a way to dismiss/delete/mark-as-read the selected notification with a keyboard shortcut? 

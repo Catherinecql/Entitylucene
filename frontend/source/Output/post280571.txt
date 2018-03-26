@@ -1,0 +1,1 @@
+Force full screen video in mobile Safari? <body> The behavior of how videos play in mobile Safari has changed recently in iOS. For example, when watching videos on Youtube each starts playing inline rather than going full screen. Toggling a video to full screen doesn't persist the option for the next video.   Are there any fixes for this?  

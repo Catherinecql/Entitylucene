@@ -1,0 +1,1 @@
+Bluetooth headset for both input and output <body> Does anyone know of a Bluetooth headset with microphone that actually provides both audio input AND output?  My Logitech H600 set seems to do either one or the other, but not both.   <comment201102> I'm voting to close this question as off-topic because it has nothing to do with Apple software or hardware.

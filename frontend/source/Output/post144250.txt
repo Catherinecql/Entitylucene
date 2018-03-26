@@ -1,0 +1,1 @@
+Xcode single console pane amongst tabs <body> Is there a way in Xcode 5 to consolidate the console pane/view/area between tabs into a single console?  I have multiple tabs open, each for a source file I am editing.  Every time I run the app from a different tab I have to adjust the console in that tab.  It's annoying.  Any suggestions? 

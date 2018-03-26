@@ -1,0 +1,1 @@
+Add "Send As" from mail <body> I have few accounts on my gmail account that I can "Send As".  Using iOS mail app how can I add those accounts?   <comment272632> Have you tried the trick where you add the second "send as" account after the first in settings by tacking it on with a comma? see http://apple.stackexchange.com/a/41682/5472

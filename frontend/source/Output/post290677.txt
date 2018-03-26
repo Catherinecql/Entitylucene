@@ -1,0 +1,1 @@
+Open default files in vifm <body> I'm trying to change in vifm how the hidden and no-extension files are opened; how can i change the default app for opening files in vifm to use another editor instead of vim? 

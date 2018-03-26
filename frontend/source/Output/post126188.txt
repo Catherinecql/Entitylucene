@@ -1,0 +1,1 @@
+Invitation option not shown in iCal <body> At my company we have a shared iCal calendar. Some users are able to add invitees to an event and others cannot — it isn't even there as an option.  I suspect I have some setting wrong, but I don't know what it is.  Any ideas? 

@@ -1,0 +1,1 @@
+How do I use terminal to see why my mac is waken from sleep? <body> Can someone tell me what code do I use to access login history (successful/failed login attempt &amp; time) and wake-up reason (why the computer is waken from sleep) on Sierra?  And how do I make the terminal show those log for a certain day? 

@@ -1,0 +1,1 @@
+How to find and remove last installed package <body> I tried to make my Mac detect an Arduino UNO and an online guide directed me to this page. Probably it wasn't the brightest idea to install that package, but now, whenever I plug in my Arduino, my Mac displays error message, restarts and keeps restarting again and again.  How do I remove that driver? 

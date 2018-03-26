@@ -1,0 +1,116 @@
+$sub_header_font_color:#144057;
+$sub_header_font_family:"Abril Fatface";
+$content_font_family:"Maven Pro";
+$row_height:50px;
+.Ranking{
+	
+	
+	.header{
+		padding:5%;
+		h2{
+			font-family: $sub_header_font_family, sans-serif;
+			color:$sub_header_font_color;
+			text-align:center;
+		}
+	}
+	.selection{
+		.selection_menu{
+			hyphens: auto;
+		}
+	}
+	.ranking_list{
+		padding: 5% 0;
+
+		.list_item{
+			font-family: $content_font_family;
+			display: flex;
+			flex-flow: row nowrap;
+			align-items:center;
+			cursor:pointer;
+			padding:0;
+			.item_elem{
+				height:$row_height;
+				display: flex;
+				flex-flow: row nowrap;
+				align-items:center;
+			}
+			
+			.item_img{ 
+				flex-basis:15%;
+				img{
+					height: $row_height;
+					width: $row_height;
+				}
+			}
+
+			.item_rank{
+				flex-basis:10%;
+				display: flex;
+				flex-flow: row nowrap;
+				align-items:center;
+
+			}
+
+			.item_name{ 
+				flex-basis:30%;
+				display: flex;
+				flex-flow: row nowrap;
+				align-items:center;
+				font-weight:500;
+			}
+
+			.item_label{ 
+				flex-basis:30%;
+				display: flex;
+				flex-flow: row nowrap;
+				align-items:center;
+				.labels{
+					margin:3px 3px;
+					line-height: 0.3em;
+				}
+			}
+			
+			
+			.item_rank_ch{
+				flex-basis:10%;
+				display: flex;
+				flex-flow: row nowrap;
+				justify-content: center;
+				align-items:center;	
+			}
+			
+		}
+		@media screen and (max-width: 620px) {
+   
+			.list_item{
+				
+				.item_img{ 
+					flex-basis:30%;
+				}
+				.item_rank{
+					flex-basis:20%;
+				}
+				.item_name{
+					flex-basis:50%;
+				}
+				.item_label{
+					display: none;
+				}
+				.item_rank_ch{
+					display: none;
+				}
+				
+			}
+		}
+		
+	}
+	.pagination{
+		.page_item{
+			cursor:pointer;
+		}
+		.input{
+			margin-top:10px;
+			width:20%;
+		}
+	}
+}

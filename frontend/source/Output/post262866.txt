@@ -1,0 +1,1 @@
+App Store - Installs by version <body> I recently released an update to my iOS app. Is there a way to tell in iTunesConnect how many users have updated to the new version?  <answer262867> you can check in App Analytics section in iTunes-connect. checked attached screenshot.img src="https://i.stack.imgur.com/UZK1c.png" alt="enter image description here" 

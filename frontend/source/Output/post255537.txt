@@ -1,0 +1,1 @@
+Best way to use macbook's camera <body> I would like to be able to take a picture with my macbook's camera and save it somewhere.  What is the easiest way to do this?  I have tried using photobooth, but it doesn't give me any control over the save location.  <comment318309> Drag and drop the photo out of photo booth to save it.

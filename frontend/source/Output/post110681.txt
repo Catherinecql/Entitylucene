@@ -1,0 +1,1 @@
+Can you apply different styling to code in Messages? <body> Is it possible to style code in Messages? E.g. use monospaced font, keep indentation, etc.  precode$(document).ready(function(){  $("#msgid").html("This is Hello World by JQuery"); }); /code/pre  This would be useful when having someone look at statements of code and asking for their feedback? 

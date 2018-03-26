@@ -1,0 +1,1 @@
+History of attached external hard drives <body> Does connecting hard drives (FW or USB) get logged by the OS somewhere?  Can I tell if someone has connected an external drive to my laptop? 

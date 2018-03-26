@@ -1,0 +1,1 @@
+How to assign a different audio bell for terminal <body> I just dont like the system audio bell for the terminal in my mac. How can I get my mac use a different file which I have obtained from internet. Its a .wav file which I have got from the internet. 

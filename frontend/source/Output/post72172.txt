@@ -1,0 +1,1 @@
+Finder, column view: arrange by Kind, sort by Application <body> Currently (i.e. Mountain Lion, 10.8.2), in Finder, column view, I can arrange the files/folders thus:  img src="https://i.stack.imgur.com/RKybL.png" alt="Vinder column view preferences"  What I would like to do is, on the other hand, to arrange by Kind, then sort by Application.  Is there a way of doing such thing? 

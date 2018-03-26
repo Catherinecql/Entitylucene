@@ -1,0 +1,1 @@
+When apps download from the iOS App Store, does it only download the changed parts of the app? <body> I downloaded some apps, and my data tracker showed I used significantly less data than the file size indicated on the apps. Is it possible that the app doesn't need to fully download if you're updating it? 

@@ -1,0 +1,1 @@
+Is there a way to run a bash script everytime I print something? <body> I wanted to run a script that changes my background image whenever use the printer.  Is it possible? Is there a way to know when OS X is printing something?  <comment215737> You can see the print history in your browser: http://osxdaily.com/2011/01/20/show-print-history-mac/

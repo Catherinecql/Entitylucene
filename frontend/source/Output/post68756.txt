@@ -1,0 +1,1 @@
+How to stop WebSense from authenticating every 10 minutes on a Mac <body> My company is primarily a Windows shop and uses WebSense to filter Internet traffic. WebSense uses Active Directory to authenticate the user for Windows. On a Mac, it opens a authentication dialog every 10 minutes or so. Any ideas for making this go away? 

@@ -1,0 +1,1 @@
+Tool for Checking App review Status <body> Is there any app or tool for checking app review status of App Store. I develop iOS apps for different clients and different iTunes accounts, so every time I have to login every iTunes account for checking the app review status. It would be a great help if there was any app or tool where I can see all apps' status at a time. 

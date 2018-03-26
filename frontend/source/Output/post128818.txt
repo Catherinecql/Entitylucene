@@ -1,0 +1,1 @@
+How do the VolumeUUID and MediaUUID differ in their usage? <body> When viewing drives via DiskArbitration, we see volumes with codeMediaUUID/code and codeVolumeUUID/code but can't readiliy see the rhyme or reason behind them.  What are good resources for reading the expected use for these UUIDs? 

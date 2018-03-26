@@ -1,0 +1,1 @@
+Change global keyboard shortcuts <body> How can i change the short cut codecmd+Q/code = Quit. To something else ?   I keep using codecmd+W/code = Close window, but accidentally hit codeQ/code instead of codeW/code and close the entire programme.   Ive looked in codeSystem Preferences &gt; Keyboard &gt; Shortcuts/code but couldnt see where this add / amend.  

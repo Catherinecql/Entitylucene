@@ -1,0 +1,1 @@
+"Displays" system preference not showing in spotlight <body> I've recently upgraded to Lion 10.7.5., though not sure if my problem is related. In spotlight, I can't get the "Displays" system preferences option to show up in the results. I've tried re-indexing spotlight, but still no luck. Any suggestions?  Thanks. 

@@ -1,0 +1,1 @@
+How do I get Parallels for Mac? <body> How do I get Parallels for Mac? At the moment I am trial a version. Soon they will ask me to pay. All I want to do is run Windows 10 on my Mac which I have paid for but I need it to work with Cash Flow.  <answer263547> If you want a free emulation software where you can run windows in, you probably should try https://www.virtualbox.org 

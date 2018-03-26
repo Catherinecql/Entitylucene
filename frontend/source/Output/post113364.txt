@@ -1,0 +1,1 @@
+Invalid Leaf Node Count - causes? <body> I recently had the above error which I fixed using DiskWarrior (after unsuccessfully fiddling with fsck in single-user mode). I'm just wondering:  What are the possible causes of an Invalid Leaf Node Count. I'd like to know if I can avoid this problem in the future! 

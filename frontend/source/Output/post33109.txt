@@ -1,0 +1,1 @@
+iTunes opens directly to music, not the store <body> When I open iTunes it opens directly to the store. How do I set iTunes to open to my music?   Note: I am running Windows XP  <answer33119> iTunes opens to the last page that it was at before it was last closed. To set it to open to your music, make sure that that's the last page that you view before closing iTunes. 

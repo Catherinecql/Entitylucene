@@ -1,0 +1,1 @@
+Jailbreak app-mini browser <body> What was the name of the jailbreak app/tweak that allowed you to open web pages in a popup web browser instead of going directly to safari? I remember it in iOS 7 but can't find it now.   <answer166687> Figured it out on my own. Pro widgets comes with a mini browser. Not yet available for iOS eight. 

@@ -1,0 +1,1 @@
+Can I use Power Nap to run my own tasks/actions? <body> The new Power Nap feature of Mountain Lion seems pretty cool in principle. However, all the descriptions I've seen of it seem to focus on built-in or supplied OS X functionality. Is there any way I can exploit Power Nap to run my own tasks - bash scripts, for example, or AppleScript files? 

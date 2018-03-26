@@ -1,0 +1,1 @@
+Run script during device enrollment via Profile Manager <body> I need to run a bash script (creating local user, setting NTP settings, enable screen sharing, etc), only once, when Mac devices are enrolled in Profile Manager.  Profile Manager payloads do not have such features. 

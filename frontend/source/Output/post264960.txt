@@ -1,0 +1,1 @@
+Why does Siri ask me to unlock my iPhone when it's already unlocked? <body> When I say 'Open podcasts' or 'Open Waze' then Siri asks me to unlock my iPhone with pin. I press home to open it and it doesn't  ask for a pin because it is already unlocked and I just recently closed the screen. It didn't do that with iOS 9.   iOS 10.1.1, iPhone 5 

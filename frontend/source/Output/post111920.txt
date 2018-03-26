@@ -1,0 +1,1 @@
+Is there a way to speed up Mac Mail and Outlook365 Sync? <body> Sometimes when I do a send/receive in Mac Mail my outlook messages just come down has subjects without a body. It will take a while for the body of the message to come through. Is there a way to fix this? 

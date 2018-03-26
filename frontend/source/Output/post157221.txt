@@ -1,0 +1,1 @@
+Upgrade available for Open GL graphics card <body> Is there a compatible Open GL graphics card for my 17-inch iMac (MA590LL) to support 3D software?  <answer157223> It's an integrated chip, so no, no upgrade is possible for this generation of iMacs.  

@@ -1,0 +1,1 @@
+Verification of payment for free apps <body> I am trying to update my apps but it keeps asking me for verification of payment even thought the apps are free. I have tried the steps of going to view Apple ID and payment sections but I don't have the option of "none" to pick from. So now I don't know what to do.  img src="https://i.stack.imgur.com/b6WNt.jpg" width="280"  

@@ -1,0 +1,1 @@
+It is possible to increase the force-click pressure above Firm? <body> I don't like how easy it is for me to misclick; I'm used to much more resistance in trackpads and mice. Is there any way for me to increase the firmness past the Preference pane's "Firm" setting? 

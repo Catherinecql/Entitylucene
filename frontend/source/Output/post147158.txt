@@ -1,0 +1,1 @@
+Open source alternative to Adobe Edge Inspect <body> I finally got around to trying out Adobe Edge Inspect today and was extremely disappointed.  I found an alternative named Ghostlab but am trying to find a free or open-source alternative.  Anyone have suggestions?  <answer156665> Try this software: Muir  Its what you search. 

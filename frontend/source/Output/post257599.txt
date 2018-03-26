@@ -1,0 +1,1 @@
+New SHSH Blobs in a fresh install? <body> I've an iphone jailbreaked, but i didn't saved my SHSH Blobs. It was a mistake!  If i upgrade iOS, via iTunes, to the last iOS version, i will have new SHSH Blobs and can i save these for future operations?  <comment326388> SHSH blobs have had no use for a long long time: http://apple.stackexchange.com/a/114076/18387

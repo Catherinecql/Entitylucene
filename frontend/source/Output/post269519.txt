@@ -1,0 +1,1 @@
+Safari 'find' does not focus on link after looking for a word <body> In Firefox I find very useful this feature:br  after looking for a word (codecmd+F/code) it allows to quickly open a new page — if the string I was looking for was part of an  active link - just by pressing the emreturn/em key.   Is there a way to get this effect in safari too? 

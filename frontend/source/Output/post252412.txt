@@ -1,0 +1,1 @@
+Macbook to iMac Screen Sharing - Fit Screensize <body> I am trying to share my Macbook's screen on my iMac.  The screen sharing is working, however, there is a big mismatch between the screen sizes (Notice the black border around the shared screen):  img src="https://i.imgur.com/oTW4Gkg.png" alt=""  Anyone know how to get rid of the border? 

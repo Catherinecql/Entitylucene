@@ -1,0 +1,1 @@
+Scrolling in Photos compared to iPhoto <body> A feature I love in IPhoto Photo Library is being able to reduce each download to a line of text like this:br code("Grant Park August 7, 2017--7 photos" "Untitled August 20, 2017--4 photos")./code    This lets me scroll quickly through years of photos. Is there a way to do this in Photos? 

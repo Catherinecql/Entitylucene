@@ -1,0 +1,1 @@
+I added notes to a PDF in preview, and all of a sudden when I open the PDF a couple of days later, all notes have been rotated? <body> The question title pretty much sums it up. My notes are extremely messy and not properly aligned. Is there some shortkey that I may have accidentally pressed?  

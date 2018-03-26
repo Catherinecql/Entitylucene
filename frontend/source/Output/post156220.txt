@@ -1,0 +1,1 @@
+Does iCloud keychain stores FileVault passwords? <body> My MacBook Air drowned today and it was connected to an external hard drive encrypted with FileVault. I can't remember password for it. Will new Mac sync that password from iCloud or is the encrypted partition lost? 

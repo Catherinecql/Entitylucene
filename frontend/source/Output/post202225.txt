@@ -1,0 +1,1 @@
+Does turning off 'sync from iPhoto' remove my photos? <body> If I've downloaded my photos onto iPhoto and turn off 'sync from iPhoto' on iTunes, will I loose any photos on iPhoto?   <answer202237> Turning off Sync iPhoto will remove any iPhoto images you put into your Photos Library on your phone, but will keep the images on your Mac.  

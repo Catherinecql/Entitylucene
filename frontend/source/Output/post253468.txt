@@ -1,0 +1,1 @@
+Does iOS 10 support microphone input for 3rd party keyboards? <body> I know dictation for 3rd party keyboards were not possible in iOS 9, but I can't find any documentation for the latest iOS release.  Is it possible that will see 3rd party keyboards supporting microphone input? 

@@ -1,0 +1,1 @@
+How  I take photo using the MBP's webcam from   command line? <body>    strongPossible Duplicate:/strongbr   How do I take a steathy picture with my iSight camera from the command line?       Is there a command line method for taking ? 

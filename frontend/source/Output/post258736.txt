@@ -1,0 +1,1 @@
+How to remove Advanced Mac Cleaner popups from the browser? <body> When browsing, particularly in safari, I get really annoying tabs opening up offering me to download the Junk software Advanced Mac Cleaner. I tried to use malware bytes and ccleaner but it didn't help. Also get pages saying your computer is infected yada yada.  Anything else I can try? 

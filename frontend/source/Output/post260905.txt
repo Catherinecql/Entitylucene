@@ -1,0 +1,1 @@
+Photo mac os 10.12.1 <body> I want to sort my Photo photos by 'newest first'.  View/sort automatically does the opposite by greying out the ticked 'oldest first'.  Can I change this?  Thanks for any answers.  Fiona 

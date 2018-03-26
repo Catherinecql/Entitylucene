@@ -1,0 +1,1 @@
+Verify the automatic language detection <body> Just for curiosity!  When the built in spelling is set to automatic language detection, how can I see which language it think the current text is written in?  <comment339168> Assume you know these can be limited via the Setup menu? <comment345227> @TomGewecke Yes I know. That is not my question.

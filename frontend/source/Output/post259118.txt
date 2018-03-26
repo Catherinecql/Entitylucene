@@ -1,0 +1,1 @@
+Iphone lock screen music picture/icon settings <body> On the Iphone 6, IOS 10.1   When you are listening to music or podcast and the your phone is locked if you press the home button it shows music controls and a picture of the music or podcast.  Is there a setting to not display the music picture/icon? 

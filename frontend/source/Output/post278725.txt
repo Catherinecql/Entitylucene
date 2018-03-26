@@ -1,0 +1,1 @@
+Always show MS Word search results (matches) in sidebar <body> Is it possible to force Word (v. 15.32) to always show search results in the sidebar? This is default on my PC, but not on my Mac.  

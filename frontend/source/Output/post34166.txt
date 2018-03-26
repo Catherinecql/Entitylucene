@@ -1,0 +1,1 @@
+Lion doesn't mount encrypted disks anymore <body> I have several encrypted disks and all of a sudden Lion isn't mounting these disks anymore (it doesn't even asks for a password when I plug the disks). I have tested the disks on another Mac and they are fine. How can I access my disks again on my machine? 

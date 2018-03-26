@@ -1,0 +1,1 @@
+Block Keychain Access for specific Apps <body> Is there a way to block access to the MacOS keychain for specific applications? For instance: Chrome wants to access my account informations which are stored from Firefox, but I don't want to allow this access permanently. 

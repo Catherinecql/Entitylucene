@@ -1,0 +1,1 @@
+How do I loop Automation Curves (for volume) in GarageBand 10? <body> In the old GarageBand there was an option to "anchor" the curve to the region so that the region could be copied and pasted and keep the same sound. How do I do this in GarageBand 10? 

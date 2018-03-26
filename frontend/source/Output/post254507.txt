@@ -1,0 +1,1 @@
+Keyboard shortcut for frame-by-frame video steps in Photos <body> Photos Version 1.5 (370.42.0). The video player has controls for advancing or going back frame by frame. Is there a default keyboard shortcut/mapping for this functionality to advance or go back frame by frame?  img src="https://i.stack.imgur.com/IFmsT.png" alt="video player controls" 

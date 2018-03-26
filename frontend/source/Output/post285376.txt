@@ -1,0 +1,1 @@
+Is there a way to automatically schedule restarts for an AirPort Time Capsule? <body> I'm just figuring out why my Time Capsule backups occasionally fail.  It seems that if I could schedule a restart, say, weekly at Sunday night at 3am, maybe the disk scans that it wants would just happen magically. 

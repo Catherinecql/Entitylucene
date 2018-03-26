@@ -1,0 +1,1 @@
+How to remove duplicate contacts in icloud across different groups <body> I have many different groups set up in my icloud and need to compare each group to one another and remove duplicated across groups. I know I can remove duplicates within each group, but how can I get it to match all my groups and only keep one copy of the duplicates in my "All Contacts" group? Thanks! 

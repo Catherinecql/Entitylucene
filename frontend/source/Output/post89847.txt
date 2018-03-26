@@ -1,0 +1,1 @@
+Change the Apple login account for iPhone developer programme <body> Recently I have registered for the iPhone developer program with an Email ID, but now I want to changer my login ID to some other email ID. Is it possible to change it now?  <answer89848> You could try following Apple's instructions for changing the e-mail address associated with your AppleID. 

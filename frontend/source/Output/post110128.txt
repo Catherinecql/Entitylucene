@@ -1,0 +1,1 @@
+iPod video 80gb contains .exe folders <body> Is this normal? Aren't these viruses? I ran an antivirus on it and it didn't pick up on those folder names with .exe as the extension.  These are the folders:  ul li.Trashes.exe/li liCalendards.exe/li liContacts.exe/li lij.l song.exe/li liNotes.exe/li liPhotos.exe/li liRecordings.exe/li /ul 

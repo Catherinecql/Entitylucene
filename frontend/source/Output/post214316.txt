@@ -1,0 +1,1 @@
+How do I add a menu extra to the menu bar? <body> From the terminal window I frequent run this command to strip formatting from copied text.  precodepbpaste|pbcopy /code/pre  How can I wrap this up in something so I can have a menu button to click that will do the same thing? 

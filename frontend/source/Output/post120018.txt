@@ -1,0 +1,1 @@
+Getting notifications when in full-screen <body> Say I am running an application (e.g. Emacs) in full-screen. Sometimes I will receive a new email in Outlook or a message on HipChat and don't know it until I go back to see my dock or exit full-screen.   I would like to see notification like these while on full-screen. How can I do this? 

@@ -1,0 +1,1 @@
+Emails not read in Outlook <body> I can read emails on iPhone 5c running iOS 8.2 but they do not show up in Outlook 2010 when I open Outlook 2010.  <comment210664> you mean Outlook 2011 <comment210669> What people are you using for email? <comment210680> Do you know if you have a POP, IMAP or Exchange account?

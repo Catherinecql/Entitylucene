@@ -1,0 +1,1 @@
+Exporting (extracting) certificates from iOS <body> I have a question regarding security on iOS devices. Is it possible to somehow extract a security certificate installed on the device and put it on another? Either with or without a jailbreak? If yes, then how? 

@@ -1,0 +1,1 @@
+Find multi-line imbedded blocks using grep with BBEdit/Textwrangler <body> The following regex works fine locating a single multi-line div block   precode&lt;div(?s).*?&lt;\/div&gt; /code/pre  I tried without success to find an expression locating one or more imbedded div blocks  Thank you for your help 

@@ -1,0 +1,1 @@
+macOS Siri not working behind proxy <body> I recently updated to MacOS Sierra. I have to use the institute proxy for connecting to the internet. Whenever I try to use Siri, an error message appears. How can I resolve this issue?  img src="https://i.stack.imgur.com/rXLLs.png" alt="Error Message" 

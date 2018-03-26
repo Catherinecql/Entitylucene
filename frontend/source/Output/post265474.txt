@@ -1,0 +1,1 @@
+Use relay to send text/email on iPhone <body> I have a relay with both open and closed contacts. What do I need so that whenever the contacts open or close, the iPhone will either send a text or an email? 

@@ -1,0 +1,1 @@
+Bluetooth RSSI in OS X Lion <body> Is it possible to retrieve the Bluetooth RSSI value from the Terminal? The system_profiler holds the value in newer versions, but I can't locate it in Lion.  Is it stored in some other file? 

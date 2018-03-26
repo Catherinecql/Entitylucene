@@ -1,0 +1,1 @@
+Deleting cache from macOS <body> Is this all data needed? Can I delete most of this temp data? It contains downloaded files and stuff. Like in case of XamarinInstaller it has files that can be deleted i guess. I have already installed xamarin studio   img src="https://i.stack.imgur.com/8XilY.png" alt="enter image description here" 

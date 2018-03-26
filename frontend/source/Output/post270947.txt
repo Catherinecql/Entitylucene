@@ -1,0 +1,1 @@
+Keep hourly backups for two weeks instead of one with Time Machine <body> How can I tweak Time Machine to keep the hourly backups for two weeks instead of just one?  <comment340600> Resume, my question is, I want to have a backup of every hour not for a week (standard configuration of time machine), but for two weeks. How can do it?

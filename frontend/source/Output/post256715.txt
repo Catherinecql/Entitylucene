@@ -1,0 +1,1 @@
+Can I print the space bar symbol? <body> Can I type the space bar symbol somehow?  It looks like a block shaped U with a very wide center area: ␣ 

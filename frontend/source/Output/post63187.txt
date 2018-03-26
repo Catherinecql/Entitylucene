@@ -1,0 +1,1 @@
+OS X 10.8 Mountain Lion Finder sidebar/Favorites: add MyComputer shortcut? <body> How can I add a shortcut to "MyComputer"/"This Mac" (container of all drives) to the Finder.app sidebar (section: "Favorites), please?  <answer63213> Under strongFinder's Preferences / Sidebar / Devices/strong check your computer's name.  

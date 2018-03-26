@@ -1,0 +1,1 @@
+Remove Dual Boot on 2014 MacBook Air <body> Suppose I install a dual boot with Ubuntu on my MacBook Air using rEFInd as boot manager. If I decide to remove Ubuntu, what is the process to remove the Ubuntu partition and give all the space back to macOS? 

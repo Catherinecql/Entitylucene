@@ -1,0 +1,1 @@
+Can I use Home Sharing with an iPod Nano 7th gen? <body> I'm considering buying an iPod Nano 7th generation, but I want to be very sure Home Sharing will work with my iMac (OS X El Capitan) with iTunes 12.5 before I purchase one.  Can you tell me if this will work?  <answer253302> The iPod nano 7th generation does not have Wi-Fi, so Home Sharing is not available. 

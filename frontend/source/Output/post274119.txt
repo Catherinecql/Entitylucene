@@ -1,0 +1,1 @@
+AppleScript to bring up application switcher (cmd+tab) and keep it up? <body> I'm using Karabiner, I want to set a key to bring up the osx application switcher and keep it up so it is navigatable with the arrow keys.  Is this possible with AppleScript? 

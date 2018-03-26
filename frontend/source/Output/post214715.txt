@@ -1,0 +1,1 @@
+How to enable desktop zoom with Mission Control <body> Is there a way to allow your desktop to zoom outward with Mission Control, as it did with Lion through Mavericks?  I have Yosemite pre-installed. I'd install Mountain Lion if I could. 

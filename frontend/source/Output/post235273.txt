@@ -1,0 +1,1 @@
+A suggestion for a Fortran IDE? <body> I just installed gfortran on my Mac OS X 10.8.5, and now I need an IDE in order to write and compile and run my fortran programs. I used to use Codeblocks in Ubuntu, but I prefer to ask for an optimal IDE for Mac OS X.  <answer235286> Looks like there is an Eclipse extension for Fortran, aptly called Photran. It should run fine on the Mac. 

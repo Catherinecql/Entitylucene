@@ -1,0 +1,1 @@
+How can I make Finder display correct 'today' date? <body> 'All my files' shows 'today' as three days ago - even though I've done all kinds of work since then.  Any fixes?  <answer226541> Is it possible the date field is the created date-rather than the modified date? If so, change the displayed properties to the modified date. 

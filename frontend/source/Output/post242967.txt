@@ -1,0 +1,1 @@
+Can't create hotspot using "Create Network..." <body> I want to create an access point using MacBook and investigate the traffic with Wireshark. But when I create it using "Create Network..." none of my devices such as an android phone see this access point in the list of all available WiFi networks. What am I doing wrong? The version of OS X is El Capitan.  

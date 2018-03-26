@@ -1,0 +1,1 @@
+Is there a way to stop downloading an app without restarting the iPhone? <body> Is there anyway to stop downloading an iphone app without restarting the phone?  <answer3936> You can pause the download while it's in the "loading" stage by tapping the app icon (tap again to resume), but I couldn't find a way to actually cancel the download. 

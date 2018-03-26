@@ -1,0 +1,1 @@
+Safari proxy extension with whitelist <body> I'm really used to feature of ProxySwitchOmega in Chrome which allows me to emwhitelist/em hostnames to be accessed via proxy by wildcard like code*.company.com/code. Is there any extension for Safari or app for Mac to do the same. Native proxy configuration only allows to emexclude/em some hosts, not eminclude/em specific ones 

@@ -1,0 +1,1 @@
+How to disable update alert in Safari Technology Preview? <body> This alert appears periodically and annoying, because I don't intend to install macOS Sierra upgrade. How to disable it? I can't find any preferences related to it.  img src="https://i.stack.imgur.com/Wx3gc.png" alt="enter image description here" 

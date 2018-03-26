@@ -1,0 +1,1 @@
+iTunes frozen on iPad running 8.4.1 <body> I was listening to the Pandora app on my iPad, and then pressed the iTunes icon to listen to something on iTunes instead.  A blank white notification window popped up, and it won't go away even when I paused Pandora.  Is there a way to restart iTunes on my iPad?   

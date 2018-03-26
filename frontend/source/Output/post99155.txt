@@ -1,0 +1,1 @@
+Adding line break within a cell on Excel. Control Option Enter doesn't work <body> How can I insert a line break within a cell on Excel.  Control Option Enter doesn't work.  <comment116560> Control+Alt+Enter works for me and the 20 other users in my network who use Excel 2011. I'll be anxious to find out why it doesn't work for you. <comment116564> How about shift-enter?

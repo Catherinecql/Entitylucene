@@ -1,0 +1,1 @@
+Time tracking app that uses WiFi rather than GPS to track my location <body> I'd like to automatically track my hours at work, but I don't want an app that turns on GPS all the time because it will use too much battery power.  An app that could detect when I am in my office WiFi zone would be great.  Preferably it would also let me add breaks, such as when eating lunch. 

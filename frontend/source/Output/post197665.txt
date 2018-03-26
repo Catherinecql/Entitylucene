@@ -1,0 +1,1 @@
+Why would Time Mac Machine delete the most recent backup after canceling a backup? <body> I recently plugged in my external hard drive, and opened up Time Machine.  I noticed that Time Machine had started backing up automatically, and so I cancelled the backup.  But then I noticed that the most recent backup disappeared.  Is there any way I can get this backup back? 

@@ -1,0 +1,1 @@
+Mail.app refuses to search after following instructions to rebuild <body> I followed the advice here, Mail search not finding messages but Spotlight does, but I'm still stuck with a Mail.app that won't find any results for anything.  My smart mailboxes broke a few months ago, then I found that no search works.  I'm using Mac 10.11.6 and Mail 9.3. 

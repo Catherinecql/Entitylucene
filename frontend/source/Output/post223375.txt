@@ -1,0 +1,1 @@
+Saving photos from Facebook on iPad <body> When saving photos on an iPad from Facebook, where do the photos get saved?  <answer223382> Photos you have saved to your iPad, from the Facebook app or mobile web site, save into your "Camera Roll" album if you have not enabled iCloud Photo Library, or into the "Photos" tab on iCloud Photo Library (accessible on all of your devices). 

@@ -1,0 +1,1 @@
+Show Outlook 2016 Calendar reminders in notification centre <body> Is it possible to show Calender events and reminders from an Office 365 account set up in Outlook 2016 under the macOS Notification Centre? I can't seem to find a way to add them here 

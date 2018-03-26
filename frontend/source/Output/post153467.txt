@@ -1,0 +1,1 @@
+Upgrade Freenas hard drive <body> I have been using Freenas with a 320 gb hard drive and would like to upgrade to 4tb.  How can I upgrade my Hard Drive?  I only have one hard drive.  I want to move everything from the 320 gb drive to the 4tb drive and have everything continue to function properly.    <comment180630> Do you use this with an iOS device or Mac OS computer?

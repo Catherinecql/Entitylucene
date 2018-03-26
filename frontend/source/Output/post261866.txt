@@ -1,0 +1,1 @@
+LImit size of incoming files and folders in Mac Mail <body> Sometimes someone sends a huge file that hangs up my Mail. Is there a way to limit the size of incoming emails? 

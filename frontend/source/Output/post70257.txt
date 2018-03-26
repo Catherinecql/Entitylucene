@@ -1,0 +1,1 @@
+Display Arrangement is empty in Lion <body> I have a problem with Lion (10.7.5) not able to see anything in Display Arrangement window when having Matrox DualHead2Go connected with two displays.   Resolutions are fine but not able use external displays as Arrangement window is empty! How to reset it, to get all in same window? What file stores/remembers display information id? 

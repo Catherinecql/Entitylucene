@@ -1,0 +1,1 @@
+Keyboard Character Repeat Rate in Mac Word <body> I'm running OSX El Capitan in my MacBook Pro and I adjusted the character repeat rate for a fast response and it's working fine.  However my Mac Word v.15.29.1 don't replicate the keyboard rate inside Word. It's extremely slow to type a text.  Do you know how to adjust this im Mac Word?  Tks, 

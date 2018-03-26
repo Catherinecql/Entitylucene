@@ -1,0 +1,1 @@
+Does Health.app intelligently count step from multiple sources? <body> I recently bought an external tracker to track various activity and I wonder, whether I should disable tracking on my iPhone?  E.g. let's say my tracker reports that I made 1000 steps and my iPhone reports that I made 850 steps within same period (carried both devices together). What will be the result score? 

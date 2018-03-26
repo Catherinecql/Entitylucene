@@ -1,0 +1,1 @@
+None Payment option not present <body> After creating an Apple ID in another location, I am forced to enter payment information in the iOS, Mac, and iTunes stores.  Even when trying to purchase a Free app, I am forced to enter payment information, and the strongNone/strong option is not present.  I am in the US. 

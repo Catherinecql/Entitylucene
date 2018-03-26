@@ -1,0 +1,1 @@
+Unknown birthday appeared on my calendar, cannot remove <body> A birthday just appeared on my iCal -- a name I do not know, no association to it.  I cannot remove it and there is an alert tag on the iCal icon at bottom of screen. Have I been hacked?  Any way to remove it? 

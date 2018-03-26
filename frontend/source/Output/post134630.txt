@@ -1,0 +1,1 @@
+App, Card Reader, Exportable information <body> I am trying to find an IPhone app where I can scan a business card and export the information into a CSV file format to a computer, Mac / PC. 

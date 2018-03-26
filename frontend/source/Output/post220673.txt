@@ -1,0 +1,1 @@
+How to write backtick in iPhone 6s? <body> As you know, backtick ( ` ) is needed to mark down the code blocks when writing any answer / comment in stackoverflow or any other stackexchange sites. But I am struggling to find out the key to write backtick when using my iPhone.   I am new to iPhone and using iPhone 6s. Thanks for your help in advance. 

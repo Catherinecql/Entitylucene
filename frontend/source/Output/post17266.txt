@@ -1,0 +1,1 @@
+Import and export bookmarks in Skim <body> How can I import my Skim bookmarks so that they can be restored on a clean installation of OS X?  <answer17272> They're stored in code~/Library/Preferences/net.sourceforge.skim-app.skim.bookmarks.plist/code. You should quit the application before restoring a copy of the plist. 

@@ -1,0 +1,1 @@
+If I export a Word document (authored as a versioned document using Pages 4.1 on Lion),... <body> will it open on Word on Windows?  I don't have a Word on Windows and I've only Pages on my Mac.  <answer19338> The short answer is simply: yes, it will. 

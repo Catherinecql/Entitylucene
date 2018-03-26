@@ -1,0 +1,1 @@
+How do I stop alerts from shared calendars in Calendar? (Checking "Ignore" doesn't work.) <body> I've checked the "Ignore Alarms" box, and I STILL get my wife's alerts. Any ideas about that? (Using Mountain Lion on my MacBook Air. Same thing happened with OSX Lion.) 

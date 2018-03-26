@@ -1,0 +1,1 @@
+How do I change the default suggested saved Safari password for a website? <body> I have a couple of different logins for the same site. Safari allows autofills the one I use the least. I have to click on the field and find the one I want from the list. How do I change which one it suggests by default? 

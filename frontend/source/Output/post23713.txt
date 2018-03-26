@@ -1,0 +1,1 @@
+How do I figure out if my OS is Mac OS X 32 bit or 64 bit? <body> I am using a Mac for the first time and need to install Eclipse. How do I know if I am on a 32 bit or 64 bit computer? I am on a MacBook Pro.  <comment36209> Related: [How to check whether my Intel-based Mac is 32-bit or 64-bit](http://apple.stackexchange.com/q/12666/5077)

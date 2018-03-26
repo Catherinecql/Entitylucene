@@ -1,0 +1,1 @@
+How to uninstall neo4j completely from mac os <body> How to uninstall Neo4j completely from Mac including the data it stored in database.  <comment333607> How did you install it in the first place? <comment333825> Normal installation (*.dmg).

@@ -1,0 +1,1 @@
+Ubuntu won't boot on PowerMac G5 <body> I have managed to install Ubuntu onto my PowerMac G5 by changing the graphics card, but it will not start up again unless I use the cd. Any suggestion on how to make Ubuntu boot without the CD?  <comment341287> You need to make a persistent installation, not just a "Live" install. <comment341288> https://wiki.ubuntu.com/PowerPCFAQ

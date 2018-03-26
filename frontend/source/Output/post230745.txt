@@ -1,0 +1,1 @@
+Mac Mail.app ordering IMAP folder descending <body> I'm using Mail.app on my Macbook (OS X El Capitan), but the folders (IMAP) are displaying from Z to A (descending) instead of from A to Z (ascending). Is this a setting? How can I turn this around?  In the webmail or Google Gmail app on iPhone it's displayed properly. 

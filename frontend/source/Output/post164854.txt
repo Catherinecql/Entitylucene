@@ -1,0 +1,1 @@
+Get BitTorrent Sync iOS app to sync all of the images from a "burst mode" photo set? <body> Is there any way to get strongBitTorrent Sync/strong iOS app strongCamera Backup/strong feature to sync all of the images from a emstrongburst mode/strong/em photo set? By default it appears to only sync the individual image that iOS selected. 

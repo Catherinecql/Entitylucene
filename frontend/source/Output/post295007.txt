@@ -1,0 +1,1 @@
+macOS Sierra: Safari dialog opens with no buttons <body> Whenever I open safari, this alert opens with no buttons. The only way to close it is to force quit safari. How can I fix this?  img src="https://i.stack.imgur.com/oExBI.png" alt="Photo"  MacOS 10.12.4 MacBook Air 2013 

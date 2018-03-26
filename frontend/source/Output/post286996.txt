@@ -1,0 +1,1 @@
+How to go to the position of spotlight's result? <body> I use the kbdControl/kbd+kbdSpace/kbd to search a file, you see the below image, but how can I go to the file's position?  img src="https://i.stack.imgur.com/su6O2.jpg" alt="enter image description here"  <answer286998> Command-enter should do the trick 

@@ -1,0 +1,1 @@
+Progress bar at top is now gone in new itunes <body> I used to see the progress bar (for time left) when I loaded an audiobook, but now it doesn't show up.  Where did it go? 

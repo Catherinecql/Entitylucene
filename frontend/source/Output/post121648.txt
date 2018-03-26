@@ -1,0 +1,1 @@
+Mobile Hotspot not found <body> why does my macbook wifi not recognize my att mobile hot spot on first try?  Sometimes I need to turn wifi on and off several times before if finds the hotspot when scanning for it.  <comment141839> move it up in your wifi list

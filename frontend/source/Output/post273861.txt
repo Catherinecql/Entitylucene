@@ -1,0 +1,1 @@
+Utilities menu not working in Recovery Mode. How to enable it? <body> I'm trying to disable SIP in EL Capitan. But in Recovery Mode the Utilities dropdown is not working. Here is the video Utilities dropdown not working. How do I enable itP 

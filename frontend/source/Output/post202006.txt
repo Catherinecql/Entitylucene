@@ -1,0 +1,1 @@
+Stop Song repeating itself <body> When I go to play songs on my i phone, the same song just repeats and repeats. How can I stop this and get it play a whole playlist or album?  <answer202009> Tap the album art. The repeat button is the one furthest to the left (looks like two arrows in an oval). Tap it until it is not coloured 

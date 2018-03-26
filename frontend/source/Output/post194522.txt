@@ -1,0 +1,1 @@
+How can I disable music videos in Apple Music in iTunes? <body> Music videos are autoplayed if they are part of an album. Which is kind of annoying because iTunes puts itself into fullscreen mode when they are played.   Is it possible to disable auto play of music videos? 

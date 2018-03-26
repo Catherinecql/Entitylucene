@@ -1,0 +1,1 @@
+When does Photos sync to iCloud? <body> Does Apple Photos need to be open to sync to iCloud?  My codePhotos.app/code has been "uploading 387" for five days now. I've left my Macbook on 24/7 to give it time to sync, sometimes with codePhotos.app/code open, and others with it close. Either way, there seems to be no progress. 

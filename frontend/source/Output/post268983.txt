@@ -1,0 +1,1 @@
+installed itunes 12 on Windows 7, sync'd iPhone6, and playlists on Windows iTunes are missing <body> I uninstalled iTunes from my Windows 7. I re-installed it.  It syncs with my iphone6 ok, but my playlists on the iPhone are not on iTunes on Windows. I followed support.apple.com instructions and copied old .itl to iTunes Library.itl but still no Playlists on Windows. 

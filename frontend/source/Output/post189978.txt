@@ -1,0 +1,1 @@
+Order of contacts in iOS multitasking menu <body> In the iOS multitask menu, I have it set to display recent contacts. Are they displayed in the order of the time of contact or are the sorted by frequency of contact?  Also, occasionally a recent contact does not show up? How is that possible? 

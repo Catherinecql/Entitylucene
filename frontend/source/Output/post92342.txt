@@ -1,0 +1,1 @@
+Highlight entry on page after visiting site on safari <body> On a search page in Safari 6.0.4 how can I have the entry highlighted after having visited that site?  This saves unnecessary going back into that page. 

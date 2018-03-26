@@ -1,0 +1,1 @@
+Is there The Way to get into Single User Mode w/o rebooting? <body> Like with old-days-UNIX when you can just send a command to codeinit/code and you're staring at black text screen with shell for your own use. ;)  <answer232346> You could in early releases of OS X. I believe the last release was OS X 10.2.  

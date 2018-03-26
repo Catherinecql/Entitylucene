@@ -1,0 +1,1 @@
+Windows 7 on latest 2017 MacBook Pros? <body> Is it possible to get Windows 7 on the latest 2017 MacBook Pros via Bootcamp?  <answer296360> Nope, the new MacBooks only support Windows 10. You emmay/em be able to install Windows 10 and then install Windows 7 over top but it is unsupported and you may not be able to find drivers for it. Not recommended. 

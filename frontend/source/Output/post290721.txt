@@ -1,0 +1,1 @@
+How to show list view event icon on the calendar? <body> How can I have list view icon (3 dots with 3 lines) on the calendar and I have updated IOS 10.  <comment367001> Tap 'Today', bottom left (in vertical view)

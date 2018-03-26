@@ -1,0 +1,1 @@
+No notification of receiving call whilst on a call <body> While on a call, any other calls do not come in. After the end of the first call, I do not get any notification that I have missed a call. I have turned off call waiting but this has not helped.  <answer277329> This is something your carrier must support. Contact your carrier. 

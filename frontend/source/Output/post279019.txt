@@ -1,0 +1,1 @@
+Run script when a USB keyboard has been plugged in <body> I'd like to a script to be run when I plug in my USB keyboard. Is this possible? 

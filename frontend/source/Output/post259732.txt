@@ -1,0 +1,1 @@
+No notification sounds when bluetooth is paired <body> Iphone 7 plus, right out of the box. Attached to my bluetooth headset. Calls and music play fine, but no notification sounds come in.  Is this related to the fact that my device uses the A2DP bluetooth profile? 

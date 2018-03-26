@@ -1,0 +1,1 @@
+Overlaying Air SDK on Flex SDK using Homebrew <body> I want to overlay AIR SDK on Flex SDK using Homebrew, so that I can have a fast install, update, etc.  Is there any way to achieve this? I haven't found a repo which contains Air SDK on Flex SDK. 

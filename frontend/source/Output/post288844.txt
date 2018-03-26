@@ -1,0 +1,1 @@
+Are password-protected notes encrypted? <body> I can't find anything about encryption on Apple's sites, but are password-protected notes using E2E encryption?  <answer288884> Secure Notes are encrypted with Triple DES, and are kept in the device keychain.  

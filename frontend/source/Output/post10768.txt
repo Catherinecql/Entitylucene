@@ -1,0 +1,1 @@
+iPad in corporate environment <body> Company portal has Windows authentication with SSO.  But iPad is not domain member, so ask password on every SSO company site.  Is there a way to setup iPad for domain authentication ?   <answer10771> No, it isn't possible. That would require an OS that supports username/password authentication, which iOS doesn't do. 

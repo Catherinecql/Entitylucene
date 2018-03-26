@@ -1,0 +1,1 @@
+Itunes will not allow editing in song info <body> I have a new HP with Windows 10.  Running the latest I tunes.  Problem editing Info on any songs.   Security shows allow permission on all checks but read only cannot be unchecked.  Is Windows 10 the problem here because I did not have this issue on an older computer Windows 7 that crashed  

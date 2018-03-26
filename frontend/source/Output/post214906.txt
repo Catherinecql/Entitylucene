@@ -1,0 +1,1 @@
+How to sort notes with Notes.app on El Capitan <body> In the previous versions of Notes.app there was a possibility to sort the notes, either by creation dates or by 'last updated' dates.  I can't do that with El Cap, that's a bit annoying, I want my very old notes to stay at the bottom of the list even if I update them. 

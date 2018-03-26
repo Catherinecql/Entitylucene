@@ -1,0 +1,1 @@
+De-partitioning a MacBook Pro <body> The hard drive on my wife's MacBook Pro  is partitioned between Mac operating system and Windows. She wants to "departition" it, to remove the Windows OS. How does she do that?  <comment364104> Apple's instructions are easily found: https://support.apple.com/kb/PH25916?viewlocale=en_US&locale=en_US

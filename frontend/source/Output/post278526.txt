@@ -1,0 +1,1 @@
+How can I get the Chicago font to be pixelated? <body> I have the Mac OS 8 Chicago font, but I want to know how to make it pixelated, like in Mac OS 8. I need this because I am making a simulator for iOS.  <comment350512> [Tool to create a bitmap font from a true type font](http://gamedev.stackexchange.com/questions/2717/tool-to-create-a-bitmap-font-from-a-true-type-font)

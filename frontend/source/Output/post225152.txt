@@ -1,0 +1,1 @@
+How to purge all Xcode temporary data? <body> Is there a tool or method to purge all unnecessary Xcode temporary data? Xcode seems to be creating files each time you build an app or run it with the simulator. I'm not sure what I can delete safely. 

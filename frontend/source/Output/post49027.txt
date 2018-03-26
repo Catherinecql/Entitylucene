@@ -1,0 +1,1 @@
+How can I change the iTunes U folder on Mac? <body> I want save all files from strongiTunes U/strong in a device. How can I change the destination folder only for strongiTunes U/strong and continue using the actual folder for all other files?  <answer73841> I made a symbolic link.  precode    ln -s /path/to/iTunes U/content /path/to/where/iTunes/is/looking /code/pre 

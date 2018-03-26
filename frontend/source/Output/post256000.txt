@@ -1,0 +1,1 @@
+How can I copy the address from a Calendar appointment into Uber? <body> Uber wants the full address now. Used to be I could long press the address and select copy in Calendar, but I think that was in iOS 8. Now, it takes me to the map if I click, or it copies some weird strange long thing if I long press and copy.  

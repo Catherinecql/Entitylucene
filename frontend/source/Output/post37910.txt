@@ -1,0 +1,1 @@
+How to disable "new network interfaces have been detected" prompt on Mac OS X Lion? <body> I get this uber annoying prompt every single time I plug my Macbook Air into my Thunderbolt display. Does anyone please know of a way to disable this?  Thanks a lot!  <answer37912> Go to System Preferences/Network and accept said interface as you own. 

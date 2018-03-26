@@ -1,0 +1,1 @@
+Migration assistant cannot find optibay drive <body> I just installed my new SSD and I put my old one in my optidrive. I tried using migration assistant to transfer my data from my old HD, but it isn't detecting it.  

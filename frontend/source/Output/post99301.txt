@@ -1,0 +1,1 @@
+iPhone field test instructions <body>    "Access the iPhone’s Field Test mode by typing code3001#12345#/code in the phone’s keypad and press dial. This will bring up the Field Test menu."   Doesn't work for me.  <answer99302> The correct code is  precode*3001#12345#* /code/pre  (note the asterisks at the beginning and end). 

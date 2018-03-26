@@ -1,0 +1,1 @@
+Don't autoplay songs while importing them into iTunes <body> If I start importing songs into iTunes, randomly it will start playing those songs and there's no way to stop it.  Why? How can I stop it? 

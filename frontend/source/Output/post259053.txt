@@ -1,0 +1,1 @@
+How to make this item disappear in the privacy menu? <body> I used to use evernote before. After I delete it, it still appears in my privacy location service menu. Is there any way to remove it? Thanks  img src="https://i.stack.imgur.com/vUoCd.png" alt="enter image description here" 

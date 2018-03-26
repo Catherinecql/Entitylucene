@@ -1,0 +1,1 @@
+Will I receive texts after turning send as SMS off? <body> I want to use Viber for my calls and text messages so I turned off send as SMS. Do I still receive texts?   <answer47301> strongSend as SMS/strong only prevent sending an SMS as a fallback if iMessage fails.  You will still be able to receive and send SMS. 

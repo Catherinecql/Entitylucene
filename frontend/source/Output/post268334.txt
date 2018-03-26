@@ -1,0 +1,1 @@
+How to remove multiple domain user profiles saved in Yosemite? <body> I've 50+ iMacs in the Mac Lab and all are joined to the domain. These iMacs are getting very slow as students saving their multimedia audio video assignments. I need to remove all the student profiles or all the documents saved on the desktop and documents folders of all profiles. 

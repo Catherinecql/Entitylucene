@@ -1,0 +1,1 @@
+Second alert in iOS calendar does not work <body> I create a new event in calendar, set first alert to 1 hour before, 2nd alert to 2 hours before. Save.  When I go back to that event, it has first alert set at the time of the event and second alert to 1 hour before.  Anybody has any suggestions? I'm using iOS 10.2.1 on iPhone 6+ 

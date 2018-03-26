@@ -1,0 +1,1 @@
+Determine kernel extension used to handle a USB device <body> I have an RGB keyboard. Is there a way to determine which kernel extension is used with it? MacOS handles the keyboard somehow without any additional drivers. Even lights are working. I would like to know what part of the kernel or what kernel extension does this. 

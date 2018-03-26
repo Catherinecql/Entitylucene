@@ -1,0 +1,1 @@
+What are the use cases for case sensitive HFSX as opposed to default HFS+? <body> I just want to know when it does make sense to use HFSX instead of HFS+?  HFS+ is the default partition type. 

@@ -1,0 +1,1 @@
+Reaver : [-] Failed to retrieve a MAC address for interface 'mon0'! <body> I am using OS X 10.10.4 and when I run codereaver -i mon0 -b XX:XX:XX:XX:XX:XX -vv/code I get the following error  code[-] Failed to retrieve a MAC address for interface 'mon0'!/code 

@@ -1,0 +1,1 @@
+Is there a keyboard shortcut for minimizing Mac OS X windows? <body> Is there a (hidden) keyboard shortcut for minimizing the frontmost window (that works in most apps)?  <answer9896> kbd⌘/kbd+kbdM/kbd works in most applications.  <comment10357> And it's not hidden either. <comment10362> Oops.  You're right.  It's right there as the first item in the Window menu.

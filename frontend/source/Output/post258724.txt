@@ -1,0 +1,1 @@
+Upgrade to macOS Sierra <body> Will my data on the Macbook Pro be destroyed if I upgrade to macOS Sierra from OS X El Capitan?  <answer258726> No, it will not be destroyed. It will only update the operating system and leave your data untouched.   <comment323519> Provided it goes well. It's always a good idea to have a backup of your files before upgrading anything.

@@ -1,0 +1,1 @@
+Yosemite SUS not downloading 10.10.1 <body> We are running a Yosemite SUS in our company and have to set to automatically retrieve the latest updates from Apple but 10.10.1 can not be seen anywhere in there.   Anyone have this issue as well? 

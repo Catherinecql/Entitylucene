@@ -1,0 +1,1 @@
+OS X Snow Leopard doesn't seem to have a way for me to change the input sources <body> From the tutorial from here - codeSystem Prefs -&gt; Language &amp; Text, and select the “Input Sources”/code tab but I don't seem to have the "Input Sources" tab - any ideas why?  <comment371861> Have you got an additional device plugged in?

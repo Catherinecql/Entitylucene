@@ -1,0 +1,1 @@
+Remove background blur effect on Yosemite login screen <body> Does anyone know how to disable blurring of the log in screen background images? I know it's a long shot, but I really miss being able to see my pretty background images :( 

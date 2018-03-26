@@ -1,0 +1,1 @@
+What is the conventional location to install binary executables? <body> I would like to install a binary executable so that all users can run it from the terminal. Where should I put it?  <answer13961> code/usr/local/bin//code. It may already be in your path. 

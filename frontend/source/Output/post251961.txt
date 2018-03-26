@@ -1,0 +1,1 @@
+iTunes authorisation repeated error <body> Whenever I authorise my pc ,it says authorised but when I try to sync an app in my iPad through iTunes it say pc not authorised. I am running windows 10 on my PC,I have already tried many methods but the problem couldn't be resolved.  <comment313338> Can you please add screenshots of the error message and the methods you've tried?

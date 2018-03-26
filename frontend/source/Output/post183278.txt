@@ -1,0 +1,1 @@
+Thawte SSL certificate issues after security update 2015-004 <body> After upgrading my Mac to Security update 2015-004 I started experiencing issues on website that use Thawte SSL certificate and with mandrillapp SMTP which as well use Thawte certificate.  I'm running up to date OS X Mavericks 10.9.5  img src="https://i.stack.imgur.com/R5vFM.png" alt="" 

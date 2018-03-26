@@ -1,0 +1,1 @@
+Xcode 7 update from app store failing on MobileDevice.pkg <body> Fixed. Corrupted system files.  <comment248661> Fixed it. Thanks to this post http://apple.stackexchange.com/questions/93542/cant-install-xcode-issue-with-mobiledevice-pkg <comment248663> Ah, that's good to hear!

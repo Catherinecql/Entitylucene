@@ -1,0 +1,1 @@
+After I log in with main password, asking me for "other" name and password <body> I am selling my Macbook Air early 2014 El Capitan OSX, and I was trying to remove my info-when I start up, it shows my name as always, I log in, but now it's showing a silhouette with the name "Other" and wants a Name and Password. What is it looking for? I can't log in at all now.  

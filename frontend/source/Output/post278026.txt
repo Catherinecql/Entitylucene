@@ -1,0 +1,1 @@
+Can we change the display in a FACES folder? <body> Within a Faces folder, the photos are displayed by date with dates cascading vertically. Is there a way to change that so all pictures in a Faces folder are shown in a simple display without cascading or being segregated by date? When a FACES folder has scores of photos over many years, a search can be a time wasting issue.  

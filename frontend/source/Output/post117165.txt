@@ -1,0 +1,1 @@
+OS X Mavericks Mail & iMessages notifications not working <body> After upgrading to OS X Mavericks, Mail notifications appear a few minutes after getting the mail (including sound) and iMessages application does not receive push notifications and closes if not used for a few minutes.  iCloud is properly configured in the system settings, is there anything I can do to fix it? 

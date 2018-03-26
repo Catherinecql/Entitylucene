@@ -1,0 +1,1 @@
+Can I make a dynamic wallpaper? <body> I'd love to make my own dynamic wallpaper.  Has anybody investigated their format, and if there is a way of making one?  <answer103004> https://github.com/hamzasood/AnimatedWallpaperTest  This is a sample project showing how to make something like a dynamic background but I think you need to jailbreak your phone to make use of it. 

@@ -1,0 +1,1 @@
+How to get OSX Notification Center messages pushed to iPhone? <body> Is there a way for all or select Mac OSX Notifation Center entries to be pushed to an iOS device?  <comment168434> As far as i know, It isn't possible to natively push OS X Notifications to iPhone.

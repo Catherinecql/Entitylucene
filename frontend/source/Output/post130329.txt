@@ -1,0 +1,1 @@
+What version of iOS is my iPhone capable of running? <body> I currently have iOS 6.1.6 on an iPhone 3GS. What is that the highest, emsupported/em version of iOS my iPhone is capable of running?  <answer130337> iOS 6.1.6 is the highest supported iOS version you can install on an iPhone 3GS.  Here is a handy iOS compatibility chart for iPhones (and other iOS devices). 

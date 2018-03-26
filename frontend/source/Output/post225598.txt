@@ -1,0 +1,1 @@
+Can't generate promo codes <body> My app has just passed the review process and now its status is "Pending Developer Release" My problem is that in the promo code section, the button to generate codes is grayed out, I can't click on it even if I enter a number to generate. 

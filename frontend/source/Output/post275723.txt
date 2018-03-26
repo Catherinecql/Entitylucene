@@ -1,0 +1,1 @@
+elmx preventing trash deletion <body> Trying to delete unwanted emails, many from subscribed posts, such as WIRED, I receive this dialogue box:  “834005.emlx” couldn’t be copied to “Messages” because an item with the same name already exists.  What does this mean and how to get around it and delete my trash? 

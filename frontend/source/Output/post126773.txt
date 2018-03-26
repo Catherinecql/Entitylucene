@@ -1,0 +1,1 @@
+How can I tell programmatically whether a process is in app-nap? <body> I'm looking for a script, built-in shell command, or program (with sources) that can tell me whether a process is in App-nap mode or not.  I want to use it in automated testing, for profiling and to make sure my App uses all available energy conservation technology correctly. 

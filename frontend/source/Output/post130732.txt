@@ -1,0 +1,1 @@
+Is there a way to send a remote lock/unlock message to an iOS device with Cydia? <body> I want to be able to trigger my iphone to unlock from a webserver. Is there a way to send a command over LAN to it to unlock using Cydia?  <answer143058> The only way I can think of doing this is by downloading Veency and a program that supports it, eg. VNC viewer 

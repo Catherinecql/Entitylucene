@@ -1,0 +1,1 @@
+External screen portrait resolution issue <body> When I change the external screen resolution to Portrait mode it shows up like this. I have tried all the rotation possibilities and everything. Is there a fix to this? I have seen other screens set to portrait and they just work.   img src="https://i.stack.imgur.com/QhgaO.png" alt="Portrait mode" 

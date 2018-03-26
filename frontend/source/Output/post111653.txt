@@ -1,0 +1,1 @@
+Sync iOS7 device to PPC OSX 10.5.8? <body> Can an iOS 7 device (iPad 2 for instance) be synchronized with a PPC Mac with OSX 10.5.8 and the latest iTunes for it, which I believe is iTunes 10.6.3?  <answer113394> No, because iOS 7 requires iTunes version 11 for syncing media (and firmware updates). 

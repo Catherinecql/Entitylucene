@@ -1,0 +1,1 @@
+How to disable terminal colors for certain CLIs? <body> I don't want codevim/code to be affected by my terminal's color scheme.  Is there a way to do this? 

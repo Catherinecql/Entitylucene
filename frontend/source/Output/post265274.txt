@@ -1,0 +1,1 @@
+Move Stickies Database in macOS Sierra? <body> Does anyone know how to copy your Stickies between computers when the target computer is running macOS Sierra?  Articles I've seen say you only need to copy the file ~/Library/StickiesDatabase from your old computer to your new one but I did that but my Stickies aren't appearing on the new computer, even after I restart it. 

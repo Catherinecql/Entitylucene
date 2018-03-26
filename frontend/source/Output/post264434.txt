@@ -1,0 +1,1 @@
+How to update application screenshots without uploading new build? <body> How can I update screenshots (namely add iPad screenshots) without updating the application description or build?  <comment331429> You need to make an update before you can update/add/edit screenshots or metadata. Cannot be done without an update.

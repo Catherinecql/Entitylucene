@@ -1,0 +1,1 @@
+Microsoft PowerPoint for Mac 15.12.3 <body> Does the Microsoft PowerPoint 15.12.3 have a trigger feature?  And the Selection Pane?  <comment283095> Triggers, no. [There is an open feature request](https://powerpoint.uservoice.com/forums/288925-powerpoint-for-mac/suggestions/7483900-animation-triggers-for-mac-powerpoint) asking for it.

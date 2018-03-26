@@ -1,0 +1,1 @@
+Open serial bluetooth connection after connecting to device through settings <body> I'm working on an app that needs to connect to a bluetooth module and communicate with it using a serial port connection.  I want to connect to the bluetooth module via the settings app, and then open a serial port connection in my app.  Which bluetooth module should I use, and what framework? 

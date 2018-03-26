@@ -1,0 +1,1 @@
+QuickTime: reducing opacity of non selected area <body> When making a QuickTime screencast and only choosing to record part of the screen. The rest of the screen get very dark. Probably 80 to 90% opacity.  Is it possible to reduce that to 10% opacity so I can see better what is going on within the non selected area? 

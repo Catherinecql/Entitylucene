@@ -1,0 +1,1 @@
+Disable trimming of song endings in IOS Music app <body> I have an album from a concert where all songs transfer into each other when played consequently. And it plays well in iTunes on macOS. However on the standard iOS 10 Music app the transitions are not fluid as if the last second of each song is ignored. Can this be fixed somehow through settings? 

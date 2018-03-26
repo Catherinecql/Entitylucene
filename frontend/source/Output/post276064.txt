@@ -1,0 +1,1 @@
+Store infrequently used files on external HDD <body> Is there a utility that enables storing infrequently accessed files from a Mac on an external hard drive to free up disk space similar to the feature that moves such files to iCloud? I would like something other than Time Machine and iCloud to automatically free up disk space to an external HDD. 

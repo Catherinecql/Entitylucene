@@ -1,0 +1,1 @@
+How to change hotkeys bindings for chrome on macOSX? <body> In chrome, I would like to change the hotkey to go to previous / current tab. I am on Mac OS X 10.8.  I tried the extension shortcut manager, but I couldn't make it work. I can use another extension, or a scripting tool (like autohotkey, but for mac...) if needed. 

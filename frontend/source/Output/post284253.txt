@@ -1,0 +1,1 @@
+Force an App to Nap <body> I'm on macOS 10.12.1 on a hackintosh/iMac.  Is there a way I can force apps to nap? For example, Excel 2011 naps automatically but Excel 2016 does not nap even though it is hidden (CMD+H) and not in use. It seems most apps on my computer do not nap. It would nice to be able to force apps to nap. 

@@ -1,0 +1,1 @@
+Keyboard Shortcuts Phrases <body> Just for my curiosity and knowledge, does the Cloud push the "keyboard shortcuts phrases" between the iOS and OS X devices?  Thank you so much and have a wonderful day.  <answer198143> Yes, if you have "Documents &amp; Data" checked on iCloud preferences on OS X (since 10.9). 

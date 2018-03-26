@@ -1,0 +1,1 @@
+Why does "Guest User" appear in Swedish? <body> I've enabled fast user switching in my menu. When I switch to my guest account it shows the full name "Guest User" in Swedish, but my computer is all setup for English.  img src="https://i.stack.imgur.com/YZPl6.png" alt="enter image description here" 

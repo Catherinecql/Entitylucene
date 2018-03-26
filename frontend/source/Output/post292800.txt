@@ -1,0 +1,1 @@
+Is the Radeon Pro 500 series (from the new iMac) CUDA compatible? <body> According to the prerequisites of CUDA, the Mac should have a CUDA compatible GPU installed.  Does the Radeon Pro 500 series from the new iMac confirm to this requirement?  The main objective is to run deep learning Python codes and I am hoping whether a Mac would be suitable. 

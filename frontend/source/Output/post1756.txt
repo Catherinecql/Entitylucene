@@ -1,0 +1,1 @@
+What does the square button in FastEver do? <body> It seems to insert a square. Considering that it only has 3 buttons it seems like it should do something more?  <answer1757> The square is an unchecked checkbox, useful for making to do lists. 

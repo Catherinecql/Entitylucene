@@ -1,0 +1,1 @@
+Accept invites on different calender <body> I have a few calendars in iCloud and gmail.  Sadly when I receive a calender invite to my gmail address iCal always puts the invite into my iCloud calendar.   I have iOS 9, and El Capitan. Fantastical 2 and calenda app.   Any suggestions to save invites into the right calendar?  Thank you 

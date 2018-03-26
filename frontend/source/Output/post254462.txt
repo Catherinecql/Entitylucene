@@ -1,0 +1,1 @@
+Using shortcuts in Mac for debugging <body> I read the following doc and when I use for example the kbdF10/kbd for stepping to the next line /function it doesn't work. When I use the kbdctrl/kbd+kbd'/kbd this is working but I want to use the F-button. Is there a way to configure it that the F-buttons will work in debugging like in Windows? 

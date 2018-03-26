@@ -1,0 +1,1 @@
+Printer Presets Recovery - Yosemite OS <body> I've lost my printer presets which seems to be as a result of me turning my firewall on. My epson printer is no longer available in the printer list so I've had to add it again but my custom print settings have been lost :(  Does anyone know where they're stored in yosemite so that I can retrieve them via Time machine? 

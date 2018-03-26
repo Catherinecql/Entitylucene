@@ -1,0 +1,1 @@
+How do I flip a live-stream upside down on my macbook? <body> I'd like to transmit an upside-down live stream from my macbook. Can I reconfigure the camera somehow to do an 180 on the video in real time?  hr  Alternatively, is there a live streaming tool I can use which will do this for me? 

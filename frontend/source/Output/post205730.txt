@@ -1,0 +1,1 @@
+Get Dragon Dictate to move cursor to The end of the current line? <body> How do I get Dragon Dictate to move to the end of the line after correcting something on the Mac?  <answer206635> Move forwards [n] words or "go back"  <comment249090> You can also say "press the key combo command right arrow"

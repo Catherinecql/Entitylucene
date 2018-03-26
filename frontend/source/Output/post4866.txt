@@ -1,0 +1,1 @@
+Using select.kqueue() to tell when file is modified in python? <body> How can I use codeselect.kqueue()/code to find out when a file in a folder has been modified?  <answer4867> Found this: https://github.com/gorakhargosh/watchdog that seems to be working like a charm!  <comment4899> stackoverflow ?

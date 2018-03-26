@@ -1,0 +1,1 @@
+How do I show the hard drive on the desktop <body> My hard drive used to display on the desktop. It's gone missing, how do I get it back?  <answer4552> Go into Finder, then go to the menu bar and click Finder - Preferences. Select the "General" tab and check "Hard disks" under "Show these items on the desktop":  img src="https://i.stack.imgur.com/ZTLay.png" alt="alt text" 

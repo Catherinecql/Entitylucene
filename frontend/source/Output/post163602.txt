@@ -1,0 +1,1 @@
+Bluetooth Bose soundlink mini always connected <body> I am using a Bose soundlink mini on an 2013 Imac to improve the sound. I would like it to be always on and connected but the connection is lost at some point, when idle or standby i guess. Any ideas? 

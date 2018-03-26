@@ -1,0 +1,1 @@
+All fingerprints erased <body> This morning, I woke up, opened my MacBook Pro 2016 13" w/ TouchID, and all the fingerprints were erased. Nothing should have caused this, and nobody else knows the password to my account. What causes this?  Running macOS Sierra 10.12.4 (16E195)  It did NOT update software or anything outside of the usual last night, it didn't even reboot. 

@@ -1,0 +1,1 @@
+Xcode doesn't show in the Services section of macOS Server <body> I have the latest Xcode beta and macOS Server beta installed.  <comment372364> What do the release notes for the build of server you have installed say?

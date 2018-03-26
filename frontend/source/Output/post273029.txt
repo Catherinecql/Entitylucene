@@ -1,0 +1,1 @@
+Changing Contact template default for phone# - iPhone SE <body> When i create a new contact and go to insert a phone number the default category for this is "Home fax"! How can i change this default so that the category that appears first is "Mobile" ? IOS 10.2.1 

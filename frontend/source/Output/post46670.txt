@@ -1,0 +1,1 @@
+How to make unixodbc default instead of iODBC? <body> For some reason, one Rails app I'm trying to ruin is trying to use iODBC instead of unixodbc installed through Homebrew. Is there something I could do to switch my default ODBC driver to unixodbc? I'm on Lion 10.7.3. 

@@ -1,0 +1,1 @@
+Terminal for communicating with Bluetooth 4 serial devices? <body> Does anyone know if there's a terminal of some sort that could communicate with BLE serial devices?  The closest thing I know is codeblueutil/code, but I believe it's only designed for Bluetooth 2.x.  Thanks 

@@ -1,0 +1,1 @@
+Optical USB Microsoft mouse stops responding after computer wakes up <body> I am using Lion, and the usb optical mouse works fine until the computer sleeps. Then when it wakes up, the mouse no longer tracks. The buttons still work, right clicking brings up a context menu, but the mouse itself won't move until I unplug and replug the usb connection.  Any thoughts? 

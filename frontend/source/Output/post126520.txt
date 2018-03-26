@@ -1,0 +1,1 @@
+set wallpaper folder for all displays <body> Each month I create a new folder like code2014-apr/code with new wallpapers for this month. But it is a tedious work to change the wallpaper folder for each display.  Is there a way to set this folder for all desktops at once? 

@@ -1,0 +1,1 @@
+Open folder from terminal using Forklift <body> I'm often opening a folder from the terminal in Finder using codeopen ./code or codeopen ./thisfolder/code.   I just switched from Finder to Forklift, set it as default file viewer via codedefaults write -g NSFileViewer -string com.binarynights.ForkLift-3/code but folders still open in Finder.  How can I change that? 

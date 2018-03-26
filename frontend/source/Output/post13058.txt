@@ -1,0 +1,1 @@
+Color Picker for OS X <body> Is there any app for mac which I use to know the RBG value of the point where my mouse is right now?  <answer13061> Absolutely. Check out the emDigitalColor Meter/em tool in your emUtilities/em folder. It does exactly what you want. 

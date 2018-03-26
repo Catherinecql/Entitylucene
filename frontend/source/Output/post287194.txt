@@ -1,0 +1,1 @@
+Detect USB thumb flash drive insertions? <body> Is there a way to get a list of recent times when a USB thumb flash drive was inserted? I'm using Sierra. Thanks  <answer287196> Well, that was easy.  precodelog show | grep ": mounted " /code/pre 

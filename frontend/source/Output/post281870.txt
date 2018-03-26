@@ -1,0 +1,1 @@
+iphone 5S 16Gb iOS 10.3 re-booting after sleep <body> My iPhone 5S reboots every time it comes back from sleep (pressing on/off switch). I have tried removing apps etc., but it still happens every time. Once switched on it operates correctly without crashes.  I cannot find any solution online to this problem.  Does anyone have any suggestions? 

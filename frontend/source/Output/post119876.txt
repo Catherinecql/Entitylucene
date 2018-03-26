@@ -1,0 +1,1 @@
+Possible to increase the RAM on a MacBook Air? <body> I have a 13" MacbookAir with 4GB of RAM and I was interested in adding some more RAM.  I have heard some people say that this cannot be done on the Air.  Is it possible to add more RAM to a MacBook Air?    <answer119877> No, the RAM is soldered onto the motherboard to save space. 

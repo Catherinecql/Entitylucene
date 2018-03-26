@@ -1,0 +1,1 @@
+iOS: delete word / all (simulate option+delete, command+delete on Mac) <body> Is there a way to delete word / all on iOS? On Mac it will be option + delete / command + delete.   If it is not possible natively, are there any keyboards with this functionality?  

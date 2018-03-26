@@ -1,0 +1,1 @@
+How can I run a application in Automator? <body> I want to run an application in Automator but there is no run program.  Operating system and stuff:br OS X Lion 10.7.5br Automator 2.2.4br Memory: 3GB  <answer127422> You can use the strongLaunch Application/strong action:  img src="https://i.stack.imgur.com/Ni7op.png" width="513" 

@@ -1,0 +1,1 @@
+How to find which is my default System font? <body> Of so many fonts installed in /Library/Fonts/ how does OSX - El Capitan determine which font is to be used system wide?  <comment257059> Used in what context?  For system menus and dialog boxes? <comment257061> Yes. Basically, I am on El Capitan and would like to know if the San Francisco font is being used or Helvetica?

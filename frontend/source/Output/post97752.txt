@@ -1,0 +1,1 @@
+How to get screen to display a notification or indicator when Caps Lock is turned on or toggled? <body> I'm on OS X Mountain Lion and would like to know how to do this.  I know the button has a light to indicate, but I'd like have and indication on the screen.    <answer97753> CapSee Notifies You When Caps Lock Is On!  The little app shows you huge icon when caps in on! 

@@ -1,0 +1,1 @@
+Find the duration of a playlist in Apple Music <body> How can I find the duration (in hours/minutes) of a playlist in Apple Music?  <comment278747> Could you explain a bit what playlist and what OS you are trying to calculate? iTunes v12 on OS X shows this in the playlist window clearly.. <comment278785> A playlist in Apple Music on an iPhone 6 running iOS 9.

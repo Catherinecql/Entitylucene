@@ -1,0 +1,1 @@
+How to prevent outlook from stealing 'default mail client' setting? <body> I have set my default/preferred mail client to "Mail". Every time I click a link or open a file it'll go back to the setting though, Outlook has taken over. Here's the kicker: I've completely removed and uninstalled outlook.  Please, how do I make this stop? 

@@ -1,0 +1,1 @@
+Are Mail rules still applied when a Mac is in Power Nap mode? <body> I understand that when a Mac is Power Napping it will periodically check for new emails via Mail. Will Mail rules still apply to any new emails that are received when the Mac is in Power Nap mode? 

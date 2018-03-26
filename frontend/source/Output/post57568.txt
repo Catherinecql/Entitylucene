@@ -1,0 +1,1 @@
+Zoom In Keyboard Shorcut Changed In ML <body> I have MacBook Pro and in Lion for zoomIn I used control + trackpad up. now it has changed. How can I changed it back?  <answer57571> It appears that the install update of Mountain Lion disabled that feature. You can re-enable it in:  emSystem Preferences  Accessibility  Zoom  Use scroll gesture with modifier keys to zoom/em 

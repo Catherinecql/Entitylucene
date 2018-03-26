@@ -1,0 +1,1 @@
+How can i change my region/country but without putting a card to pay? <body> How can i change my region/country but without putting a card to pay?  <answer125968> You can just create a new account in the new region via the app store and select payment option none.  <comment147496> By changing, you mean creating a new/additional iTS account in another region?

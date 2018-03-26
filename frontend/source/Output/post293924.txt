@@ -1,0 +1,1 @@
+How can i remap the eject key so i can use the the sleep shortcut on a Microsoft keyboard <body> My new microsoft keyboard doesn't have an eject button which makes it impossible to put my  computer to sleep using the usual shortcut. Is there any way to remap the eject key to an existing key so i can continue to use the usual shortcut. 

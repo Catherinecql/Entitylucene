@@ -1,0 +1,1 @@
+Help with iBooks not being able to send a PDF using the share icon? <body> My iPad 2 and has iBooks and I'm trying to send a PDF "book" to a friend of mine. The sharing button is shaded so I can't do it!   <answer71036> iBooks will only share PDF via email, so be sure you can send your friend an email before trying to share it.  

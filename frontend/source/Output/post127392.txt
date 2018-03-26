@@ -1,0 +1,1 @@
+How to open mime attachments in external apps from iPhone 5S iOS 7 mail, and the best app to use <body> How do I open mime attachments from external apps from iPhone 5S iOS 7 mail? Which apps would be the most efficient to use?  <answer143930> Forward the message to yourself INCLUDING the attachment.  It works for me. 

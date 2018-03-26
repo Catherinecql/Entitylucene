@@ -1,0 +1,1 @@
+Can I read one pdf document on two ipads each showing a facing page? <body> I would like to be able to read a 60 page pdf on 2 ipads that will display facing pages.  (one page per ipad)  Pages should turn like a book as if both ipads are the facing pages of a book. 

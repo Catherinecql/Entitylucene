@@ -1,0 +1,1 @@
+Default alert setting in MacBook's Calendar <body> How can I change the default alert setting for calendar events in Mountain Lion? For instance, the default setting right now is to send me an alert a day prior to the event. I want to set it to 'None' How do I do that? 

@@ -1,0 +1,1 @@
+Server connection message error pop-ups <body> How do I resolve 'There was a problem connecting to the server "192.168.92.13".' error message pop-ups on Mac mini running Mac OS X 10.10.5? These pop up from time to time. Does this have anything to do with Time Machine backups? 

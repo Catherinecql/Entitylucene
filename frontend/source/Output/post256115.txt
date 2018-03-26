@@ -1,0 +1,1 @@
+Birthdays in "Up Next" widget <body> In iOS 9 there was something like "Today is Foo's 42th birthday" into the "Up Next" widget.  But after the iOS 10 upgrade, they vanished..  Is there a way to get it back ? 

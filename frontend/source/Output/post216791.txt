@@ -1,0 +1,1 @@
+LaCie External Raid Drive Disappears During Sleep <body> I have a MacPro with an LaCie external raid drive. About 80% of the time when my Mac goes into sleep mode the drive to just disappear; DiskUtility cannot see it nor can I see it in any utilities.   I am running Mac OSX El Capitan.  

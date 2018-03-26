@@ -1,0 +1,1 @@
+Cloud data backup tool <body> I'd like to automatically backup my mail (IMAP), my contacts (CardDAV) and my Calendar (CalDAV) from my provider to my local system. It should be a separate solution, nothing like "Export it from Mail.app, etc.". I know about CloudPull.app, but this is Google only.   What software could I use for this? 

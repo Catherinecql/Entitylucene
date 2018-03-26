@@ -1,0 +1,1 @@
+Custom Sidebar Icon Finder <body> Is it possible to create a custom sidebar icon for a specific folder in macOS like Dropbox, Google Drive and Creative Cloud currently do without using an application?  img src="https://i.stack.imgur.com/3zA3g.png" alt="Finder window macOS" 

@@ -1,0 +1,1 @@
+How to save the contact from who I received an SMS? <body> I received an SMS from a phone nr that I don't have saved in my iPhone. How do I save that number as a new contact?  <answer84820> ul liScroll to the top of the thread in Messages/li liTap on "Contact" (button at top right)/li liCreate new contact/li /ul 

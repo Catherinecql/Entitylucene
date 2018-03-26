@@ -1,0 +1,1 @@
+Why XAMPP listens on wrong IP address? <body> I have a problem with fresh installation of XAMPP. It listens on my local IP address 192.168.64.2 instead of local host 127.0.0.1  img src="https://i.stack.imgur.com/UlR8r.png" alt="enter image description here"  Where can i change this so that it listens on my localhost? 

@@ -1,0 +1,1 @@
+Messages app receives kill: 9 right after opening <body> Mid 2013 Macbook air 10.11.6 El Capitan. When I open the messages application it receives "kill: 9" a few seconds after. I know because I can see it in terminal when I open Messages.app/Contents/MacOS/Messages. Any help would be nice as I have no idea how to fix this. Thanks! 

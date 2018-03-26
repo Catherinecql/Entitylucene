@@ -1,0 +1,1 @@
+Changing MacOutlook's User Agent? <body> Is it possible to change MacOutlook user agents on OSX? At the moment during performing https connection to the Exchange EWS it announces itself as:   User-Agent: MacOutlook/14.7.1.161129 (Intel Mac OS X 10.9.6)  I would like to change word MacOutlook OR/AND information that I am working on Mac OS X. 

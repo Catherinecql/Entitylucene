@@ -1,0 +1,1 @@
+Boot off of USB drive problem - new iMac <body> how can i boot off of usb disk to install snow leopard onto new iMac that has mavericks installed  <answer141849> You can't, as your iMac won't let you boot into an OS X version that's older than what it shipped with. Snow Leopard does not have the necessary drivers for the new iMac. 

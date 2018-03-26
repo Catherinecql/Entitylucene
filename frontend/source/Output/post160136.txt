@@ -1,0 +1,1 @@
+Toggle notification center's DoNotDisturb from terminal <body> Is there any way to toggle it with i.e. osascript? I'm on Yosemite.  <comment188262> Does this work? http://apple.stackexchange.com/questions/145487/how-to-enable-disable-do-not-disturb-from-shell-on-mavericks

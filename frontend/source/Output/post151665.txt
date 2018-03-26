@@ -1,0 +1,1 @@
+Waking the macbook from sleep <body> How can make my macbook wake up from sleep mode automatically ? That is I will fix up a time for it to wake up and when the time will come it shall automatically wake up from sleep mode. Can this be done?  <answer151667> System Prefs  Energy Saver  Schedule  img src="https://i.stack.imgur.com/59fdy.png" alt="enter image description here" 

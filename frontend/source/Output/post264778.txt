@@ -1,0 +1,1 @@
+Preview view .obj file: weird black and red rectangles? <body> When I open a .obj file with Preview, I get this weird thing  img src="https://i.stack.imgur.com/IrffF.png" alt="enter image description here"  If I rotate the object a bit, it displays normally as it rotates, but comes to this red and black thing again the moment it stops moving.  I am on macOS Sierra. Any ideas? 

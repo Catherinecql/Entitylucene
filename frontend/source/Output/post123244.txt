@@ -1,0 +1,1 @@
+Spotlight index only specified folder <body> I have found ways to disable spotlight indexing for a specific folder. But, how do I do the reverse. I want to  ol lidisable all indexing/li lienable for just one or two folder I specify./li /ol  is it possible? How.  Also any side effect, like slowing down some system operation (other than search results) 

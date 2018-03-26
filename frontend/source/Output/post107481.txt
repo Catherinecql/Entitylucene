@@ -1,0 +1,1 @@
+New York not found in French weather app <body> I have one iphone in English, one in French.  In the weather app, in English, I can find "New York, NY" no issues.br In the French version, New York simply does not appear in the search results! Known issue??  <answer107495> Searching for "JFK" gives me "WNYC". It is the same weather in both cities. 

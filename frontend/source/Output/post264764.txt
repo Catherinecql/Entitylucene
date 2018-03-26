@@ -1,0 +1,1 @@
+iMessage or text question <body> Random question...If your iPhone is off, do text messages continue to show real times that they were sent to you OR the time when you turned the phone back on?  <answer264766> The time stamp shows the time the message was emsuccessfully/em sent. This is shown in local time (i.e. whatever time it was in your time zone). 

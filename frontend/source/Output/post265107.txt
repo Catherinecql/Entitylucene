@@ -1,0 +1,1 @@
+Macbook Camera light turning on randomly. lsof gives me something. How to interpret? <body> Running lsof in terminal and searching for camera gives me  Google    6474 user  txt       REG                1,4     345408  6229475 /Library/CoreMediaIO/Plug-Ins/DAL/AppleCamera.plugin/Contents/MacOS/AppleCamera  What does this mean? Google (Chrome) is accessing my camera?  Thanks 

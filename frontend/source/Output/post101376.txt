@@ -1,0 +1,1 @@
+Export/import iPhone keyboard shortcuts as text file <body> On an iPhone 5, if you go to Settings  General  Keyboard  Shortcuts its possible to input text shortcuts that expand into longer words. Is it possible to both export this list of shortcuts in a single text file, and also import a text file to be used as shortcuts? 

@@ -1,0 +1,1 @@
+Generate recovery key for Mac Time Machine <body> I encrypted my Mac Time Machine recently, but have unable to figure out how to generate the 'recovery key' in the advent that I forget the password. Is there a simply way to do this on Mac like with Windows systems? 

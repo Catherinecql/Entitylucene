@@ -1,0 +1,1 @@
+Scan from dock? <body> If I want to scan, I need to open system preferences, click "Printers/Scanners", and select the scanner, to open the application. I'd like to click on an icon in the dock to open it. How to?  <answer108461> With the scanner application running, right-click in the Dock and select "Options-Keep in Dock". 

@@ -1,0 +1,1 @@
+iPhone mail doesn't show email address anymore <body> I used to be able to click the name of the sender or the recipient and it brings up the contact information with the sender/recipient's email address highlighted in blue if I have multiple email addresses saved for the contact. It doesn't do this anymore. How do I enable it again? 

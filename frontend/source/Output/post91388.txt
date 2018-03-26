@@ -1,0 +1,1 @@
+Access Jumpcut archives? <body> I have jumpcut on mac and it is set up to "remember" 40 items, but only 15 items actually show in menu. How can I access the other 25 items?  <answer91413> You can access them from the bezel window (shown by control-option-V by default) by holding the right arrow key. 

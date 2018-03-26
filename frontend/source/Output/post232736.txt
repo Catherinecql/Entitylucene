@@ -1,0 +1,1 @@
+Safari does not work (iOS 9.3, iPhone 6s) <body> Suddenly Safari won't work on my iPhone 6s. I cannot open links either.  The whole thing freezes.   How do I solve this? I updated to iOS 9.3 a couple of days ago.  

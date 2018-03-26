@@ -1,0 +1,1 @@
+How to undelete mail message in iOS8 <body> I can move a message from Trash to inbox, but is there a better way to undelete a message?   I find that when I go to the trash folder, it's really easy to mess up and delete rather than move.  I've also tried using the Shake gesture. I get mixed results. Sometimes that works, often not. 

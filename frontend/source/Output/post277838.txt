@@ -1,0 +1,1 @@
+How to get Spotlight search to suggest LibreOffice Calc <body> Can I get Spotlight search to suggest the different LibreOffice apps? If I search for "calc" I want LibreOffice Calc to be shown.  I guess it has something to do with all the apps are bundled in one big LibreOffice-file. 

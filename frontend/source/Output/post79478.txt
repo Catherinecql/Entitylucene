@@ -1,0 +1,1 @@
+Store movies/tv shows from iTunes on external drive <body> I'd like to store only movies and tv shows on my external drive. I don't mind keeping my music on my built-in drive. Is there a way to set iTunes so that it only looks for the videos rather than all media?  <answer80690> Use TuneSpan. Here's an article I wrote about it. 

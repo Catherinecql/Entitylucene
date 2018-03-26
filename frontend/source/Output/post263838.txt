@@ -1,0 +1,1 @@
+Control itunes while presenting keynote <body> When I am presenting a keynote the itunes media keys just exit the keynote instead of playing an itunes song.  How do I play a song from iTunes whilst staying inside the keynote presenter? 

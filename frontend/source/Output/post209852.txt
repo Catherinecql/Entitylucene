@@ -1,0 +1,1 @@
+Any way to transparantly redirect outbound traffic to a particular IP:port on OS X? <body> OS: Yosemitebr Basically I am looking for something similar to Mac os x ipfw forward from ip:port to ip:port but since there is no ipfw on Yosemite is there a way to do this trick using pfctl or something like that? 

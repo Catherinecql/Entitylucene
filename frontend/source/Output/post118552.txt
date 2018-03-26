@@ -1,0 +1,1 @@
+tmux key bindings disable when using wireless bluetooth keyboard <body> Can't figure out how to keep tmux key bindings enabled when using bluetooth keyboard. 

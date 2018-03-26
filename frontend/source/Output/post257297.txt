@@ -1,0 +1,1 @@
+Is it possible to have the emoji keyboard only when long pressing? <body> I was wondering if it is possible to have the emoji keyboard available only when long pressing on the language switcher button?  When executing a normal touch on the button I want to just switch between the regular languages. 

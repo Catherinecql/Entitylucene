@@ -1,0 +1,1 @@
+X11 keeps crashing with "Cannot establish any listening sockets", I cleared /tmp but it still crashes <body> Started X11 on Lion today, now it keeps crashing over and over - can't get it to stop.     Cannot establish any listening sockets   1) is there any way to stop this over and over again?  2) is there a fix for it?  I cleared /tmp/.X11-unix and /tmp/.X0-lock 

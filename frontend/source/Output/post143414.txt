@@ -1,0 +1,1 @@
+showing multiple regions for holidays in Calendar Version 7.0 (1841.1) <body> Can you choose more than one region to show holidays in calendar Version 7.0 (1841.1)  <answer143430> You can add as many as you like - http://www.apple.com/downloads/macosx/calendars/  <comment168882> What is a region for you? A timezone?

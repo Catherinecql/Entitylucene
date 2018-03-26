@@ -1,0 +1,1 @@
+Bootcamp - How to always load the boot selector screen on start up <body> Is there something I can do so that when I turn on my computer the boot selector screen shows up, without me having to press alt. I've seen this answered, but that was 2012 and it doesn't work anymore. 

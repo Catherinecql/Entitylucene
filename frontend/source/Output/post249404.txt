@@ -1,0 +1,1 @@
+IPad won't sync <body> I have iOS 9.3.4 and sync to windows 10. iTunes will no longer recognize my iPad or iPhone. I plug in the cord, the iPad dings and charges but does not show up as a device in iTunes. I have reinstalled iTunes, and gone to iTunes Wi-Fi Sync, but the Sync Now button is greyed out and it claims the sync will resume when Desktop - Q369GQB is available. 

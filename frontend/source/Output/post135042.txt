@@ -1,0 +1,1 @@
+Are iOS profiles conserved through a factory reset? <body> I'm wondering whether profiles on an iPad that are password locked will remain if the device is factory reset? 

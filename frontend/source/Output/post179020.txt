@@ -1,0 +1,1 @@
+How to reset to default font in Attract Mode? <body> I am using Attract Mode for Mac and I changed the default font to a font that isn't in the font library. Attract Mode will no longer start up. How do you change the default font from the package contents? 

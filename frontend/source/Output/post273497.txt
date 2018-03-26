@@ -1,0 +1,1 @@
+can't swift auth in Sierra <body> codeswift auth/code yields the error:     error: unable to invoke subcommand: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift-auth (No such file or directory)   when I codebrew install/code it it does the same thing.  how can I codeswift auth/code again? 

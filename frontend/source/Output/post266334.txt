@@ -1,0 +1,1 @@
+Increase the time between spoken words after full stop or between paragraphs <body> I'm trying to figure out if there is a way to increase the time between words while using Text-to-Speech, i.e.:  ol liTTS. reads. like. this. but. I. would. rather/li li.. if.. TTS.. could.. read.. like.. this.. instead/li /ol 

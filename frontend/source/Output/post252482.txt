@@ -1,0 +1,1 @@
+macOS Sierra - Misplaced turn off pop-up windows <body> I've got a strange problem which gets me annoying, it's misplaced turn off screen on macOS Sierra. When I press turn off button on a Mac it pops up as usual, but it's no centered on a screen as it used to be. Is there any way to fix this?  img src="https://i.stack.imgur.com/IQ6au.png" alt="macOS Sierra turn off window" 

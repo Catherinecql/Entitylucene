@@ -1,0 +1,1 @@
+iPhone 4 jailbreak gone wrong <body> My phone is currently glitched and I am unable to access the stock apps, but I'm able to use downloaded apps by searching them and tapping on them.br I cant download or delete apps. What should I do? Should I just full restore?  <answer193144> Run codeuicache/code as mobile, then respring. 

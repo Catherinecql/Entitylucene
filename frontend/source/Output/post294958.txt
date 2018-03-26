@@ -1,0 +1,1 @@
+Podcast subscriptions no appearing on macbook <body> I am signed into the same iCloud account on my iPhone and Mac book.  Why then don't I see any of my subscriptions in iTunes?  I have 'sync subscriptions' enabled in settings/podcasts on the iPhone.  On the Mac book, I don't even see options for syncing in system preferences. 

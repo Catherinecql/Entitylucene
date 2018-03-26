@@ -1,0 +1,1 @@
+Collapse Safari extension buttons <body> I do not want all extensions buttons to show in the toolbar, and removing them is inconvenience when I need to see the buttons or configure them. Is there an "Extension button" that folds all the buttons in one button? So that the toolbar is not cluttered. 

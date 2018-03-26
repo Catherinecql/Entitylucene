@@ -1,0 +1,1 @@
+Printing from Ricoh MFP through user Authentication - while printing from OS X using PCL driver <body> Can we print with user code authentication in Ricoh MFPs from OS X, using PCL Driver?  <comment308259> How is authentication handled? Is it through SMB?

@@ -1,0 +1,1 @@
+I can't stop a song in the "Downloads" tab under iTunes <body> My iPhone keeps getting stuck in step 7 of syncing, and solutions point to going under the downloads tab in iTunes and stopping current downloads. When I open it up, however, it's not an option. I can't swipe or hold on it to cancel the download.  <comment341589> Have you rebooted the phone?

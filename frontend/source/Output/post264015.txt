@@ -1,0 +1,1 @@
+Back To My Mac causes TimeCapsule to dissapear <body> referring to this issue: Why did my Time Capsule disappear, while continuing to work as wireless router?  one guy wrote below, that he re-entered BTMM login and password, then got it working, but that didn't work in my case.  Anyone else experiencing this issue? 

@@ -1,0 +1,1 @@
+Is there an annotation function that allows continuous text annotation without having to repeatedly click on the 'T'? <body> Preview before yosemite had the ability to click on the Text annotation and allow you to continuous annotations without having to repeatedly press 'Text'. I want to be able to annotate anywhere on the pdf - is this possible with the upgrade? 

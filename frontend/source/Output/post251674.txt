@@ -1,0 +1,1 @@
+Relinquish control of Bluetooth audio quicky? <body> I have my bluetooth headset set up to control both my phone and and my laptop. Works great, only the problem is when I stop playing audio on my mac, it takes like 15 seconds to stop controlling the feed to my headset  Anyone know how can I make this shorter? 

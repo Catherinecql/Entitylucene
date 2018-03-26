@@ -1,0 +1,1 @@
+How can I upgrade Silverlight so that I can stream Netflix / <body> How can I install/upgrade Silverlight so that I can run Netflix?  <answer128532> Go to this Microsoft link: http://www.microsoft.com/getsilverlight, and follow the instructions there.  It will auto-download a silverlight.dmg installation file, which you double-click to launch. 

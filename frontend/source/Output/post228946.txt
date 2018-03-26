@@ -1,0 +1,1 @@
+External GPU card for iMac <body> I have an iMac 27 (Core i5, 8 GB RAM, AMD Radeon R9 M290X 2 GB) and this is not enough for some new games. So are there any external graphics card boxes, which are capable of operating on the internal monitor iMac with Windows?  I know about Sonnet, Akitio and Bizon adapters, but they work only with external monitors. 

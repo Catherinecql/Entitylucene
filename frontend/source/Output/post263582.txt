@@ -1,0 +1,1 @@
+Why has my Date Added changed in iTunes Library after enabling iCloud Library <body> I have recently got Apple Music and enabled it on my iTunes Library. I've noticed many of my songs have had their 'Date Added' updated (which has altered many of my Smart Playlists may I add).  Can someone explain why this has happened and if theres any way to revert these changes? 

@@ -1,0 +1,1 @@
+Documentation on temperature sensors for MacPro5,1 <body> Where can I learn the exact locations of all the temperature sensors in a MacPro5,1? 

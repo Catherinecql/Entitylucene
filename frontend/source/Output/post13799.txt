@@ -1,0 +1,1 @@
+Where does DoodleCam save photos <body> I have download an app called DoodleCam. But I can't see where it saves the photos I take, It only shows me the videos I record.   <answer13804> Try looking in the built-in "Photos" app (with the flower icon). 

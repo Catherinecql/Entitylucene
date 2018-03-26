@@ -1,0 +1,1 @@
+safari active tab color <body> Is there a hack or extension to make the active tab in focus a different color than the others?  I tried GLIMS but apparently that extension is borked for the latest version of safari.   img src="https://i.stack.imgur.com/hnpKj.png" alt="enter image description here" 

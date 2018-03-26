@@ -1,0 +1,1 @@
+How do I configure SMTP service with MAMP? <body> I'm using MAMP on OS X Lion. The postfix smtp server is disabled by default and I haven't found clear instructions on how to enable it.  All I want to be able to do is send emails from my MAMP server. I can use gmail if an external smtp server is required. 

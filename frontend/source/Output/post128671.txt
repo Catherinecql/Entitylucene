@@ -1,0 +1,1 @@
+Go to Line keyboard shortcut in Python editor IDLE? <body> In the Python editor IDLE I can do "Edit  Go to Line", but when I try cmd+j (alt+g on Windows), then IDLE freezes. How can I go to line in IDLE on Mac?  <answer129088> IDLE  Preferences (cmd+,)  Keys  goto-line  Get New Keys for Selection 

@@ -1,0 +1,1 @@
+Mac App Store downloading apps again and again <body> I recently upgraded to Mavericks. I updated all the Apple Apps like Aperture, Pages, Numbers, Keynote, Voice-Update, Xcode 5. And they updated gracefully. But whenever I am starting my Mac from a complete sundown, all the apps are starting to download again. It has happened three times now.  What would be the problem ? 

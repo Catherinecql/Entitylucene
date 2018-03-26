@@ -1,0 +1,1 @@
+Pictures attached to messages "vanishes" <body> I get a notification on the main screen of a picture that was messaged to me and can see the picture, but when I go into the message the picture isn't there.  <answer108565> Restart the iPhone and try again.  

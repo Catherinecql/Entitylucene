@@ -1,0 +1,1 @@
+Is it possible to disable force shutdown from the power button? <body> I have a MacBook Pro Mid 2012 and I would like to know if is possible to disable the "force shutdown by pressing the power button for 5 seconds".  <answer154336> It is not possible to disable the force shutdown, it is hardwired, and the interrupt cycle runs continuously checking for it. 

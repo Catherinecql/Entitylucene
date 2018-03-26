@@ -1,0 +1,1 @@
+Delete document from device through iTunes <body> Some apps have files or folders which are user-accessible through iTunes - Apps.  How do I delete such a file or folder? I tried the strongFile/strong menu but I couldn't find anything there. And under the "File sharing" in strongApps/strong there is only "Add" (and "Save to"), not "Delete".  

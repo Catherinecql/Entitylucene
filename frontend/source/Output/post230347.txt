@@ -1,0 +1,1 @@
+Backing up iPhone <body> I haven't been able to back up my iPhone due to connection issues. I have a new phone which I have been using. If I back up the old phone and then restore to the new phone will the new data on the new phone be lost?  <answer230349> Yes, restoring a backup onto an iPhone replaces all its content.   

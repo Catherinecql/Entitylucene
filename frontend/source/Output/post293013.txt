@@ -1,0 +1,1 @@
+Convert RAW partition to Apple HFS+ <body> I have installed windows 7 alongside MacOs using bootcamp. Accidentally my mac partition converts into RAW state while accessing from windows. I can't even see the partition on startup.  Can you please help me how to convert RAW partition to Apple HSF+  ?    <comment369719> 'Accidentally'... how? It wouldn't do it on its own.

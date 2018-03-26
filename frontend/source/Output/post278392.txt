@@ -1,0 +1,1 @@
+What is iBridge? <body> In sytemprofiler macOS (10.12.4) mentions a type of hardware called iBridge, anybody who knows what it is? img src="https://i.stack.imgur.com/PjOYE.png" alt="" 

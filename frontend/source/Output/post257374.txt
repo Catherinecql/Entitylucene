@@ -1,0 +1,1 @@
+How to instal iTunes 12.5 on OS X 10.7.5 <body> I have MacBook Early 2008 with OS X 10.7.5 and iTunes 12.2.2. Is there any possibility to install alternatively iTunes 12.5 on this version of OS X or do I have to install a newer version of OS X which will support iTunes 12.5? 

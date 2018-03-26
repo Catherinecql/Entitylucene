@@ -1,0 +1,1 @@
+Preference for adding epub to iBooks <body> In iTunes it was/is possible to prevent files to be copied to iTunes Media folder. Does any of you know if same de-selection is possible in iBooks?  Thanks for lot of useful knowledge sharing  <answer152330> It is not possible. Books added to iBooks are stored in a folder by the application automatically. 

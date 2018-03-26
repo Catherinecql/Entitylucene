@@ -1,0 +1,1 @@
+Where does iTerm store user preferences? <body> Where exactly is iTerm's user preferences file located? What I want is to sync this file over Github between several machines.  <answer140624> ~/Library/Preferences/com.googlecode.iterm2.plist  Also note that you can set a custom location in iTerm Preferences under the General tab. 

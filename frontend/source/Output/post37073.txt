@@ -1,0 +1,1 @@
+Mobile Safari with thumbnail view with iOS 5 <body> Can I get my Mobile Safari thumbnail view back after I upgraded to iOS 5?  <answer37346> Sorry no, unless you jailbreak and install GridTabs  Basically, the grid view was replaced by the new tabs in Mobile Safari in iOS 5 

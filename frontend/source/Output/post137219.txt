@@ -1,0 +1,1 @@
+Is there a max price limit for in app purchases? <body> I would like to know if there is a max price limit for an in-app item. I couldn't get a direct answer from Apple.  <answer137220> The highest tier is strongtier 87/strong. This equates to $999.99 or £699.99.  supSource: App Store Pricing Matrix (requires iTunes Connect; dynamic link)/sup 

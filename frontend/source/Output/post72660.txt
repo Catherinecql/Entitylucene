@@ -1,0 +1,1 @@
+memory bandwidth for 13.3 macbook pro early 2011? <body> I have a 13.3 MacbookPro early 2011. Stock memory is 2GB x 2 PC3-10600 DDR3 1333 MHz. Now I want to upgrade RAM as 4GB x 2.  Can i buy a memory which is PC3-10666 1333MHz, or do i have to buy PC3-10600 1333MHz? 

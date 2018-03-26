@@ -1,0 +1,1 @@
+How can I restore the legacy metadata editor in iTunes 12? <body> strongQuestion:/strong How can I restore the legacy metadata editor in iTunes 12?  <answer155668> Press and hold the kbd ⌥ /kbd (option) key while clicking on strongGet Info/strong for a given item. 

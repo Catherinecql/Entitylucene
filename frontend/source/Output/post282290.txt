@@ -1,0 +1,1 @@
+Fastest way to preview all images in a deeply nested directory tree? <body> I have a set of hundreds of images and each one is in its own sub-directory. What is the fastest way to preview all images at the same time?  <answer282292> From terminal app:  precodefind . -iname '*.png' | xargs open /code/pre 

@@ -1,0 +1,1 @@
+Yosemite Force Unmount does not work <body> I am trying to fix a damaged external harddrive via diskutility.   Unfortunately,  precodediskutil unmountDisk force disk2 /code/pre  does not work, not even in the recovery mode.  precodeForced unmount of disk2 failed: at least one volume could not be unmounted /code/pre  Any ideas? 

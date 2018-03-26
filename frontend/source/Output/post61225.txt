@@ -1,0 +1,1 @@
+Mountain Lion file copy <body> On mountain lion when you copy a file, each file has a progress bar displaying its progress. So is it possible to get rid of the 'copying' window that also shows the progress bar  <comment70659> It does display if you're copying single items. I think it shows up if the copy operation is over 2 seconds long

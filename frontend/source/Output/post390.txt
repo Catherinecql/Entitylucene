@@ -1,0 +1,1 @@
+External Disk to use with TimeMachine in a AirPort Extreme <body> Any one know any external disk that I can use to do this?  <answer393> Again, any usb disk should work, unless there's something I'm missing in the question.  <comment365> Ok, Today I will try with the One I have

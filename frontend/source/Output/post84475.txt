@@ -1,0 +1,1 @@
+HTC Sync Manager on Mountain Lion <body> I'm using a Mac Mini running on Mountain Lion, and I have a HTC One X phone.  Every time I plug the phone in via USB cable to charge up, the HTC Sync Manager pops up and autoplays - is there any way to disable this? 

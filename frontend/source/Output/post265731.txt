@@ -1,0 +1,1 @@
+Clear iOS Safari icon cache? <body> Is there a way to clear the favicon/apple-touch-icon cache for mobile Safari? The "delete all website data" button in settings doesn't do it.  (Safari appears to cache website icons aggressively for the "Add to Bookmarks"/"Add to Favorites" functions, but not for "Add to Home Screen". I'm interested in the former.) 

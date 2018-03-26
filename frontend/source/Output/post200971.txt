@@ -1,0 +1,1 @@
+How to edit the apple developer account <body> Is it possible to edit the date of birth provided while creating the Apple Id  <answer200987> Sign in to your apple account here :  https://appleid.apple.com/account/manage/security  Answer your security questions. Birth Date is the last option. 

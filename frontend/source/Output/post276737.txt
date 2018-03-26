@@ -1,0 +1,1 @@
+using 85W 3-pin adapter on macbookpro 9,2 <body> I read on wikipedia that 13 inch macbookpro should use 60W but the one I got from previous owner is 85W.   Is it safe to use on long run?   Will it effect lifespan of my macbookpro? 

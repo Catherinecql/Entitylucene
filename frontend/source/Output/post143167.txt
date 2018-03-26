@@ -1,0 +1,1 @@
+How do I recover space allocated to iPad mail data? <body> My iPad shows 5 gigabytes of data assigned to Mail in Settings - General - Usage. Even with my mailbox empty, both sent, and deleted. How do I get rid of this as I am almost out of space? 

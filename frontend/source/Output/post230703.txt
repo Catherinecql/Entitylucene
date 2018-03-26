@@ -1,0 +1,1 @@
+How to edit WebM video files on Mac? <body> Join.me exports screen recordings in WebM format. I can play WebM files using VLC but I can't edit them. Searching for a solution brings up hundreds of spamware 'video converters'.   Is there a simple way to edit WebM video files on MacOS? 

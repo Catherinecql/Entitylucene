@@ -1,0 +1,1 @@
+How to use trackpad(mouse) on the second monitor? <body> I have two monitors and I've successfully move Preview to the second monitor.  I found that when I make Preview active, I can only use keyboard to move page up and down.  Is it possible to make mouse visible on the second monitor? 

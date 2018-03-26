@@ -1,0 +1,1 @@
+Chrome/Safari Linkedin SSL certificate untrusted issuer <body> About a week ago after no particular actions from me, I tried to open linkedin.com and I got the screen you see. This happens with Chrome and Safari but not with Firefox. What should I do? Thanksimg src="https://i.stack.imgur.com/mz7wN.png" alt="Chrome Screenshot" 

@@ -1,0 +1,1 @@
+View cellular signal of iPhone on Mac <body> when I'm using tethering with my iPhone, is there any way to see the cellular signal strength on my mac?  Any free solutions are still welcome.  <answer126768> Yes, download TetherStrength (Mac App Store link). 

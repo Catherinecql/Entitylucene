@@ -1,0 +1,1 @@
+Where are screen setup configuration saved? <body> Where can i find the file (?) where all the configurations for different external screens are saved? 

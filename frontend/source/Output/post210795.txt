@@ -1,0 +1,1 @@
+is there a way for Menubar to display only battery percentage? <body> is there a way to see only the percentage, I dont really care about the small battery image and I dont need it. Is there a way to remove it?  <answer210797> iStats Menus 5 has various monitoring widgets for the menu bar, one being a  battery indicator. Could be helpful? 

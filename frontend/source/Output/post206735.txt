@@ -1,0 +1,1 @@
+Avoid system headers in Xcode's quick open search <body> Is there any way to make Xcode's otherwise excellent Quick Open Search (⌘⇧O) to search only in my project's files? I really don't want to open system header files anytime.  img src="https://i.stack.imgur.com/kNifP.png" alt="Example" 

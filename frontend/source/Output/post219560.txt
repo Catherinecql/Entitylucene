@@ -1,0 +1,1 @@
+Keyboard crazy after installing El Capitan <body> The instant I touch a key to log on my iMac an immediate string of dots fill my password screen. This goes on until one of a few times of turning off the keyboard finally get the system working. Apple sent me a new keyboard! This happened right after going to El Capitan. Any simple suggestions? All preferences appear correct. 

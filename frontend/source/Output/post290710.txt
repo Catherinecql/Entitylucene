@@ -1,0 +1,1 @@
+Safari Developer Tools - Is There a Way to Increment CSS Property Values with Keyboard Arrows? <body> In Safari's inspector tools, when modifying a CSS property of an element, is there a way to increment with the keyboard's up and down arrows like in Chrome?  Thanks 

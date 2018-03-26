@@ -1,0 +1,1 @@
+What does "BackupTabState" key of "com.apple.finder.plist" do? <body> I noticed since Sierra, there is a new key called codeBackupTabState/code (with a default value of 0) while tweaking my Finder (via codedefaults read com.apple.finder/code).   I tried to Google it, and even looked up Apple Community Forums, no luck on all counts. Anyone knows what it does? 

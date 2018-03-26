@@ -1,0 +1,1 @@
+Configure Mavericks Task Switcher to Display on All Monitors? <body> Using multiple monitors under OS X Mavericks (10.9), the Task Switcher does not always appear on the monitor you're looking at.  [Cmd-Tab]  How can the Task Switcher be configured to always appear on the display with the mouse pointer?  Or even ALL displays (so you're not searching for it)? 

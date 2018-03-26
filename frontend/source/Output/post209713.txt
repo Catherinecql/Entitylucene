@@ -1,0 +1,1 @@
+Insert photo in Simplenote <body> Can you tell me how to place a photo into a Simplenote? I am using an iPhone 6s or a MacBook with OS X El Capitan.  <answer209715> Simplenote doesn't support adding photos. 

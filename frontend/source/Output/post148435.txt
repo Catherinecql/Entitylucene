@@ -1,0 +1,1 @@
+Why is /var symlinked to /private/var? <body> Why is code/var/code symlinked to code/private/var/code? I understand the general purpose symlinks serve, but I'm curious what specifically is making use of this link. 

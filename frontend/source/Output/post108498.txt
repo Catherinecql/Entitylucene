@@ -1,0 +1,1 @@
+How do you tell if Mavericks is talking to NAS over SMB or SMB2? <body> SMB2 is supposed to be faster than SMB, but how do you know which protocol is currently used?  

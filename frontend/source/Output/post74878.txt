@@ -1,0 +1,1 @@
+iSight no longer detected under Mountain Lion after "PowerNap" <body> iSight works flawlessly until my 15inch Retina goes "PowerNapping", then, after resuming, PhotoBooth and other Apple software reports "no camera hardware detected".  A full system restart resolves the problem, the camera is detected again.  Has this been experienced by others as well? 

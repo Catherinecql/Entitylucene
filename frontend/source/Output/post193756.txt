@@ -1,0 +1,1 @@
+Morphing Vector Shapes <body> I have two vector shapes, and I need one to morph into the other as an animation. What application is best suited for this? 

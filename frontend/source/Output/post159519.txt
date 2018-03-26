@@ -1,0 +1,1 @@
+iPad iOS 8 variable video playback speed <body> I've been using swift player for speeding up video lectures. But upgrading to iOS 8 have broken the player. Is there a player which support faster playback of YouTube, vimeo, Ted, etc, videos?  <comment187726> Emailed the developer @dizy, he said that he's working on it.

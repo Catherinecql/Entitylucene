@@ -1,0 +1,1 @@
+Mount iPhone Backup On Mac <body> Is there any way using the command-line to mount an un-encrypted iPhone Backup...? I know there are various Apps to do this, but I am trying to write a shell script to automate various things. 

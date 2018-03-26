@@ -1,0 +1,1 @@
+Enable VPN debug on macOS Sierra? <body> I'm trying to debug a Cisco IPSec VPN issue (using native OSX VPN, not a separate client) but I can't find any options to turn on debugging.  Looking around the net it seems there was options in the Advanced tab at one point but I don't see them in Sierra. 

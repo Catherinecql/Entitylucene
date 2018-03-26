@@ -1,0 +1,1 @@
+How to change number of lines in notification panel <body> When I pull down from the top, notification panel appears, and it shows 4 line preview of every message. I wanted to make it to 2 lines. Is there a setting for this?  

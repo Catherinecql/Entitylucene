@@ -1,0 +1,1 @@
+How to delete more than one contact at a time on iOS? <body> Is there a way to delete more than one contact at a time in iOS Contacts?  I can add and remove groups of people from the contact list by checking and unchecking groups but I can't delete people without going into their records.    

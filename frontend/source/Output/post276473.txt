@@ -1,0 +1,1 @@
+Change all instances of a color in Pages <body> I have a .pages document and inside the text formatted as "body" some is colored black and some blue. If I want to change all the blue text to red, is there an automatic way? 

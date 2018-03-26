@@ -1,0 +1,1 @@
+key-repeat suddenly stops <body> Recently, a number of times now, the keyboard key-repeat will completely stop working.  One of the times, the keyboard was completely unresponsive for a few minutes first (everything else, mouse, etc was normal).  Any suggestions or similar problems?  MacBook Pro (15-inch, Mid 2012) El Capitan 10.11.1 

@@ -1,0 +1,1 @@
+How do I stop messages appearing on the homescreen of my iPad2? <body> How do I stop iMessages from appearing automatically on my home screen? Does anyone have any ideas?   <answer42258> Settings - Notifications - Messages.  Set Alert Style to None. 

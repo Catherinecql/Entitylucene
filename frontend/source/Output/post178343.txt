@@ -1,0 +1,1 @@
+How can I programmatically read and write the texttone of a Contact in the OSX' Contacts app? <body> On the Contacts app (V9.0) of Mac OSX 10.10 Yosemite I want to read and write programatically the codetexttone/code property in some of my contacts.  How can I do this with Applescript or another scripting language? 

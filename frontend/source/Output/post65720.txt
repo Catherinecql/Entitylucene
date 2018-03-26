@@ -1,0 +1,1 @@
+Can I place a Western Digital RE3 WD1002FBYS in a MacPro1,1? <body> I have a bare WD1002FBYS and am wondering if I can place this into a MacPro1,1 (the first Desktop MacPro).  <answer65731> Yes, just like any other 3.5" SATA harddrive, provided you have a spare bay to populate. 

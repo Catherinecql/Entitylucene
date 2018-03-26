@@ -1,0 +1,1 @@
+Stop eject button from working on SD DRIVE <body> I found this Remove eject button from finder. But this stops eject from working on all drives however i only want the eject button to stop working on just the SD Card drive, is there a way to do this? 

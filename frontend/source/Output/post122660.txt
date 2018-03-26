@@ -1,0 +1,1 @@
+Messages.app OSX Bonjour Group chat <body> Is it possible to setup a group chat with messages app using mountain lion and bonjour?  My option in the menu is greyed out, and not sure why. 

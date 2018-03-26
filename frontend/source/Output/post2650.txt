@@ -1,0 +1,1 @@
+How can I enable invisible files with "Transmit" FTP client? <body> How can I enable invisible files with "Transmit" FTP client ?  It asks me to show them only if I override one of them. I actually would like to always see them.  <answer2652> View  Show Invisible Files 

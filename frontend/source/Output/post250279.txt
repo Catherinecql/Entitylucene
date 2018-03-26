@@ -1,0 +1,1 @@
+Is the length of Facetime calls made with Apple Watch recorded? <body> If I make a Facetime audio call with my Apple Watch, is there a record of the time date and length of that call stored on the iPhone.  <answer250280> It will, as you call with your phone to make the call. 

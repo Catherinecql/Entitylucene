@@ -1,0 +1,1 @@
+Sync Internet Accounts between OS X and iOS via iCloud <body> I have setup iCloud and Keychain on both OS X and iOS, but my Internet Accounts do not seem to be synced (iOS Mail doesn't show all my inboxes).  Is there a way to fix this?  Thanks. 

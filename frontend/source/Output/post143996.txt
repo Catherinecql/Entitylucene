@@ -1,0 +1,1 @@
+Detect if logged in user is network active directory user or local user <body> When a User logs in to os x , I want to detect if user is a local user or a network account user based on which I have to allow my app to run.   Couldn't find any solution which tells that current logged in user is a network account user or local created account user. 

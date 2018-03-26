@@ -1,0 +1,1 @@
+How do I change cellular data DNS servers to OpenDNS? <body> I have an iPhone that I want to setup using OpenDNS's FamilySearch DNS servers.  However I'm not sure how to set this up for the Cellular side of data.  Is this possible, and if so how?   iPhone: 5  iOS: 6.1  <comment93354> currently not possible for cellular.

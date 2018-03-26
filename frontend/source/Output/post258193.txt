@@ -1,0 +1,1 @@
+Does Photos face recognition synch across device? <body> I have Apple Photos on both my iPhone with iOS10 and my Mac with OS X Sierra, the face recognition library on each device seems to be different, I'm wondering if the two libraries are different and are they ever sunchronised? 

@@ -1,0 +1,1 @@
+Mail.app behaving strange when sending mail <body> When I send an email to somebody I get this dialog:  img src="https://i.stack.imgur.com/pfv0S.png" alt="enter image description here"  But when I click on "Connection Doctor" and then "Try With Selected Server" it works.  How can I fix this?  <comment222610> is this an Exchange email connection?

@@ -1,0 +1,1 @@
+Remove fonts from top of Keynote Font Menu <body> When I click on the Font menu in keynote, I see many fonts that are not in my document:  img src="https://i.stack.imgur.com/rHMfg.png" alt="enter image description here"  How do I remove the fonts that I'm not using? 

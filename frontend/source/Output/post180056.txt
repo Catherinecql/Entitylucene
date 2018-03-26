@@ -1,0 +1,1 @@
+Changing Calculator Format <body> I am using a Mac computer, and my calculator looks like the one below. Can anyone help me change it back to a normal simple calculator?  img src="https://i.stack.imgur.com/4E9Ju.png" width="399"  <answer180057> Go to View → Basic or press ⌘1 

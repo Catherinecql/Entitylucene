@@ -1,0 +1,1 @@
+Adding X fonts to XQuartz <body> I’m trying to run some X apps, but I am missing the intended fonts and the ones being used are not fixed width. Is there a way to install other X format (not TTF) fonts? I’m not trying to use the system TTF fonts as the app only uses bitmapped fonts. 

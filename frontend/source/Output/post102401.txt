@@ -1,0 +1,1 @@
+Why is "Users" file size so big? <body> Why is "Users" file so huge? I am Migrating my Time Capsule's copy of my Air hard drive back to my Air with brand new Hard drive installed.  <answer102402> The code/Users/code folder is so big because that's where emall/em the user data is stored. All the pictures, library files, movies, etc. 

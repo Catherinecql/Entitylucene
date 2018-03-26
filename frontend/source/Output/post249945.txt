@@ -1,0 +1,1 @@
+"My podcast" section is messed up in the app <body> Every time I subscribe to "the joe rogan experience"  and go back to the "my podcast" screen "JRE" isn't there but some other podcast I know I've never subscribed to is there. What's going on? 

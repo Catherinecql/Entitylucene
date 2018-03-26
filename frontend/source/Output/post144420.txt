@@ -1,0 +1,1 @@
+How to share Ethernet Internet to Android phone? <body> I have installed Horndis driver on my Mavericks and my phone is displayed in Network preferences.  The issue is I can't get access to internet.  I shared Ethernet connection (from Sharing preferences) and after that the phone interface in Network preferences says 'Not Connected'. 

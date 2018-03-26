@@ -1,0 +1,1 @@
+Projector files in a iPad <body> I have some files "Projector" generated from an old Flash CS3. Is there any way I can see that in a new iPad? How?  I would like to see the project full screen when I am offline. 

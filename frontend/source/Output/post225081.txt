@@ -1,0 +1,1 @@
+FaceTime dims all other audio during video calls – how to stop that happening? <body> Is there a hidden preference or something I can get at through codedefaults write/code?  I'm running El Capitan 10.11.2 Beta (15C31f) 

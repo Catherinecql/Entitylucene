@@ -1,0 +1,1 @@
+iPhone 4 switches off suddenly when I travel <body> This happens in two occations.  ol liWhen I move. May be when iphone switches GSM towers./li liWhen I unplug the dock connector it sometimes happens but with no pattern./li /ol  <comment103308> Boot failure count: 1 Boot faults: rst vdd_under Boot stage: 255

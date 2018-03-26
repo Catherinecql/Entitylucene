@@ -1,0 +1,1 @@
+How to get iTerm2 tmux integration <body> I am trying to get multiple iTerm windows with tmux running in each. Currently if I press Command-N for a new window, it is a mirror of the other.   Shell  tmux  "New tmux window" is greyed out (along with the other options in that sub-menu)  So, it appears that it is not integrating properly. How can I fix this? 

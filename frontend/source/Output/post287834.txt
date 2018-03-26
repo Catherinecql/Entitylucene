@@ -1,0 +1,1 @@
+Running an AppleScript on a remote computer using ssh <body> How would I execute an AppleScript that is saved on my computer on a remote computer? 

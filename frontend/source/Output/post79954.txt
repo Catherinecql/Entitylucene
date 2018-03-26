@@ -1,0 +1,1 @@
+screen sharing turns on remote monitor <body> When I connect to my work computer with screen sharing, the work computer's screen turns on and shows what im doing. I lock the work machine and turn off its display.  Is there a way to prevent the remote screen from turning on during screen sharing.  <comment92233> check this answer: http://apple.stackexchange.com/a/59322/4680

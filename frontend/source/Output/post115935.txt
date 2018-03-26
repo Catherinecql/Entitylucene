@@ -1,0 +1,1 @@
+Facetime HD Camera undetected in Vodburner <body> I have installed Vodburner but it is not detecting the Facetime HD camera. Please suggest how to solve this.  <comment135663> Just downloaded and installed Vodburner myself — camera not detected either. Seems like a bug.

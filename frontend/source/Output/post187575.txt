@@ -1,0 +1,1 @@
+Upgrade to yosemite stops for 4 hours <body> Upgrade to yosemite has stopped. It has the apple logo with a progress line half way completed. kbd⌥ Control/kbd+kbdL/kbd does nothing. What should I do it has been this way for 4.5 hours.  <comment221845> Does http://apple.stackexchange.com/questions/151093/yosemite-upgrade-frozen-what-should-i-do?rq=1 help?

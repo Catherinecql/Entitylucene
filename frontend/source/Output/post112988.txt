@@ -1,0 +1,1 @@
+Proximity sensor reversed <body> When I answer a call on my iPhone 5, latest ios version, the screen goes black when away from my ear and lights up when next to my ear. If I press the home button while the screen is black it lights up momentarily then goes black again. I don't even have time to end call, press speakerphone or anything. Anyone else experienced this problem? 

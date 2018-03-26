@@ -1,0 +1,1 @@
+Increase delay in Photo Booth app? <body> I was wondering if there is a way to increase the number of seconds before Photo Booth takes a picture (currently 3 seconds) or if alternatively there is an app I can use with my iSight camera that will allow me to take delayed pictures (preferably many at a time). Any help is greatly appreciated! 

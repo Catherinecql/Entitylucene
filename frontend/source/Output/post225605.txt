@@ -1,0 +1,1 @@
+Can Facebook read my calendar on iOS? <body> My iOS calendar is synced with a caldav server. If I set up my Facebook account in the iOS settings to also see Facebook events, can Facebook also emread/em my other calendar events?  <answer228303> No facebook wont see your calendar. it doesn't work like that.  <comment278392> Can you elaborate on that?

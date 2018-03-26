@@ -1,0 +1,1 @@
+How to reduce System Services data usage <body> How to disabled my iPhone 4S system services?  While I am using cellular data, System services take too much data. In two days it used 500 MB of my data pack.  

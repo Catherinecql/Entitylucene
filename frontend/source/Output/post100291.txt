@@ -1,0 +1,1 @@
+How do I build and export .saver file in Xcode? <body> I'm a n00b to say the least when it comes to XCODE, Obj-C, and OpenGL. But i've managed to successfully modify and build an existing open source screensaver project. How do I export the product to an .saver file? 

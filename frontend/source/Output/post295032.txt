@@ -1,0 +1,1 @@
+How can I rebind launchpad move left/right a page? <body> On launchpad I would like to rebind left/right page from cmd + &lt;-/- to alt+2/3. Is this possible? There are no options in system preferences - keyboard shortcuts, but there are shortcuts. I just can't seem to find them.  

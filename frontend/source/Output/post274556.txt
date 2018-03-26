@@ -1,0 +1,1 @@
+Magic Mouse not scrolling! <body> Just bought the magic mouse 2 it's working but not scrolling up and down.  When I go into system preferences and click on mouse, it shows there is no mouse found!  Help!   <comment345252> Try plugging it into your iMac via USB (and a lightning cable) and make sure it has charge!

@@ -1,0 +1,1 @@
+What is the difference between .m3u8 and .m3u playlists types? <body> iTunes will export a few different kinds of playlists, including .m3u8 and .m3u types.  What is the difference between these two file types?    <answer45499> code.m3u8/code is simply a UTF-8 version of the M3U format [source]. (code.m3u/code files can have various encodings.) 

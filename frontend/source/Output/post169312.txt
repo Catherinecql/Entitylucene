@@ -1,0 +1,1 @@
+Desktop Mac OSX b10.9, MAIL PROGRAM <body> When I attach a document to my email, it can come out as an icon, or sometimes as a printed document. Can I control this?    <answer169320> If you are attaching something in a new email:  RIGHT Click on the attachment and select View as Icon or View in Place.  img src="https://i.stack.imgur.com/sN0qL.jpg" alt="attachment" 

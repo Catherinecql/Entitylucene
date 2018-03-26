@@ -1,0 +1,1 @@
+FaceTime: Keyboard shortcut or command name to hang up? <body> Is there a keyboard shortcut to end a FaceTime call? I searched the menubar for such a command, in order to create a custom shortcut in System Prefs; found none.  Are FaceTime keyboard shortcuts not listed in the menubar documented by Apple anywhere?  

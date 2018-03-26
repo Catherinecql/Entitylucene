@@ -1,0 +1,1 @@
+Apple Mail logical search <body> So if I want to search for a message that is FROM a certain "abc" and contains the text "xyz", how do I do that in Apple Mail? 

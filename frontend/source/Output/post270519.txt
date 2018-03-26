@@ -1,0 +1,1 @@
+my iMac connects to internet on one account but won't on another (wifi is fine) <body> My mac is only getting online from one of my accounts which is not Admin. The account it works on is fine and works perfectly but when i switch to my other account it starts popping up windows telling me to put in a keychain passwords or something, and doesn't work online!  

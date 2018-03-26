@@ -1,0 +1,1 @@
+Do you know which type of cache mapping Apple A9 implements? <body> As far as I know, the cache hierachy is:     ul   li64KB (I) + 64KB (D) L1 (per core) /li   li3MB L2 (shared between cores) /li   li4MB L3 (shared and "victim" cache)/li   /ul   But I'm not able to find the cache mapping that Apple is using here. 

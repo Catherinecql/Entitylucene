@@ -1,0 +1,1 @@
+how can i preserve the group when I export it and it is imported by someone else <body> I am trying to send a group of contacts to other people and I want them to be able to import these contacts so that the group is created and preserved for them too.  Is the alternative for them to have to create the group themselves in their Contacts app and then add each individual member? 

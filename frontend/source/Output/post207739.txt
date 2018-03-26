@@ -1,0 +1,1 @@
+How to hide “Siri app suggestions” in iOS? <body> When you swipe down on the homescreen, iOS 9 now displays a row of app suggestions below the Search field. Is it possible to hide this row?   <answer207743> Go to Settings  General  Spotlight Search and you'll see a switch for Siri Suggestions at the top of the screen.img src="https://i.stack.imgur.com/WCi8t.jpg" alt="" 

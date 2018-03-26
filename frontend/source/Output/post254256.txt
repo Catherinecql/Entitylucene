@@ -1,0 +1,1 @@
+Why does "Safari Web Content quit unexpectedly" occur often in macOS Sierra? <body> "Safari Web Content quit unexpectedly" seems to occur very often after upgrading to macOS Sierra. Are there any solutions?  <comment341939> not just Sierra - El Capitan after Safari upgrade to 10.0.3

@@ -1,0 +1,1 @@
+Boot into Safari-only mode in Mountain Lion? <body> In Lion, you used to be able to boot into a Safari-only mode. Where did that go in Mountain Lion?  <answer91112> In Mountain Lion, Safari-only mode was replaced by a full guest account, however you can get it back by strongenabling FileVault 2/strong. 

@@ -1,0 +1,1 @@
+How to redirect MacBook 2009 audio to my Sony TV? <body> I can't connect audio from my MacBook 2009 to a Sony HD LED TV, need some help.   <answer171262> 2009 MacBook Pro's do not output audio through the display port.  This feature didn't start until the 2010 models.  You will need a second optical cable or headphone cable from the audio port. 

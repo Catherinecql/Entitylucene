@@ -1,0 +1,1 @@
+com.apple.sbd is using up a lot of CPU! <body> img src="https://i.stack.imgur.com/qMOyU.png" alt="enter image description here"  As shown above, is there a way to make the process behave normally?  El Capitan 10.11.6  <comment315464> Try signing out & back into iCloud

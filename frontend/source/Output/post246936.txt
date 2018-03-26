@@ -1,0 +1,1 @@
+How can I view blue "replace" suggestions in Preview? <body> In Preview, how can I see the suggested replacements noted by blue strikethroughs? Do I need adobe acrobat to view these?  img src="https://i.stack.imgur.com/DLmSx.png" alt="enter image description here"   <answer287342> It doesn't seem to work. I used Adobe Reader DC, it's free. 

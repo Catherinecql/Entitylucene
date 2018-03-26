@@ -1,0 +1,1 @@
+Is there a config file stores the system shortcuts? <body> We can change shortcuts in System Preferences - Keyboard - Shortcuts.  And many preferences has its associated file.  So I wonder if there is any file related to the shortcuts.  Then I can use version control or Dropbox to make it sync-able. 

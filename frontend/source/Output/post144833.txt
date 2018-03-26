@@ -1,0 +1,1 @@
+Malware or not, and how to fix? <body> I have a problem where advertising popups randomly appear in new windows in Firefox or Safari. I have the newest Firefox/Safari versions, and Mac OS 10.9. I do not have this problem in Chrome. Is this a malware program, and if it is how can I remove it? Thanks!  <comment170615> Looks like a bug. Reset both browsers in question.

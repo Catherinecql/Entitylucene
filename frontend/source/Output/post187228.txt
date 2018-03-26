@@ -1,0 +1,1 @@
+Adobe Acrobat - poor tool bar layout <body> I would like to know if:  ul liit's possible to configure Adobe Acrobat so the tool bar is show in one line, as the present arrangement wastes a lot space./li liRemove emcreate/em and emcloud/em buttons that I never use/li /ul  img src="https://i.stack.imgur.com/8jxLg.png" alt="poor tools" 

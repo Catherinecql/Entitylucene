@@ -1,0 +1,1 @@
+Mobile hotspot settings <body> I'm trying to use my iPhones mobile hotspot as a router between two laptops. Right now the laptops can't ping each other. Is there some firewall or settings on the iPhone that block communication between the two? 

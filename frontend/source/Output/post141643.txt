@@ -1,0 +1,1 @@
+Bypass proxy for local addresses <body> I want to use proxy on my iPhone to be able to access the internet from my organization Wifi, but I face a problem when accessing local intranet addresses (e-mail mainly) as it has to bypass proxy server  how can i configure some addresses to be bypassed?  

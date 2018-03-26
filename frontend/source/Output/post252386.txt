@@ -1,0 +1,1 @@
+Keyboard shortcuts/ unicode in Sublime Text <body> Under codeSystem preferences &gt; Keyboard &gt; Text/code I have a lot of shortcuts, so for example I can type code\alpha/code and get α, or some abbreviation and get the whole word. I want to enable these keyboard shortcuts when I am writing LaTeX documents in Sublime Text 3. Is this possible? 

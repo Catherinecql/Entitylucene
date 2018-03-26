@@ -1,0 +1,1 @@
+Keyboard Maestro is not working with AppleScript, when it has before <body> I had to redownload Keyboard Maestro because my trial ran out. I had to download an earlier version because the version I was using was not working. Anyway, I've used these two programs together many times, and only now is it not working.  img src="https://i.stack.imgur.com/CVkbT.png" alt="" 

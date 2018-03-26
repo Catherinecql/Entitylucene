@@ -1,0 +1,1 @@
+No power charging indicator to show if Mac is fully charged <body> Normally, there is power indicator on the side. When it is fully charged, the red light turned into green. but there is no power indicator in this 12 inch MacBook, how do I know if it is fully charged?   <comment337870> You open the computer and check. There is nothing on the outside to indicate charge level

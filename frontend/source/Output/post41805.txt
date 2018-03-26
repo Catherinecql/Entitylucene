@@ -1,0 +1,1 @@
+How to repair damaged mkv file on mac <body> I tried Meteorite. It doesn't work, just keep crashing. Any other way I can fix the damaged .mkv file on Mac?  <answer41810> Try extracting video and audio with MKVToolnix and re-muxing with the same tool.  <comment47505> it works. thanks buddy.

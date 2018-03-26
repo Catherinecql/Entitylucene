@@ -1,0 +1,1 @@
+How to display webp images in Safari? <body> I thought I read that since Sierra, Safari supported WebP, but when I try to view an image with a content type of "image/webp", it gets downloaded instead of displayed. So is it not supported after all?  

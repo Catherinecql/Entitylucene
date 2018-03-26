@@ -1,0 +1,1 @@
+How to print Instagram photos locally? <body> Is there any app/workflow which allows me to print photos in the official Instagram app as easily as possible?  Background: Lots of our customers show us their ideas on Instagram on our iPad. We'd like to print them so we can use them as model for our work. The printer is in the same WiFi network as the iPad. 

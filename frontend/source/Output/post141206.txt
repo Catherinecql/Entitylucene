@@ -1,0 +1,1 @@
+PDF reader for cloud accessing <body> I was wondering if there exists a cloud PDF reader for iOS. The PDF reader can only access the pdf files on the cloud without storing pdf file locally. What I mean is the PDF reader will always download the file I want to read on the fly but remove the local copy if I exit the PDF reader.  Could anyone suggest a PDF reader with this feature? 

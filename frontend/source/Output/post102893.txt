@@ -1,0 +1,1 @@
+How to display the remaining time that the device will be locked for? <body> I locked my iPad by accident after upgrading to iOS 7 and noticed that it no longer displayed the remaining time that the device will be locked for. Is there any way to enable this? 

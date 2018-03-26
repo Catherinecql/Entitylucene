@@ -1,0 +1,1 @@
+Cannot use Insert key on Mac Mini Client with pc keyboard to VNC PC Server <body> I have an early 2014 mac mini with a pc keyboard with an insert key and no fn key.  I am connected via VNC to a Windows 7 machine.  I am using WireReady on the pc. How do I send the insert key command to the pc? 

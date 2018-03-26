@@ -1,0 +1,1 @@
+Find Page and Folder Location of an iOS App <body> How can I find which page and which folder an app is on Springboard? 

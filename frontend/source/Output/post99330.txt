@@ -1,0 +1,1 @@
+Snow Leopard Speech Recognition pane is blank <body> I wanted to play with the speech recognition in osx but the system preferances pane is blank. The text to speech one appears ok but speech recognition is completely empty.  Any ideas? 

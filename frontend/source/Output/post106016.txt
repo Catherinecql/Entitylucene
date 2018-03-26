@@ -1,0 +1,1 @@
+Show hidden apps (⌘H) in Mission Control <body> In OS X 10.8.5 if I hide an app with kbd⌘ cmd/kbd+kbdH/kbd, it does not show in Mission Control until it has been revealed again via the app switcher or dock.  Is it possible to show windows for hidden apps in Mission Control? 

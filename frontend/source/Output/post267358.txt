@@ -1,0 +1,1 @@
+Can Personal Hotspot clients be made to respect Mobile Data restrictions? <body> While traveling I often use my iPhones personal hotspot feature to provide internet access to my iPads. My phone knows not to use my mobile data to download app updates but my iPad doesn't. How can I get hotspot client devices to behave nicely with my mobile data? 

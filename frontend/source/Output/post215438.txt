@@ -1,0 +1,1 @@
+How can I open a photo in mail that is missing it's extension? <body> My security camera sends jpgs that are missing the filename extension ".jpg" Is there any way to view these images on my iPhone?  <answer245163> One way is try to "rename it" add .jpg If the file is not corrupted it will work. 

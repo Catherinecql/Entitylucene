@@ -1,0 +1,1 @@
+Searching with spotlight the content of .json files <body> I was trying to search the content of .json files using spotlight but the results always return nothing .. I've also followed the solution suggested in here but it didn't work .. is there any other way to search inside .json ?  <comment299983> I am assuming you tried grep from the command line?

@@ -1,0 +1,1 @@
+Camera failure in iPod touch after 5.1.1 update <body> What could be the problem if the Camera was failed to open in my iPod?   Since updating the OS of the touch to iOS v 5.1.1, I have specific problems in front camera:  ul lithe shutter will freeze/li liand when it opened it will turn to black screen/li /ul  How might I solve this problem? 

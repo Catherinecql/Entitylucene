@@ -1,0 +1,1 @@
+Wikis on OS X Server - How do I duplicate an existing wiki? <body> We would like to overhaul a current wiki but keep the existing one online.  Ideally I would prefer not to spin up another Wiki server to do this.  Has anyone successfully duplicated (and renamed) an existing OS X Wiki?   OS X Server.app version 5.2 (16S1195) 

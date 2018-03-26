@@ -1,0 +1,1 @@
+Is it possible to use Time Machine with Airport Express + USB External Drive? <body> I'm wondering if it's possible to connect an external USB drive to my Airport Express and then run Time Machine backups onto that? A bit like a makeshift Time Capsule.  <answer16091> No - airport express doesn't share drives, just printers. 

@@ -1,0 +1,1 @@
+Turn off external display without sleep/lock screen <body> Is there a shortcut to turn off/on the external display without using Sleep and having to enter the password? (note I still want to have to type the password when I wake up the computer after it actually goes to sleep.) 

@@ -1,0 +1,1 @@
+Can I assign an Automator workflow to more than one application? <body> I have created an automator service, and assigned it to an application. I would like to assign it to more than application but emnot/em to all applications.  Is that possible at all? Would it work if I edited the document.wflow XML file?  Thanks  

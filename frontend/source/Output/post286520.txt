@@ -1,0 +1,1 @@
+Some sounds are not playing in Webapp after updating iPad to 10.3.2 <body> I'm helping someone who updated their iPad to iOS 10.3.2 and the sound stopped working for some websites.  Did Apple make updates that would affect the ability to play some audio formats? 

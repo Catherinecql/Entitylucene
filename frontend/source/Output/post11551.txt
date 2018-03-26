@@ -1,0 +1,1 @@
+How to connect iPhone 3GS to a computer monitor without jailbreak? <body> I have to do a presentation where I want to demo some apps on an iPhone 3GS.  Is there a way to mirror the iPhone screen on a computer screen without jailbreaking?  <answer11556> For a 3GS, no.  There isn't a way on any iOS device aside from the iPad 2 and the iPhone 4S. 

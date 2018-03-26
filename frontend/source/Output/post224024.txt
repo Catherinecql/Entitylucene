@@ -1,0 +1,1 @@
+I can't burn a CD from iTunes 12.12 <body> I am unable to burn a cd with the newiTunes 12.1 because there is no drop down "burn to disc" selection in Files. How can I burn a cd from my playlist?  <answer224026> Right click or Command click on the playlist in the sidebar. The context menu should have the burn option. 

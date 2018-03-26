@@ -1,0 +1,1 @@
+Use Logitech g15 multimedia keyboard with Apple Logic 9 <body> That's what I'd like to do: use my Logitech g15 multimedia keys (stop, pause etc) with Apple Logic 9.  <answer56690> Download the Logitech Control Center for OS X. It will allow you to set all the setting for your keyboard, including the stop, play, pause, and volume up/down buttons. 

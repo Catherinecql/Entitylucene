@@ -1,0 +1,1 @@
+Troubleshooting 9.3 upgrade on VZN iPhone 4S <body> The prompt to upgrade followed and 9.3 was downloaded.  The phone then required connection to iTunes.  I think 9.1 was downloaded and reinstalled:   Error 3194  Isn't it necessary to install the latest version of IOS because of the Apple signature?  How do I prompt iTunes to download the latest IOS version to the phone? 

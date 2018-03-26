@@ -1,0 +1,1 @@
+Free Tool for diagramming <body> I am looking for a strongfree tool for drawing diagrams/strong (either for OS X or online). My goal is to keep for myself a clear trace of the organization of my project. Something like OmniGraffle.  Any ideas?  Actually, I want to design a class diagram.  <answer186236> yEd is free and is available for OS X, Windows and Linux. 

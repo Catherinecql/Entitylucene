@@ -1,0 +1,1 @@
+How does a file system directory get damaged? <body> What are the main root causes and what is actually happening to the files? 

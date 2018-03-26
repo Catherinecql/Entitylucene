@@ -1,0 +1,1 @@
+Open source note encryption apps for iOS? <body> I am looking for an note taking app with the following features:  ul liopen source /li liencryption/li /ul  Even better if it comes with:  ul lireal/fake unlock key - two or more passkeys are allowed, each key unlocks different set of notes/li libackup to iCloud/Desktop/li lia desktop editor/li /ul 

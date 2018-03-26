@@ -1,0 +1,1 @@
+Is there a way to use Google Sheets filter views on IOS? <body> I made a sheet in Google Sheets on the desktop with several filter views. Then I opened the sheet in the Google Sheets app on my iPhone. In the iPhone app menu, there is an option to create a filter, but I don't see any way to access my existing filter views.   Is this possible? 

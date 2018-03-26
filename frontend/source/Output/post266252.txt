@@ -1,0 +1,1 @@
+How do I reconnect photos in Photos for MacOS <body> I keep my photos in their own folders, not imported into the Photos database. When I change the name of a folder with photos that I have imported, Photos can longer find the photos. Is there a way to reconnect from Photos to the new location or must I delete the photos in Photos and then re-import them? 

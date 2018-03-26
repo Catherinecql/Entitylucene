@@ -1,0 +1,1 @@
+How to show video from photobooth with no chrome (border) <body> I am recording a screen cast with photo booth (but can use other software), but don't want the video preview to have any border at the edge of the video. Is this possible? 

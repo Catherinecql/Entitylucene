@@ -1,0 +1,1 @@
+Is there a secure way to use curl --interface? <body> When I connect to a hotspot I want to use codecurl --interface/code to accept the terms on the captive portal. Because of the VPN settings I need the option code--interface/code which only works as root.  Now curling as root on a untrusted WiFi doesn't seem a pretty good idea to me. Can anyone help me how to do it properly? 

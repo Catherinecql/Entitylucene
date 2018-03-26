@@ -1,0 +1,1 @@
+iPhone 5s speaks the words I type when I text <body> My iPhone 5s speaks the words I type while texting.  How do I stop iPhone 5s from speaking the words I type when texting?  <answer189447> Go to Settings → General → Accessibility → Speech and disable the options.  <answer276907> Go to Settings → General → Accessibility → Speech → Typing Feedback and disable Speak Auto-text 

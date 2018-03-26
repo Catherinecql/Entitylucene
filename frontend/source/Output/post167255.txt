@@ -1,0 +1,1 @@
+Calendar on Yosemite <body> I updated to Maverick and found that CALENDAR no longer could integrate "To Do" Items with events. Will Yosemite have this needed capabiity?  <answer167265> The "To Do" list on Mavericks and Yosemite is now separate app and it is called Reminders.  You will find it in your Applications folders. 

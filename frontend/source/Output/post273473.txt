@@ -1,0 +1,1 @@
+Not able to scroll in Eclipse market place <body> I am using eclipse oxygen and i have installed jdk 8 on mac os sierra on my macbook air. while using eclipse market place neither i am able to scroll down nor am I able to see the scroll bar. Same is not true while I am editing source files. Please help. 

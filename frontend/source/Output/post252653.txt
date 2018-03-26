@@ -1,0 +1,1 @@
+How I set the address that Messages on Watch sends from? <body> Messages on Watch has been (since upgrading to watchOS) sending from an address different from the one I use on my other devices (e.g. it uses my phone number rather than my @mac.com address). This results in "split threads" for the people who I'm sending to.  How I set the address that Messages on Watch sends from? 

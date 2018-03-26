@@ -1,0 +1,1 @@
+Restore OS X 10.6 Time Machine backup to OS X 10.8 iMac <body> I just got a new iMac and have tried to use Time Machine from Snow Leopard, but Mountain Lion does not see the older back up (it is on a USB drive). All of my music and photos are in my back up and my old iMac is no longer working.  How can I restore from Time Machine?  <comment86678> Does the USB drive not mount?

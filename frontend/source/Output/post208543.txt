@@ -1,0 +1,1 @@
+Can't bring up the menu bar while in full screen mode in El Capitan <body> In Yosemite I could move the mouse to the top of the screen and the menu bar would show but under El Capitan it remains hidden. Is this a bug or is there a new way to display the menu bar while in full screen mode in 10.11? 

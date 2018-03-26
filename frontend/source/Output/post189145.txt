@@ -1,0 +1,1 @@
+Keynote location of inspector bar <body> The inspector menu opens as a vertical column by default. If I prepare a portrait poster in Keynote, I also turn my 16:9 monitor to make the long edge vertical. In this case I would prefer the inspector bar in Keynote to be horizontal, so that there is more space on the screen for my poster. Is this possible? 

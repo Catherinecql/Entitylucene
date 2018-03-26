@@ -1,0 +1,1 @@
+Will using srm to delete a file stop TRIM from working? <body> using MacBook with SSD built in. Will using srm to delete a file stop TRIM from working?  Or is it just a bit useless?!  

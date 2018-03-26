@@ -1,0 +1,1 @@
+Black vertical bar on the left side external display <body> I read this post: Big black vertical bar on external screen  But it didn't help. I have Macbook Pro early 2015 and connect with Samsung E2220 via display port adapter to VGA. Any help will be appreciated.  <comment253061> I think problem is in VGA. Try to test it in another display.

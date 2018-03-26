@@ -1,0 +1,1 @@
+How can I make the dock 'open folder' animation faster? <body> I have reduced the dock appear/hide time to 0 using these instructions How can I make auto-hide/show for the dock faster?  I love the speed but now the animation when I click on a folder in the dock is so sluggish in comparison. Does anyone know a terminal command I can use to speed it up? Thanks. 

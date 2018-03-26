@@ -1,0 +1,1 @@
+Is there an alternative Ventrilo client for OS X? <body> Are there any decent software packages for OS X that can connect to Vent servers?  The Ventrilo for Mac client isn't up to much.  

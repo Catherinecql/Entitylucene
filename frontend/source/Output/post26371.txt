@@ -1,0 +1,1 @@
+Is it possible to use the Magic trackpad on Windows? <body> Is this possible to use the Apple Magic Trackpad on a Windows Computer ?  <answer26374> The bootcamp FAQ is helpful for these sorts of questions   ul lihttp://www.apple.com/support/bootcamp//li lihttp://support.apple.com/kb/HT4273 /li /ul 

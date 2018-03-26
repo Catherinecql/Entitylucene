@@ -1,0 +1,1 @@
+Is there a way to open terminal rather than terminal emulator? <body> I mean the system terminal, without the need for window manager and emulators...  On linux that was achievable via ALT+Fx, but it's not like that for OS X.  <answer216474> sounds like you want single user mode?  Hold s while booting the computer.  

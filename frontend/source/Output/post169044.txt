@@ -1,0 +1,1 @@
+Reverse Reading List Order in Safari for iOS <body> I want to read through my reading list in the order that I add links, but making use of the seamless page to page scrolling functionality requires that I read them starting with the one I added most recently.  Is there a way to reverse this? 

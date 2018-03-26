@@ -1,0 +1,1 @@
+Is there a PGP/GPG Plugin for TextWrangler? <body> Is there a PGP/GPG plugin for TextWrangler? If so, what is it called and how do I go about downloading and installing it?  <comment247710> and/or for BBedit?

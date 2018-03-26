@@ -1,0 +1,1 @@
+Dell P2416D + Retina MacBook Pro =? <body> Is this combo known to work ? Any issues ? Any tweaks required, eg. font smoothing, HiDPI modes, etc ? A general web search didn't show any results   I did come across the foll: Unable to use full resolution of P2416D ... but that is (probably) a pre-Retina MacbookPro 

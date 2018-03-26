@@ -1,0 +1,1 @@
+HEX-/RGB-colors in Terminal <body> I'd appreciate to be able to use my Linux colorscheme in Terminal.  Is there a way I can specify HEX-codes or maybe RGB-values?  <answer112652> You can specify the colors as RGB from the second tab of the color picker:  img src="https://i.stack.imgur.com/HAAiz.png" alt=""  You can specify a color as a hex code by installing Hex Color Picker. 

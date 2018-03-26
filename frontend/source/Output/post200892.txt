@@ -1,0 +1,1 @@
+How can I add to the special characters dictionary in Xcode? <body> I want to add the Font Awesome Icons to my Xcode special characters dictionary, (Edit-Emoji &amp; Symbols) so that I can manually input FontAwesome Icons into my UIButton and UILabels from the Storyboard, instead of accessing it from code. How can I do this? 

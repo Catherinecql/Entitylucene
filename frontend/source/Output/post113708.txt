@@ -1,0 +1,1 @@
+How to give app permanent access to contacts <body> I'm running OSX 10.9. And my apps keep asking me for permission every time I restart my computer. Is there a way to give them permanent access to my contacts?  Currently the only the options are "Don't Allow" and "Ok"  

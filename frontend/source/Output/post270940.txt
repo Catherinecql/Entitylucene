@@ -1,0 +1,1 @@
+To collage 2 images in 2 different pdf pages in a single page <body> I have  single pdf file having 2 images in 2 different pages. I want these 2 images in a single page of the pdf file. What is the best solution to achieve this on MAC?  

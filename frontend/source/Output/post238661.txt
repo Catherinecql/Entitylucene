@@ -1,0 +1,1 @@
+How does OS X Dictation input keystrokes? <body> I am using this keylogger for my own statistics, it simply listens on KeyDown. But when I use the built in dictation, kCGEventKeyDown is not triggered. https://github.com/caseyscarborough/keylogger/  As seen in this file: https://github.com/caseyscarborough/keylogger/blob/master/keylogger.c  How can I detect dictation input's? 

@@ -1,0 +1,1 @@
+How can I set Word's Zoom to Page width default? <body> When I open Word, I have to set strongZoom/strong to strongPage width/strong, how can I set strongPage width/strong to default setting, so I don't have to  manually set this every time.  img src="https://i.stack.imgur.com/edLC2.png" alt="enter image description here" 

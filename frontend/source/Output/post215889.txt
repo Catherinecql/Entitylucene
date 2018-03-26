@@ -1,0 +1,1 @@
+iPad Air Refurbished losing Touch Sensitivity during usage <body> After roughly 1 hour of being switched on, my iPad progressively loses it's gradient of touch-sensitivity.  For example - if I'm using Garageband, the drums gradually lose their velocity sensitivity.   The problem disappears only after a reboot. iPad is new (refurbished).  

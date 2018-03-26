@@ -1,0 +1,1 @@
+Reminders refuse to Synchronise iOS8.1 - Yosemite10.10.1 <body> Reminders not syncing with new iPad Air 2 (iOS 8.1) and MacBook Air (Yosemite 10.10.1).  Have tried turing off reminder synchronisation, entering dummy reminder, and turning synchronisation back on. Didn't fix it. 

@@ -1,0 +1,1 @@
+Can't view my folders/mailboxes that live on my computer on iCloud <body> When I open my mail on iCloud I want to be able to see the folders that are stored on my Mac's Mail on my main computer.  A few of the "folders" are visible, but I don't know why they are and the others aren't.  What is the difference between a "mailbox" and a "folder"? 

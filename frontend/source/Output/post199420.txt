@@ -1,0 +1,1 @@
+Backup failed due to insufficient storage in the iCloud <body> I just bought 20GB iCloud storage. But still, I couldn't back up my phone. Why?  <answer199424> 20 GB might still not be enough. Go to Settings → iCloud → Backup and check the Next Backup size to make sure it is less than the free space on your iCloud account. 

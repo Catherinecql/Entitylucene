@@ -1,0 +1,1 @@
+How do I make my USB pen drive writable? <body> My pen drive is currently read-only, how can I change this?  <answer128783> Some usb's have write protect switch ! (a real switch, not software)  Sometimes it is a simple as flipping the switch. 

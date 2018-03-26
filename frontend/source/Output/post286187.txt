@@ -1,0 +1,1 @@
+Detecting changes in pf firewall <body> Is there any way to check for changes in the pf firewall rules without actively querying codepfctl/code (on a regular basis)? I'm thinking programatic callbacks for example. 

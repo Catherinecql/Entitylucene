@@ -1,0 +1,1 @@
+Automator: Ask for Finder Items file type <body> Is it possible to filter the codeAsk for Finder Items/code action by file type?  In my case, I only want to display PDF files, but I get the whole lot.  <comment334845> No, the **Ask for Finder Items** _action_ does not have the controls to filter by file type.

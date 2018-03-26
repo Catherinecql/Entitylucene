@@ -1,0 +1,1 @@
+Battery notification application based on mAh level <body> I would like to know if any of you know of an application that would enable me to get notifications based on battery percentage level as well as mAh level. The latter is what matter the most to me. Thanks! 

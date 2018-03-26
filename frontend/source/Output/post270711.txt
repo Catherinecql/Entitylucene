@@ -1,0 +1,1 @@
+How do I disable AirDrop in the macOS Share menu? <body> The settings for the Share menu provide no option for disabling AirDrop:  img src="https://i.stack.imgur.com/6ei4C.png" width="392"  Is there some other way to accomplish this? Instructions at How can AirDrop be disabled? have no effect. 

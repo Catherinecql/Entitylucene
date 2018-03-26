@@ -1,0 +1,1 @@
+Can I set an app to ignore Do Not Disturb? <body> I have an app that informs me of critical events - for example, scheduled automated tasks failing.  But when I set my phone to Do Not Disturb, this app goes silent as well.  Is there a way I can set this particular app to play sounds even if my phone is on Do Not Disturb? 

@@ -1,0 +1,1 @@
+Keynote and projection screen not synchronized <body> If I connect my iPad (2) to a beamer to show a keynote (version 1.7.2) presentation, my iPad skips the first slide. So the projection screen shows slide 1, when my iPad shows slide 2. What am I doing wrong? How can I synchronize both screens? 

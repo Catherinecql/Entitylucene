@@ -1,0 +1,1 @@
+Browse or view HFS Journal? <body> Is there any way to examine the journal of an HFS filesystem?  ul liCommand line methods?/li liGUI methods?  (X is fine.)/li /ul  <comment337125> I've edited this post (to simplify it) rather than asking my own duplicate question.  Very interested in the answer.

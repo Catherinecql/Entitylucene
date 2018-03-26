@@ -1,0 +1,1 @@
+Playing iTunes from iPhone 6S to iHome AND vluetooth speaker simultaneously <body> I've seen some information here, but not my specific issue.  I've got iTunes playing via lightning wire (on charge) to the iHome.  I just purchased a Beats Pill+ Bluetooth speaker, and wish the device would send out same signal to both sources at the same time.  h2Can this be done?/h2 

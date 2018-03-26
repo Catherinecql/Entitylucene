@@ -1,0 +1,1 @@
+Final Cut Pro 10.0.7 Yosemite Compatibility? <body> How do I get Final Cut Pro to work on Yosemite?   Any fixes will be greatly appreciated thanks.  <answer156726> Final Cut Pro (10.0.7) is incompatible with Yosemite. When I was updating my mac to Yosemite, I had to update many apps so they would work including Final Cut Pro. 

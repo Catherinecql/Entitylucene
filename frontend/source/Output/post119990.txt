@@ -1,0 +1,1 @@
+How to make Image Capture expand Shared devices by default <body> Have an Epson WF-3540 connected to my network.  When I start Image Capture, it shows that I have 1 shared device.  However, I always have to click on the Show button to be able to interact with the scanner.  How can I make it auto-expand? 

@@ -1,0 +1,1 @@
+What is the filename of "New Messages Sound"? <body> I'm looking for the file which Mail plays when a message comes in.  <answer22057> It's located in the Resources folder inside Mail.app. Assuming you've left Mail.app in its default installed location, the path is:  precode/Applications/Mail.app/Contents/Resources/New\ Mail.aiff /code/pre  <comment24341> Perfect! Many thanks.

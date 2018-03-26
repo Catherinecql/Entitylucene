@@ -1,0 +1,1 @@
+Upgrade to EL Capitan <body> I have Mavericks working on macos 10.9.5 on a Macbook 2yrs old.how do I upgrade to El capitan?? I don't want anything higher than macos 11 i.e. Siera.otherwise my Sqeezebox music player won't work. 

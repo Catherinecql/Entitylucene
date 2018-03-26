@@ -1,0 +1,1 @@
+ARD copy file from network share <body> I am trying to use ARD to send a Unix command that will have the client download a file from an afp or smb network share. So far I have been unsuccessful.  

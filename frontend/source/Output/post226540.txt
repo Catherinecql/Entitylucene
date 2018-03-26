@@ -1,0 +1,1 @@
+Hide bookmarks bar on iOS <body> I am using iPad and the bookmarks bar takes up too much space on screen. I want to remove but cannot figure out how.  <answer226566> strongSettings/strong → strongSafari/strong → disable strongShow Favorites Bar/strong. 

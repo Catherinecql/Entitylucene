@@ -1,0 +1,1 @@
+Can I change the window of a program on mouse wheel up on the Dock? <body> The Dock on OS X does not have a wheel mouse button event, I think that it will be excellent to move on the open windows of an app (example: Chrome) when I put the mouse on the icon of the program in the Dock and mouse wheel up or down. I want to program it in python but I am a newbie. 

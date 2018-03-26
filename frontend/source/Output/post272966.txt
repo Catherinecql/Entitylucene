@@ -1,0 +1,1 @@
+Horizonta Image Reversal <body> It appears to me that the Isight Camera as well as any attached external camera flips the image right to left including shots taken with Photo Booth.This happens on my early 13" MacBook.Any fixes? 

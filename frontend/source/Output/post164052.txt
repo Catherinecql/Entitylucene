@@ -1,0 +1,1 @@
+Low sound on Youtube after Yosemite update, <body> Lost sound after Yosemite update on Safari, Chrome, Firefox. Tried replugging Apple headphones...get lowest possible sound at top volume, slightly better on headphones. Not tech savvy...help.  <comment192281> Did you verify your sound output volume level in system preferences?

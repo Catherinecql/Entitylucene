@@ -1,0 +1,1 @@
+How to upload keychain to iCloud? <body> This may seem like a stupid question but I want to be able to synchronise my Keychain records with my iCloud account.  Currently when I login to the iCloud it downloads 5 year old records completely obliterating any existing records, how can i make this synchronous? 

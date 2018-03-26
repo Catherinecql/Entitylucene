@@ -1,0 +1,1 @@
+Sierra Asks to Set Up Mac Each Boot <body> Since upgrading to Sierra, every reboot OSX asks me to set up Siri then says "setting up mac".    How do I stop this?  It seems to be blowing away my KeyRepeat settings in codeNSGlobalDomain/code  <answer266157> Hold Control+Shift+Option and press the power button.  Release and power on normally.  This works... surprisingly 

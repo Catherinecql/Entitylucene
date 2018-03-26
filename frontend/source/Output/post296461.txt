@@ -1,0 +1,1 @@
+Path to the Folder where Widgets are stored! <body> There are lots of useless widgets in the notification center of macOS, so does anyone knows where these widgets are stored in the system, I want the path to that folder in-order to remove the useless ones to the trash.img src="https://i.stack.imgur.com/1KEsr.jpg" alt="enter image description here" 

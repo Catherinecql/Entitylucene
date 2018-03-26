@@ -1,0 +1,1 @@
+How to get the time spent on battery since the last full charge without considering the sleep time <body> In Activity Monitor we can get how much time has passed since the last charge, but this time includes also the time in which the Mac was asleep. Is there any way or any app which tells the time the Mac was awake? 

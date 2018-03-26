@@ -1,0 +1,1 @@
+Adobe CS5 graphing issue <body> Does anyone have issues with the CS5 version of illustrator and the graph function under macOS 10.12 Sierra?  I can not get rid of the graph table when making a pie chart. 

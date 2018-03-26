@@ -1,0 +1,1 @@
+Garageband piano lesson download is stuck <body> The app store says version 10.1.1 is installed  I went to download the piano lessons. I set all of them downloading. They seem to download then get stuck in a pending state.   Restarting Garageband just sets them downloading again. How do I tell it to stop. I have already tried highlighting each row and pressing delete. 

@@ -1,0 +1,1 @@
+Keychain Access windows close by themselves <body> Upgraded to El Capitan. When I 'Get Info' on any keychain item, the window randomly closes by itself between 10 and 60 seconds later. Even if I am actively typing in the window.  

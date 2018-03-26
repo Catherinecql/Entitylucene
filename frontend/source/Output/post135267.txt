@@ -1,0 +1,1 @@
+Apple ID can't be verified after update to iOS 7.1.1 <body> I've just updated my iPad to iOS 7.1.1 and it can't verify my Apple ID. I can't download apps or update apps! Anyone know how to fix this?  <comment160324> When writing titles, be specific to the problem at hand. A title needs to concisely summarise a problem.

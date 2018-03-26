@@ -1,0 +1,1 @@
+Can I connect standard Dell displays to a Thunderbolt iMac? <body> Can I connect standard Dell monitors to a Thunderbolt iMac? I think the Dell monitors are VGA with DVI-D ports.  <answer31990> If you get a Mini-DisplayPort/Thunderbolt to DVI adapter, then yes you can hook any DVI display up to your Mac.  <comment36687> Check out Monoprice for a shaper alternative.

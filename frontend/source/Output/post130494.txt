@@ -1,0 +1,1 @@
+Changing background colors in my folders <body> How can I change the folder color from black to grey in my folders. I am using OS X 10.6.8. I tried going to View, Show View Options and there is nothing there for me to change colors  <answer130495> If the option isn't under 'Show View Options', make sure your folder view is set to icons. You can't change the colour in list view. 

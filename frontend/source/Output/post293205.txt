@@ -1,0 +1,1 @@
+Accessing library directory in an app <body> Is it possible to access, after installing an app, the library directory in an unjailbroken device? I've only the compiled ready-to-use ipa and I'd like to add some files to the library folder, but it does not exist before installing. 

@@ -1,0 +1,1 @@
+"Startup disk" in "About this Mac" <body> I noticed that on when I go into "About this Mac" on my iMac I see a parameter named "Startup disk" while on my MacBook I do not... Is this because I have multiple disks in my iMac and only one in the MacBook?  <answer243845> Yes, it's because the Mac sees multiple bootable disks.    Or multiple bootable volumes on the internal drive.   

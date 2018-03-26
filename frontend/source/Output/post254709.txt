@@ -1,0 +1,1 @@
+Does apple notify you when a certificate is going to expire? <body> Do apple notify the developer or email when a push notification is going to expired?  <answer254749> Yes, at 30 days, 10 days and 1 day prior to expiration date, you will receive the following email:  img src="https://i.stack.imgur.com/Hdp8O.png" alt="" 

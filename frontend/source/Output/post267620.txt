@@ -1,0 +1,1 @@
+AppleScript or Safari add-on to highlight text <body> I have some variable that I would like to highlight in Safari.  I was thinking AppleScript, but I can use something else otherwise.   I'm using a Chrome plugging which do the same, any idea how to do that?  E.g : img src="https://i.stack.imgur.com/v7Oio.png" alt="enter image description here" 

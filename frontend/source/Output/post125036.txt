@@ -1,0 +1,1 @@
+Mavericks Finder Sidebar Bug? <body> I think I noticed this in progress indicator getting misplaced from next to my Time Machine when I ejected a USB stick, but is that some sort of oddly placed AirDrop indicator? (the arrows are spinning)  img src="https://i.stack.imgur.com/MNMqh.png" alt="enter image description here"  <answer125059> It's most likely AirDrop sync'ing.  

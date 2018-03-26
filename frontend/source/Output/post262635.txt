@@ -1,0 +1,1 @@
+Restore Time Machine backup from Sierra to El Capitan <body> I'm currently running Sierra and would like to revert back to El Capitan. Is there any way I could use a backup done on a newer OS with Migration Assistant? 

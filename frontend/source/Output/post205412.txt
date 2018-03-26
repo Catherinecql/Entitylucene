@@ -1,0 +1,1 @@
+How can I use an external camera (DSLR) with Periscope on the iphone 6 plus <body> I would like to use a DSLR camera with the Periscope app on my iPhone. How can I get my iphone to accept an external video source and then have the Periscope app to use that video source as video input in the Periscope app? 

@@ -1,0 +1,1 @@
+How to select only edited photos in Photos app on MBP <body> Is there a way to search or filter photos that were edited?  I can search by faces, locations, tags, etc.  I would want to back up only photos that I edited in the past year, but couldn't find a way to easily select those.   

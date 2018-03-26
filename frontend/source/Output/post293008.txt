@@ -1,0 +1,1 @@
+View and edit autocorrect file for Word 365 for Mac <body> Is it possible to view and edit the Word 365 autocorrect file in macOS?  <comment369706> You need to change the dictionary for the language in `~/Library/Spelling`. Word does not use a specific Dictionary to my knowledge it use the system wide one. As pages does

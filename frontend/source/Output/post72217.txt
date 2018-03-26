@@ -1,0 +1,1 @@
+How to build maccore from source? <body> I want to build the latest maccore from source.  Problem: I have searched everywhere but can't find any build instructions.br Question: How to build maccore?  I am a Mac newbie but intimate with UNIX.  <answer72231> ol liPut monomac at the same directory level as codemaccore/code/li liGo to monomac directory/li liRun codemake/code/li /ol 

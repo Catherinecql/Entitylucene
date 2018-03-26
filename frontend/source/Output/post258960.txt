@@ -1,0 +1,1 @@
+Macbook pro late 2008 rEFIT Linux USB - Black Screen <body> I'm having a black screen once I select my Linux USB inside rEFIT, I've tried rEFIND and had the same issue. Its glashes the linux image for a seccond then goes completely black. On the other hand I can boot into OSX completely fine. 

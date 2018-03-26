@@ -1,0 +1,1 @@
+Home Sharing and Play Counts <body> Now that I've upgraded to ios7 and Mavericks I find that listening to music via Home Sharing on my iPad no longer updates the play count in iTunes. Is this a bug - or is there something I'm missing. I have ticked the relevant box in iTunes preferences. 

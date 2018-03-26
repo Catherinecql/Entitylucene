@@ -1,0 +1,1 @@
+Google Chrome 49.0 <body> What TLS versions are enabled by default for the Google Chrome 49.0 browser for macOS?    I am not sure how to research this product detail.   <comment349441> I'm voting to close this question as off-topic because it doesn't appear to be about Apple hardware or software as defined in the [help].

@@ -1,0 +1,1 @@
+Configurator 2 profile settings <body> We have configured our iPad devices to disallow in-app purchases (by all users, especially students), but we have a teacher loading apps purchased on her private Apple ID account (layered management) that wants to restore in-app purchases on these newly loaded apps. Can she do the restore with her "privately owned" apps? 

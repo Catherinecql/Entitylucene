@@ -1,0 +1,1 @@
+Error when syncing iPhone with iTunes <body> When I'm synchronizing my iPhone 3G S with iTunes, an error message tells me that      "iTunes could not sync to the iPhone 'Katie's iPhone' because the   contacts are in use by the phone."   What should I do?  <comment39630> have you tried to do a sync with "Sync contacts with" option unchecked ?

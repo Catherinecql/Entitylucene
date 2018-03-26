@@ -1,0 +1,1 @@
+IPad Air 2 has no iCloud in settings <body> When I go into Settings, I do not see anything about ICloud. That option is not there  I am using 10.3.1.  

@@ -1,0 +1,1 @@
+How to increase bluetooth mouse conserve power time? <body> I have a "Trust Siano" bluetooth mouse that works fine, but goes to conserve power mode very quickly. What even more annoying every time it takes a few seconds to reconnect again.  Is there a way to increase the "conserve power" interval, or make it to connect without a delay? 

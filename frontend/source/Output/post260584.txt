@@ -1,0 +1,1 @@
+OS X Link Aggregation <body> I can't manage to do a link aggregation,  Each time I'm creating one with Ethernet and Thunderbolt/Eth I'm disconnected.  I wonder is this because of the thunderbolt to ethernet adaptor, when I connect this cable to the Mac it's take some time a long time before I have a link (DHCP or manual)  

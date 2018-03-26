@@ -1,0 +1,1 @@
+Are bluetooth battery information readable from windows through BootCamp? <body> Is there any way to see the battery level of bluetooth device (eg, magic mouse) on bootcamp+windows? 

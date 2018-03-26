@@ -1,0 +1,1 @@
+Adium IRC connection - list status messages <body> I am able to connect to IRC networks by Adium, but if I issue the /help command nothing happens. How to show the IRC status window? 

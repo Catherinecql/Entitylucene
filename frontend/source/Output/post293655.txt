@@ -1,0 +1,1 @@
+How to run Xcode 6 on macOS High Sierra(10.13)? <body> I downloaded Xcode from Apple Developer website. When I'm trying to open the app, it shows this error.     You can’t use this version of the application “Xcode” with this version of macOS.   Can we bypass this check?  <comment370600> Why would you want to use (the old) version 6 and not Xcode 8 or 9 beta?

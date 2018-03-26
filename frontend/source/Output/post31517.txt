@@ -1,0 +1,1 @@
+iphone 3g jailbreak: from 4.2.1 to 4.3.x. Is it possible? <body> Is it possible to jailbreak to 4.3.x a jailbreaked iphone 3g 4.2.1 (with a foreign locked sim)?  <answer31521> No. 4.2.1 was the last version of iOS supported by the 3G. 

@@ -1,0 +1,1 @@
+Messages on Mac. How to keep audio messages from expiring? <body> On iOS, under Settings  Messages there is a section called Audio Messages and you can select the length of time before expiry. I have always had it as "Never".  On Mac however, it seems that I have to manually click "keep" to prevent Messages from erasing audio messages?  Am I missing something?  I am on 10.12.1 

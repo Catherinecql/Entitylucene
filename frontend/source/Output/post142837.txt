@@ -1,0 +1,1 @@
+Where is a good place to share automator files <body> I've had a request to share an Automator workflow I made. Where is a good place to do that? Something like pastebin but for workflow files.  <answer170537> Gists on github are a great way to do that. Or just share the repo that contains the file on github. 

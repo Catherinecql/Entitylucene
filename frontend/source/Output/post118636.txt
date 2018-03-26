@@ -1,0 +1,1 @@
+spell check screen in Mail MacBookPro <body> Why does the spell check screen in Mail pop up everytime I write an email and does not underline misspelled words? I cannot turn it off.  <answer118639> If you go to "Preferences" and select "Composing" make sure that "Check spelling" is set to "as I type" rather than "when I send".  This should fix it. 

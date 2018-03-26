@@ -1,0 +1,1 @@
+How can I move my data between iphones without password? <body> I want to move all my data from one device to another with iTunes. The issue is - I can't disable encrypt iPhone backup, cause I don't remember my pass. Is it possible to do that without password?  <comment373118> but I want to make a completely new backup. I don't know why it's prohibited

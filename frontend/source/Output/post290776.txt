@@ -1,0 +1,1 @@
+Turn off Touch Bar under Bootcamp - Windows 10 <body> Is there an app similar to Touch Bar Disabler that is available to use on a Windows 10 Bootcamp Partition?    Or is there another application that be used to turn off the Touch Bar completely under Bootcamp Windows 10?  Thanks  <comment367083> Why would you want to disable the Escape and Function keys anyways?

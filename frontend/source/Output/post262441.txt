@@ -1,0 +1,1 @@
+OS X Ukrainian spellcheck <body> I did some research and still have trouble to find any way to enable Ukrainian language spell check in OS X.   Please advise how to make it happen.  <answer262448> Get the .dic and .aff files from  https://github.com/titoBouzout/Dictionaries  And put them in home/library/spelling 

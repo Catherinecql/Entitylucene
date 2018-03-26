@@ -1,0 +1,1 @@
+Unknown error (6) - Upgrading to iOS 7.0.3 <body> I want to upgrade from iOS 5.1.1. to iOS 7.0.3. But it showed "Unknown error (6)".  The device is iPhone 4, and I have also updated my iTunes to the latest version 11.1.2.32.  I wonder what happened and what should I do? 

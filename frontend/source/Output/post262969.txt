@@ -1,0 +1,1 @@
+Apple Configurator 2: How do I access blueprints that I copied from another Mac? <body> I copied my blueprints from our MacBook to an iMac, in this folder:  ~/Library/Group Containers/Group.com.apple.configurator/Library/Application/Support/com.apple.configurator/Blueprints  However, when I try to apply a blueprint to devices in Configurator 2, no blueprints are there. 

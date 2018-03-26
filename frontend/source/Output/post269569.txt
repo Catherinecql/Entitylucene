@@ -1,0 +1,1 @@
+How to let the two lines looks like its upper in Pages? <body> You see the codebean/code and codecontract/code line left have a white space, how to delete them?  img src="https://i.stack.imgur.com/lfa1F.jpg" alt="enter image description here"  How to delete the white square?  

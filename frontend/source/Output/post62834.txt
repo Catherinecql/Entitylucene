@@ -1,0 +1,1 @@
+Drafts going in Trash <body> I have configured my Gmail account with OSX Mail Client. The problem is that the drafts on the Mail Client aren't stored in draft on Gmail. And all the drafts are going in Trash of Gmail. I had mapped the Sent, Trash and Drafts folder to the corresponding mailboxes.  I want the drafts on Mail Client to go in Drafts of Gmail. What have I done wrong? 

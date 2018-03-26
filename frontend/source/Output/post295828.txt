@@ -1,0 +1,1 @@
+Order of applications windows in App Exposé <body> When I use App Exposé to look at thumbnails for all files open for an app (I use ⌃↓) the files appear in order of latest use.  Is there a way to lock the order?  For example, I'd prefer alphanumeric order. 

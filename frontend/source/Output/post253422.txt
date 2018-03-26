@@ -1,0 +1,1 @@
+Hide sidebar shortcut in Preview not working <body> The intended shortcut CMD+ALT+1 does NOT hide the sidebar but the upper bar. I'm on OSX 10.11.6 

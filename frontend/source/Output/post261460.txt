@@ -1,0 +1,1 @@
+Voice/speech-to-text from speakers not microphone <body> Is there any software that will give me a text transcription based on the sound that is coming from my speakers?   For example, if I want to attend a meeting on mute and read the audio on my screen, is there any software that will help me with that? 

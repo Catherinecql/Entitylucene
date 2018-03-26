@@ -1,0 +1,1 @@
+How to create playlist from xml to iTunes? <body> Xml file : codehttp://www.shenturk.com/download/radyourl-2016-11.xml/code  I have a xml file includes many live stream url(internet radios). Can i import this xml file data to iTunes, and if is possible how can i do this? I tried to search this on Google but there is no exists :/  Any idea ?  Best. 

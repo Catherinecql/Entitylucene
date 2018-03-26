@@ -1,0 +1,1 @@
+Do I need to keep the iPhoto Library.migratedphotolibrary <body> In my codePictures/code directory I have codePhotos Library.photoslibrary/code and codeiPhoto Library.migratedphotolibrary/code.  When I open Photos all my images from codeiPhoto/code on Mavericks appear to be there. Do I need to keep the codeiPhoto Library.migratedphotolibrary/code? 

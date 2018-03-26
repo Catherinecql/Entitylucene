@@ -1,0 +1,1 @@
+Force 2560x1600 through HDMI on a Mid 2011 Mac Mini? <body> So I want to run dual 30" monitors on my mid 2011 mac mini. I have two U3014 monitors. While one works fine through mini display port, the other one is forced to run at 1080p via HDMI. Is there anyway to for OSX to output to the higher resolution? 

@@ -1,0 +1,1 @@
+phpstorm - jump to end of word <body> In windows you can jump to the end of the current word, what is the keyboard shortcut in Mac?  I found the keyboard shortcut to Move the caret to the next word code⌥→/code 

@@ -1,0 +1,1 @@
+Does play count data update on iTunes music is played on the iPhone? <body> If I listened to a song on my iPhone does it update the value on my macbook's iTunes ? And vice versa ?  <answer106604> Simply said: yes it does, as soon as you sync it.  Also see this question/answer on SuperUser. 

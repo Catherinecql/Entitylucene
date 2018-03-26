@@ -1,0 +1,1 @@
+How can I detect an incoming call on Yosemite <body> I'd like to detect an incoming Facetime call and run certain scripts as a result. I'd like to achieve something similar to when iTunes pauses when there is an incoming call, but I would run my own scripts.  Any ideas how I can achieve that? 

@@ -1,0 +1,1 @@
+How to use iMac mid 2010 (21.5 inch display) as monitor <body> I have a late 2014 macbook pro, and i am trying to use my 21.5" iMac as just a display via the thunderbolt cable. But it doesn't seem to be working, what do I need to change to do so?  <answer235868> The Display Port on the 21.5" iMac is output-only, so you can't use it in target display mode.  

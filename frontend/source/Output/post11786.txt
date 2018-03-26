@@ -1,0 +1,1 @@
+Why I can’t use zoom+ or zoom- in firefox4 in mac‘s Multi-Touch Touchpad? <body> I can use zoom function in firefox3 and safari,but when I update to firefox4,I find I can’t use the zoom function ,how can I fix this problem?  <answer11787> See this. 

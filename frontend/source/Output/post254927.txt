@@ -1,0 +1,1 @@
+Boxing Xcode simulator to reduce CPU / RAM availability <body> The Xcode simulator is using the full CPU/RAM of the computer whatever if you choose an 4s / 5 / whatever simulator. So is quite annoying to build on a real 4s device if I want to proof my code efficiency.  Is there a way to put the simulator is a kind of sandbox with limited ressources ? 

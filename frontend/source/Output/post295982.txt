@@ -1,0 +1,1 @@
+How do I stop bluetooth headset start iTunes <body> I have a bluetooth headset paired with both my iPhone and my Mac.  When I end a phone call on the iPhone iTunes automatically starts playing its current song on the Mac even if the Mac is locked with a screen saver.  How do I stop iTunes starting? 

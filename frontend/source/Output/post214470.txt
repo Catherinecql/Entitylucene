@@ -1,0 +1,1 @@
+Experience the "1-9" hardware failure with wireless keyboard (looking for the custom passkey option) <body> So I've experienced the failure of the 1-9 keys on my wireless keyboard, and was curious how to find the custom passkey option so I can pair it with my MacBook Pro.  <comment258984> Welcome to Ask Different. What is this "custom passkey option" you speak of?

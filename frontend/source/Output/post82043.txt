@@ -1,0 +1,1 @@
+Signed Mac Apps - error message <body> Will the message " is damaged and can't be opened. You should move it to the Trash" occur even if you just rename the application?   <answer82052> Renaming the application won't actually change anything in the file itself, hence not affect the restrictions from the App Signing, so no, it will not. 

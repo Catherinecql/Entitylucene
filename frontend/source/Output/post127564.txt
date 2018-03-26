@@ -1,0 +1,1 @@
+How to disable screen sharing <body> I have some privacy concerns and would like to know how to disable screen sharing. I have tried turning of the WiFi but was then not able to use the internet.  <answer127567> Go to System Preferences  Sharing and uncheck the box to the left of "Screen Sharing"  img src="https://i.stack.imgur.com/1Gyzd.png" 

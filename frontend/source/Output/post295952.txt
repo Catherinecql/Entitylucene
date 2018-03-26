@@ -1,0 +1,1 @@
+Can't change default apps for file types <body> When I change default app, settings doesn't changing.  I tested in another user and there all is perfect. Can I reset settings for default apps or something like that without removing user profile? 

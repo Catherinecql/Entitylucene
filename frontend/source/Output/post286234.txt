@@ -1,0 +1,1 @@
+Increase size of Bootcamp partition? <body> I've installed Windows 7 64-bit (Dual boot) via Bootcamp but I need more storage on that partition. I've read that if I resize that Windows partition either via macOS or Windows, things will break.  Is there any safe way to do this?  Thanks. 

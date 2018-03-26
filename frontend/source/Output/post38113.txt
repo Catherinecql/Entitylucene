@@ -1,0 +1,1 @@
+Can I view my Xbox 360 Screen on my Mac by using an HDMI to minidisplay port adapter? <body> Or can I not have input into the Macbook?  <answer38114> You cannot use the minidisplay port for input. Your best chance to get video input on your Mac is by using a video capture device (from Elgato for example). 

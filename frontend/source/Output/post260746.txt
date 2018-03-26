@@ -1,0 +1,1 @@
+Are there any graphics designing tools based on Metal? <body> Are there any existing or upcoming graphics designing tools like Affinity or Photoshop based on Metal? You know why I am asking this. Metal has high performance. 

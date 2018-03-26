@@ -1,0 +1,1 @@
+Why opening a ssh connection to Lion is taking too long? <body> Why is SSH taking too long to open when I SSH to Lion.  I have to wait ~30s to see the Password prompt.  The DNS is working on the Lion server. 

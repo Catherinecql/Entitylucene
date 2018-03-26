@@ -1,0 +1,1 @@
+Airport extreme wireless bridge <body> Is it possible to make an AirPort Extreme catch wifi and output the data through its Ethernet ports but not broadcast a secondary wifi signal?  <comment284802> I'm also interested in this, good question.

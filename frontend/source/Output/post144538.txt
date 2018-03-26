@@ -1,0 +1,1 @@
+What is CMacPowerHelper, causing slow sleep response on my 2011 Macbook Pro <body> When going to sleep my 2011 MacBook Pro takes up to 30 seconds  Using the pmset log it look like the problem is CMacPowerHelper  Can anyone tell me what CMacPowerHelper is? 

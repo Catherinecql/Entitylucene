@@ -1,0 +1,1 @@
+Is WIdi compatible with Apple TV? <body> Is it possible to stream WIDI to Apple TV? I have laptop with WIDI adapter and i want to stream from laptop to Apple tv  <answer116508> Nope Apple TV does not support WiDi.   You should look for AirPlay apps (Some are available on Windows)!  

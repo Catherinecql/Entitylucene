@@ -1,0 +1,1 @@
+3Gs after 5.0.1 upgrade, all third-party apps can not open and work <body> After iPhone 3Gs upgrade iOS to 5.0.1, all third-party apps can not open and work. Any advice?    <answer34836> Try this:  Delete one app, then add it back. 

@@ -1,0 +1,1 @@
+Prevent recent files from mounting disk images <body> Files that are stored on mounted disk images show up in the Recent Files lists in my applications.  If I unmount the disk image, and then choose a recent file, the disk image gets mounted automatically. Is there any way to turn off this behaviour (i.e., choosing the recent file should produce a File Not Found message)? 

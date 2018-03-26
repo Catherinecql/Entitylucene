@@ -1,0 +1,1 @@
+Alert when a Process starts <body> Is there a way to be alerted when a given process named "Bash" starts? And get the script name which is responsible for running it?  Thanks  <comment287838> I have the same question. Something is launching a specific application regularly and I want to detect what that is.

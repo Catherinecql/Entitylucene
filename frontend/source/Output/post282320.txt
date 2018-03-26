@@ -1,0 +1,1 @@
+Disable EarPod controls <body> My EarPods still work fine except that they now occasionally trigger the play/pause button when moved in the wrong way. This obnoxiously causes iTunes to open, Siri to launch, and music to start and stop playing rapidly. Is there a way to turn off this headphone input so I can continue using these EarPods normally? 

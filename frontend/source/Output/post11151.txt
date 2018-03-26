@@ -1,0 +1,1 @@
+Does Safari 2 support tabbed browsing? <body> Does Safari 2 support tabbed browsing? What is the first version that supports this feature?  <answer11154> According to a google search for [safari 2 tabbed browsing], yes.   Source: http://www.macnews.com/content/safari-beta-2-brings-tabbed-browsing-autofill-forms 

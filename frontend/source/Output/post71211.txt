@@ -1,0 +1,1 @@
+Can I extend my MacBook Air 13.3 A1369 SSD to 512GB? <body> So the question in the title “Can I extend my MacBook Air 13.3 A1369 SSD to 512GB?”  <answer71246> Yes http://eshop.macsales.com/search/MBA2011.480  You will need to reinstall the OS onto that drive or clone your current drive to it. 

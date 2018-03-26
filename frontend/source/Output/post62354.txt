@@ -1,0 +1,1 @@
+Calendar app is being brought to foreground when new event is received <body> When I get an invitation to a new event, or response for event I sent invitations to, the Calendar app is being automatically brought to foreground, no matter on what application I'm working on at the moment.   Is there a way to disable that behaviour?  Thanks,  Gil 

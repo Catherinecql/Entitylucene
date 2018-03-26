@@ -1,0 +1,1 @@
+Transfer mp3 files to Nokia Lumia from a Mac? <body> On Windows, I use standard software (Zune) to transfer files to my Nokia Lumia 800.  Is there any way to transfer mp3 files from Mac to Lumia? Lumia is running Windows Phone 7.  <answer51412> You can use the Windows Phone 7 Connector software, made by strongMicrosoft/strong specifically for OS&nbsp;X.  Download here 

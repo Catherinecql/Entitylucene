@@ -1,0 +1,1 @@
+How can I stop my iPad from ringing when my iPhone rings? <body> Similar to this question, but my iPad is ringing, not my Mac.   <answer178598> Go to Settings  FaceTime and turn off "iPhone Cellular Calls" and your iPad won't ring any more.  

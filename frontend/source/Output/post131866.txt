@@ -1,0 +1,1 @@
+YouTube not working on Apple TV <body> I cant view YouTube  on Apple TV I only see the loading circle any suggestion on how to fix it would be appreciated  <answer144000> Try go into General and restart, This worked for me.  <comment155418> I suddenly have this problem too. By any chance, is ATT U-Verse your ISP?

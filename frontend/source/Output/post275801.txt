@@ -1,0 +1,1 @@
+Game center profile <body> I know my old game center nickname, and I know the apple ID its connected to. But there are several game center profiles connected to that apple ID. How to I login with that nickname?  <comment347008> See if [this old answer](http://apple.stackexchange.com/a/76663/88313) helps.

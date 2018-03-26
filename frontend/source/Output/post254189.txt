@@ -1,0 +1,1 @@
+Safari extension for translation in my native language in real time <body> I'm searching the Safari extension to translate selected text from page (AND for pdf content that is opened in Safari).  emTranslate/em and empolygon/em extensions don't translate in pdf files that is opened in Safari. 

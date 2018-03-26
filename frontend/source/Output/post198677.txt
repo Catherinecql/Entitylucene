@@ -1,0 +1,1 @@
+Can I use Earpods' clicker and volume control in Bootcamp? <body> Earpods are fully functional in OS X so hardware is compatible. Is there a way to make Bootcamp drivers recognise Earpods? 

@@ -1,0 +1,1 @@
+Window management software? <body> I'm using a very simple tool on Windows called http://www.maxto.net which allows me to set screen regions and maximizes to that region. Is there similar software on OS X? The one's I've found only allows you to split 50/50 and requires you to press a special key.  Thanks, Dennis 

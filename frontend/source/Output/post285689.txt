@@ -1,0 +1,1 @@
+iOUSBFamily or USB Prober.app equivalent for macOS Sierra? <body> It seems USB Prober.app is no longer a part of Xcode, and iOUSBFamily hasn't been updated since 10.9.4... is there anything equivalent available for Sierra? 

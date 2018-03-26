@@ -1,0 +1,1 @@
+Why I cannot remove device from associated devices? <body> Every device on my list cannot be removed. Why?  img src="https://i.stack.imgur.com/Fc3J1.png" alt="enter image description here"  <comment332556> Have a look at: https://discussions.apple.com/thread/7117315?tstart=0

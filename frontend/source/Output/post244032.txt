@@ -1,0 +1,1 @@
+Connecting to Lync Online [or Skype for Business] using the Messages App <body> Is it possible to make use of the Messages app to connect to Microsoft Lync / Skype for business ?  <answer273309> No, Messages does not support the protocols used by Microsoft Lync / Skype for Business. 

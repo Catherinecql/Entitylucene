@@ -1,0 +1,1 @@
+iOS Mail app archive button sometimes goes back to inbox view? <body> Normally pressing "archive" brings me to the next email but occasionally it brings me back to the inbox. Is this just a bug?  I'm using my gmail account and I'm in the "all inboxes" view. My OS is up to date. 

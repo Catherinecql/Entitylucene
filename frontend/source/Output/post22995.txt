@@ -1,0 +1,1 @@
+Yahoo as Exchange on IOS 4 <body> I can sync Gmail contacts to my iPhone and it works pretty well.  Is there a way I can sync my Yahoo contacts over the air with my iPhone?  <answer30250> I see that with IOS 5 it is possible to sync contacts with Yahoo 

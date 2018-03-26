@@ -1,0 +1,1 @@
+'Unable to download the app at this time' <body> When I try to download an app from Safari or aother browser, I always get 'Unable to download the app at this time' but when I try to download something from the App Store it works perfectly just fine. I have iPad Mini2 iOS 10.3.2.  My question: Can I download apps to my iPad from websites or only just from the App Store? 

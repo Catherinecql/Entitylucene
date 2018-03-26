@@ -1,0 +1,1 @@
+Mail.app - Extract all "from" email addresses from flagged messages <body> I have 100+ or so flagged messages, and would like to send a single email, bcc'ing all the senders of those messages.  Is there a way extract / copy all the "from:" email addresses? 

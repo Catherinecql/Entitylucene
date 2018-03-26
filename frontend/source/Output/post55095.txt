@@ -1,0 +1,1 @@
+Concern with location sevices on previously owned iPad <body> I bought an iPad off of Craigslist, I wiped it clean and set it up as my own. Is there any way that the previous owner can view my location? Either with MobileMe or find my iPad?  <answer55097> No. Since you (presumably) set up your account on the device, they no longer have control over it via Find My iPad. 

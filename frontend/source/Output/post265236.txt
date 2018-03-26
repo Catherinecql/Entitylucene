@@ -1,0 +1,1 @@
+85 Watt MacBook Pro 15" Retina charger magnetic port is overheating while charging <body> The MagSafe magnetic connector of the charger is very much overheating while charging but not all the time. After 100% charge, heat decreases to the normal state.br So, the problem stays until the charge is 100%. What should I do now? Can I find the problem by myself? 

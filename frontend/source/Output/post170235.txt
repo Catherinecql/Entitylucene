@@ -1,0 +1,1 @@
+“replace all” and “replace in selector” are grayed out in Pages.app <body> When using text replacement, “replace all” and “replace in selector” are grayed out and I can’t click on them. How do I get the ability to click on them?  <answer171064> Don't, just do Command-F. If you are trying to do the bigger period trick though, don't bother. It doesn't work anymore. 

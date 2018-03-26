@@ -1,0 +1,1 @@
+Is there a way to have audio continue playing from background user session <body> When using Fast Switching from one User to another, audio from the now background user stops. That usually makes sense, but I wonder if there's a way to have the audio continue? I'm using Yosemite 10.10.2. 

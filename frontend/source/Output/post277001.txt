@@ -1,0 +1,1 @@
+Forward all iMessages to WhatsApp and vice versa <body> I want to forward all messages from a WhatsApp group automatically to iMessage. It would be nice to also be able to send a message in iMessage, and have it automatically sent to the WhatsApp group.  (If it could help, my iPhone and iPad are both jailbroken.) 

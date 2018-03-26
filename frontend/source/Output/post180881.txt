@@ -1,0 +1,1 @@
+Voicemail won't work on iPhone 6 without cellular data on <body> How can I get voicemail to work on iPhone 6 emwithout/em cellular data on?  <comment214980> Does your provider have an old-style number to call to pick up voicemail? If not, then I'd guess it cannot be done.

@@ -1,0 +1,1 @@
+Will Find my iPhone app still run when my iPhone restarts? <body> Will the Find my iPhone app stop when my iPhone 5s restarts?  <answer112980> Since Find my iPhone is a service rather than an app, it is retained when the device is restarted, and your device will still be available for accessing through Find my iPhone providing there is still an internet connection. 

@@ -1,0 +1,1 @@
+How do I add a weather overlay in Apple Clips? <body> The location permissions text for Apple's Clips app says     Your […] weather will be displayed in overlays you can add to your videos.   How dow I add weather overlays to my videos?  <comment351093> Don't think this functionality is included currently.

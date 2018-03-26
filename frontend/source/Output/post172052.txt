@@ -1,0 +1,1 @@
+Active Mac Desktop screen with the cursor on Multi-desktop configuration <body> I like to work with many mac desktop with two monitors. It is a bit bothersome to click in a particular desktop to activate it to work on it. So, I think that it could be a way for doing this more easily... This is when the cursor enter on a desktop screen, it be activated.  Does this option exist? 

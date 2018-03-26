@@ -1,0 +1,1 @@
+native IPv6 support over PPPoE in Apple Airport Extreme <body> Is there a technical reason why Apple does not support native IPv6 over PPPoE in their Airport Extreme Basestations? AFAIK here in Germany, all ISP using it and all modern routers seem to support it.   The thing is, it even worked with prior firmware versions of the Airport Extreme! 

@@ -1,0 +1,1 @@
+Can I deactivate the text marker function in iBooks? <body> Is it possible to deactivate the text marker function in iBooks? I often use the dictionary lookup, but accidentally, I activate the marker function quite often.   <answer98046> Unfortunately there is no option to disable the text marker function. 

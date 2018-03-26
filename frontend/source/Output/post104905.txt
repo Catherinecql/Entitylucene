@@ -1,0 +1,1 @@
+Stream slow motion videos via Airplay? <body> When I play slo-mo videos through my AppleTV, only the audio goes through with a blank screen. How can I get the video to be streamed as well ?  <comment172296> I can't even get the audio.  It just won't play em.

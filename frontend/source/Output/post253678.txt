@@ -1,0 +1,1 @@
+extracting pictures from sparse disk image bundle <body> Is it possible to get pictures out of a sparse disk image bundle? The image is out of a Time Capsule box that is likely corrupt.  What are the steps required?   I assume the image needs to be mounted in MAC OSX. I tried that in the UI with no luck. 

@@ -1,0 +1,1 @@
+On iOS 8 how do you access hi-res photos when you have the optimize photos on? <body> I the iOS 8 beta 5 they introduced the new option option, Optimize iPhone Storage keeps lower resolution copies of photos on device, and stores original high-res photos in iCloud.  How do you access the hi-res photos when you need them? 

@@ -1,0 +1,1 @@
+Ipad/ Iphone/ mac email <body> I configured gmail account on my IPad , Iphone and Mac. Many a times, some mails get missed in one of the system either ipad, iphone or mac. WHy????  What is the solution for that?  <answer22255> I find configuring GMail over exchange (Google Sync) works really well.   That's all I can recommend! 

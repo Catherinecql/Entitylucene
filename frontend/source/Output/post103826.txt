@@ -1,0 +1,1 @@
+iBooks Author: turn page at end of an audio-file <body> I would like to play a short audio clip on one page of an iBooks Author project, and at the end of the audio the following page should automatically appear. The audio must play when the page is loaded.  Is this possible or a feature intended for future development? If not, is there a workaround? 

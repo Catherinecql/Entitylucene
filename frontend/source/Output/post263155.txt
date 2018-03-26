@@ -1,0 +1,1 @@
+iOS 10 exchange notification on sub-folders <body> I have enabled push delivery on sub-folders on my exchange account but the iPhone doesn't notify me when those messages arrive. Do you know what to do to get notifications?  <comment329709> Try to reset **network settings**

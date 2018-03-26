@@ -1,0 +1,1 @@
+Can I downgrade my iPhone 5s firmware to iOS 8 from iOS 10 if it is unsigned by Apple? <body> I got my Iphone 5s in December of 2014 with iOS 8 (not sure of the subversion). I few weeks ago I upgraded to iOS 10 and wasn't happy with the performance. I've recently learned that you can only downgrade to iOS versions only still signed by Apple.  Is this true? 

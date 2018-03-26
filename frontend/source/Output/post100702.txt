@@ -1,0 +1,1 @@
+Remove bars at the end of the song to create a loop to the begining <body> I have empty bars at the end of the song, as some instruments finish before others. How do I delete these  bars after I've recorded the instruments so the song starts again at the begining to create a loop? 

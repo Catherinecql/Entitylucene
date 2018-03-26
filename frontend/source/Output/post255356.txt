@@ -1,0 +1,1 @@
+Macbook Air bad bluetooth reception when lid is closed <body> Is there any way to improve Bluetooth reception with closed laptop lid? I've noticed decreased audio quality as well as delayed keyboard responsiveness when magic mouse is connected and when my laptop is connected to the external display (Apple Cinema) and internal display lid is closed. Please advise. 

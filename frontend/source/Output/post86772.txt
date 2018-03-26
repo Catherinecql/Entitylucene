@@ -1,0 +1,1 @@
+Can you color label a file/folder in Finder using a keyboard shortcut? <body> Is there a faster way to label a selected file or folder without having to right-click and choosing a colour ? Such as a keyboard shortcut or another method to do this ?  <comment100340> Take a look here: http://apple.stackexchange.com/questions/55064/shortcuts-to-label-files-in-finder

@@ -1,0 +1,1 @@
+GRAB utility invisible in FINDER <body> I use the utility GRAB occasionally.  It does not show in the utility list under applications in Finder.  However, I know it is there because when I search I find it -   How can I make it appear on the list?  <answer154048> It's on a folder called Utilities inside Applications. 

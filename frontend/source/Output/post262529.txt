@@ -1,0 +1,1 @@
+Contacts won't save new contact cards on my Mac <body> When I enter a new contact in Contacts it looks fine until I close and reopen the app, then it is gone.  I have saved the new contact, but it is still gone when I reopen the app.  <comment328931> Can you please provide what version of macOS you're running? <comment328975> I;m running Sierra version 10.12.1

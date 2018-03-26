@@ -1,0 +1,1 @@
+Dim screen beyond lowest brightness from terminal <body> Anyone know of a way to dim a mac's screen beyond the lowest brightness setting through the terminal?  <answer89209> Found this immediately after I posted the question:  Can I lower the minimum display brightness? How?  Assuming this is right looks like there isn't a way to dim a screen beyond its lowest setting.  

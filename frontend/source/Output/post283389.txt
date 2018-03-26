@@ -1,0 +1,1 @@
+I can't open Steam <body> When I try to open Steam, it says "You don't have permission to use the application "Steam." This is because my account is Managed. But I am an admin too, so shouldn't be able to open it?  <comment357304> How was Steam installed?

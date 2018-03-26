@@ -1,0 +1,1 @@
+How to get rectangle annotation coords in preview? <body> img src="https://i.stack.imgur.com/ah6FY.png" alt="enter image description here"  How can i get the coords of this annotated rectangle in preview app or other mac app?  <comment225145> i ended up just using PhotoShop. but if u can select the rectangle annotations, u should be able to get their coords IMO.

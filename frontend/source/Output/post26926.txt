@@ -1,0 +1,1 @@
+How can I stop Finder from resizing folder background picture <body> I am trying to create a folder with a background picture (to make a .dmg for distributing an application), but when I drag an image on to the view options it resizes the image to about 75% of the original size. How can I stop it from doing this? 

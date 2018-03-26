@@ -1,0 +1,1 @@
+Move mouse in a predefined path <body> I am looking for a way to move the macOS mouse in a pattern that I can predefine. Ideally I would be able to move it in a perfectly straight line or a perfect arc. I basically have some drawing software and I need to draw some straight lines and arcs but the software doesn't support those functions. 

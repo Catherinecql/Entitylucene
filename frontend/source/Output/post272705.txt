@@ -1,0 +1,1 @@
+Can you add a pause to a Better Touch Tool macro? <body> I was hoping that there could be some way to have the first action go, then wait .1 seconds before the next action. Is there any way to do this? 

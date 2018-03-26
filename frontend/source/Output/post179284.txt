@@ -1,0 +1,1 @@
+iPad 3 problem in updating to iOS7 <body> my software update is iOS8.2 but i don't like it because it took a lot of memory 1.3GB but what i want is just iOS7 not iOS8, how to do this?  <answer179286> Apple isn't signing iOS 7 any more, so this isn't possible. 

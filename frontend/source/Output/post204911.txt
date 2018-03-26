@@ -1,0 +1,1 @@
+Refresh list of attached iOS devices <body> Is there a way to refresh the list of attached iOS devices? Right now I have to manually unplug and replug my iPhone when this happens. Is there a way to do the equivalent via terminal? I use "instruments -w devices" to see the list of attached devices. 

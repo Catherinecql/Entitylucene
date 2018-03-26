@@ -1,0 +1,1 @@
+Is it safe for me to delete this profile? <body> Can I delete the Apple beta program profile? I've signed up for the beta, and I want to get rid of it now that I'm on the official release. Is this ok to do? I'm on iPhone 6 running iOS 10.0.1.  <answer252457> Yes it's safe, when you delete it and restart your phone, you'll just get into the normal update cycle. 

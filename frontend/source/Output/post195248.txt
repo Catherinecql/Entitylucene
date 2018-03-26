@@ -1,0 +1,1 @@
+Call Forwarding <body> my iphone 5 will not let me select a number to forward too. I goes to the screen and I put in a number then it does not have a save button or anything it just has a back button.  <comment233089> Tapping Back after entering the forward number should save the number.

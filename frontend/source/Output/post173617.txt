@@ -1,0 +1,1 @@
+Can you merge two conversations? <body> Can you merge two conversations from the same contact if one is sent from an email and the other from the phone number? 

@@ -1,0 +1,1 @@
+How can I stop Parallels from un-mounting Bootcamp partition <body> I installed parallels 9 on OS10.9 and am using it to run my bootcamp partition. However it unmounts the bootcamp partition on load and I would like to prevent this from happening if possible. Can I do this and if so how? 

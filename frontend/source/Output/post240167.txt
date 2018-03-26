@@ -1,0 +1,1 @@
+Sync Outlook calendar with iCloud? <body> I'm looking for a way to sync my Outlook calendar (Exchange) with iCloud or with Google Mail (one way, only from Outlook to server).  The reason is that I'd like to make the calendar available to others without forcing them to use Outlook for Mac.  Is there a tool or technique to achieve this? 

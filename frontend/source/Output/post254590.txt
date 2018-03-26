@@ -1,0 +1,1 @@
+Text selection on Quick Look of pdf files not working <body> On El Capitan 10.11.6, text selection on Quick Look doesn't work even after using the following command:  precodedefaults write com.apple.finder QLEnableTextSelection -bool TRUE; killall Finder /code/pre  This sucks. 

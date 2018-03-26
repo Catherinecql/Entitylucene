@@ -1,0 +1,1 @@
+Scatter Plots in Numbers <body> Using Chart in Numbers how can I reverse the plot values on the X axis of a scatter plot? I have searched Numbers Help to no avail. 

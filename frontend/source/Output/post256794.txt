@@ -1,0 +1,1 @@
+How do I disabled VPN warning message set by the server on Mac OS? <body> I am using VPN based on Cisco IPSec and, at each connection, the server is sending a test message which is displayed by Mac OS (Sierra).   That's bogus and I want to disable this functionality. I suspect that it should be an option to configure inside the racoon.conf file(s). 

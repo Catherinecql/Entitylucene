@@ -1,0 +1,1 @@
+Can Karabiner (aka KeyRemap4Macbook) remap arbitrary simple keys? <body> Karabiner has a comprehensive set of empredefined/em key remappings. But what about a simple      remap '`' to '$'   (and vice versa)  Yes this can be done via Mac Input Sources. But they are cumbersome (and poorly documented). It would be nice to simply do those in Karabiner already. 

@@ -1,0 +1,1 @@
+Video input (not output) for iOS devices? <body> Does anybody sell a composite (RCA) cable to lightning adapter for video input on the iPad?  I'd like to use my iPad to monitor some video feed but I can't find anything that will do this.  I know it must be possible because a few companies are inputting video to the iPad (Elgato EyeTV, DJI Phantom, etc). 

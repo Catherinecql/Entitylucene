@@ -1,0 +1,1 @@
+Any way to sync only music with ipod classic 160gb <body> Is their a way to sync just the music from my iTunes library to my iPod classic? Right now it also syncs videos and I don't want them taking up space on my iPod.  <answer66136> I found it by accident.  If you click on your iPod in iTunes, and then you select movies at the top, you can uncheck "sync movies". 

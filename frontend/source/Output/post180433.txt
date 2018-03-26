@@ -1,0 +1,1 @@
+How to access Edit functionality in new Photos application? <body> In OS X Yosemite (update 10.10.3), there is the new photos application. I am unable to access the edit function when I use this application.  <answer180471> Image Menu  Show Image tools    or just select a photo &amp; hit kbd Return⏎ /kbd  

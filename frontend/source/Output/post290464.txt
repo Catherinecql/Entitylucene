@@ -1,0 +1,1 @@
+Playcounts in Apple Music and Itunes <body> I run itunes on Windows 10 and Apple Music on my iPhone and iPad.  When I play a song on Apple Music, it rarely updates the playcounts and last played fields in iTunes.  Seems to work a little better if i Bluetooth to my Naim hi-fi system. Can anyone help? 

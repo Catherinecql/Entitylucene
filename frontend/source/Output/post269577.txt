@@ -1,0 +1,1 @@
+View and copy webpage source code using Safari on iOS9 <body> My friend needs to view source code on a webpage emand/em select and copy it.  She says she knows how to view it, but cannot select and copy it since an iOS update "last year".   She uses an iPad 1, and believes it runs iOS 9.  

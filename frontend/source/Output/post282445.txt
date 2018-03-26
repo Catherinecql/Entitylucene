@@ -1,0 +1,1 @@
+Where do iPhone voice memos sync to on my Mac? <body> Is iTunes configured to sync voice memos from my iPhone? If so, where can I find them?  <answer282449> You'll find Voice Memos in  precode/Users/yourname/Music/iTunes/Voice Memos /code/pre 

@@ -1,0 +1,1 @@
+Which mkv player for iPad mini? <body> What video player for iPad mini supports mkv format best?  <answer74622> You can use VLC player.  Or, you can use Handbrake to convert MKV to MP4. Here is a helpful article on downloading and using Handbrake.  <answer77523> I have had good luck using FileBrowser on the iPad - primarily useful for streaming files from a network share. 

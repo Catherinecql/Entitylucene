@@ -1,0 +1,1 @@
+Ipad in activation locked, need imei but can't see welcome screen <body> I need the IMEI to fix ipad in activation lock. I read that I can get the IMEI from the i icon on welcome screen. However, I can't get to the welcome screen even if I hard reset (pressing wake button and home button together till apple logo appears). 

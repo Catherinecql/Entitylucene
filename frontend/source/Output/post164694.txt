@@ -1,0 +1,1 @@
+recover deleted /Library/Ruby/ <body> I accidentally deleted files under /Library/Ruby/ and /System/Library/Frameworks/Ruby.framework/ folders. Now, is there any way to recover them or install fresh Ruby setup? 

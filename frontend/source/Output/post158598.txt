@@ -1,0 +1,1 @@
+Go to specific desktop on TotalSpaces <body> I want to make the gesture "three fingers up" to to desktop 1, "three fingers left" go to desktop 2, and so on.  <answer158624> try JITouch https://www.jitouch.com or  Better Touch Tool http://www.bettertouchtool.net 

@@ -1,0 +1,1 @@
+Showing Notifications on all displays <body> Is it possible to configure notification center to show notifications on all displays?  (When displays are not mirroring of course) 

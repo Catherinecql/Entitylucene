@@ -1,0 +1,1 @@
+Stop auto refresh on wifi connection <body> When I try to load a page and I have no wifi connection, I have to turn off my VPN, toggle wifi, and then reconnect VPN. But google chrome auto-refreshes the page before I have a chance to reconnect my VPN. How do I prevent this? 

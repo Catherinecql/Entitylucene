@@ -1,0 +1,1 @@
+Prioritise spotlight search results in El Capitan <body> It seems this feature has been scrapped for el capitan. I'm a designer so I want all images to appear at the top of the search results. Anyone worked out a hack for this?  <answer230277> In System Settings  Spotlight  Search Results, disable as many items as you can. 

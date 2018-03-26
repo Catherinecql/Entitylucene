@@ -1,0 +1,1 @@
+Software Update Server /var/empty/Library/Caches/swupd_syncd <body> I've just install the Server.app on a mac mini that run yosemite 10.10.2 and the Software Update Server don't work. I've got this error messages :  Failed to obtain sandbox extension for path=/var/empty/Library/Caches/swupd_syncd. Errno:2  I've got the same issue on two mac.  Is someone know how to fix that ? 

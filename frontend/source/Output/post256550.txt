@@ -1,0 +1,1 @@
+Need help deleting multiple items from desktop <body> I just accidentally copied nearly 500 pics and videos to my desktop.  Is there a way to delete all items by date from the desktop?  <answer256577> Open the codeDesktop/code in codeFinder/code, sort by codeDate Modified/code or codeDate Added/code, select desired files and delete. 

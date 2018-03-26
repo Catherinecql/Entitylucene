@@ -1,0 +1,1 @@
+Delete all mail in the VIP mailbox on iOS 8.3 <body> Without manually selecting them all, is there a way to delete all items that appear in the VIP mailbox?  I've seen this question, but there's no codeMark All/code or codeTrash All/code button in the VIP mailbox.  <comment255292> Trash all is new to iOS 9

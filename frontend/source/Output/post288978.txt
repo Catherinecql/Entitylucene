@@ -1,0 +1,1 @@
+Mailbox Shortcut disappears (Sent Items) when i close the ios mail app <body> I've tried re-adding the mailbox. Clicking "Edit"- Add Mailbox -- Click the e-mail account -- Sent items. But problem still persists.  iphone 6 plus - 10.2.1 

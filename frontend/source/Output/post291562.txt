@@ -1,0 +1,1 @@
+Safari does not recognise revoked certificates <body> I just noticed that Safari does not recognise revoked SSL/TLS some certificates (for example https://revoked.scotthelme.co.uk) but gives a warning for other cases (for example https://revoked.badssl.com).  Is this a known bug or am I doing something wrong? 

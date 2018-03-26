@@ -1,0 +1,1 @@
+How can i compare achievements with Game Center in iOS7 <body> I remember i could easily compare my achievements in previous version of iOS/GC, but now i can't.  Am i missing something?  <answer122668> Game Center  Games  emselect a game/em  Achievements   or what did you mean by "compare my achievements"?  

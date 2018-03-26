@@ -1,0 +1,1 @@
+How to find out date of installation of an app in iOS <body> How can I find out when did I first downloaded an app on iOS, with the Apple ID now is different with the Apple ID then? The device I'm using is iPad 2, iOS 9.3.5. 

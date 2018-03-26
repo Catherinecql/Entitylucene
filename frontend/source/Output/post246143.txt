@@ -1,0 +1,1 @@
+How to save or share slideshow in iOS 9.3.2? <body> I can play slideshow in my iPhone with Photos app but I cannot save or share that slideshow. What is the problem?  <answer246146> It is currently not possible to save or share a slideshow. The only output is to the device screen itself or over AirPlay. 

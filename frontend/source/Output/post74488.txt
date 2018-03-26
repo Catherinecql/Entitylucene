@@ -1,0 +1,1 @@
+Safari 6 in Mountain Lion <body>    strongPossible Duplicate:/strongbr   How to regain features from Safari 5 that are not found in Safari 6?       My question is about the removal of the Activity Window in Safari 6. Is there anyway to accomplish the same results in Safari 6? Is Apple working on a fix for this?  I'm using Mountain Lion 

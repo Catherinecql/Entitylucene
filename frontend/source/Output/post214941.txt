@@ -1,0 +1,1 @@
+Automating VPN switching <body> I can us a VPN app like tunnelbear to appear to be in other countries, but is there a way to do this in a bash script or applescript?  I want to be able to run automated tests on my iOS apps (in the simulator) and change the apparent country. 

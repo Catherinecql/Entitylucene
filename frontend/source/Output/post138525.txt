@@ -1,0 +1,1 @@
+How can i send the twitter direct message via notification center? <body> I tried to send DMs via notification center but it didn't work anyway to codetweet/code or codemention/code these two are still working.   Are there any way to send the DMs some very simple way?   (for example in silverbird use coded username/code to send DMs very easy) 

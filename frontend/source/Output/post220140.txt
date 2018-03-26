@@ -1,0 +1,1 @@
+Where to find OpenSSL devel package - can't seem to find it in Brew <body> I'm trying to install openssl-devel on OS X El Capitan, and I can't seem to find the package on Brew nor the source anywhere online. The application I'm installing (UnrealIRCd) requires both openssl and openssl-devel to install. Can anyone help me out? Thanks. 

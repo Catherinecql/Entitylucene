@@ -1,0 +1,1 @@
+Is there a keyboard shortcut to shut down OSX? <body> Is there a keyboard shortcut to shut down OSX 10.10.1?  <answer213763> kbd Cmd ⌘ /kbd kbd Opt ⌥ /kbd kbd Ctrl ⌃ /kbd kbd Power ⌽ /kbd will perform a standard shutdown, asking to if you wish to save open documents first.  There's a list of OS X shortcuts at Apple KB Mac keyboard shortcuts 

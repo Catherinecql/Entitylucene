@@ -1,0 +1,1 @@
+How is “MapMyRun” tracking my location when I am not in the app and did not give it permission? <body> I just realized that MapMyRun on ios is still tracking my location when I have the app minimized and I only gave it location permission to run while using the app. 

@@ -1,0 +1,1 @@
+Does disabling Background App Refresh disable Push notifications? <body> I just got my iPhone, and before I make any default changes, I just wanted to make sure it doesn't do that.  <answer167940> No, it does not. This is a separate service and daemon on the device.  <comment196958> +1 for Q & A - a common misconception.

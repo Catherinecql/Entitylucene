@@ -1,0 +1,1 @@
+OS X Command Line using Pacifist to downgrade Safari on a 10.7 System <body> I want to downgrade Safari by using a command line script.  With a GUI I used the Pacific tool (http://coderwall.com/p/ndm-iw) in order to work around the OS 10.6 requirement.  Right now I'm search for a way to downgrade completly with a command-line solution. 

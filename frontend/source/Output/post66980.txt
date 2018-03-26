@@ -1,0 +1,1 @@
+Sync local Outlook calendar to iPhone <body> I have a local Outlook calendar on my Desktop. Is there a way I can sync those items on my iPhone ? Something like local outlook calendar - Google - iPhone. Any help on this will be much appreciated. My organization does not use Exchange.  <comment80993> Does anyone have a solution for this ?

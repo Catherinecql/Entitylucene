@@ -1,0 +1,1 @@
+How to disable TimeMachine animation? <body> How can I disable all of TimeMachine's animations (at startup, finish, etc.)?  (Older methods for doing this no longer work.) 

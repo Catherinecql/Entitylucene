@@ -1,0 +1,1 @@
+iPhone 4S Message Display Format <body> Is there a way to display sent/received iMessages in a vertical format rather than the current left/right bubble formate?  <answer60606> strongNo./strong This is not something that is built into iOS.  There may be an option if you were to jailbreak your phone. 

@@ -1,0 +1,1 @@
+Email failing to delete <body> I'm using an IPhone 6 with IOS 10.2.1  My emails from sent mail won't delete. I send them to trash and then delete them but they keep coming back. My gmail usage also keeps going up whenever I try to delete them. It's almost like when I try to delete it makes another copy. Gmail usage is up to 2.75 gigs. How can I delete these emails? 

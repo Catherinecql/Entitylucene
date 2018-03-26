@@ -1,0 +1,1 @@
+iPhone 4 restore fails with error code #2001 <body> I'm trying to restore an iPhone 4 device, and keep getting this error: img src="https://i.stack.imgur.com/vQjxm.png" alt="error"  This is the iTunes log:  http://pastebin.com/iztd1JJD  Any idea what's the problem? 

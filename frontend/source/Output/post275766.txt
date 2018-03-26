@@ -1,0 +1,1 @@
+Apple date and time setting <body> I want to change my Apple iPhone's date and time to Arabic but whenever I change the region it never changed the language.   I don't want to change my entire phone language just the date and numbers like the battery percentage.  How is that possible. 

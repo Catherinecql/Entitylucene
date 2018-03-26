@@ -1,0 +1,1 @@
+Cant see Apple Store updates <body> My Apple Store notifies me that i have 4 updates, but when i go to the Updates tab i cant see anything.  img src="https://i.stack.imgur.com/nkBpf.png" alt="enter image description here"  <comment323936> It's definitely a duplicate.

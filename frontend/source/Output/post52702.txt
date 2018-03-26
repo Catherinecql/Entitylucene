@@ -1,0 +1,1 @@
+can I get the "date" of a photo with iPhoto on iOS? <body> I would like to know what date some of the photos on my iPhone were taken. Does iPhoto for iOS let me do that?  <answer52705> Yes, iPhoto for iOS shows the date, time and if available address of the taken photo. 

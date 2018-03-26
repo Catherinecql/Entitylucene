@@ -1,0 +1,1 @@
+How can I use the Media Browser in Pages 5 to import pictures from Aperture? <body> On Pages 5, how can I easily import pictures from Aperture? On the Media button, it says:     strongNo Photos/strong      To add photos, go to iPhoto.   Is there any way I can view my Aperture albums there, rather than going through Insert → Choose…? 

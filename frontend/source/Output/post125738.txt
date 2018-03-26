@@ -1,0 +1,1 @@
+Mail.app on iOS 7.1 not syncing with Mail.app on Mountain Lion <body> I have an iPhone 5s and an iMac running Mountain Lion.  When I mark a message in Mac Mail as read, it doesn't sync on the iPhone.  I have me.com email on both.  They used to sync just fine until I upgraded to iOS 7.1 on the iPhone. 

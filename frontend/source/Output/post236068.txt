@@ -1,0 +1,1 @@
+USB not recognised after iTunes sync <body> I have a strange problem. After syncing iPhone with iTunes my Macbook Pro doesn't recognise other USB drives (I tried both USB flash drive and external HDD).br After restart it works ok, until I do the iTunes sync again.   Anybody know how to fix that? 

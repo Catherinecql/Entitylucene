@@ -1,0 +1,1 @@
+iphone restarts on password lock screen <body> I have a jailbroken iPhone 4 with iOS 6.0.1. If somehow it gets shut down, I can't boot tethered. Can't use "Just Boot" in Redsn0w, because the phone needs to be shut down, but I can't make the "slide to power off" appear. Is there any way to fix this without having to restore in iTunes? 

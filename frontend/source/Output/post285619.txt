@@ -1,0 +1,1 @@
+Unable to rename Bluetooth Headphones on mac <body> I opened Bluetooth preferences, right clicked on device and selected rename. I provided new name in the textbox and clicked on coderename/code button. It did not change the name. I tried like 100 times, it didn't work. I am on macOS Sierra 10.12.5. 

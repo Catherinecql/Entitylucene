@@ -1,0 +1,1 @@
+Photo metadata in iOS <body> Is there a way to see the photo metadata in strongiOS/strong without resorting to third-party apps?   I remember being able to see some in an older version of iOS but I cannot find it in the iOS 10 Photos app. Could it be elsewhere? 

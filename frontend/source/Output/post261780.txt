@@ -1,0 +1,1 @@
+How to share Photos.app videos to YouTube directly? <body> While it's great to have a quick upload to Vimeo (codeSystem Preferences -&gt; Extensions -&gt; Share Menu/code) in Photos.app, what about a share extension to quickly upload videos from Photos to YouTube?  Does such an extension exist that can be added to macOS? 

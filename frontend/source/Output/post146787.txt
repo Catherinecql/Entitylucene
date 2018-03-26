@@ -1,0 +1,1 @@
+RESTclient for Safari <body> Is there a POSTMAN for Chrome equivalent (or alternative to) for Safari in Mac OS X Mavericks? I hate switching between browsers just to be able to test my APIs.  <answer190252> I used an App Store utility called Rested. It's not in Safari, but it's good, and tiny, and does not require running another browser. 

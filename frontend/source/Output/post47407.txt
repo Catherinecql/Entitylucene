@@ -1,0 +1,1 @@
+How to Force iPad / OneNote re-sync <body> Does anyone know of a solution, from the iPad side of the equation, for this OneNote syncing problem?  <answer48316> Under the iPad's "Settings," there is a OneNote tab which offers a "Reset Application".  Using that seemed to have fixed the problem.  <comment330603> Can you restate the question here in case the link goes stale?

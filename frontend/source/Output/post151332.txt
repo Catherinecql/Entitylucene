@@ -1,0 +1,1 @@
+Adding custom email headers on iOS <body> I use strongMozilla Thunderbird/strong on OSX but I am considering getting an iPad. Thunderbird allows me to add any kind of custom email header. For me, this feature is essential.   Will I find an iOS app that can do the same? 

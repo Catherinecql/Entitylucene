@@ -1,0 +1,1 @@
+is it possible to write spotlight conversion plugins? <body> I would like to add some conversion functionality to spotlight. For instance to convert hex colors to rgb.  Is this at all possible? 

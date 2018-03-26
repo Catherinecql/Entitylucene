@@ -1,0 +1,1 @@
+Is there a way to stop Mail from downloading e-mail when using IMAP? <body> In Sierra, and it looks like this started with Mavericks, Mail downloads to a local disk entire e-mail messages when using IMAP.  It used not to do this in Mountain Lion (10.8).   Is there a way to configure Mail in Sierra to download just e-mail headers when using IMAP? 

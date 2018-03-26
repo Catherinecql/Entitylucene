@@ -1,0 +1,1 @@
+Increasing The Size Of The Mouse Pointer In OS X Mavericks? <body> Is there a way to change the size of the mouse pointer to make it easier to see, as sometimes when "surfing", I find it smaller than it needs to be on the screen ?  <answer110185> Check out Accessibility options in Preferences:  img src="https://i.stack.imgur.com/RChCk.jpg" alt="enter image description here" 

@@ -1,0 +1,1 @@
+Desktop Safari (Yosemite) blurs all images when zooming in the page, can it be improved? <body> img src="https://i.stack.imgur.com/vNALF.png" alt="Just have a look (Safari on the left, Chrome on the right)"  Safari on the left, Chrome on the right, same page, same zoom level. Can something be done about it? Maybe embedding a custom CSS may help or some extensions exists?  

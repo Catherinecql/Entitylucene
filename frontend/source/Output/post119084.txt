@@ -1,0 +1,1 @@
+iPhone Mail or GMail apps settings for Gmail label notification <body> I am just wondering how can I set the settings of iPhone Mail App or even GMail apps that could make notification for new incoming message on particular Gmail label and not the inbox only.  I would appreciate if anyone could share how to accomplish this.  Thanks! 

@@ -1,0 +1,1 @@
+iMac mid 2011 RAM upgrade compatability <body> Is this RAM going to be compatible with a mid 2011 iMac 21.5"?  <answer120509> The RAM you are pointing are DIMM. Your iMac is only compatible with the SODIMM form-factor.   

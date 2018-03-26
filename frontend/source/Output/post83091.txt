@@ -1,0 +1,1 @@
+How to transfer voice recorder files from ipad to pc in new itunes 11.0.2 <body> I am trying to transfer my recorded audio files from ipad to pc through new itunes 11.0.2, i could not find the voice memos in itunes.  <comment95802> How did you record the audio files? There is no native voice memo app built for iPad (at this point), so was it a different app?

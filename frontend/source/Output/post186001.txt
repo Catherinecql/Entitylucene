@@ -1,0 +1,1 @@
+Apple Watch - Can third-party apps update the activity app's exercise ring? <body> Third party apps usually have their own "record your exercise" button. Will the exercise ring be able to reflect data recorded by these apps, even if the automatic trigger for the Watch to consider something to be "exercise" is not tripped?  <answer190795> This will be possible using watchOS 2. 

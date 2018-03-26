@@ -1,0 +1,1 @@
+iPhone 4 groups tab not showing up <body> I need to remove all of my emails from showing up in my contact list.   When I tap phone, then contacts at the top on the left should be a button named "group". It is not there, just a refresh symbol.   Does anyone know why?  

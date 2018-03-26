@@ -1,0 +1,1 @@
+Open photo location in Maps <body> How can I open a pin in Photos  Places, with the Maps app?  Places doesn't support satellite view or 3d. I want to be able to see the satellite images of the photo locations. 

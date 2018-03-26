@@ -1,0 +1,1 @@
+Photos changes file format with export <body> Drag and drop mov files to my external changes the file format.  The new file is not the same size as when in Photos.  Does this compression lose "fidelity" of the video?  <comment240686> @Brenlin: please add a few technical details to get answers: version of MacOS X, application used…

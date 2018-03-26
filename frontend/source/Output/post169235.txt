@@ -1,0 +1,1 @@
+how do I create a signature on yosemite? preview does not offer that option <body> how do I create a signature on yosemite?  preview does not offer that option as shown in the youtube of how to create a signature.  <answer169237> Go to the Tools menu  Annotate  Signature  Manage Signatures and use the "Create Signature" button at the bottom. 

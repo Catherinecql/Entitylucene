@@ -1,0 +1,1 @@
+Assign a keyboard shortcut to "Add a face..." action in iPhoto? <body> Is it possible to assign a keyboard shortcut to the "Add a face..." action in iPhoto? Preferably one that can be used outside of the Info view, so you can move quickly from viewing a photo to editing its info and adding a face? 

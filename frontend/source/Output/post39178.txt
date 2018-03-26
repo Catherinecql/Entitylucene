@@ -1,0 +1,1 @@
+Software to balance sound levels and quality for iPhone <body> Is there software that will balance the sound level of the songs on my iPhone so that all the songs are at the same sound level and quality?  <answer39193> The "Sound Check" feature will ensure all your songs play back at approximately the same volume. In iOS 5, tap Settings - Music - then switch Sound Check to ON.  

@@ -1,0 +1,1 @@
+Is it possible to allow windows to be only positioned in a low-resolution grid? <body> When booting a Mac in restore mode (by pressing cmd-R during booting) the windows can only be moved in about 5-10 pixel steps. I’m wondering whether this is possible to have all the time. 

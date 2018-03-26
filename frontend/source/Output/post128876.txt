@@ -1,0 +1,1 @@
+Whats the equivalent of the unix tree command on OSX <body> Whats the equivalent of the unix tree command on OSX (10.8.5)  <answer128877> You can install codetree/code via Homebrew:  ul liFollow the instructions for the basic installation/li liRun codebrew install tree/code to install the tool/li /ul 

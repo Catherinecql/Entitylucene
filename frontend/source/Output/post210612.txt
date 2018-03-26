@@ -1,0 +1,1 @@
+Highlight a screen shot with shading and lighting <body> How can I edit a screen shot to use shading and lighting as call-outs?   For example, this:  img src="https://i.stack.imgur.com/GHvbP.jpg" alt="enter image description here"  Is there an easy way to this, perhaps with Preview.app? ("easy" means emnot/em Photoshop-type apps) 

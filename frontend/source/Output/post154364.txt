@@ -1,0 +1,1 @@
+Only show minimized windows from current space <body> I'd like to be able to only see minimized windows from the current space on the dock. Currently it shows all minimized windows from all spaces. Is there any setting or tool that I can use to accomplish this? 

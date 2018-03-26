@@ -1,0 +1,1 @@
+Show apple keyboard events on all monitors <body> Is it possible to show Apple Keyboard function events on all monitors, no just the main monitor?  Those of you with an Apple Keyboard, just use it to change the volume and you'll see a volume display appear on the screen, that's what I'm talking about. 

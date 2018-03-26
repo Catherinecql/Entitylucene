@@ -1,0 +1,1 @@
+stills duration in iMovie <body> Is there a way to adjust the duration of time all stills are played for in an iMovie project as in earlier versions if iMovie via a generic project setting, versus having to manually select each photo in the project and then change the duration?   <comment148050> What version did it work in? Which version are you using now?

@@ -1,0 +1,1 @@
+Mousekeys specify distance <body> I have enabled mousekeys through accessibility options. My question is, how exactly do I specify the keypad movement distance? For example, I want to use 4,8,6,2 on the numpad to jump to specific (x,y) coordinates on the screen. 

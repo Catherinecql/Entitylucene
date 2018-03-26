@@ -1,0 +1,1 @@
+typewriter effect to keyboard stroke <body> Is there any way to add (sound) typewriter effect to keyboard stroke?  <answer12948> Here is a link to an article that explains how to do this natively (without any 3rd party applications).  And here is an app - Typewriter Keyboard - that makes it sound authentically like a typewriter.  Hope this helps. 

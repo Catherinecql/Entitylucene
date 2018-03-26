@@ -1,0 +1,1 @@
+Problem with update to Motion 5.05 <body> I purchased Motion 5 through the App Store yet when I go to update to 5.05 it tells me that I didn't purchase through App Store.  What can I do?  <comment85632> Did you switch the App Store account? <comment85681> No I didn't.  I bought it at the same time as FXP X and it let me upgrade that.

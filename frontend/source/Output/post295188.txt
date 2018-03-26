@@ -1,0 +1,1 @@
+How do I resize icons on the launchpad? <body> I've looked around a fair amount, and every post I see is about changing the amount of applications that appear on the launchpad. I know that their size will change if you change the grid size using terminal commands, but I want to reduce their size without changing the grid. Is there any way to do this? 

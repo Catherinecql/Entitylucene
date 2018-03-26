@@ -1,0 +1,1 @@
+iPad time not updating to custom timezone <body> I am using custom time zones, so I have "automatic update" turned off in General Settings // Time and Date, on my IPad 2.  Today I created a new time zone and selected it, but the time shown at the top of the screen (the iPad clock) is not switching to respect the new time zone setting. Any solution for this? 

@@ -1,0 +1,1 @@
+Will upgrading to 10.11 restore tkinter or do I need to reset to factory settings? <body> It is my understanding that OS X comes with some sort of emtkinter/em already installed. I believe I deleted this while trying to restore emmatplotlib/em (see my current problem posted to SO). If I upgrade from 10.10 to 10.11, will that effect the state of the pre-installed emtkinter/em?  

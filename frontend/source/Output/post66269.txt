@@ -1,0 +1,1 @@
+VirtualBox Win7 enable horizontal trackpad scrolling <body> I use a Windows 7 installtion in Virtual Box. The magic track works fine for scrolling up and down but scrolling sideways doesn't work. Does anyone know how to get it working? 

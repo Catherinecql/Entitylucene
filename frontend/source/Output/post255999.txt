@@ -1,0 +1,1 @@
+How do I send calls from numbers not in contacts to voicemail? <body> I'd like to send all of the calls that I receive from numbers that are not in my contacts to voicemail.  Is this possible on ios10?  <answer256105> No, this is not possible with the Phone app included in iOS 10 (nor with any earlier version). 

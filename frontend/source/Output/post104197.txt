@@ -1,0 +1,1 @@
+Purchase movies from US store using itunes giftcard <body> I would like to know whether I can buy movies from the iTunes store using just a US iTunes account and an iTunes gift card (purchased in the US), in a different country.  <answer104200> Yes you can buy anything. Your appleid must have a US address. I use an Apple store address ;-) 

@@ -1,0 +1,1 @@
+ATV doesn't play audio and video from MBPro using Airplay <body> ATV 3 MBPro 10.11.6 When attempting to play a QuickTime video I shot,  when I am using Airplay from QuickTime I only get video. No audio. If I go to "Sound" in System Preferences and choose ATV, then I only get audio from Quicktime and no video.  

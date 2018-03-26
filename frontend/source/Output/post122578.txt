@@ -1,0 +1,1 @@
+Permanently disable "beep" with volume change? <body> Is there a way to permanently disable the "beeping" sound following volume changes?   Just in case, I use a Macbook Air with OSX 10.9.1.  <answer122579> Sytstem Pref - Sound - strongUncheck/strong Play Feedback when volume is changed  img src="https://i.stack.imgur.com/xJnf5.png" alt="enter image description here" 

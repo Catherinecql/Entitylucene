@@ -1,0 +1,1 @@
+Safari Web Developer Tools - how to edit a cookie? <body> Is it possible to edit cookie values in Safari, either by using the Web Developer tool or another 3rd party extension? 

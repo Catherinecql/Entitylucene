@@ -1,0 +1,1 @@
+How to recover the calendars locally from a lost Exchange account? <body> I need to recover the calendars that were created locally with an Exchange account, on the Calendar app, but I no longer have access to this account as it doesn't exist anymore. How can I access my calendars locally?  

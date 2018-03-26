@@ -1,0 +1,1 @@
+Tayasui Sketches is not working with iOS 7.1 <body> I updated my iPad mini with iOS 7.1. After the update, Tayasui Sketches is not working. When I tap on the icon of the app, the app launches but immediately closes. I restarted my iPad and synced the tab with iTunes; but the problem is still persisting.  Any help?  <comment146512> Did you try reinstalling the app?

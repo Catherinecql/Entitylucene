@@ -1,0 +1,1 @@
+How can I set up notifications every time events in a calendar I'm subscribed to change? <body> I'm subscribed to a calendar of my university timetable which changes from time to time, I'd like to receive notifications every time that happens, is it possible?  

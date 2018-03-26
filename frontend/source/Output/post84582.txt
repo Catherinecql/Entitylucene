@@ -1,0 +1,1 @@
+How do I sort Reminders in OS X? <body> One can enter reminders in OS X in the Reminders app. But how can they be sorted by name or date? I can't seem to find out how.  <answer84583> Afaik there's is no "automatic" sort. But you can drag them in the order you want.  

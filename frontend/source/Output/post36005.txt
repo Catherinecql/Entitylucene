@@ -1,0 +1,1 @@
+Key differences between Plex and XBMC <body> As I understood it Plex was forked from XBMC as some people was unhappy with the slow development off the Mac integration.  Now when both applications are available on OS X what are the main differences regarding:  ul liFeatures/li liStability/li liSupport/li liAddons/li /ul 

@@ -1,0 +1,1 @@
+Office 2016: How to use native OS X spell checker / auto complete <body> Outlook 2016 (MS Office) uses its internal AutoCorrect and Spelling &amp; Grammar instead of the native OS X mechanisms.  How can I change that? I want to use the MacOS builtin Text Replacement system.  Thanks for any advice!  Rainer 

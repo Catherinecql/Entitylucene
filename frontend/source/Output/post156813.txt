@@ -1,0 +1,1 @@
+Can AppleTV stream content directly from iTunes in Windows <body> Suppose I have iTunes in a Windows laptop. Can AppleTV stream the content from that iTunes directly (as it is supposed to do with iTunes in a Mac) ?  <answer156917> According to Apple you should be able to as long as they are on the same Home Sharing network.  http://support.apple.com/kb/PH12352 

@@ -1,0 +1,1 @@
+Not able to save image <body> I am getting a message in PS that says "could not save because write access is not granted" when I try to save my photo. What does this mean?  <comment328293> Where are you trying to save it to?

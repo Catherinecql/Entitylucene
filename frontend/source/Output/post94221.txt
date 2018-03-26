@@ -1,0 +1,1 @@
+Waiting for disks to reappear on SSD new install <body> I just installed a new strongSamsung SSD 840 PRO/strong in an Early strong2011 Macbook Pro/strong, trying to format drive and it is stuck on:      "Waiting for disks to reappear"   What should I do now?  

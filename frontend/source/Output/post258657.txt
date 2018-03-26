@@ -1,0 +1,1 @@
+Do notifications show over a FaceTime call? <body> When on a FaceTime call and a notification pops up on my screen, can my FaceTime recipient see it on their screen too?  <answer258658> No, only you will be able to see it. 

@@ -1,0 +1,1 @@
+Any way to make multiple files stop hiding their extension? <body> How can I make multiple files show their extension at once? Any finder setting and/or terminal command would be nice.  <answer12081> Not sure what your goal is, but you make Finder show all extensions by default by selecting emShow all filename extensions/em in emFinder - Preferences - Advanced/em. 

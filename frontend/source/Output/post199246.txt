@@ -1,0 +1,1 @@
+Is there a before/after edit view in OS X Photos' Editing view? <body> I've used photo editing apps before that show a before/after split view, so you can see the original image and the edited image either side by side or overlaid. Like this:  img src="https://i.stack.imgur.com/pKbXT.jpg" alt="Comparison view"  Is there a similar editing view in OS X Photos? 

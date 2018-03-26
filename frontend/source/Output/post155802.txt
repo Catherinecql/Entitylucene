@@ -1,0 +1,1 @@
+Portrait Lock orientation mode problem <body> When I turn my iphone 5 sideways it has no problem going into landscape mode but when I try to lock it, it goes back to portrait mode  <answer155810> Portrait Lock is just that, it locks the screen in portrait.  There is no global Landscape Lock, it can only be done in-app. 

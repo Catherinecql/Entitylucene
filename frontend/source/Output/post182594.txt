@@ -1,0 +1,1 @@
+MBP 2015 with Trim enabled by default? <body> Since MBP early 2015 use PCIe SSD, do I still need to enable Trim through Chameleon SSD Optimizer or Trim Enabler?  <answer182599> If you have an Apple-branded SSD (i.e. it came with your Laptop and you did not install it yourself), there is no need to enable TRIM manually.  

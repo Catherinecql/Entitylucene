@@ -1,0 +1,1 @@
+Can't Sync m4b files to iPod <body> My m4b audiobook will NOT sync to my ipod. Can play in iTunes but shows up grayed out in the list. Why?  iPod 5th gen and iTunes latest  <answer165007> In iTunes, what happens if you select that m4b, then look at "Create New Version" in the menu?  img src="https://i.stack.imgur.com/k0iS3.jpg" alt="menu" 

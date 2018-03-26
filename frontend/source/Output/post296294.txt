@@ -1,0 +1,1 @@
+How to exit split view? <body> Is there a way to exit split view so that both windows remain maximized?  Currently I "unsplit" windows by exiting full screen in one of the windows and then entering it again. I wonder if it can be done in one operation. 

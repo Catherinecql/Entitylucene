@@ -1,0 +1,1 @@
+How can I get the expiration date of a certificate in a keychain from the command line? <body> I'm looking for a way to get the expiration date of a certificate from the command line. The certificate is in the default 'login' keychain and I know its name. How can I do this? 

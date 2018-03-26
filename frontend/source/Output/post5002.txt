@@ -1,0 +1,1 @@
+DVD Upscaling on OSX <body> "Full Screen" mode in OS X doesn't look as good as my PS3's DVD upscaler.  Is there a good way to play DVDs in OS X with high-quality upscaling zoom?  <answer5007> It seems that VLC can do that, but I can't find a good howto to send to you. 

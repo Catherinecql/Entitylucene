@@ -1,0 +1,1 @@
+PDFs missing from iBooks on iPad after restore <body> After a complete restore of my iPad 2 from iTunes, all my PDF books not from the iTunes Store were gone.  I just saw them for seconds and then disappeared.   How can I get them back?  <answer206361> Look in the iTunes - iTunes Music - Books.   They should be there!   

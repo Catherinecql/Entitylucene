@@ -1,0 +1,1 @@
+How to transfer folders with many mp3 files in it from pc to itunes? <body> I want to transfer some folders that concludes many mp3 files in them. Is it possible totransfer folders not a file?  <answer234593> Drag a file or folder from the desktop to the iTunes window. If you add a folder, all the files it contains are added to your library. 

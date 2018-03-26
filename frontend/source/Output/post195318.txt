@@ -1,0 +1,1 @@
+Is beta.apple.com running on Rails? <body> The error page is standard Rails error page, and the web server uses Phusion Passenger on Apache.  I guess it's probably running on Ruby on Rails? Very unexpected from Apple.  img src="https://i.stack.imgur.com/5MYpr.png" alt="enter image description here"  <answer195328> Yes, according to builtwith it is running rails. 

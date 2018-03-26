@@ -1,0 +1,1 @@
+Are there any iOS file management apps that can show MacOS tags? (besides iCloud drive)? <body> Are there any iOS file management apps that can show MacOS tags? I have built a tag-based organization system in Dropbox and the tags are synced from Mac to Mac but I haven't found a way to view them in iOS.  ICloud drive is an option but I'd rather not relocate everything. 

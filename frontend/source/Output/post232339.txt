@@ -1,0 +1,1 @@
+TeamViewer Dock Shortcut Opens Separate Dock Icon <body> Using TeamViewer 11, when clicking the app icon in the dock, it opens a separate app icon at the end of the dock instead of the one that stays there via the "keep in dock" option.  Is there any way to fix this on my end or is this an issue with the app's development? 

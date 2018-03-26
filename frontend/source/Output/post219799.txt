@@ -1,0 +1,1 @@
+Connecting/pairing with Bluetooth LE devices <body> Does anyone know how to connect/pair with Bluetooth LE sensors/devices? Is a 3rd party app mandatory for the task? I can't pick up any advertising devices from Bluetooth Preferences.  The app Lightblue can see them, but are there other ways?  Thanks 

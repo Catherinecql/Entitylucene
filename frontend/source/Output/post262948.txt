@@ -1,0 +1,1 @@
+Where is the client timeout setting for Safari? <body> I’m using Safari Version 10.0.1 (12602.2.14.0.7) on Mac Sierra.  Does Safari have a timeout value in which the client browser will terminate the connection with the server if the server hasn’t come back with a response in a certain period of time?  If so, where can I lengthen this setting in Safari?  Thanks, - Dave 

@@ -1,0 +1,1 @@
+Rotated Photos in iPhoto dont sync rotated to iOS <body> I imported some pictures from a Nikon camera and then rotated them in iPhoto.  I then used iTunes to sync those photos to iOS.  They did not sync with the new rotated position. Any ideas on why not? 

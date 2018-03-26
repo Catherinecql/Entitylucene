@@ -1,0 +1,1 @@
+Add invitees to mac calendar without sending invitations <body> I'd like do add people to events in my calendar only to have easy access to their contacts when browsing events from my phone.  Is there a way to strongadd invitees/strong to a calendar event strongwithout sending them invitations/strong? 

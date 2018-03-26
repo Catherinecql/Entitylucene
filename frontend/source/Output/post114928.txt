@@ -1,0 +1,1 @@
+How to use a Bluetooth speaker with the iPod app in iOS 3? <body> I have a new Bluetooth speaker paired with my old iPhone that runs iOS 3.1.3.   Paired, but when I use the iPod app on the iPhone: playback is on the iPhone.   How do I get playback through the Bluetooth speaker?  

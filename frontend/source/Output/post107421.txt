@@ -1,0 +1,1 @@
+Hide tab bar in Safari 7 <body> I use Safari stab for vertical tabs. After update to Safari 7, the strongView  Hide tab bar/strong becomes active only when one tab open. Is there any way to hide the tab bar permanently? 

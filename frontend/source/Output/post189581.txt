@@ -1,0 +1,1 @@
+iPhone 4S causing internet lag <body> I've noticed that when a family members iPhone 4S connects to the WiFi, the general internet slows to a crawl, i.e. a normal ping to bbc.co.uk would give me 25ms, but when her phone is connected, it rises to 1000+ms.  I have no idea to check what app may be causing this or what service on the phone might be causing this.  All ideas welcome. 

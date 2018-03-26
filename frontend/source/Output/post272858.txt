@@ -1,0 +1,1 @@
+Can't move table rows in iPad Pages app <body> I added a table in Pages app in iPad and I noticed that if the table rows exceeds 29 rows the option of moving a row is no longer available and as long as the table contains 29 rows or less I can rearrange the rows. Is this a bug or something coz I just updated the app and this isssue is still there before and after the update. 

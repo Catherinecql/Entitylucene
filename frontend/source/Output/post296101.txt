@@ -1,0 +1,1 @@
+How to use SoundFonts in GarageBand 10.2? <body> There are many tutorials that show how to use SoundFonts on GarageBand. (Source)  However, when I do step 5 on this page, no dropdown menu appears (and nothing happens).  img src="https://i.stack.imgur.com/UKCRi.gif" alt=""  How can I install SoundFonts to GarageBand 10.2? 

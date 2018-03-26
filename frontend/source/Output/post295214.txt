@@ -1,0 +1,1 @@
+How to enable kill ^w to kill a word into the kill ring <body> I have been using the DefaultKeyBinding.dict from https://github.com/ttscoff/KeyBindings to define cross application key bindings.   I have also consulted the following documentation which hints at codeyankAndSelect/code but I couldn't find any follow up documentation.  How can I enable ^w to send to the kill ring? 

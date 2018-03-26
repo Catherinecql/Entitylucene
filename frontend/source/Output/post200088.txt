@@ -1,0 +1,1 @@
+How can I rebind Ctrl-; to an F key? <body> I'd like to be able to used Ctrl-; to move to the right pane in tmux but apparently Ctrl-; just sends a ; keycode. I'd like to remap it to a function key so I can just put that in my .tmux.conf instead.  Thanks!  P.S. If anyone knows why semicolon has such a special behavior, I'm curious to know. 

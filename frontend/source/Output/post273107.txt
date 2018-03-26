@@ -1,0 +1,1 @@
+Messages not delivered. No "send as text" option <body> I am not able to send or receive messages on iphone.  I get "not delivered" then "try again" but no option to "send as text". Worked fine until two days ago. MMS and SMS are on.   <comment343350> what iPhone (iPhone 4,5,6?) and what iOS version (9.3, 10.1...) are you using? Where are you located? (US/UK/...)

@@ -1,0 +1,1 @@
+Vertical Lines on Left Side of Screen <body> Why have vertical lines appeared on macbook pro retina - left side of screen?  <comment168369> Start in Safe mode to fix it- press shift during start up

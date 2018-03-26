@@ -1,0 +1,1 @@
+Incoming calls do not handoff <body> After upgrading to Sierra, incoming calls no longer handoff correctly to my Mac. This used to work 80% of the time, with 20% random failures. Now it's 100% failure.  Anyone have this working, or report the same thing? 

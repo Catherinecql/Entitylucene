@@ -1,0 +1,1 @@
+Scrolling with one finger plus key pressed <body> Normal way to scroll on MacBook is two-finger scrolling.  Is it possible to scroll with one finger, like this:  ol liPress key-modifier (ctrl/alt or so)./li liScroll using one finger like it is two fingers, while key pressed./li /ol 

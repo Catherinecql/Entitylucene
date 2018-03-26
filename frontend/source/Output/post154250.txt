@@ -1,0 +1,1 @@
+Fixing red eye in a movie <body> I did a video capture with my phone. While viewing the video, some of the frames have a person with the red eye effect. What can I do to edit the video file and remove the red eye from the affected frames? 

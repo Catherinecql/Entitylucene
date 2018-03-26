@@ -1,0 +1,1 @@
+Retrieving deleted email from iCloud <body> My gmail is backed up to iCloud.  Does iCloud also back up spam?  Is there a way to recover email that was automatically deleted by Gmail?  <comment333585> What do you mean when you say your Gmail is **backed-up** to Cloud?  Do you mean you keep a copy of your Gmail on your iCloud Drive?

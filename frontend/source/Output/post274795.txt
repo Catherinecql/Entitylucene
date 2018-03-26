@@ -1,0 +1,1 @@
+Apple Pages - store changes with document? <body> Is it possible to track changes (version control) in Apple Pages?  <answer274796> Yes. Activate it via: codeEdit -&gt; Track Changes/code in the menu bar. 

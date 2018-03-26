@@ -1,0 +1,1 @@
+El Capitan Calendar Past Event Invitations <body> My Apple calendar in El Capitan is synced with Office 365. In the tool bar, there's this Inbox icon that shows you all the meeting invitations. It's currently showing me 45 calendar invites that are all past due.  Is there any way to remove those invitations from past dates other than declining them one by one? 

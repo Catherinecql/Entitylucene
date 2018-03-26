@@ -1,0 +1,1 @@
+Problem Switching Provisioning Profile For Different Build <body> Under the "My Apps" i created 2 apps ( Apple Apps , Orange Apps ). How do i make sure the Xcode upload my own build to "Orange Apps" bit confuse is there anywhere to switch between these 2 ? 

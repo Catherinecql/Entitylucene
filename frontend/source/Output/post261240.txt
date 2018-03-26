@@ -1,0 +1,1 @@
+Is there a log file that shows delete Applications by user? <body> Is there a Mac OS X log file where I can see which applications have been removed (deleted) from the machine, and if possible, by which user account?  I do desktop IT Support but am not skilled in depth in the Mac environment. Some core apps have gone missing without explanation (not Apple apps, 3rd party).  

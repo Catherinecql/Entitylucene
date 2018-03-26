@@ -1,0 +1,1 @@
+File path of icons stored in Finder info thumbnail <body> Icons may be changed in OSX by using the "get info" page of an app. LiteIcon uses this method to change icons without changing the .icns resources inside the app. Anyone know where these files are stored? 

@@ -1,0 +1,1 @@
+Alarm on iPhone through Apple Watch <body> When I set an alarm on my Apple Watch, is it possible to copy this automatically to my iPhone so that both devices alert me?  <answer191721> Not using the built-in apps. There might be third party applications with this functionality. 

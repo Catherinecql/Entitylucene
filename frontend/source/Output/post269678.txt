@@ -1,0 +1,1 @@
+Is there an equivalent to ionice on macOS? <body> Is there an equivalent to codeionice/code on macOS? I'm looking for a terminal utility similar to coderenice/code.  I found this GitHub repo and several dead links to this now 404-ing manpage for the codesetiopolicy_np()/code syscall. However, the GitHub repo does not support changing the I/O priority of existing processes. 

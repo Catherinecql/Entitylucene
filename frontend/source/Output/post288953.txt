@@ -1,0 +1,1 @@
+Common Xcode installation <body> We have 10 macs each with its own installation of Xcode on it. This consumes a lot of disk space.  Is there a way to install Xcode on a common sever and have other 10 Macs use it?  <comment364966> You could actually netboot the Macs, and reuse an entire operating system installation, if that's better.

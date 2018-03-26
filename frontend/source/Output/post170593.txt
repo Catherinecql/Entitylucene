@@ -1,0 +1,1 @@
+macbook late 2013 SD card reader spec? <body> I cant find any information, about support the SD card reader of my late 2013 MBP 15:  ID factory: 0x05ac ID product: 0x8406 : 3.00 s/n: 820  Does it support UHS-I U3/U1 ? 

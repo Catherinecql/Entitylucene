@@ -1,0 +1,1 @@
+OS X Server - Customize event invite emails <body> Is there a way to customize the event invite emails sent by the Calendar service in OS X Server 5.1.5? I'd like to tweak the styles and possibly add my logo. 

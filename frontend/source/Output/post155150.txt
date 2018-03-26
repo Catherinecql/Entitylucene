@@ -1,0 +1,1 @@
+How to change the font size of the Reminders app? <body> Is there a way to increase the font size of the Reminders app? It was easy in Mavericks, by changing a text file inside the app package, but I can't find it anymore on yosemite.   The text is just too small, isn't it?  <answer161371> I believe the right answer is: it is not possible. 

@@ -1,0 +1,1 @@
+Photos missing from Camera Roll after large AirDrop transfer <body> Photos aren't showing up on iPad Camera Roll after being received from iPhone, trough AirDrop. It's a large 5Gb+ data transfer with over five hundred images received at once. Send/Receive was successful, images take up the space, shown in Storage  Photos &amp; Camera 

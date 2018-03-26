@@ -1,0 +1,1 @@
+Apps won't sync to jailbroken device from iTunes <body> My iPhone 5s is jailbroken. I want to add some apps to my iPhone from iTunes but all apps don't sync correctly and are dark on my iPhone:  img src="https://i.stack.imgur.com/QB2my.png" width="320"  <answer128732> You could try using AppSync to sync the apps, or just redownload them. 

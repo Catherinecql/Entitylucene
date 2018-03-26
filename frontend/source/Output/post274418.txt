@@ -1,0 +1,1 @@
+Which keys are the symbols ⌃ and ⌥? <body> Can anyone say which keys represent the 2 symbols in the Run menu item from the screenshot?  img src="https://i.stack.imgur.com/kOvJt.png" alt=""  <answer274420> ⌃ ctrlbr ⌥ alt/option  These two keys appear next to ⌘ cmd in the bottom left corner of your keyboard.  img src="https://i.stack.imgur.com/erb5v.png" width="435" 

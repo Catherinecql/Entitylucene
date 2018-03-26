@@ -1,0 +1,1 @@
+Wrong amount of photos being reporting on mini iPad <body> My mini iPad reports I have 1701 photos. But after deleting most photos,maybe a hundred left. My iPad still says I have 1701 photos.help  <comment205824> Did you empty the trash inside the Photo app? <comment205826> Which iOS version do you have? Is it the Camera Roll album that is showing the wrong amount of photos?

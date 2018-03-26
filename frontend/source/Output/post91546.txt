@@ -1,0 +1,1 @@
+Ruby and osx, clipboard status detection <body> My question: is it possible to detect when clipboard was pasted into other app ?  With use of RubyMotion, Macruby, or Apple Scripts maybe ? 

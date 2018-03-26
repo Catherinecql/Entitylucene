@@ -1,0 +1,1 @@
+Safari losing history <body> Every time I quit and start Safari, my history becomes empty. I start to have this problem in the past month on OS X 10.11.2 (15C50). Even if I disable extensions, the problem persists. 

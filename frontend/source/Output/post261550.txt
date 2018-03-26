@@ -1,0 +1,1 @@
+Screensaver slideshow too fast <body> I upgraded to EL C 10.11.6 from Snow Leopard and lost my screensaver setup. I have created a screensaver album in 'Photos' and added selected photos to it and it works fine. However, the images change every 2 seconds and I would like to have them display for a bit longer. Is there any way to achieve this? 

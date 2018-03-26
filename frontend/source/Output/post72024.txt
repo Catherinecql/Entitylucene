@@ -1,0 +1,1 @@
+How to connect Galaxy Tab to Time Capsule? <body> I have a Samsung Galaxy Tab and a Time Capsule providing my home WiFi network. I would like to connect the Tab to the Time Capsule using some file manager to transfer files to/from the Time Capsule.  How do I do this? 

@@ -1,0 +1,1 @@
+What are the specs of ambient light sensor in latest MBP 2016 <body> Couple of months ago Apple has showed off the new iPad's color temperature sensor which helps in adjusting the screen's brightness to resemble a paper. Does the late 2016's MacBook pro has got equivalent ambient light sensor? What about the ambient light sensor on the late 2015's MBP? 

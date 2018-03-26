@@ -1,0 +1,1 @@
+How can I share folder inside Mobile Documents on my LAN <body> Hi I am trying to share fodler inside Mobile Documents on my Local LAN,  code~/Library/Mobile Documents/com~apple~CloudDocs/code  when I press [CMD + i] I do not get the sharing option.  would be great if soemone can tell me how to share this folder 

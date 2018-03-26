@@ -1,0 +1,1 @@
+Finder: How can I really disable the Sidebar? (Sierra) <body> I rarely use the Finder's Sidebar, but I can't get rid of it.  I turn it off for a folder, and it almost always comes back the next time I open that folder.  (This was asked before but solution does not work on 10.12) 

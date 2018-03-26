@@ -1,0 +1,1 @@
+How to choose 256-Bit-AES-Encryption in Automator Workflow? <body> How can I make sure that the Automator workflow uses the highest Encryption level 256-Bit-AES-Encryption? There's a checkbox strongEncrypt/strong only? Any reliable workaround?  img src="https://i.stack.imgur.com/v0V13.jpg" alt="Automator encrypt" 

@@ -1,0 +1,1 @@
+Ctrl + → to have the same effect as ⌥ + → <body> How can I make kbdCtrl/kbd + kbdArrow/kbd to have the same effect as kbd⌥/kbd + kbdArrow/kbd, i.e. move to the previous/next word?   <answer229033> Karabiner has this functionality:  img src="https://i.stack.imgur.com/YmLXJ.png" alt="enter image description here" 

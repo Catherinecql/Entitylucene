@@ -1,0 +1,1 @@
+What is the opposite of space to scroll up? <body> What is the key that scrolls the page up in a web browser (Safari, Chrome, Firefox), that is the opposite of using the spacebar, which scrolls down?  <answer114099> I just use the Page Up and Page Down keys.  <answer114102> h1Shift-Space/h1  Space goes down a page, and Shift-Space is the opposite, scrolling emup/em one page. 

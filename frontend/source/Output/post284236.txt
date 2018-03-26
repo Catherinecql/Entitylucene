@@ -1,0 +1,1 @@
+I was randomly logged out of my Mac on Sierra. Is there any way I can find the cause? <body> My retina MacBook Pro seems to like logging me out occasionally. Are there any logs which I can see that could explain why this happens?  <comment358556> This [question](https://apple.stackexchange.com/q/278393/168832) may be of interest. <comment358646> Indeed, thank you!

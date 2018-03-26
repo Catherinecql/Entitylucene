@@ -1,0 +1,1 @@
+How to trust SHA2 cert in OS X? <body> I have an SSL Root Cert from my Active Directory Root CA, in SHA256(SHA2) format. It most definitely is the root certificate.  However, when I import it into either keychain on my Mac it says     Certificate can not be verified   and it identifies it as an intermediate certificate. Any ideas to get the cert imported properly? 

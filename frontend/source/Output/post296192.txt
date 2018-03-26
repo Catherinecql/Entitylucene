@@ -1,0 +1,1 @@
+Un-map cmd+h and cmd+alt+h <body> As I use cmd+alt+h shortcut most of the time, I'm trying to find any way to change its default behaviour in mac, so my other windows won't be hiding on this keys. These shortcuts are not listed in settings and my searches so far haven't brought any results. Any way to do this? 

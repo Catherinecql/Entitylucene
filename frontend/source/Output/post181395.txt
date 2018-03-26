@@ -1,0 +1,1 @@
+How to make a custom keybind that runs an applescript file? <body> No additional questions. I'm fine with installing an additional program.  <answer181396> ol liFirst, (Automator - New - Service) to paste the code, and then (System Preferences - Keyboard - Shortcuts - Services) to bind the Service to a keyboard shortcut./li liBetterTouchTool/li liKarabiner/li /ol 

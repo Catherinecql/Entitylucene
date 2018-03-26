@@ -1,0 +1,1 @@
+Disabling password prompt at every installation for App Store/Mac App Store <body> Is it possible?  It's really annoying. Especially on the iPad (don't know if it exists on the iPhone) :S 

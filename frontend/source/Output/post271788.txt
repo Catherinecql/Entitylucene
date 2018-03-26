@@ -1,0 +1,1 @@
+Fix name tag on a face in iPhone photos app <body> I tagged some pictures with a wrong person in Photos app of iPhone ios 10.2. How can I fix that?  <answer285817> click "i" (for get information", click on the face of the person then in the name tag - and correct the name just as you would for any other mac item name change 

@@ -1,0 +1,1 @@
+Cannot receive emojis from andriod phones <body> When receiving texts from android users, if an emoji is sent I only receive an empty text bubble.  I've never had this problem before.  Please advise.   Device:  iphone 5c  ios:  8.0.2 

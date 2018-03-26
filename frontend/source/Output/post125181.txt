@@ -1,0 +1,1 @@
+How do I change my DNS settings for 3G? <body> I want to use GoogleDNS while I'm on the bus. But there is no settings page to change as far as I can see.  <answer125182> You cannot change the dns while on cellular.  You may be able to do so if jailbroken--i do not know if you can or can't--but you cannot while on cellular. 

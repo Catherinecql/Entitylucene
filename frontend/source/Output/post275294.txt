@@ -1,0 +1,1 @@
+Is there a way to automatically mute the speakers when audio stops playing on macOS? <body> I hid the volume menu bar icon, and so have no indicator of my volume level. Additionally, it's a burden having to continuously mute the speakers. Is it possible to automatically mute the speakers when any audio finishes playing? 

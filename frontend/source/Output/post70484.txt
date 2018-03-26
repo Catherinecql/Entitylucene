@@ -1,0 +1,1 @@
+What can I use to organize a large music collection? <body> I'm looking for something similar to MediaMonkey on Windows, for things like:  ul libatch editing of metadata/li liautomatic tagging based on folder structure/li licreating folder structures from metadata (the opposite of the above)/li /ul  Any suggestions?   <comment81816> You can use iTunes for everything but point 2.

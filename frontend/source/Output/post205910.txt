@@ -1,0 +1,1 @@
+Redirect Facebook notifications to messenger.com instead of facebook.com <body> When I receive a new notification concerning a new message on Facebook, clicking the notification will take me to Facebook site. Is there a way to make these notification go to messenger.com instead? It loads faster, and I generally prefer it to using Facebook's site. 

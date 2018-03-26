@@ -1,0 +1,1 @@
+window hidden behind menu <body> the top of my photoshop is hidden under my mac menu and I can't seem to get it back to normal  img src="https://i.stack.imgur.com/8VNy0.png" alt="here is a screenshot"  <answer162720> shift/click/drag from the left-hand edge, which you can see, &amp; the entire window will resize from all sides.  You can then drag it back into view. 

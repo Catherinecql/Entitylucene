@@ -1,0 +1,1 @@
+How to open a file with x11 applications <body> I need to use Evince for pdf and djvu files, so I installed it with MacPorts.  However, whenever I want to open a pdf in Evince, I have to open x11 and navigate to the document and open it.  Is there a way to open pdf by default in Evince? Or at least right click and open it in evince. 

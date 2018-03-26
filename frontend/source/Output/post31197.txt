@@ -1,0 +1,1 @@
+Swap Fn and Control key on a MacBook Pro <body> I use a MacBook at work and the kbdFn/kbd is exactly where I expect the kbdControl/kbd key to be. Is there any way I can swap the two keys?  <answer31199> KeyRemap4MacBook allows you to do this. 

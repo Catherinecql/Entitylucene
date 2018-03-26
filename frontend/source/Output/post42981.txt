@@ -1,0 +1,1 @@
+Share spotlight comments? <body> I have a afp share on my office network, is it possible if I were to add a spotlight comments field, have it show up on another machine which also has the volume mounted? The color shows up but nothing else.  Any help? 

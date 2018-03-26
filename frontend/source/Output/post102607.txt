@@ -1,0 +1,1 @@
+Recovering reformatted partition <body> I have an external drive that had a single HFS+ partition (GPT). It was accidentally formatted. How can I recover the lost partition? I "know" the old partition map which (coincidentally?) is the same as the new one; starting sectors etc. Thanks in advance 

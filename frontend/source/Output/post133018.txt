@@ -1,0 +1,1 @@
+How to switch applications using Cmd+Tab when inside VirtualBox without using Host key? <body> When inside VirtualBox in order to switch to an OSX app, I first press Host key which is Right Option, then I press Cmd+Tab.  I wonder if there is some trick to eliminate pressing Host key before Cmd+Tab? 

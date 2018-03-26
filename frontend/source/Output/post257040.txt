@@ -1,0 +1,1 @@
+Is it possible to use the free provisional developer license to create Apple Wallet passes? <body> I know that the free license allows me to develop iOS apps and install directly on my iOS device. How about for Apple Wallet passes? 

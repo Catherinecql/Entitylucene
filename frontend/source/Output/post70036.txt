@@ -1,0 +1,1 @@
+Remote Install Mountain Lion for MacBook Air <body> Let's say I have an disc or ISO of Mountain Lion on a Macbook Pro. And I have a Macbook Air (with Leopard). How can I install Mountain Lion on the Air? 

@@ -1,0 +1,1 @@
+How can I upload Photostream pictures to Flickr <body> I want to (automatically if possible) upload the content of my Photostream to Flickr. How can I accomplish that?  <answer79636> You can use a plugin to upload photos of your choosing to Flickr (albeit not automatically).  ul liFlickrExport/li liFFXporter/li /ul 

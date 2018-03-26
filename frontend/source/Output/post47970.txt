@@ -1,0 +1,1 @@
+Is spam filtering on-device possible on the new iPad? <body> Is there any way to enable spam filtering on iPad mail?    <answer47971> Unfortunately, no. The filtering happens on your mail server, if the one that you are using supports spam filter (like Gmail). 

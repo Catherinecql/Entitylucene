@@ -1,0 +1,1 @@
+Office 365: Outlook — limit sync to 30 days <body> I have just installed MS Outlook for Mac and am trying to prevent it from downloading my entire inbox with emails dating back to 2008.  I have an IMAP Gmail account and only want Outlook to sync emails from the 30 most recent days. This is quite easy to achieve in Thunderbird but I can't see anything for this for Outlook? 

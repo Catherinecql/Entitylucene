@@ -1,0 +1,1 @@
+How to Lock apps using FingerPrint in iPhone <body> Can we lock other apps (eg.Facebook, Twitter) with fingerprint using Xcode.   <answer245198> No you can't, as you can't handle access over other apps then your own app.  <comment331632> #onlyonandroid (sorry).

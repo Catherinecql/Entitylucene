@@ -1,0 +1,1 @@
+Buying items from the app store <body> I wanted to purchase an item in-game but I downloaded that game in a different account that I seemed to have lost. I now have a new account and I wonder if I can buy from that account instead.  <answer245729> When buying an in-app you'll be asked to enter your Apple ID and password. Just use that account to unlock the item.  

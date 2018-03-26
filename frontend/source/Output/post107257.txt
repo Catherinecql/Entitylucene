@@ -1,0 +1,1 @@
+iTunes purchases not syncing from iPhone to iMac <body> I bought an album on iPhone which then synced seamlessly with iPad &amp; macbook, but will not sync to iMac. i have allowed for automatic downloads &amp; tried to transfer purchases - nothing happens.  <comment125781> Have you been syncing the iPhone to the iMac with iTunes before?

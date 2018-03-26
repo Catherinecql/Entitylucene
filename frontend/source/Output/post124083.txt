@@ -1,0 +1,1 @@
+Re-open network tabs in Finder <body> How do I restore network Finder tabs in OS X Mavericks after the computer source of the tabs has rebooted and left those tabs blank?  Is there an Automator action that can populate Finder tabs with network addresses? 

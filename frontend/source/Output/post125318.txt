@@ -1,0 +1,1 @@
+"no caps" not working in Sublime Text <body> On Mavericks I'm trying to use the "no caps" dictation command in Sublime text but the word always appears capitalized.  I tested the command in the Safari URL line and it does work there.  Is there a work around for this? 

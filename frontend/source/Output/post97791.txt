@@ -1,0 +1,1 @@
+Possible to Detect All the Podcasts in iTunes That Are Marked to Not Allow Auto Delete? <body> I'd like to, for my own nefarious reasons, be able to see which files iTunes currently thinks it can't auto delete.  Applescript or summat would be fine, although a smart playlist would be even better. 

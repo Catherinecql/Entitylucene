@@ -1,0 +1,1 @@
+How to change selection on a delete window <body> Anyone knows how to select the delete button using only keyboard on the delete screen confirmation?  <comment349357> *Which* delete window? Could you provide a screenshot? <comment349362> Thanks for you reply, I just found another question with the response.

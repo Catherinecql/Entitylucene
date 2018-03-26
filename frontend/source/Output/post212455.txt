@@ -1,0 +1,1 @@
+debugging what app is capturing a key binding <body> After updating 10.11.1, some key bindings no longer work, such as shift-option-5 and shift-option-4. How can I find what is conflicting?  MacBook Pro with Retina display, OS X Yosemite (10.10.4), 2015 

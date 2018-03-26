@@ -1,0 +1,1 @@
+Can you change the volume name when creating a disk image from an optical disc in disk utility? <body> I know how to create a disk image from an optical disc using Disk Utility. The problem is that I need to change the volume name for the resulting disk image. 

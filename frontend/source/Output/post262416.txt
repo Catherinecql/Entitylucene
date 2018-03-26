@@ -1,0 +1,1 @@
+macOS Sierra update from El Capitan - Battery died in between - How to check <body> I was updating to macOS Sierra from El Capitan, when after the download, the update was in progress. The battery somehow died and laptop shut down while the completion time was 12 minutes away.    I restarted the machine and mac Sierra was installed.  How can I check the integrity of the OS?   

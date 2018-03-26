@@ -1,0 +1,1 @@
+IOS 8.0.2 Facebook launch issues - it wont launch! <body> my facebook wont even open now the update has happended! it flashes open for a nano-second and then automatically closes again. should I also try the delete and re download?  <answer148318> Try deleting the app and reinstalling the latest version from the app store. 

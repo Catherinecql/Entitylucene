@@ -1,0 +1,1 @@
+Disable editing of book project in Photos app? <body> When I have finished editing a book project in the Photos app, I would like to disable further editing. Is there a way to set a read-only flag on books and other projects in the Photos app? 

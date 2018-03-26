@@ -1,0 +1,1 @@
+Only sync facebook events that I have RSVPed "yes" to in iOS6? <body> I like being able to see facebook events on my calendar with iOS6. I don't like that it shows me events that I have been invited to, but haven't responded to, or sometimes events that I have rejected. Is there a way to only sync events that I have specifically RSVPed "yes" to? If not, why not? 

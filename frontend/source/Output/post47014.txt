@@ -1,0 +1,1 @@
+Lion shutdown menu, locks computer <body> I'm having a weird problem.. When I go to the 'Apple' Menu in finder, and select the 'Shut Down...' button, it locks the computer. Not shutting it down.  I'm running Lion 10.7.3 on a late 2011 macbook pro 15" 2.4ghz  I have tried resetting the PRAM, and stuff like that.  Can any help?  Best regards, Lucas Rolff 

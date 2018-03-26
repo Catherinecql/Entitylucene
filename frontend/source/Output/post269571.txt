@@ -1,0 +1,1 @@
+How to extend the line to the top? <body> I am newbie to use Pages:  img src="https://i.stack.imgur.com/lVaYO.jpg" alt="enter image description here"  I have two questions:  ol liHow to delete the square ?/li liHow to extends the line to the top ?/li /ol 

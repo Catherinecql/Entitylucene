@@ -1,0 +1,1 @@
+Remove Header and footer in pages 5.5.2 <body> How do I remove header and footer in newest pages 5.5.2 easily?  <answer184542> You just need to uncheck one or both of it under Document. See the image below.  img src="https://i.stack.imgur.com/qp8eI.png" alt="enter image description here" 

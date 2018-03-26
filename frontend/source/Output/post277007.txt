@@ -1,0 +1,1 @@
+Sort a dock folder by tags in El Capitan? <body> Right clicking on the docked folder doesn't provide an option for sorting the entries by tag. I presume editing the com.apple.dock would enable this, does anyone have any ideas on how to go about doing this? 

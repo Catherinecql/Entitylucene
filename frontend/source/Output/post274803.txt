@@ -1,0 +1,1 @@
+Where does MacBook save Sierra OS update files for Mac, not iPhone? <body> I downloaded an update today and had to click "install later." Now, not sure where that update is. Where does MacBook save Sierra OS update files?  <answer274865> precode/Library/Updates​​​​​​​​​​​​​​​​​​ /code/pre 

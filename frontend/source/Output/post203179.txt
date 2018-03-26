@@ -1,0 +1,1 @@
+Outgoing email for calendar alerts <body> I have multiple email accounts in Mail (Gmail, Exchange) and multiple calendars are set in Calendar. I got email alerts from Calendar that are sent with my Exchange email (Google Calendar alerts too). I cannot find any option to send all of my alerts with Gmail mail account.  Is it possible to set from address in calendar email alerts? 

@@ -1,0 +1,1 @@
+How to stream audio and/or video to several iOS devices simultaneously? <body> Is there any app that allow me to stream audio, video (including YouTube and Vimeo) to iPhone and iPad simultaneously from a MacBook?  hr  I've searched for this and I found an app called "AirPlayit" but I think this application doesn't allow me to stream also from Youtube or Vimeo or SoundCloud? 

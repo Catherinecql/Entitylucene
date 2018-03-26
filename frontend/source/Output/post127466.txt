@@ -1,0 +1,1 @@
+Apps deleted from jailbroken iPad after battery died <body> My iPad's battery recently completely died and when I plugged it in all the apps were gone. I've rebooted it and checked iFile and it says all the apps are still there but they don't show.  <answer127482> SSH into your device as the mobile user and run codeuicache/code then respring. 

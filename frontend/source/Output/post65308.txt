@@ -1,0 +1,1 @@
+iMac OS 10.8 sleeps even when set to never sleep <body> This is new behavior within the last month. I have the iMac set to never sleep so that I can access it via Logmein remotely. But the last several weeks the machine goes completely to sleep. Any recommendations on some sort of re-set or other method to get this system preference to work normally? 

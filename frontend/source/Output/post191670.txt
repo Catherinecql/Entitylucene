@@ -1,0 +1,1 @@
+To convert GNU paste to BSD <body> Command in GNU  precodeecho "Masi,hello" | paste -sd, /code/pre  which I want in BSD paste.  I am reading this answer here.  How can you write this in BSD paste.   <answer191673> On OSX you'll have to add an extra "-"   precodeecho "Masi,hello" | paste -sd, - /code/pre 

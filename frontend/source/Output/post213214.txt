@@ -1,0 +1,1 @@
+On MacBook Air OS X running El Capitan 10.11.1 lost Preview window in Mail <body> In Mail, Preview window disappeared. I tried dragging the 'separator' at the bottom as suggested (by and worked for others) but doesn't work for me. I simply can't get my 'preview' window back.  <comment257468> Are you dragging it far enough?

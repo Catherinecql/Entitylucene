@@ -1,0 +1,1 @@
+Safari 10 Hotkeys <body> With the new macOS Sierra Safari switched to using QuickTime player (if available). But what are hotkeys for it? The most common "Space" is not working and it seems like Cmd and Opt don't make shortcuts for it. 

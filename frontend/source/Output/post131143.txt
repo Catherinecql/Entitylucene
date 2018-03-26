@@ -1,0 +1,1 @@
+How to text a message to a number on an iPhone? <body> On my iPhone 5, how do I text a message to a number? I am trying to send the words "HELLO WORLD" TO 888765?  <answer131147> In iMessage  ul licreate a new message (icon at top right)/li lienter the number you want to send the message to into the To: line/li lienter the message as usual/li lisend it/li /ul 

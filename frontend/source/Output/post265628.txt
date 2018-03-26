@@ -1,0 +1,1 @@
+How to hide app store updates in macOS Sierra? <body> I tried right clicking the updates to see if it would show me a "hide" or "ignore" option without any luck.  My OCD is not pleased. I don't want to see a number on my pretty App Store icon :p  Am I missing anything or did Apple just remove that option? If so, may Steve Job's ghost haunt them until they are all driven crazy. 

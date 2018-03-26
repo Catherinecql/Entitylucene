@@ -1,0 +1,1 @@
+Cannot find Contact Search results <body> On my iPhone 6S running IOS 10.1.1, I cannot find any results when searching in either the Contacts app or in the Contacts tab in the Phone app. I have hundreds of contacts, but no matter what letter I type in the search field, I get no results. 

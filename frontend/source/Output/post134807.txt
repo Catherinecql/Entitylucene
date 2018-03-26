@@ -1,0 +1,1 @@
+Delete Flickr album from iOS app <body> Is there any way I can delete an album from the official iOS Flickr app?  <answer134812> I found the solution. You have to remove all the photos from the album you want to delete. 

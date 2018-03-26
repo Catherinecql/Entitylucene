@@ -1,0 +1,1 @@
+How do I get spotlight to recognise custom tags on an external server? <body> I'm trying to sort files on an external server using custom tags, however spotlight doesn't seem to recognise the custom tags. It works successfully with the standard OSX tags (i.e. red, yellow, blue etc.), just not with custom tags. Does anyone know why?  (I'm using OSX 10.10.5) 

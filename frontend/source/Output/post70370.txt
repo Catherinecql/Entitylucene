@@ -1,0 +1,1 @@
+How do I auto-mount a SMB share on OS X 10.8? <body> How do I auto-mount a SMB share on OS X ?  I know how to mount it using GUI: Cmd-K on Finder but I want a solution that would restore them after reboot/relogin.  This questions applies to latest OS X, 10.8 

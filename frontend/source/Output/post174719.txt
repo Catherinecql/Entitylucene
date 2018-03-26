@@ -1,0 +1,1 @@
+How (if possible) to change aesthetics of scrollbars? <body> I like to work with scrollbars always visible, especially when working with a traditional mouse, but I don't like the ultra-skinny, rounded-corner scrollbars when "always visible" is turned on.  How (if possible) do I customize the scrollbars? 

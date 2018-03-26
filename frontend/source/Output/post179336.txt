@@ -1,0 +1,1 @@
+How do I recover a password from a custom disk? <body> I made a folder with some content into a disk image and assigned it a password. I unfortunately have forgotten the password and cant access it. Any work around solution to the problem?  <answer179340> Short answer, No - that's what encryption is for, to prevent anyone getting in who doesn't know the password. 

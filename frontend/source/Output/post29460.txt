@@ -1,0 +1,1 @@
+Can OmniGraffle for iOS open and edit PDFs?   <body> OmniGraffle for OS X can open and edit PDFs.  Can OmniGraffle for iOS do this?  <answer29594> The OmniGraffle product page for the iOS version mentions that it can export PDFs. They don't seem to mention anywhere whether it will open PDFs, but that seems likely. 

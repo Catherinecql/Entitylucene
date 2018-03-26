@@ -1,0 +1,1 @@
+Auto tuned my guitar <body> While messing around with the GarageBand, I decided to try to put auto tune on my guitar track. It made my guitar sound distorted in a way that I didn't like so I turned auto tune off, but the effect itself stayed on and now whenever I open that project my guitar is distorted. I need help troubleshooting turning the auto tune effect off. 

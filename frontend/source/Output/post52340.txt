@@ -1,0 +1,1 @@
+Apple iPad 10W USB Power Adapter <body> can you tell me what are the specifications of Apple iPad 10W USB Power Adapter i.e. power input,output,volt.ampher,etc  <answer52342> Input  ul liVoltage 100V-240V AC/li liFrequency: 50/60Hz/li liWattage: 0.45A/li /ul  Output  ul liVoltage : 5V DC/li liCurrent: up to 2A/li liWattage: up to 10W/li /ul 

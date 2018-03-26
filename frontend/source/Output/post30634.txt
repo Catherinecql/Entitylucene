@@ -1,0 +1,1 @@
+assassin creed brotherhood : mac requirement <body> I have a early 2011 Macbook pro with graphic card as Intel HD Graphics 3000 384 MB, will Assassin creed : brotherhood run on this Mac version.  <answer30636> Yes, it will, but the graphics card is not supported by the game manufacturer.  

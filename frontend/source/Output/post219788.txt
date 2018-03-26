@@ -1,0 +1,1 @@
+print jobs cancel after 3 hrs - how change? <body> Moved up to El Capitan 10.11.2. Now my print jobs all cancel after 3 hrs (10800 sec). Can't find CUPS files in Library. How/where can I change the setting of MaxJobTime? 

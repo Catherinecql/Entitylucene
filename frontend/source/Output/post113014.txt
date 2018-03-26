@@ -1,0 +1,1 @@
+How to remove the "...(pg #)" in the table of contents <body> I am wondering how I would remove the code.....(pg #)/code at the end of lines so that it can be formatted correctly for the kindle. Ex.  precodeChapter 1   5 /code/pre  I want to go to   precodeChapter 1 /code/pre  <comment132641> I figured out how to do it singly, but how do I set it up automaticly.

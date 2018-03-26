@@ -1,0 +1,1 @@
+How to hide downloading progress bar on Crome icon in macOS? <body> Is it possible to hide the downloading status on chrome icon in macOS?  img src="https://i.stack.imgur.com/swbj7.png" alt="enter image description here"  I want to remove that downloading status. 

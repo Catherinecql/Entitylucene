@@ -1,0 +1,1 @@
+Why is the Xcode 7 download size different with the app store and a .dmg download? <body> I was recently trying to download Xcode 7 for my MacBook Pro, and I noticed that when I downloaded it as a code.dmg/code file in my browser it said the file size had a size of 4.8 GB, but when I downloaded it from the app store it said it was 4.41 GB large. Why is this? 

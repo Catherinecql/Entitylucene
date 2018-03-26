@@ -1,0 +1,1 @@
+Can iOS be edited if jailbroken? <body> I recently jail broke my Iphone and i downloaded iPhoneBrowser to view all the files on my phone. I was wondering if it is possible to view the actual code of IOS and it's apps. If you can do this is it editable?  <comment319680> You can view the files on the iPhone but not the source code of the iPhone or any apps.

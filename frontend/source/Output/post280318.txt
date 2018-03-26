@@ -1,0 +1,1 @@
+Mail.app: I can't use the Send keyboard shortcut when creating a new message <body> I'm on macOS 10.12.4 running Mail.app 10.3.  When creating a new message, I'm not given the option to send the message with kbdcmd/kbd+kbdD/kbd like it does when I reply to emails. I remember in the past it allowed me to do that, am I missing something? Sorry for the stupid question. 

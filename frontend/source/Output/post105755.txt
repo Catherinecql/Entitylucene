@@ -1,0 +1,1 @@
+Is it possible to upload MP3s to Audible's Iphone app? <body> I have some MP3 files that I would like to add to my Audible library. Is it possible to do so?   <answer105756> AFAIK it doesn't support MP3s. It only supports .m4b or .aa 

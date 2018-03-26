@@ -1,0 +1,1 @@
+Can I charge my mi5 mobile using MacBook pro charger ? <body> I lost my mi5 charger.Is it ok to use my Macbook pro charger for my mi5 mobile ?   <comment360887> Assuming that you are using a MBP charger with a USB connection, then *YES* it's ok to charge your mobile with the charger.  See this [answer](https://apple.stackexchange.com/a/271794/119271) for details.

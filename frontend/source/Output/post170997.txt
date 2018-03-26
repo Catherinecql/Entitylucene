@@ -1,0 +1,1 @@
+Allow collaborators to only comment on a Pages document <body> Is it possible to allow collaborators to only make comments to a Pages document?  The only options I can find within the Mac and iCloud versions are to make the document fully editable or view only. 

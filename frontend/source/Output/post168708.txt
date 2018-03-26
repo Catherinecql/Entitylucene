@@ -1,0 +1,1 @@
+"Calculate" button on iTunesConnect non functional <body> I am trying to create an iAd campaign, and after entering my budget, daily spend goal,CPC bid, and CPA goal, the "calculate" button is doing nothing.  I want to see my estimated taps and impressions. 

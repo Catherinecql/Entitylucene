@@ -1,0 +1,1 @@
+How to completely kill dock bounce <body> I did this:  precodedefaults write com.apple.dock no-bouncing -bool TRUE killall Dock /code/pre  plus disabled opening animation in settings.  But Xcode 8.1 beta still bounces, not on opening but on some event.  How do I make Xcode respect the settings? 

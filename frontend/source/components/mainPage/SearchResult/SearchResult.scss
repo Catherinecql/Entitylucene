@@ -1,0 +1,122 @@
+
+
+.SearchReuslt{
+	
+	.sub_head{
+		
+		font-weight:500;
+		color:#373638;
+	}
+
+	.header{
+		padding:5%;
+		h2{
+			
+			
+			text-align:center;
+		}
+	}
+
+	.pointer{
+		cursor: pointer;
+	}
+
+	.basic_info{
+		display: flex;
+		flex-flow:row nowrap;
+		justify-content: space-between;
+		align-content:center;
+		
+
+		.user_avatar{
+			flex-basis:20%;
+			img{
+				width: 100px;
+				height: 100px;
+			}
+		}
+		.text_info{
+			margin-left:5%;
+			flex-basis:80%;
+			display: flex;
+			flex-flow:column nowrap;
+			justify-content: center;
+			// font-family: $content_font_family;
+			.twitter_link{
+				display: flex;
+				flex-flow:row nowrap;
+				align-items:center;
+				color:black;
+				.screen_name{
+					margin-left:5px;
+					font-size:0.9em;
+				}
+			}
+			.name{
+				
+				font-style: normal;
+				font-size:1.2em;
+				font-weight:500;
+			}
+			.ranking{
+				margin:2px 0;
+			}
+			.label{
+				margin:2px;
+			}
+		}
+		
+	}
+
+	.detail_info{
+		
+		.charts{
+			max-width:100%;
+			
+			
+			display: flex;
+			flex-flow:column nowrap;
+			.chart{
+				margin-bottom:30px;
+				display: flex;
+				flex-flow:column nowrap;
+				align-items:center;
+				img{
+					max-width: 80%;
+	    			max-height: 80%;
+				}
+				.chart_content{
+					
+					
+					height: 150px;
+					width: 100%;
+					
+
+				}
+			}
+		}
+		.text_info{
+			
+			display: flex;
+			flex-flow:column wrap;
+			// font-family: $content_font_family;
+			.small{
+					font-size:0.9em;
+					hyphens: auto;
+			}
+			.top_info{
+				
+			}
+			.tweets{
+				.time{
+					color:grey;
+					font-size: 0.8em;
+				}
+			}
+		}
+		.top_menu{
+			hyphens: auto;
+		}
+	}
+
+}

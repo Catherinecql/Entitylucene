@@ -1,0 +1,1 @@
+Music won't play on memory stick <body> At first my Apple Music wouldn't play on Windows Media Player as MP4 download, so I downloaded the codec pack to my PC. It now plays without the codec warning but theres no sound. It also doesn't play from a memory stick either.   <comment357826> Are you using iTunes?

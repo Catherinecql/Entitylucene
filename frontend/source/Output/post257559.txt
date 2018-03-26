@@ -1,0 +1,1 @@
+How to define paragraph styles globally for every new document in pages? <body> I have defined some paragraph styles in my first document. But they are not defined when I start a new document with pages. What should I do to use it in every new pages document as well? 

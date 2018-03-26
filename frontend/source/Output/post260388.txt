@@ -1,0 +1,1 @@
+Trackpad not working on minimize/close/maximize buttons <body> Sometimes, the minimize/maximize/close buttons dont respond in my macbook. To check, I tried using the built in calculator. Each number i press is registered twice. Is there a hardware problem in my mac? The trackpad has no issues otherwise. 

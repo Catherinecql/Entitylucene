@@ -1,0 +1,1 @@
+Is there a way to permanently affix the error console in Safari? <body> I would like the developer console to be a permanent fixture in my Safari. Having to hit cmd+opt+C every time I open a new tab is getting old. Rather than using cmd+opt+C to unhide the dev console it would be great if I used that to hide the dev console. 

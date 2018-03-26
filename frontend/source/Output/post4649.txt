@@ -1,0 +1,1 @@
+Use iPod Touch bluetooth to connect mobile phone and use dial-up for internet <body> Is it possible to code a program which connects to my phone and use its dial-up service (GRPS/EDGE) to connect to the Internet?  <answer4676> I found the app iBluever which seems to be able to do this job. Thanks anyway.  <comment4533> Isn't this more of a StackOverflow question?

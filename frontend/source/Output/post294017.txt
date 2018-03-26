@@ -1,0 +1,1 @@
+How to import events from wallet to calendar? <body> Is there a way to import tickets/events from wallet to calendar in ios?br This seems to be a very basic functionality but still hard to figure out.  I know wallet shows notifications but having all of my events in my calendar gives me a better overall look on my plans. 

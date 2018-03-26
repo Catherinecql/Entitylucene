@@ -1,0 +1,1 @@
+How to change the color of the date on the Calendar icon in the dock on Mac <body> So I changed all my icons to custom ones and now I can't see the date in the calendar, I want to change the month and date to some shade of blue but I'm not sure if this is possible   <comment227814> What did you use to change? <comment227832> I just changed the .icns files

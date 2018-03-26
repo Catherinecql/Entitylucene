@@ -1,0 +1,1 @@
+To what application does com~apple~shoebox belong to? <body> Looking at code~/Library/Mobile Documents/code I see a folder named codecom~apple~shoebox/code. What application does it belong to?  <answer81580> According to @Cocoanetics, Ole Begemann (under codeShoeboxUISerice and WebViewService/code) and this SO-answer, "Shoebox" was Apple's codename/inside name for Passbook! 

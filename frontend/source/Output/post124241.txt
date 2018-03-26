@@ -1,0 +1,1 @@
+Adobe Creative Cloud not launching <body> When trying to launch strongAdobe Creative Cloud/strong I get ..  code3/13/14 12:56:49.934 PM com.apple.launchd.peruser.501[629]: (com.adobe.acc.AdobeCreativeCloud.184656[11066]) Exited with code: 5/code  I created a new user and it works there, but not here for some reason. 

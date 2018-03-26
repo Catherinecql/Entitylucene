@@ -1,0 +1,1 @@
+iPhone 4S capability to read android hidden files <body> I sent an email with hidden files from an android to my iPhone 4S. When I opened the mail attachment it's was several lines of boxes and com.apple.textencoding.   What are these files and how can I open them?  <comment117601> Please define "hidden files".

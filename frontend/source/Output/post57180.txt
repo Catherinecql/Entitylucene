@@ -1,0 +1,1 @@
+Is there a way to lock your Apple device against syncing on other computers? <body> Find my iPhone is nice, but that doesn't really stop savvy thieves from syncing the device back to factory settings.  <answer57182> Unfortunately, no.  That's a flaw of the iPhone that is designed to help you, in case you ever forget your passcode.  <comment65655> I guess it makes sense.

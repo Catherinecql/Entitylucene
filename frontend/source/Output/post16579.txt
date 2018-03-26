@@ -1,0 +1,1 @@
+Garageband on 10.4.11: which version and where to find it? <body> I'd love to install garageband on an old mac mini... Which version will it run on 10.4.11? Can I download it from apple site or any other source?  <answer35444> Garageband as included with iLife '08 will work fine with Tiger but you'll need to complete the free online upgrades to 10.4 to bring it up to date.  

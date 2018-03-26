@@ -1,0 +1,1 @@
+Suggestions for a bulk video tag editor for Sierra <body> So I was using iDentify before but the app wouldn't work on Sierra. No problems running on 10.9 to 10.11.  I found MetaZ but I don't see a way of editing video files in bulk. I was trying to edit the title. Any suggestions? Thanks! :) 

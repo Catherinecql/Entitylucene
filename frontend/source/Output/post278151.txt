@@ -1,0 +1,1 @@
+How can I copy an address from one contact to another? <body> Several family members live at the same location, but each has a different name and phone number. Is there an easy way to enter the street address and city, etc., for one member of the family and then propagate it to the contact information for the others? 

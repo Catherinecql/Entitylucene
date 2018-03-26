@@ -1,0 +1,1 @@
+Chrome Remote Desktop iOS mapping CMD key <body> I'm using the Bluetooth Apple Keyboard with Chrome Remote Desktop on my iPad and I would like to map the CMD key to the Windows key.   This is the default behaviour on Chrome Remote Desktop on OS X, but for some reason the CMD key is not being recognised on iOS. 

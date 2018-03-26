@@ -1,0 +1,1 @@
+iPad Air SuperNote doesn't launch <body> When I try to open my SuperNote App it starts momentarily and then disappears from the screen and will not activate. Anybody know how I can stabilize this app and also find on my iPad where it's previous recordings are stored. 

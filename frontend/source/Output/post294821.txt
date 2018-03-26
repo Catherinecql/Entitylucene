@@ -1,0 +1,1 @@
+Is there any advantage of using Chromium over Chrome on macOS? <body> I wonder there is any single advantage of using Chromium over Google Chrome on macOS. Chrome supports Flash, more Media codec including H.264, auto-update, etc...   However, is there any advantage of using Chromium? Is the performance faster than Chrome or memory consumption fewer? 

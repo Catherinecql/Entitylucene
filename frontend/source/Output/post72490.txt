@@ -1,0 +1,1 @@
+Show unshortened day of the week @ OSX menu bar <body> Currently clock menu bar item shortens day of the week like Sat instead of Saturday. Is there any way to change this without additional software?  (tried regional formats but it ignores any custom changes for some reason, OSX 10.8.2) 

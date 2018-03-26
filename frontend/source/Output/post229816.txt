@@ -1,0 +1,1 @@
+Is it possible to automate tags / tagging of new files dropped into a specific folder? <body> Is it possible to automate tagging of new files dropped into a specific folder?  <answer230579> I use Hazel tool to automatically define tags when files added to specific folders.  http://www.noodlesoft.com/hazel 

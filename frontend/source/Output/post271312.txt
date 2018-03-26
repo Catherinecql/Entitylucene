@@ -1,0 +1,1 @@
+Scroll wheel increments too small <body> I had a couple Logitech mice lying around that I plugged into my new mac book air. It takes the scroll wheel at least a few "clicks" to scroll by one unit. Any idea how to reduce the number of increments or physical clicks required to scroll to one? 

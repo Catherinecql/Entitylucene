@@ -1,0 +1,1 @@
+Settings Numbers to export to PDF in "Best" quality <body> I'm running Numbers 3.6.2 and am constantly annoyed at having to manually change the PDF export quality to Best.  Is there a way to set Best as the default? 

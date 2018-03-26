@@ -1,0 +1,1 @@
+Vim and ITerm2 diffrent theme <body> Is it posible to use diffrent them in ITerm2 and Vim. Now when i set up Iterm to material-theme and vim to solarized I recive thisimg src="https://i.stack.imgur.com/jPBNf.png" alt="enter image description here"  Everything works fine if Iterm and vim is set to solarized 

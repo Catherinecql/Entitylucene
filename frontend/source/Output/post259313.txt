@@ -1,0 +1,1 @@
+Where is the iCloud Drive icon located? <body> I'm looking for this iCloud Drive icon:br img src="https://i.stack.imgur.com/oBWkj.png" alt="iCloud Drive folder icon"brbr I've tried looking for it in code/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/code but it's not in there.brbr Running macOS Sierra 10.12.1 

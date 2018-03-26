@@ -1,0 +1,1 @@
+OSX Mac Filevault2 prevent shutdown on login screen <body> I recently encrypted my 2014 Mac, OS X 10.9.5, using FileVault2. I noticed that the computer shuts after 5 minutes if there is no activity on the login screen. I believe this is a feature of FileVault2, but I am unable to confirm through Google searches.  If this is the case, is there a setting to prevent shutdown? 

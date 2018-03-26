@@ -1,0 +1,1 @@
+Model number mapping <body> How does one correlate model numbers like codeMN110LL/B/code with the codeA1243/code that is listed on the bottom of the actual keyboard that looks the same as the codeMN110LL/B/code in pictures. I have tried looking at About this Mac - More info; System Preferences; etc for some mention of the codeMN110LL/B/code model number to no avail. 

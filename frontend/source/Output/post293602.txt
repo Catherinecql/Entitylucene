@@ -1,0 +1,1 @@
+Will every newly created user in Mac machine has specific login.keychain <body> I am creating a new user on the fly, will every user be getting his own specific login.keychain ? Or is it global ? 

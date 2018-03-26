@@ -1,0 +1,1 @@
+Sort Stickies by desktop <body> I have OS X Lion 10.7.5 with four desktops and also have 4 groups of stickies (one group per desktop). Every time that I have to reopen the Stickies app, they are unsorted (all stickies open on the same desktop). Does anybody knows if there is a way, e.g., using AppleScript, to sort them? 

@@ -1,0 +1,1 @@
+Earphones problem/ sleep mode/ MacBook Air <body> I been trying to listen to the music in my MacBook Air early-2015 however when I close it the music stops. How can I fix this?  <answer229303> download NoSleep for mac, makes it so that your display doesn't sleep when you close the lid. 

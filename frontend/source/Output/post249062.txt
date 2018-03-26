@@ -1,0 +1,1 @@
+How do you stop Safari from offering passwords from all subdomains of a domain? <body> So I have these few websites in the same domain (i.e. example1.domain.com and example2.domain.com) that have a different subdomain and Safari offers me passwords from all of them when I enter just one of them.   Is there a way to disable Safari offering passwords if the subdomain is different? 

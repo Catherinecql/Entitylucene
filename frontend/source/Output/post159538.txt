@@ -1,0 +1,1 @@
+Customizing Favorites in Safari Address Bar <body> Is there any way to customize Safari 8's Favorites drop-down to get rid of unnecessary  line breaks? I mean reducing the padding/margin with a CSS-hack or something like that  img src="https://i.stack.imgur.com/ZpmHV.png" alt="safari" 

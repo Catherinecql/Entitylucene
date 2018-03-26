@@ -1,0 +1,1 @@
+Kernel error as soon as I press a key on my USB Apple iMac keyboard <body> As soon as I press a key on my Apple iMac keyboard, the iMac freezes and instantly restarts with a box popping up saying      Your computer was restarted because of a problem.   Everything worked fine until I press a key on my keyboard. What could be this "problem"? 

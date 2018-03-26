@@ -1,0 +1,1 @@
+Is there something like Alt-SysRq-k in Terminal? <body> What I mean is whether there is something that kills all processes in the current tty  <comment291759> Have you tried Control+C? <comment291897> @IronCraftMan I'm just asking out of curiosity whether or  not there is something. Also, `^C` doesn't always work for tricky things like `while`s and whatnot

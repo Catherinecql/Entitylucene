@@ -1,0 +1,1 @@
+Move photos from iCloud to iMac <body> I traded in my iPhone 4s for a 5s. I did not have time to transfer my photos at the store. My iPhone 5s says my iCloud is full and that the pictures are from my old phone. How do i get these photos out of the cloud and onto my iMac?  <answer126083> Enable PhotoStream in iPhoto on your iMac. 

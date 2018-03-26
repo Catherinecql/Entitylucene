@@ -1,0 +1,1 @@
+Detect which keyboard/keypad was used after a keypress event <body> I have attached 2 external keyboards/keypads on my MBPr. I want my system to determine which keyboard was used after a keypress event. How would I do this on macOS?  Note: I won't be using Razer Synapse.  img src="https://i.stack.imgur.com/sA3RN.jpg" alt="enter image description here" 

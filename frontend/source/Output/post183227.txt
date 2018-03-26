@@ -1,0 +1,1 @@
+Is it possible to install App in iPhone directly without iTunes or Appstore? <body> Android apps can be directly installed from apk files from Android phones.  Is it possible to install iPhone App in iPhone directly without using iTunes or Appstore?   <answer183228> Very simply - No, not without Jailbreaking it. 

@@ -1,0 +1,1 @@
+Boot with 2 spaces <body> Is it possible to have OSX log in with 2 Spaces by default? I want to be able to start on a blank desktop while the Login Items I have set up are started in the other Desktop. 

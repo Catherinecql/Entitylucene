@@ -1,0 +1,1 @@
+How to remove grey space on iPad when using a wireless keyboard <body> I would like to remove grey space that appears in lieu of the onscreen keyboard when I use a wireless keyboard. It interferes with some of my applications. Any suggestions?img src="https://i.stack.imgur.com/NDAWq.jpg" alt="enter image description here" 

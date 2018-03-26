@@ -1,0 +1,1 @@
+Retrieve older call history on iPhone <body> When I look at the "Recents"-tab on my iPhone, I can see about 100 call entries. But when I delete a call an older call moves up. So, older calls must be stored somewhere. Is there a way to recover the call history without deleting calls?  

@@ -1,0 +1,1 @@
+iTerm2 and CLI menus <body> How do I get iTerm2 to show CLI menus properly? I usually use those menus over ssh.  img src="https://i.stack.imgur.com/4lB8f.png" alt="enter image description here" 

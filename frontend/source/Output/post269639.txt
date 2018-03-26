@@ -1,0 +1,1 @@
+Where are home made Automator app logs? <body> I have made an app in Automator. Under a certain condition it does not work.  Where can I find the log file for my app? 

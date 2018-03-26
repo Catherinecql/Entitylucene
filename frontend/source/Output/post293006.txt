@@ -1,0 +1,1 @@
+Siri not recognizing Skype? <body> Skype isn't showing up in Siri's third-party apps for me at all. Running latest versions of everything. WhatsApp, etc., all showing up. Known problem? 

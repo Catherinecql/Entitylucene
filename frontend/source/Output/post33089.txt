@@ -1,0 +1,1 @@
+What does the "Suggest" menu item do, on iOS 5? <body> What does the "Suggest…" menu item do? I am referring to the one that comes straight after the "Paste" item.  <answer33090> It suggests spelling corrections for the selected word. 

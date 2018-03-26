@@ -1,0 +1,1 @@
+how to turn off rotating cube animation upon user switch? <body> How to turn off rotating cube animation upon user switch?  I apparently need to pad out this qwuestion, so i will add that it makes me dizzy  thank you!  <answer263678> Running the following inside a terminal window (shell) worked for me.  precodedefaults write -g userMenuExtraStyle 0 /code/pre 

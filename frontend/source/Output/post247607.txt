@@ -1,0 +1,1 @@
+Menu bar loads late after boot in Macbook Pro <body> I have a Macbook Pro retina display 2014 mid model. During boot, after logging in the top menu bar display is delayed by 2-3 seconds. By this time a black bar is displayed at the top. So is there any fix, so that the menu bar loads straight away after boot? 

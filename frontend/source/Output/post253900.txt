@@ -1,0 +1,1 @@
+Shortcut to EQ in iOS? <body> Is there a way to create a shortcut to the Settings-Music-EQ in iOS? Sometimes with my headphones I like to activate Bass Booster, but want to turn it off when listening via Bluetooth in my car...  <answer253903> No, there's no way to create shortcuts into the Settings app like that (from a user perspective). 

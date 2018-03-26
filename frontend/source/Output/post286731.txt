@@ -1,0 +1,1 @@
+Why is macOS Recovery in Japanese, when my language is set on english? <body> My Macbook Pro(early 2015) functioned in english until I started up macOS Recovery to erase the startup disc with macOS Utilities. It was originally bought used in Japan.  I would like the entire system to function in english. 

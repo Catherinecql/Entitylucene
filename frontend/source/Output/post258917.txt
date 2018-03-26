@@ -1,0 +1,1 @@
+How do I permanently disable siri on OSX 10.12.1? <body> I've never enabled siri.   Despite that, there is a persistent Siri process running on my machine, and I get consistent popup spam requesting that I enable Siri. Very disruptive and annoying!  How do I "permanently" disable Siri on my machine (or, at least, remove the Siri process and prevent the annoying spam)? 

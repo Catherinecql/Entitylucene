@@ -1,0 +1,1 @@
+What is this modifier key? <body> What is the OS X modifier key symbol that looks like the control icon (code^/code) but with the addition of a line over it?  Symbol: img src="https://i.stack.imgur.com/ZTu1R.png" alt="enter image description here"  <answer182787> This appears to be the enter key symbol:  code⌤ is enter/code  Source 

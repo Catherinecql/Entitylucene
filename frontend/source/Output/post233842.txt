@@ -1,0 +1,1 @@
+iMovie: simple red filter <body> I'm not sure this is the best place to ask this question.   I'm trying to simply apply a simple "red tint effect" on a video with iMovie, any idea how to achieve that?  <answer234647> That's not really an answer : I just moved to Final Cut to make that effect, as it seems that iMove can't do it. 

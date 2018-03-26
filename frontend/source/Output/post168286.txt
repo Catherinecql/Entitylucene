@@ -1,0 +1,1 @@
+Is it possible to sync iCloud contacts with Thunderbird's address book? <body> I would like to keep my iCloud addresses in sync with my Thunderbird address book.  Is there a way to do this directly?  Currently I sync both with my Gmail contacts, but the results are not very reliable. 

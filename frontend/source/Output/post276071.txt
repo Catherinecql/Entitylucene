@@ -1,0 +1,1 @@
+Can't connect to shared folders via SMB on my MacBook <body> I am trying to connect to SMB file sharing via ES File Explorer on Android. But every time I write "username" &amp; "password" they come out to be wrong.   I am typing "username" given by command code$whoami/code and the password that I have on my mac. I have a local password set instead of an iCloud password. 

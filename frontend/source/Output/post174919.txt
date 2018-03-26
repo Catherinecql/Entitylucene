@@ -1,0 +1,1 @@
+Is it possible to have certain apps open fullscreen by default <body> With the great fullscreen support in Yosemite it would be nice to have certain apps always open in fullscreen. Is this possible? If not out of the box with a 3rd party tool?  <comment235626> I'd like to know this too.

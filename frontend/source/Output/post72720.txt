@@ -1,0 +1,1 @@
+Mac mini sound problem with Windows 8 partition <body> My sound is not working on my Mac mini. I have installed Windows 8 on it, have updated all the drivers, and under device management, it is telling me that everything is running fine. There is no sound coming from either the headphone jack or the built in Mac Mini Speakers. Has anyone solved this problem yet? 

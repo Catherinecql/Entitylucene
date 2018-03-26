@@ -1,0 +1,1 @@
+Still possible to pin dock in OS X 10.10 Yosemite? <body> Since 10.5 are so I have been using this command to flush the dock to the upper corner of the screen:  defaults write com.apple.dock pinning -string start ;  I can see that this is still present in the plist, but it no longer effects the dock. Anyone know if there is a way to restore pinning now? 

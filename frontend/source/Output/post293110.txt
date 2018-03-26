@@ -1,0 +1,1 @@
+Display caldav calendar in Calendar app <body> I added a CalDAV calendar account in "Settings - Calendar".  Issue: I can not see the calendar events in the calendar app. Tapping "calendars" to see which calendars are to be displayed doesn't help, as the newly-created account does not show up there.  Why is the newly created account not displayed in the Calendar app? 

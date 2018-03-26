@@ -1,0 +1,1 @@
+Terminal issue with export PS1="" <body> So I tried to change the output of my terminal prompt but when I try something like /W it just puts the /W not the path.  For example codeexport PS1="/W $ "/codeturns my prompt into "/W $"  <answer4858> It needs to be code\W/code, with a backslash.  <answer4859> That should be a backslash, not a slash: code\W/code. 

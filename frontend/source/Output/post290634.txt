@@ -1,0 +1,1 @@
+Edit from-address in Mail.app? <body> I use subaddressing a lot when I send e-mails. Currently I use Thunderbird with some plugins for this purpose but it is slow and I would prefer to use Mail.app.  Is there a way in Mail.app to edit the from address when composing a new mail? 

@@ -1,0 +1,1 @@
+Accented characters: hold and select has stopped working <body> Somehow my "press and hold" for accented characters has ceased to function.  How can I re-enable that?  Example of how it used to work is in How to add characters to the press and hold character picker in OS X Lion?  <comment136497> this might help  http://apple.stackexchange.com/a/105099/10139

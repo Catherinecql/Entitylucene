@@ -1,0 +1,1 @@
+Open hosted keynote file in ipad <body> Someone sent me a keynote presentation hosted in a dropbox link. My iPad has keynote and iOS 9.5.3 installed. How can I download and open that file in keynote? 

@@ -1,0 +1,1 @@
+Opened malformed video and since then iPhone occasionally won't exit sleep mode <body> A friend of mine sent me a video which was incorrectly coded. After a hard reset I thought that everything was okay but then the iPhone randomly won't go out of sleep mode. That was never the case before the video, and only waiting or hard resetting again helps temporarily. 

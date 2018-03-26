@@ -1,0 +1,1 @@
+Sierra Siri Tweak for shell commands <body> Is it possible to tweak siri to execute shell commands? Has anyone done it by now?  Maybe use Automator can help to make this easier? 

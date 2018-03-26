@@ -1,0 +1,1 @@
+Deleting emails across my Apple devices <body> How can I sync deleting my emails across Macbook Ipad &amp; iPhone ?  <answer95727> This function doesn't exist in iCloud which does syncing across iOS and Apple products. You would need to set up something like an MDM solution like the Casper suite to automate this.  

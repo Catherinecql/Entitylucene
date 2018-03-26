@@ -1,0 +1,1 @@
+Pin Window on top of all desktop spaces <body> I am watching  training video, and I need the full screen and to watch this video.  Is there a way to pin the video in the lower left corner and have it sit on top of the other desktops? 

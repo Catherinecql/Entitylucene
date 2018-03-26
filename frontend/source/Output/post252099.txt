@@ -1,0 +1,1 @@
+Where is my macOS installer file located? <body> I am looking for the installer for the OS X operating system installer I downloaded. Where is it stored?  <answer252100> Found it:  h3in the code/Applications/code folder/h3  <comment313606> ...until you install it, then it's gone, so make a copy to another location first, in case you need it again.

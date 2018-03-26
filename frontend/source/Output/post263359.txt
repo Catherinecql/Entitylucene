@@ -1,0 +1,1 @@
+How can I make AppleTV turn on and play a channel once a HomeKit event occurs? <body> When I go home, I usually turn on Reuters TV for 15 minutes.   Is there any way I can automate, or script AppleTV to open an app when I open the front door?  

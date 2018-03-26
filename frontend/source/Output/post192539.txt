@@ -1,0 +1,1 @@
+Why is my empty sparsbundle so big (1,5 GB)? <body> I just followed the instructions here to create a encrypted sparseimage for Time Machine backups. The empty sparsebundle ended up being 1.4 GB (and after enabling encryption it grow to 1.6GB). Why is an empty sparseimage so big?  <comment229108> Is the purpose of it to "reserve" the space as set during the set up?

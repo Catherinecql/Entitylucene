@@ -1,0 +1,1 @@
+iPhone does not charge with Mac Pro or PC USB ports <body> Looking at: After updating to iOS 6, iPhone will not charge from Mac Pro USB ports  I rebooted iPhone few times, changed cables, machines (PC/Mac) etc., but still unable to charge the phone.  <comment78517> Does it charge from a wall charger, or is it simply not charging at all?

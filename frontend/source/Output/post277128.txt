@@ -1,0 +1,1 @@
+ViberPC folder takes over 1GB of space <body> Is it safe to delete the ViberPC folder (~/Library/Application\ Support/ViberPC)? It takes more than 1GB. 

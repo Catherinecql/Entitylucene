@@ -1,0 +1,1 @@
+How do I stop my iMac from stalling before going into the sleep mode? <body> When I attempt to enter the sleep mode on my iMac, the machine freezes for about 30 seconds and then enters the sleep mode. 

@@ -1,0 +1,1 @@
+What happens if a launchd process starts again before finishing <body> I'm looking to create a backup script that uses rsync to move pictures, but I'm curious what would happen if the rsync process takes longer than the time between launchd triggers? Will it recognize that it's still running the previous one or attempt to run potentially conflicting rsync processes? 

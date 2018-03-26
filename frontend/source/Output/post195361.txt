@@ -1,0 +1,1 @@
+Kindle books on another iCloud account <body> If I add another iCloud account to my iPhone, will I be able to access my kindle books on that iCloud account?  <answer195366> The login information is discrete for Amazon Kindle and Apple iCloud. You may need to re-login to your Kindle account, but the iCloud account shouldn't effect it any other way.  

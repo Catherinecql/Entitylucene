@@ -1,0 +1,1 @@
+Is there a way to rotate multiple photos at once in the camera roll? <body> In iOS on the iPhone I only see a way to select one photo at once in order to then rotate it in the Photos app.  Is there a method or perhaps a third-party app that could perform this? 

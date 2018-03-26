@@ -1,0 +1,1 @@
+Change font size in specific apps based on if an external monitor is connected or not <body> Does anyone know of such a tweak or how to accomplish this via applescript/eventscript for iTerm/sublime/etc.?  Thanks a ton! 

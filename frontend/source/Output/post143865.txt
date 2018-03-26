@@ -1,0 +1,1 @@
+Can I split a cell in a table in the newest version of pages? <body> I want to split a cell in the newest version of pages. This was very easy in the previous version but now I can't seem to do it. Any help is appreciated.  

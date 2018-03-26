@@ -1,0 +1,1 @@
+How to slow down video, but not sound on the clip in iMovie? <body> I have a clip I want to show with slow motion. That clip has a soundtrack, but I need to strongslow only video without sound/strong? Is it possible?  <answer184504> Split the audio from the video with codeDetach Audio/code (kbd⌥ Alt/kbdkbd⌘ Cmd/kbdkbdB/kbd), then you can re-time the video independently. 

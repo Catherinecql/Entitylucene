@@ -1,0 +1,1 @@
+How can I get a revoked IPSW to install? <body> I need to get the IOS 10.2 IPSW to install on my iPod Touch to jailbreak it, but there is no JB for IOS 10.3.2, which I recently downgraded to from IOS 11. How can I get it to install?  <comment370639> You cannot, unless you backed up the SHSH keys in Redsnow with the version of iOS you are trying to install.

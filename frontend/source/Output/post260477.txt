@@ -1,0 +1,1 @@
+How to disable music autoplay after plugging headphones <body> I have a problem. When I plug in my headphones, the music app starts automatically playing the last music I listened and it kinda irritates me because it didn't happen before, it just started today. Is there any option how to disable it? I'm on iOS 10. Thanks. 

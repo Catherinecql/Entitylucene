@@ -1,0 +1,1 @@
+Keyboard shortcut for 'Clear filters' in excel in office 365 for mac <body> How do you 'clear filters' in excel in office 365 for mac using the keyboard?  On PC I can do alt+d,f,s  or using the mouse I can go to Data  Filter  Clear 

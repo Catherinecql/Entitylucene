@@ -1,0 +1,1 @@
+Safari Queue application - 'find' functionality is missing <body> I use the Safari Queue application for reading Safari books. I can't see/find functionality for doing a text search in the book's content. Is it possible? 

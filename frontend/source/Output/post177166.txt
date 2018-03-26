@@ -1,0 +1,1 @@
+Pages question on Apple yosemite <body> How can I get rid of the Right hand column (with Margin, layout info) on  the Pages. I just want the page to show my letter when sending.  I run Pages v5 on OS X Yosemite.  <answer177170> On the upperright, click on the selected tab (probably the layout tab is selected) to make it go away 

@@ -1,0 +1,1 @@
+Apple Mac OS X & Chromecast AirPlay Mirroring <body> Is there a way to use Chromecast same way as Apple TV - Apple AirPlay Mirroring? I'd like to do display mirroring from OS X via Chromecast.  <answer212572> Drag your movie,song you want to play into chrome Browser, from the menu choose Google cast and that's it. Hope it helps.  <comment256669> That is _NOT_ `airplay mirroring`.

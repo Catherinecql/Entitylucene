@@ -1,0 +1,1 @@
+Change / set fullscreen slideshow shortcut <body> For some reason, pressing alt-space to start a fullscreen slideshow from the finder does not work on my brand new MacBook Air. It does when I press alt-cmd-y.  Is it possible to change this shortcut?  Edit: forgot to say that I'm running Sierra 10.12.1 (16B2555) 

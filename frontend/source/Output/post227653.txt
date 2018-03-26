@@ -1,0 +1,1 @@
+Duplicate Sent messages is showing in Sent Folder <body> We recently upgraded iOS to 9.2.1. Both our iPads now show the sent messages twice in the Sent Folder although only one message has been sent.  How do I solve this annoying problem? 

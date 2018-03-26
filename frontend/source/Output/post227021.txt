@@ -1,0 +1,1 @@
+How can i share ubuntu's intertet to iphone via USB <body> Can anyone help me reverse tethering from linux to iphone 5.  <answer227028> You cannot configure a network connection using USB on the iPhone. If your Ubuntu machine has a wireless adapter you will have to configure it as an access point. 

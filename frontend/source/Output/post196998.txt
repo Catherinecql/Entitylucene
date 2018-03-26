@@ -1,0 +1,1 @@
+How to sort apps in Launchpad view? <body> I'm looking for a quick/easy way to organize my apps in Launchpad view. I know of the drag &amp; drop method, but I would like to be able to sort by date, name, etc. Is there a way to do that?  <answer197138> Launchpad Cleaner is a free alternative. It's no longer supported, but it continues to work just fine. 

@@ -1,0 +1,1 @@
+Backup Launchpad configuration <body> How can I backup launchpad configuration?  And how can I restore it?  I meant the order and position of each launchpad screens.  Anyone knows? 

@@ -1,0 +1,1 @@
+How to avoid auto starting playback when importing playlist in iTunes library <body> Whenever i import a large folder into iTunes i have the problem that if in one of the subfolders there is a playlist, it will auto start playing. How can i prevent this?  <answer77412> I just delete the m3u and pls files:  precodefind ~/Music -iname '*.m3u' -o -iname '*.pls' -delete /code/pre 

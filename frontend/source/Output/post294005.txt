@@ -1,0 +1,1 @@
+Xcode 8 error when installing <body> I just want to install Xcode 8 on Mac Sierra with the .xip format but in the expanding it shows the following error:     The operation couldn't be completed.block-compressed payload operation failed.   Anyone has a solution for this? 

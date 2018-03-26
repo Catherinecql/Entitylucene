@@ -1,0 +1,1 @@
+Rename iMessage group with AppleScript <body> While the new iOS 8 group naming can be great, if the people in the group aren't very mature it can be...very not great.  How would I go about renaming a group in Messages.app with AppleScript? I can't seem to find any documentation for it. 

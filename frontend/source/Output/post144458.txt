@@ -1,0 +1,1 @@
+Locked appointment on an iPad <body> I have a locked appointment on my iPad that doesn't appear on the laptop or iPhone. I can't delete it either... any ideas?  <answer144459> It sounds like you have a strongcalendar appointment provided by a subscribed calendar/strong. Either hide or remove the calendar to remove the appointment. 

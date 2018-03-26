@@ -1,0 +1,1 @@
+can a timestamp be revealed from safari website data on ipad? <body> I have an Ipad mini and when checking the website data it will give the KB and bytes but it doesn't tell me what specific days or times that a particular site was visited. is it possible to show or find the time and or days that site was visited?  

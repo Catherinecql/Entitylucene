@@ -1,0 +1,1 @@
+Is there an Apple OSX or iPhone hardware equivalent to Device Guard and Credential Guard? <body> I want to do a hardware security comparison between a Windows Machine described here and what Apple provides.  Is there any documentation on how Apple is more (or less) secure than what is documented here? 

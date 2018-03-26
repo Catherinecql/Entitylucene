@@ -1,0 +1,1 @@
+Turn off SSL/TLS at Sparrow mail client <body> Is that possible to turn off default SSL/TLS negotiation with mail server at Sparrow mail client? I want to analyze IMAP protocol work with my IMAP server but can't do this due to TLS encodes negotiations in my Wireshark sniffer. 

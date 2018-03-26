@@ -1,0 +1,1 @@
+Mouse cursor no longer visible when screen-sharing via Google Hangouts on MacOS Sierra <body> Since upgrading to MacOS Sierra, people are no longer able to see my mouse cursor while screen-sharing.  Does anyone have any idea of what I could try, please?  Thanks! 

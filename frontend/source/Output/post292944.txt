@@ -1,0 +1,1 @@
+There is no network startup option in startup disk <body> I have installed DeployStudio. I am trying to install macOS Sierra on VMware Fusion. In the startup disk section, there is no network startup option. I have created a server. I can connect to server from the browser.  

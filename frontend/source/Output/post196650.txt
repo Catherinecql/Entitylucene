@@ -1,0 +1,1 @@
+Text messages sent via iMessage <body> Did a backup(not restore) of iPad and now my messages sent from iPad do not show up on iPhone - also messages sent from iPad show up as my email not my phone#  <answer196663> Check the messages settings. It's in SettingsMessages. Under Send &amp; Receive are the options to choose how you can be reached and how it starts new conversations.   

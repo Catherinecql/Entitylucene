@@ -1,0 +1,1 @@
+How to install homebrew behind a proxy with authentication? <body> This Command is not working for me on macOS Sierra 10.12:  precode/usr/bin/ruby -e "$(curl -x myuser:mypass@10.0.0.1:8080 -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" /code/pre 

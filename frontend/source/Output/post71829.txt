@@ -1,0 +1,1 @@
+Autocomplete in jabber chat? <body> Is there a way to enable auto nick complete in chat rooms on Messages? I would like to avoid having to install another client just to use for jabber. 

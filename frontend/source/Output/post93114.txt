@@ -1,0 +1,1 @@
+Upgrading iPod Classic HDD <body> Can I put a 160GB (late 2009) iPod's HDD in my 6th gen 120GB iPod?  Will this work, or are there other things that I would need to modify to get more storage?   <answer93256> Yes, you can and it'll work.br Detailed guide for replacement here: http://www.ifixit.com/Guide/Installing+iPod+Classic+Hard+Drive/564/1 

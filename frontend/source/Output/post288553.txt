@@ -1,0 +1,1 @@
+How to reset layout in Powerpoint for Mac 15 <body> I'm running MacOS 10.12.  Someone gave me the answer to an earlier question here.  In the solution, we need to Reset Layout to Default Settings.  That worked for Office 2011 but I can't seem to find it on Powerpoint 15.  Can someone tell me where I can find it on Powerpoint 15? 

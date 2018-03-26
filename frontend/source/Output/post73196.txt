@@ -1,0 +1,1 @@
+How to access the equalizer in iTunes 11? <body> How do you access the equalizer in iTunes 11?  Or is just gone?  <answer73197> kbdOpt-Cmd-2/kbd or via the Window menu  <answer73892> This is the way to get it to show up on PC: kbdCtrl-Shift 2/kbd 

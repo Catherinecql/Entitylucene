@@ -1,0 +1,1 @@
+How can I disable dock item tooltip? <body> How can I disable the tooltip showing up on my dock items on hover? 

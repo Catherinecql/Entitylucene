@@ -1,0 +1,1 @@
+Play a video on shutdown <body> Hi I am looking at a way if possible to play a small 1 minute ~ 2MB video everytime I shut down my mac is this possible ?  <comment255938> See this answer on SuperUser: http://superuser.com/a/768315/90891

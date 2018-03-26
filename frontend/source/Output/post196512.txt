@@ -1,0 +1,1 @@
+How to disable growl on iterm2 with mac os 10.8.x? <body> How to disable growl on iterm2 with mac os 10.8.x ? I don't want notifications everytime a tmux session becomes idle...  <answer196513> Preferences  Profiles  Terminal  Notifications  uncheck 'Enable Growl Notifications'  <answer196514> In Growl's preferences you can edit which applications have permission to Growl. 

@@ -1,0 +1,1 @@
+Using another laptop's keyboard as Macbook Pro's input device <body> I have my HP Spectre X360 &amp; a Macbook Pro  The question about using HP Spectre's keyboard as an input device for the Macbook Pro. Is it possible? if yes how?  <answer288835> You can try Synergy: https://symless.com/synergy. I had good results with it in the past . 

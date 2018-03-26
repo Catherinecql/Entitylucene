@@ -1,0 +1,1 @@
+The Date is a Day Ahead <body> The date on my iphone is a day ahead and creating the wrong dates for emails and tests and such.  Anyway that I can reset it or rewind it?  <answer205062> Go to Settings-General-Date &amp; Time and switch "Set Automatically" on. This should sync the time your iPhone has with Apple's servers, correcting the problem. 

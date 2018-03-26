@@ -1,0 +1,1 @@
+Fix icon files in macOS Sierra <body> img src="https://i.stack.imgur.com/vAEPY.png" alt="Icons macOS Sierra broke"  2012 MacBook Pro Unibody (Non-Retina, CD Drive) 

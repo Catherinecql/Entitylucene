@@ -1,0 +1,1 @@
+Enable calculation history on OS X Calculator app? <body> Is there a way to display the calculation history, like what is done in real calculators with a register tape?  <answer223544> Can't believe that I didn't see this:  codeWindow | Show Paper Tape (⌘T)/code 

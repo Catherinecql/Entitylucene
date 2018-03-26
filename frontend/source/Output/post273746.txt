@@ -1,0 +1,1 @@
+Synchronizing apple id and google play store <body> Can you link/sync apple id and google play store account? So for example, you can buy in-app purchases stuff in a google play store account then use it in the apple account?  <answer273748> Unless this feature is implemented manually by the specific developer of the app in question, no. 

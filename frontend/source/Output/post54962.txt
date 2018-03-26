@@ -1,0 +1,1 @@
+Transfer data to rMBP from external hard drive? <body> I got the new rMBP and tried importing my stuff to it via an external HD. Seems like it didn't work. And Migration Assistant didn't either. Has anyone done this successfully?  <comment63039> What exactly means "didn't work"? <comment63041> Indeed.  Please clarify.  Surey copies directly from drive to drive worked :|.

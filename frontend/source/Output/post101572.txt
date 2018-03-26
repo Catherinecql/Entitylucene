@@ -1,0 +1,1 @@
+Dump Heap Memory <body> I wanted to know if it is possible to dump heap regions from a jailbroken ios device? I am trying to see if there is any sensitive data stored in plaintext, for a particular application. 

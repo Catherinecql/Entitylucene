@@ -1,0 +1,1 @@
+Protocol used by iPhone when connecting to a stereo via USB? <body> What is the protocol used by iPod/iPhone when connecting to a stereo via USB?  Is it PTP or some other proprietary protocol? 

@@ -1,0 +1,1 @@
+Does AirPlaying content from VPN protected laptop expose content beyond local network? <body> If I AirPlay something from my laptop, which connects to the internet via VPN, to my Apple TV which connects to my wifi router which is NOT VPN protected, is the content I'm AirPlaying exposed beyond my local network? 

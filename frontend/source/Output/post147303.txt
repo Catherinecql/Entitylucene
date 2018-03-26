@@ -1,0 +1,1 @@
+Time Machine next backup size <body> Is there a way to find out what is expected size of the next Time Machine backup?br My computer is backed up regularly. I turned off TM for a while and I wish to find out what is the next back up size.   

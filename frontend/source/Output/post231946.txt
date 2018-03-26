@@ -1,0 +1,1 @@
+How to make your iPhone beep every 5 minutes <body> How to make your iPhone beep every 5 minutes  <answer231949> You can use an interval timer app, and customize the sound/beep of it. For example https://itunes.apple.com/ru/app/everyhour-alarm/id963108472?l=en&amp;mt=8 

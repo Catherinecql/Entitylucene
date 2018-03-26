@@ -1,0 +1,1 @@
+ExFat partition missing on my Macintosh <body> I had created an ExFat partition using disk utility and copied some files into it. After a restart the partition is missing and in disk utility it shows untitled. What do I do?  Thank you.  <comment320172> You'll need to give us more info, such as the partition map and what `diskutil list` shows.

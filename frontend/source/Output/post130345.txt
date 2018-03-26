@@ -1,0 +1,1 @@
+Is iphone 5 apps scale down on ipad mini retina display? <body> Can i test my iphone 5 apps on ipad mini retina with 4 inch screen? I heard that iphone 5 apps scale down to 3.5 inch screen in ipad mini retina. is it true?  <answer130375> They're not scaled down. They're displayed in their original resolution, which is obviously less than the iPad Mini Retina resolution. 

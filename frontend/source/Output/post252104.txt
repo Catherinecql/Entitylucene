@@ -1,0 +1,1 @@
+We can't create /var folder <body> There is code/private/var/code folder, but we can't create code/var/code folder! Why?  I'm using OS X El Capitan 10.11.5.  <answer252106> You can't create it because, code/var/code is a symlink to code/private/var/code.  precode&gt; ls -lha /var lrwxr-xr-x@ 1 root  wheel    11B Jan 13  2016 /var -&gt; private/var /code/pre 

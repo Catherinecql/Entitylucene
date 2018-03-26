@@ -1,0 +1,1 @@
+S/MIME on iPhone 7 Plus: Unable to Sign <body> I have created a 2048 Comodo email certificate. It works perfectly on Android and Thunderbird email clients, but encountered problem ("Unable to Sign") on iPhone 7 Plus running OS 10.2. Any advise? thanks.  img src="https://i.stack.imgur.com/tQMuz.jpg" alt="enter image description here" 

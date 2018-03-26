@@ -1,0 +1,1 @@
+Get Alert on low disk space <body> Is it on MacOS possible to get notified by eMail if the space on a disk gets low.  <answer12385> Here is a script that will do what you need.  Let me know if you need a hand configuring it (although the article goes into detail about configuring it to check at intervals etc)  http://www.macmanager.com.au/software/low_space_script.html 

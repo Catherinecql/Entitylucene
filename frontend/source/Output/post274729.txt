@@ -1,0 +1,1 @@
+Outlook 2011 folder sizes <body> I'm looking for a way to find size of individual folders (NOT on Exchange) in Outlook 2011. Searched far and wide with no results. Is it possible that nobody needed that feature before? 

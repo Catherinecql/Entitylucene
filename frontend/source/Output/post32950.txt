@@ -1,0 +1,1 @@
+Replicate functionality to double click headphone button <body> You can use the headphones button to pause or play, or skip to the next song.  Has anyone figured out how to replicate this functionality on a Windows desktop or a MacBook Pro with players like Pandora or Spotify? 

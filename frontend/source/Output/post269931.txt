@@ -1,0 +1,1 @@
+Photos folder missing from Pictures <body> On Finder's sidebar, from the favourites list option under Pictures icon I can only see Photo Booth Library but I can't see/access Photo Library folder/option. 

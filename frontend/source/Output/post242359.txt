@@ -1,0 +1,1 @@
+2009 Mac Book Pro Keyboard back light testing <body> I have a topcase that has been stripped of pretty much everything except the keyboard and I need to test the the led backlight for the keyboard. What I need to know is the voltage to use for the led's to light. My only alternative is to completely reassemble most of the components from another machine to check it out 

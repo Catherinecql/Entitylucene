@@ -1,0 +1,1 @@
+Is Grapher able to display values in the x-axis as (π/2), (π), (3π/2), (2π) rather than 1,57, 3,14, 4,71, 6,28 (and so on.. )? <body> As title says.... Is Grapher able to display values in the x-axis as (π/2), (π), (3π/2), (2π) rather than 1,57, 3,14, 4,71, 6,28 ?(and so on.. ) ?  <answer92599> Double click on the axis and choose π from Units. 

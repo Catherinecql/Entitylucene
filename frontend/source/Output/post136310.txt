@@ -1,0 +1,1 @@
+I accidentally deleted all my photos in iPhoto on my Mac <body> I did not empty the trash. How can I get these photos back?   <answer136311> If you did not empty the trash, then they will still be in iPhoto's trash. Select the photos in the trash and choose Photos → Restore to iPhoto Library. 

@@ -1,0 +1,1 @@
+Macbook Air updated Wondows 7 to Windows 10 in bootcamp now ctrl+alt+delete <body> On a Macbook Air Windows in Bootcamp was recently updated from Windows 7 to Windows 10 now ctrl+alt+del to login does not work without a external keyboard. All three of those keys on the MBA's keyboard work fine once logged in but you can't login without a external keyboard. Any suggestions? 

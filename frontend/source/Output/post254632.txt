@@ -1,0 +1,1 @@
+"Custom scaling level" won't set on Windows running under Parallels <body> On a Mac Book Pro running Parallels 12, I had Window's "custom scaling level" set to 225%. Now, it seems stuck at 200%.  Things look a little too small and, worse, some of my Window's apps have a low-res look.  Any ideas how to trouble shoot this? 

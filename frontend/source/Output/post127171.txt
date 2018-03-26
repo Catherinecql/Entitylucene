@@ -1,0 +1,1 @@
+Getting a song activated from the "Waiting" status on iTunes <body> Some songs on cd's downloaded on iTunes won't play and show the status as "Waiting". The rest of the cd plays but one song doesn't.  How do I get the song to play and get out of the "waiting" stage? Any suggestions?   

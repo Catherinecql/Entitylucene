@@ -1,0 +1,1 @@
+Aggregate highlights from PDF? <body> Is there an app that I can use to highlight blocks of text in a PDF and then export the highlights - pretty much the same thing as iBooks does with EPUB?  <answer221164> I would use this for that purpose http://highlightsapp.net/ 

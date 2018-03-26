@@ -1,0 +1,1 @@
+Make the option key stop on words between underscores <body> When selecting or traveling through a set of words separated by underscores by using the brkbdoption/kbdkbdarrow/kbd keys, I want to be able to stop at every underscore character as with words separated by hyphens.  Is there any way to configure this? 

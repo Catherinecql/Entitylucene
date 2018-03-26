@@ -1,0 +1,1 @@
+How can I downgrade iOS 10 to iOS 9.3.x on iPhone? <body> My iPhone itself upgraded to iOS 10.  iOS 10 is great but too buggy, you know. Is it possible to downgrade back to iOS 9.3.x?  <comment317615> iOS upgrades don't happen automatically, actually. If there are specific issues you are facing with iOS 10 please ask new questions for this.

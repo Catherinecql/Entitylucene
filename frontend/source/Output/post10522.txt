@@ -1,0 +1,1 @@
+Identify and tag music from iTunes library under OS X <body> I'm looking for a tool, preferably free, that would help me identify and correctly tag my itunes music collection.  <answer10525> You have many choices, you can download one of these software and correct all of your ID3 Tags:  ol liTuneUP/li liMusicbrainz/li liJaikoz/li /ol 

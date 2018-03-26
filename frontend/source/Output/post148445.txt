@@ -1,0 +1,1 @@
+Apple Mail 7.3 only printing header <body> Apple Mail 7.3 is only printing the header when I go to print an email.  Any ideas whats wrong? 

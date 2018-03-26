@@ -1,0 +1,1 @@
+Play a sound alert when Finder is done copying files <body> I would like Finder to play a sound alert when it is done copying files. How can I do this? I'm using Mavericks.  <comment137471> Is the default sound not enough  ? <comment137491> I actually thought there wasn't one, so apparently not.

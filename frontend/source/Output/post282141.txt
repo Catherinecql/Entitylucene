@@ -1,0 +1,1 @@
+Mounting ext4 filesystems on EL Capitan without disabling SIP <body> Is there any way I can mount a ext4 file system on my Mac running EL Capitan without disabling System Integrity Protection?  <comment360073> What error are you getting @JamesYoung ? What have you tried already?

@@ -1,0 +1,1 @@
+Way to set default image alignment in Pages <body> Is there a way to set the default image alignment for any pasted image?  Eg. I want to always paste my images inline. How would I accomplish this? 

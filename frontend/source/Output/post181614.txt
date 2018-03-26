@@ -1,0 +1,1 @@
+Mac camera not working even after sudo killall VDCAssistant <body> I ran codesudo killall VDCAssistant/code, SMC and resets and still it shows my camera isn't connected. I have recently updated OS X to Yosemite and it was going fine for a month or two but now my Photo Booth and Skype isn't working. 

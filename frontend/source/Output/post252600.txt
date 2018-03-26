@@ -1,0 +1,1 @@
+How can I add vim-like movement to my entire OS X experience? <body> I love vim movements: hjkl, dw, dd, y, p, nothing fancy I just love being able to edit with these commands. Is it possible to use existing tools so every time I'm editing text anywhere, be it a word processor, an email, a web app, I'll have my vim-like movement keybindings? 

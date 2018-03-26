@@ -1,0 +1,1 @@
+Replace a word across all tabs in Safari <body> Is there a way, or a Safari extension, to do this?  I want to replace a particular word with some other word on all webpages, across all tabs.   Essentially I'm looking for something like this Chrome extension which replaces "every occurrence of certain words in webpages with replacements specified by you." 

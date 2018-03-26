@@ -1,0 +1,1 @@
+Change default payment Uber? <body> Whenever I request a ride it defaults to Apple Pay so I have to change it to my card. I don't see a way to make it so that it defaults to my card every time.  <answer278415> If you create a business profile it will then create a personal profile as well, both profiles allow you to select a default card! 

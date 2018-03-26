@@ -1,0 +1,1 @@
+IOS Messages support for google talk <body> In IOS 10 we can develop apps or extensions for Messages app. I don't want to use another messaging to message android users using gtalk or hangouts. In macOS we can do that pretty well. Is there an extension for Messages app on IOS to do that? If not, is it possible to develop such an extension for Messages app?  

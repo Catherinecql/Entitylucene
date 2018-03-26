@@ -1,0 +1,1 @@
+Default font for textboxes in powerpoint <body> I'm trying to change the default font for textboxes in PowerPoint 14.6.7. I've created a theme that has the font I want for other items (e.g., titles), but any time I start in a textbox the font that comes up is Calibri. How do I get a different font to be the default for textboxes? 

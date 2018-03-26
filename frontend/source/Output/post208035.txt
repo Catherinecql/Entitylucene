@@ -1,0 +1,1 @@
+Transition in iMovie 10.0.9 <body> Each time I add a transition to my movie, the total length is being reduced by that transition duration. How to avoid it and keep the original movie length? 

@@ -1,0 +1,1 @@
+Remove animation from Sierra Dwell Control <body> Does anyone know a way to remove animation from Dwell Control?  img src="https://i.stack.imgur.com/p6g6s.png" alt="enter image description here" 

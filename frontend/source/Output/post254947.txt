@@ -1,0 +1,1 @@
+stream and record video to Apple iPhone 6s and 7 <body> is there a way to record a video stream from a POV camera/GoPro to the iPhone.  I know you can preview a video, like using the GoPro app, but you can't record. 

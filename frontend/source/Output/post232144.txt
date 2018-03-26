@@ -1,0 +1,1 @@
+Carrier Name Doesn't change (9.2.1) <body> Unable to change Carrier Name using carrier editor (iOS 9.2.1) My iPhone is not jail broken   <comment283571> It was last updated 3 years ago, it's not really surprising <comment283572> So it is not possible to do in ios 9.2.1??

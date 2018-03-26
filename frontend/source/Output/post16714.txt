@@ -1,0 +1,1 @@
+How do a force a video to split at the beat markers? <body> I think the default action when adding beat markers to an existing clip is a split of the video. This lets you add new clips within each segment. Someone I seem to have a lot of beats (over 200) with no split, but newly added ones split just fine.  Can I force iMovie to split the clip at all the beat markers? 

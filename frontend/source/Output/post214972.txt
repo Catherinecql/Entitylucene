@@ -1,0 +1,1 @@
+Is there a way to make a VPN apply every time iPhone reboots? It's annoying having to re-enable <body> I use the OpenVPN app to encrypt my network connections on my iPhone as well as a VPN service, but every time my phone reboots I have to remember to re-enable my VPN.   Is there a way to have this occur automatically? 

@@ -1,0 +1,1 @@
+Apps on two different iPads with same account <body> Dumb question but if you have the same apps on two different iPads with the same account will deleting one also delete it from 2nd iPad?  <answer113549> No, the two installations are independent of each other. 

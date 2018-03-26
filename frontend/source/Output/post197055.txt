@@ -1,0 +1,1 @@
+How To Open Apps in Full Screen on Yosemite? <body> There used to be a way where if you opened an app in Full Screen and then quit, it would reopen in full screen. However in Yosemite, I don't know how to do this for full screen apps. Is there a way to do this in Yosemite? 

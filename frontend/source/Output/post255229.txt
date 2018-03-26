@@ -1,0 +1,1 @@
+Where did the usage bar go in itunes 12.5.1.21? <body> it used to be at the bottom along with the sync button. I see no bar and button anymore  <answer255230> Are you on the correct page?  If you can see this icon, then you're not. Click it.  img src="https://i.stack.imgur.com/vTdIJ.png" alt="enter image description here"  <comment317828> that was it. thanks.

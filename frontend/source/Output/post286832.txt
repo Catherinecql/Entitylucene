@@ -1,0 +1,1 @@
+Fine adjustment to track position in garage band <body> Is it possible to have fine adjustment to track position in Garage-band, using the keyboard? I'm trying to get rid of an echo (both tracks have some sound leak) from another voice channel caused by a 10-20ms track position of one track.  Using the mouse for this is not suitable for purpose. 

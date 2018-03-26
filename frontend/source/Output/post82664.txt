@@ -1,0 +1,1 @@
+Restore Apache settings <body> I messed up my apache configuration files, is there some way to restore the apache config files (httpd.conf etc..) to default settings?  (I'm using Apache that comes shipped with OS X 10.8.2) 

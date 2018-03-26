@@ -1,0 +1,1 @@
+Cmd + C copies blank line on google script editor <body> It works fine in Google Docs, and Google sheets. The Edit button still blinks when I use kbd⌘/kbd + kbdC/kbd, and kbd⌘/kbd + kbdV/kbd can paste text from other sources. 

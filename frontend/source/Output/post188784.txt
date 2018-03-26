@@ -1,0 +1,1 @@
+Mount ZFS as internal disk <body> How can I mount my ZFS partition in my Mac as an internal Drive? Currently it appears on the Desktop when I set in Finder preferences "Show on Desktop: External disks". I would like it to be labeled under 'Hard disks'. Running current MacOS and OpenZFS. 

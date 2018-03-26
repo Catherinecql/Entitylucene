@@ -1,0 +1,1 @@
+how to verify dnscrypt-proxy is working? Tomato router with DNSCrypt and Apple clients <body> I configured DNSCrypt on router:  img src="https://i.stack.imgur.com/Rq5ep.png" alt="enter image description here"  How to verify that this kind of blackbox setup is working with macOS, AppleTV and iOS? How to make sure no unencrypted DNS traffic? 

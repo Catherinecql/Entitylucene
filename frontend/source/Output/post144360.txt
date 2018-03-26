@@ -1,0 +1,1 @@
+Can't add new appointments on iPhone <body> After upgrading to iOS 7, the + (plus) sign on my calendar is grayed out. I cannot add new appointments. I even tried using Siri to add an appointment and the response is "Sorry, I'm afraid I can't do that." 

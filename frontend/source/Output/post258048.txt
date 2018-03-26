@@ -1,0 +1,1 @@
+How to set AutoFill data in chrome via selenium script <body> For my automation project, I need to fill forms via autofill. Since my browser clear cache and cookie for each session, I need to insert the autofill data during execution. Can someone please let me know how to do it? 

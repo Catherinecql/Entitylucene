@@ -1,0 +1,1 @@
+text tone is silent when a specific contact texts me. The general notification is on but not the text tone <body> I do not get the specific text tone when a certain contact texts me.  I get a general notification tone but not the specific text tone 

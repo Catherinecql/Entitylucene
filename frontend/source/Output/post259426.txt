@@ -1,0 +1,1 @@
+No signal in external acer monitor after waking up MBP(2015, OS X El capitan) from sleep <body> Each time I am connected to external monitor and macbook pro goes to sleep, I have to restart the darn computer to get the monitor running again, which frankly is just annoying. Is there a way to just restart the external monitor or HDMI port? Or any other easier solution to this?  

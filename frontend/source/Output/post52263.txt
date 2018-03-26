@@ -1,0 +1,1 @@
+Attaching files to OmniFocus <body> If I drag a file into an OmniFocus task, it will create a link to that file. Is there a way to actually place the file inside the task instead of just creating a link?  <answer52264> 1st way: Hold Alt/Option while dragging.   2nd way: Select file in Finder and press your clippings shortcut 

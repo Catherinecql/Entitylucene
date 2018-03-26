@@ -1,0 +1,1 @@
+How to install font from sources <body> What is the right way to install font from sources on OS X?  <answer78904> You don’t want the "source" package from SourceForge, instead download the TrueType (TTF) fonts optimized for OS X from this website. No need to convert BDF files!  <comment70632> Fonts are not coded. What you are looking for is a way to use or convert BDF on Mac.

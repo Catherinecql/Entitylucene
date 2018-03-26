@@ -1,0 +1,1 @@
+Can you stream photos from a PC to an iPad? <body> I have more photos then I want to download onto the iPad.  Is there a favorite app that allows users to browse photos from a Windows7 machine to view on my iPad over wifi?  <answer26255> FileBrowser from the App Store lets you browse your shared network folders. 

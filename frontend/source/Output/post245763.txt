@@ -1,0 +1,1 @@
+How to enable Bonjour instant messaging in iPhone <body> My iPhone 5 is on iOS 9.2. I heard Bonjour instant messaging is enabled by default. How to view the people on the same network? 

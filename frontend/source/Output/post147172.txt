@@ -1,0 +1,1 @@
+Is there a way to turn off email notifications with find my iPhone? <body> Is there a way to turn off email notifications in find my iPhone?  <answer147187> No, it's not possible to do that.  <answer147542> Currently, it's not possible to disable security notifications from iCloud services. 

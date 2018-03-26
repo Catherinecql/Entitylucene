@@ -1,0 +1,1 @@
+How to set DNS servers for the iOS Simulator without changing the host's DNS servers? <body> I know it can be done with the simulator's UI, but is there a way to do this via the command line? Whether it is done before or during the simulator launch does not matter. The device version is iOS 9.3 if that helps. 

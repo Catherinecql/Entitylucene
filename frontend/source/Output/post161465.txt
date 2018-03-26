@@ -1,0 +1,1 @@
+I cannot delete one text message at a time <body> In iOS 8, I can't delete one single text. I can delete the whole conversation, but not a single text.  <answer161466> THe method changed with IOS 8.  Hold you finger on the message, and when the "copy | more" bubble appears then pick "more".  THen you will see how to delete one message. 

@@ -1,0 +1,1 @@
+iMac only connects to wifi when very close to router <body> I have an iMac 4,1 (plastic case, released early 2006). The wifi only works when the iMac is very close to the router. When I use my MacBook in the same room, it can see multiple wifi networks; the iMac can only see one network.  How can I go about troubleshooting this? 

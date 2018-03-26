@@ -1,0 +1,1 @@
+Limit 3G traffic on Jailbroken iPad <body> Is there any software for doing this?  <answer61343> There are indeed apps used to help you monitor and control your data usage over 3G. A quick Google search found this option: Data Usage for iPhone. 

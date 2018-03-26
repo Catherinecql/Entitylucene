@@ -1,0 +1,1 @@
+Iphone 6s Does not reconnect via Bluetooth when device returns from out of range <body> Iphone 6s is connected to mobile printer via Bluetooth, when Iphone returns from out of range after approx 10 minutes,it doesn't automatically reconnect with mobile printer. Printer is able to connect automatically with android and windows devices. 

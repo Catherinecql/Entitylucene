@@ -1,0 +1,1 @@
+Can't expand Xcode_8.3.1.xip file <body> I downloaded XCode 8.3.1 xip file from their developers site but when I tried to expand it from archive utility it says it is damaged. How do I install Xcode? 

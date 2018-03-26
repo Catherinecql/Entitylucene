@@ -1,0 +1,1 @@
+Stop iPhone/iPad from Proxying Localhost Traffic <body> Currently when I set a HTTP Proxy for iPhone/iPad it proxies the localhost traffic as well. Is there a way to stop that? 

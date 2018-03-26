@@ -1,0 +1,1 @@
+iPod - How to display the battery remaining as a percentage? <body> How can I display the remaining battery power as a percentage on an iPod Touch 5.   <answer194297> That's an option to enable :   precodeSettings &gt; General &gt; Usage &gt; Battery Percentage  /code/pre  <comment231709> This is wrong. The iPod touch doesn't have a "battery percentage" control with stock iOS.

@@ -1,0 +1,1 @@
+Why am I being asked to sign in on itunes on my computer? <body> I am suddenly being asked to sign into itunes on my computer before the download procedure can continue on my ipad...why is that?  It has never happened in the past.  <answer58422> Perhaps to authenticate the content for use with the device? Perhaps provide some more detail on what exactly it is you're doing?  

@@ -1,0 +1,1 @@
+Move where a message appears mac <body> Is there a way to display text messages in somewhere other than the top right? I would like it to appear in the bottom right, is this possible?  <comment337457> What version of macOS are you running?

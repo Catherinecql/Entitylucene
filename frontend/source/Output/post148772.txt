@@ -1,0 +1,1 @@
+iTunes creates its own playlists when I add folders <body> When I Add a number of folders to iTunes it automatically makes playlists of them which I find annoying. Can anyone help please?  <answer148780> It should only do that if you drag the folder to the playlists list on the left - drag to anywhere else &amp; it doesn't.br Intentional behaviour. 

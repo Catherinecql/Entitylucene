@@ -1,0 +1,1 @@
+In iterm I can't put directly some characters like ~ or " <body> When I try to put characters like " or ~ in iterm it gets underscores and waits for next one to be finally put, how I can stop it?   <comment130060> What keyboard and mapping are you using? <comment130785> It sounds like the us international PC layout may be active and needs to be changed to us.

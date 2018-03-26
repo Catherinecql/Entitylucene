@@ -1,0 +1,1 @@
+MacBook Air Cannot See Drive <body> Sorry folks I am a non Macbook user. Need help to reset password of Macbook Air my wife was using earlier. We separated and she left her Macbook Air behind, I bought her for her birthday.  I went into Recovery Mode and got into Terminal, then type resetpassword.  I could not see any hard drive in top box of page? 

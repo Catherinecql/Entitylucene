@@ -1,0 +1,1 @@
+Mac Grapher integration doesn't work <body> I'm trying to integrate in Mac Grapher. I would expect this integral to be equal to f(x)=x, but nothing shows up in the graph. img src="https://i.stack.imgur.com/VoTXT.png" alt="enter image description here" 

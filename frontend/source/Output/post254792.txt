@@ -1,0 +1,1 @@
+Can I "unstack" RAW+L or RAW+JPEG in Apple Photos? <body> I often shoot photos in a format that includes a JPEG alongside RAW. In Apple Photos (on macOS) these are "stacked" together by default. Is there a way to "unstack" them (as was once possible in Aperture, for example)? 

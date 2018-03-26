@@ -1,0 +1,1 @@
+Voice Memos are not syncing from the iPhone to MacBook over Wifi <body> Voice memos sync fine when USB connected but do not sync over Wifi. They do not appear to handled through iCloud either.  How can I get these into iTunes without the USB connection? 

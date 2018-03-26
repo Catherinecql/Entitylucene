@@ -1,0 +1,1 @@
+Outlook for Mac simplifies pasted content formatting <body> For the past few months whenever I paste formatted content into Outlook (2011) for Mac the formatting gets simplified.  Especially text goes to default font and size, and some newlines are lost.  Can this be turned off?  

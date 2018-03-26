@@ -1,0 +1,1 @@
+Activating Sierra Finder Window options <body> In Finder in Sierra, in the menu Window, all options are disabled. How can I activate them?  <answer281650> All options in the Window menu will be inactive when there's no Finder window. You can simply create a new one via the menu File - New Finder Window, or by pressing kbdCmd/kbd + kbdN/kbd.  

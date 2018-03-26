@@ -1,0 +1,1 @@
+Stop iCloud from requiring password after login <body> I don't know why when I log in Mac OS (Yosemite), the system requires me to enter the password of my iCloud account. I type my password but it's not turned off. img src="https://i.stack.imgur.com/kVx8g.png" alt="enter image description here" 

@@ -1,0 +1,1 @@
+How can I disable a root certificate in iOS? <body> I want to disable all root certificates in iOS since I'll be using a proxy to access all HTTPS sites.  How do I disable all root certs in iOS?  <comment161636> Are you jailbroken?

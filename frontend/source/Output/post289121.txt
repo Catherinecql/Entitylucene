@@ -1,0 +1,1 @@
+MultitouchHID detection modes <body> Could anyone explain detection mode ids in MultitouchHID/backboardd? I understand that they span 0-255, however, I have been unable to find data on what specific numbers mean for each detection mode, and if they do mean anything at all, and don't just list touch events. 

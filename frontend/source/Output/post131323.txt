@@ -1,0 +1,1 @@
+How to move the timeline frame by frame in iMovie 2013? <body> I'm making a picture in picture video and want to sync two clips. With no luck adjust it freely by the mouse because iMove would "autocorrect" timeline position. 

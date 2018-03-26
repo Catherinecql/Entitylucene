@@ -1,0 +1,1 @@
+Game sharing with different Id and passwords <body> we already have an id and password with around 5 devices on it, we have just gotten another device but with a different Id and password. My question is can I/how do I get the games that are on the other devices onto the new device.  <answer163965> you can consider Family Sharing 

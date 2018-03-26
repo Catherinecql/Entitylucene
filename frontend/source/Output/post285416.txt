@@ -1,0 +1,1 @@
+Apple TV (4th gen): Prevent dim screen on pause <body> How can I prevent the screen from fading/dimming every time I pause video playback? 

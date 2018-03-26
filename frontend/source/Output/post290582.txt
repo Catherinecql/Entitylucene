@@ -1,0 +1,1 @@
+Daemon for preloading frequently accessed file at boot in macOS 10.12 (Sierra)? <body> Is there any daemon or service that preloads all frequently accessed file at boot time for macOS 10.12 that behaves like the ones in Linux (vmtouch, preload, prelink, etc...)?   If there is none is there any drive caching related tweak using sysctl?  

@@ -1,0 +1,1 @@
+Can I control which drive application and OS updates are downloaded to? <body> I have a small SSD as my main drive, and a large regular drive for data files. Noticing that my mac is currently downloading an XCode update of about 2.5Gb and an OS update of about the same size, I wondered if I can configure where OSX downloads these temporary files to? 

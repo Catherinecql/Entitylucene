@@ -1,0 +1,1 @@
+Apple watch stuck while updating <body> I was updating to watchOS 4 beta 3 and its got stuck at this screen  img src="https://i.stack.imgur.com/ruTDF.jpg" alt="enter image description here"  <answer290948> I had this problem before and solved it by doing a forced restart. To do this simply press and hold both side button and Digital Crown at once until the view changes. 

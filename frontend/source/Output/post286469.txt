@@ -1,0 +1,1 @@
+Resetting firmware password on newer Macs without Apple help <body> Is there a way to reset the firmware password of a post-2012 iMac or MacBook without going to Apple to get it done? Isn't some keyboard combinations able to bypass it? Is there some way to reset it by shorting circuit lines to the NVRAM chip? 

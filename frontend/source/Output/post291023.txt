@@ -1,0 +1,1 @@
+Notes: how to search for a folder <body> strongI want to search for a specific folder in codeNotes/code/strong.  I tried to search through the codesearch/code function of codeNotes/code, but it seems that strongit searches only for notes and not folders/strong. Does anyone know how to do this? 

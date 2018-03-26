@@ -1,0 +1,1 @@
+Iphone 6 10.0.2 star rating music <body> I used to rate with stars all my music. Since I've updated my IOS I do not find the stars anymore. How can I access them and change to a different number of stars ?  <comment321311> @Allan iOS 9.3 ≠ 10.0.2. So, not a duplicate, but related.

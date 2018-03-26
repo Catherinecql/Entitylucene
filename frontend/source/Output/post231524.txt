@@ -1,0 +1,1 @@
+Why does my iOS music app randomly alphabetize my Up Next list? <body> Every so often, I'm listening to music in the standard iOS Music app only to realize that my Up Next list, which I never control, has shuffled my entire library, listen songs alphabetically.  I do not use "Shake to Shuffle" 

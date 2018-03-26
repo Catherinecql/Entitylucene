@@ -1,0 +1,1 @@
+Adding custom input not working <body> I created a .inputplugin file per Apple's guide to use with a custom font I have. When I try to install it, it does nothing and doesn't appear in my input menu. Any ideas? Thanks in advance!  <answer231717> I was using UTF-8 instead of UTF-16 and didn't space between entries (I should have double-spaced). Changing those fixed my issue. 

@@ -1,0 +1,1 @@
+VNC viewer which support a repeater server for Mac OS X Sierra <body> I'm looking for a VNC viewer which support a repeater server like the UltraVNC one.  I tried to use SSVNC but it is not starting. So I'm wondering if anyone has been able to make it work on macOS Sierra, or has another Open Source alternative to suggest. 

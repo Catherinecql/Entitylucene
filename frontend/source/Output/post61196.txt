@@ -1,0 +1,1 @@
+Stream video from external video interface in sykpe <body> I would like to now whether it is possible to stream a video from another video input as the face time webcam. I mean with a video interface like the "elgato video capture" where I can input analog video data. I tried this interface and I was not able to switch into that USB video source.  

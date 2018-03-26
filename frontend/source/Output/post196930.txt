@@ -1,0 +1,1 @@
+Change app name without uploading new binary? <body> Am I able to change my app name shown in App Store without uploading new binary and going though the whole submission process?  <answer196932> In order to change your app's name, you have to create a new version. There is no other possibility. 

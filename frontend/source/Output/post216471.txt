@@ -1,0 +1,1 @@
+Time machine stuck in 'waiting' when trying to restore <body> I recently updated to El Capitan and now when I enter my Time Machine click on past backups, it just sits there stuck 'waiting' and no files are visible in the backup. Any ideas what to do to be able to access them?  

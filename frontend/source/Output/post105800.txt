@@ -1,0 +1,1 @@
+Restore iOS 7 GameCenter Login Window Popping Up <body> I'm developing an app, and for development purposes, I dismissed the GameCenter window 3 times in a row, which supposedly disables it in iOS 7. I want to get this window back, because I can't continue developing the rest of my app without GameCenter on my iPad. I'm running iOS 7.0.2 on and iPad 3. Thank you! 

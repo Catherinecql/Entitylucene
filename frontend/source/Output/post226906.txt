@@ -1,0 +1,1 @@
+Security & Privacy -- unlocking padlock doesn't enable settings <body> I can open the padlock in strongSecurity &amp; Privacy/strong fine, but the settings are still impossible to edit. I am an administrator user so I should be able to edit these settings.  img src="https://i.stack.imgur.com/0G9G9.png" alt="enter image description here"  How can I gain access to them? 

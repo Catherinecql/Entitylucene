@@ -1,0 +1,1 @@
+IOS 10 Contacts issue <body> I accidentally deleted the contacts widget (now that you can do that with IOS 10). The contacts option within the phone widget is also  gone now. I reinstalled the Contacts widget, but it is still missing on the phone widget. How to I get that back?  <comment321560> Do you really mean widget? Or are you just calling the Contacts app a "widget"?

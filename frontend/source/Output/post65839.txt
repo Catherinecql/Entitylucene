@@ -1,0 +1,1 @@
+PostScript viewer for iPad <body> Are there any Postscript (.ps) viewers for iPad?  Secondly, having used Okular on Linux that can read .ps, .pdf and .djvu files, is there anything that does all three or more?  Finally, I am looking for a plain interface rather than the interface from such items as iBooks.  Thanks a lot! 

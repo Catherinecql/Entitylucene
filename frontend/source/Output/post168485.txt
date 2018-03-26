@@ -1,0 +1,1 @@
+adding a new epub to iBooks without opening it <body> Whenever I drag &amp; drop an epub into iBooks, the book is automatically added to my library, but it is also immediately opened for reading.  Is there a way to add a book to the iBooks library without actually opening it? 

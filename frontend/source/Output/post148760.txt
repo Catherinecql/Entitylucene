@@ -1,0 +1,1 @@
+How to move music from external hard drive into my iTunes library? <body> I'm trying to move a bunch of old music off an external hard drive in to my iTunes library.  I'm using iTunes 11.4 on a late 2014 macbook pro and the hard drive is a verbatim.  I'm sure this is simple but, technology eludes me.  <comment175233> Have You tried to simply drag'n'drop folder?

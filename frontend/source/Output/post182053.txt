@@ -1,0 +1,1 @@
+Merging iPhoto libraries <body> I am currently running MacBook Pro (Retina, 15-inch, Mid 2014) with Yosemite 10.10.2  For iPhoto I have a current library and 2 older libraries and now wish to:  ul liMerge all three into one iPhoto library/li liRemove duplicates/li /ul  How can I accomplish this? 

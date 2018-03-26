@@ -1,0 +1,1 @@
+MacBook Pro screen turns red/black when watching movies in full screen <body> So basically, whenever I go to watch a movie on Stan or Netflix in full screen - after the mouse arrow and the bar at the bottom of the screen fades away, the screen turns red and black. Why is this? Can someone help me please.  

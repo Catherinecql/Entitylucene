@@ -1,0 +1,1 @@
+Can I rename a USB audio device? <body> I have an HP E240c monitor which include USB microphone, speakers, and camera. In the Sound control panel, it identifies as an input device named "E240C". I'd like to give it a more descriptive name.  I can rename my Bluetooth devices, but I don't see controls for doing the same for USB. Is there any way to do so? 

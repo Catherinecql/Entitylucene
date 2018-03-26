@@ -1,0 +1,1 @@
+Tan-1 on Numbers <body> Is there a way to do tan-1 using numbers on El Capitan to return an angle?   I have two lengths 1.5 and 2.2 for example. I can do it on a scientific calculator but not on numbers.  <answer227953> The inverse of tan is arctan. This is the atan function in Numbers.  I found this by in the function sidebar choosing Trigonometric and see g what was there. 

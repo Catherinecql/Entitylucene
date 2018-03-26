@@ -1,0 +1,1 @@
+muCommander: copy files excluding? <body> I run muCommander on Mac OS X 10.7.5. I would like to set a copying options when I copy a folder/files: file mask, attributes(hidden).br P.S. The problem is when I copy one project to a different place muCommander copies it wit h SVN files, which leads to problems while committing. brIs it possible to exclude in muCommander? 

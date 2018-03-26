@@ -1,0 +1,1 @@
+Siri: play all songs NOT shuffled <body> Does anyone know a way to ask Siri on iPhone or iPad to play an artist, but have the songs go in album order instead of shuffled?  I have tried asking "don't shuffle" and "play X in order" and also "play albums by X"...  <answer140584> By default it will shuffle it, you may have better luck asking Siri to play a playlist instead. 

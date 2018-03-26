@@ -1,0 +1,1 @@
+How to copy books from iPad iBooks to PC? <body> I have some books in iBooks on iPad 2 (iOS 5) that were manually transfered to iPad via iTunes (without syncing). How can I copy back a book to my PC, from iPad?  <answer35088> Sync the ipad with books selected then you get a message asking you to transfer purchases, that should work shouldn't it? 

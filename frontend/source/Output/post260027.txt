@@ -1,0 +1,1 @@
+Camera roll duplicated on iOS 10.1.1 <body> img src="https://i.stack.imgur.com/HbbRk.png" alt="enter image description here"  I've just finished downloading iOS 10.1.1 and when I checked my albums I noticed my camera roll it's multiplied, I didn't use a backup, just updated my iPhone  How do I fix this? 

@@ -1,0 +1,1 @@
+Delete photos from iPhone after sync <body> I accidentally synced my iPhone with my pictures and contacts from my PC. Is there a way to revert this action and delete all my contacts and pictures on my iPhone?  <comment94211> How did you manage to do this "accidentally"? Are you using iTunes to sync?

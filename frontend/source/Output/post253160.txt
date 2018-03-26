@@ -1,0 +1,1 @@
+Removing camera from lockscreen <body> Is there a way to remove the camera from the iPhone lock screen on iOS 9-10 without disabling the camera entirely?  <answer253237> This is not possible without jailbreaking.br If the device is jailbroken, you can use mikoto: iOS System  Lock Screen  Disable Camera.  <comment315057> No, is the short answer.

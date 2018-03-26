@@ -1,0 +1,1 @@
+Is it possible to install Gparted on a partition on the system harddrive? <body> Since my MacbookPro8,3 might not be able to boot anything other than OS X from external sources (which is to be confirmed) I might consider putting Gparted on a partition on the harddrive. This can be done in Linux like here, but there is no reference to OS X. Would it be possible?  

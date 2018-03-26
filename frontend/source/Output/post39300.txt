@@ -1,0 +1,1 @@
+Final Cut Express conversion problem <body> I am trying to convert the MPEG4.webloc file of a public domain "Soundie" into a file that Final Cut Express can read.  It doesn't convert in MPEG Streamclip.  Any ideas how to do this?  <comment45971> Can you add the link so we can further help you?

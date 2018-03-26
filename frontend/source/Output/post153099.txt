@@ -1,0 +1,1 @@
+Drag lock doesn't get disabled <body> I've enabled dragging in the touchpad settings in Accessibility, but I've also chosen "without drag lock". However, the dragging still continues after I lift my finger, just as it does when I choose "with drag lock". Is this a known problem in Yosemite?  <comment226477> Happens to me too.

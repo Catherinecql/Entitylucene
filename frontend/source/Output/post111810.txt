@@ -1,0 +1,1 @@
+How to mirror a window? <body> Is it possible to mirror a window? I mean to make exactly same duplicate of window?  It would be useful for me if I can make one duplicate small and other one big and put it into separate desktop.  <answer111820> This is to mirror a window to an IOS device, perhaps this may help you?  http://xscopeapp.com/guide 

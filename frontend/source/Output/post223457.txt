@@ -1,0 +1,1 @@
+Can't upgrade Yosemite from Mac App Store <body> I can't upgrade Yosemite at the Mac App Store. Everything else works but the last upgrade ( iTunes 12.3.2, Safari 9.0.2, etc.) It seems it is starting, but stops downloading.  <answer223470> Have you tried the manual upgrade outside app store? Try to download packages manually and see if you can then upgrade them. 

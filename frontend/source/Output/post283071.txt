@@ -1,0 +1,1 @@
+Automatic Login is greyed out <body> I am trying to setup automatic login on my machine.  ol liI have FileVault off./li liI am not using a icloud account./li /ol  Still the automatic login is greyed out.  

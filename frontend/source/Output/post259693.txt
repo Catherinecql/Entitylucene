@@ -1,0 +1,1 @@
+Is there an MCX to always update the keychain when a new/updated password is used? <body> I would like to enforce updating or saving of passwords from Safari to the Keychain via MCX. Is this  possible? 

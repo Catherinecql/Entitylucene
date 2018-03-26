@@ -1,0 +1,1 @@
+How to reorganize labels in iPhone contacts? <body> How to rename and delete these customized labels generated during adding or editing contacts on the iPhone?  img src="https://i.stack.imgur.com/D80vem.png" alt="" img src="https://i.stack.imgur.com/IBo19m.png" alt=""  <answer172156> Install iContacts app then remove the Custom label 

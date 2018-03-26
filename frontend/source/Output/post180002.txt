@@ -1,0 +1,1 @@
+How can I stop Image Capture from automatically scanning when opened? <body> When I open Image Capture it automatically scans my document.  How can I get the prescan menu to change the size etc., and carry out a prescan before actually scanning and saving the document? 

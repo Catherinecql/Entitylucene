@@ -1,0 +1,1 @@
+How to disable Safari Frequently Visited? <body> img src="https://i.stack.imgur.com/0K4dV.png" alt="enter image description here"How can you disable the Frequently Visited section in the Safari 9 Favorites tab?   I do not like how these auto-generate and need to be manually removed.  <answer224682> I see now that it can be disabled under the "Bookmarks" menu. Simple as that. 

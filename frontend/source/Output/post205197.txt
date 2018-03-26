@@ -1,0 +1,1 @@
+How do I link and update a .png file in iWork Pages <body> I have inserted a .png image into my pages document.  Is it possible for this image to refresh itself if the original file changes?  <comment247458> Sorry, images are imported (copied) to iWork documents, so they don't use the original file. <comment247459> I thought that was the case, but thanks for confirming.

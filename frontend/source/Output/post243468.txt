@@ -1,0 +1,1 @@
+Open Directory local admin users <body> Is there a bash command to add an Open Directory admin group to the local admin group on a Mac with 10.10? I'm trying to remove all local admin accounts but still be able to control them with Apple Remote Desktop.  <comment299926> So I want to remove all local admin users and only have a few OD admins.

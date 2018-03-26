@@ -1,0 +1,1 @@
+Terminal tab name after exiting midnight commander <body> Is there a way to reset terminal tab name (iTerm on osx or gnome-terminal on ubuntu) after exiting mc? It remains with mc title. Same thing after exiting ssh session - tab title shows remote hostname. 

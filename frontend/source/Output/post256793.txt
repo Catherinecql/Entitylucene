@@ -1,0 +1,1 @@
+Add SML syntax highlighting in Xcode <body> How can I configure Xcode so that I get syntax highlighting when using Standard ML? Is this even possible with Xcode?  <comment320599> You may need to create a plugin or language definition. There isn't much documentation, but some examples such as https://maniacdev.com/xcode-plugins are available.

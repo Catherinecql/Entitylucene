@@ -1,0 +1,1 @@
+Can I trigger an Automator workflow from a Notification Center alert? <body> I know there are ways to trigger Notification Center alerts inside an Automator workflow. I'd like to do the reverse.  I'd like to set up an event listener which, when a particular app emits a Notification Center alert, I can trigger a workflow from it. Is this possible?  I'm running Mavericks. 

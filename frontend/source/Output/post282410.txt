@@ -1,0 +1,1 @@
+How can I reduce the disk usage of the system? <body> Can you take a look at the image below?  img src="https://i.stack.imgur.com/3Ubfx.png" alt="enter image description here"  Doesn't disk usage seem a bit strange? How can I monitor the system usage and reduce it? 

@@ -1,0 +1,1 @@
+Stop keynote being affected by media keys <body> I don't want the media keys on my macbook to affect keynote.  I want to be able to press them without keynote presentation exiting.  <comment330660> Instead of asking practically identical questions, please consider editing the original one to add additional details.

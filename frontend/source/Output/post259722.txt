@@ -1,0 +1,1 @@
+iBook cache issues <body> I have books sitting in my download queue within iBooks, but each time I try to cancel and reload it, it keeps failing. How do I clear these books completely, so that I can then try to download them once  again from scratch?  <comment324973> Mac or ipad/iphone?

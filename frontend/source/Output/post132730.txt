@@ -1,0 +1,1 @@
+What's the new font used on Yosemite <body> Do you have any idea what's the new topygraphy used in Yosemite ?   on Mavericks it used to be Lucida Grande/Helvetica but it looks like it has change on Yosemite.   <answer132731> Closing the gap to iOS, they ditched Lucida for strongHelvetica Neue/strong all the way.  <comment157175> Helvetica Neue 3

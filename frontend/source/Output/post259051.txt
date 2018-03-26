@@ -1,0 +1,1 @@
+Different kind of Numbering in Numbers OS X <body> Ive got a question about numbering in Numbers.  I want to have a sequence of numbers in Row A for example.  The first one would be 610-1 and the following one 610-2. How can I do that?  Thanks in advance for the help! 

@@ -1,0 +1,36 @@
+curl -XGET "http://localhost:9200/entity_lucene/_search_with_clusters?pretty=true" -H 'Content-Type: application/json' -d'
+
+
+{
+    "search_request": {
+        "query" : {
+            "match" : {
+              "_all" : "Screen" 
+            }
+        },
+        "size": 100
+    },
+    "query_hint":"",
+    "field_mapping": {
+        "title"  : ["_source.entityContent", "_source.name", "_source.physicalDoc", "_source.text"]
+    }
+}'
+
+
+
+
+curl -XGET "http://localhost:9200/entity_lucene/_search_with_clusters?pretty=true" -H 'Content-Type: application/json' -d'
+{
+    "search_request": {
+        "query" : {
+            "match" : {
+              "_all" : "Screen" 
+            }
+        },
+        "size": 100
+    },
+    "query_hint":"",
+    "field_mapping": {
+        "title"  : ["_source.entityContent", "_source.name", "_source.physicalDoc", "_source.text"]
+    }
+}'

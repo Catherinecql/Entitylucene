@@ -1,0 +1,1 @@
+Wifi restore and Find my mac? <body> My mackbook air was stolen, now if someone erased it, when they do a restore, they have to connect to the internet/wifi. Will Find my mac work when they connect to the internet to do a restore?? Or is it long gone? 

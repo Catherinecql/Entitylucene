@@ -1,0 +1,1 @@
+Enabling Wi-Fi on MacBook Pro 2012 causes problems for nearby Wi-Fi devices <body> Why would turning on the Wi-Fi on my MacBook Pro 2012 cause all nearby Wi-Fi devices to become very slow?  I've already changed the Wi-Fi card, with no improvement. 

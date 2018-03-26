@@ -1,0 +1,1 @@
+Spotlight/Finder quotation marks won't work with "\n" <body> "\n" is mentioned in some pdf's I have. When I search using quotation marks in both Spotlight and Preview Apps they have issues pulling up this exact phrase. Does anyone have a suggestion for finding this phrase? 

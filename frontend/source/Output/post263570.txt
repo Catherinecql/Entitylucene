@@ -1,0 +1,1 @@
+MacVim black screen when Fullscreen <body> I just installed MacVim through codebrew-cask/code and when I go fullscreen with codectrl + cmd + f/code the screen goes all black and when I press buttons, it renders the screen for about half a second before going all back once again.  This is my .vimrc. Using MacOS Sierra. 

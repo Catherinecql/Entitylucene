@@ -1,0 +1,1 @@
+How can Launchpad be configured to keep layout after reboot? <body> I updated to Yosemite. I organized my launchpad but when I turned my laptop on after shutting it down, my apps weren't grouped together like I did before.  What do I need to do to keep the layout I defined? 

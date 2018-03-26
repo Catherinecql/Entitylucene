@@ -1,0 +1,1 @@
+Increase font size of web pages on iPad? <body> Can you increase the font size for web pages on an iPad using the default safari browser?  <comment261479> https://support.apple.com/en-gb/HT202828 <comment261483> That doesnt change the font size for safari. <comment261485> http://marcos.kirsch.mx/2012/04/29/font-size-bookmarklets/ this should do the trick

@@ -1,0 +1,1 @@
+Time Machine "Latest Backup" info <body> This seems strange.  The time of latest backup from the menu bar differs from the actual latest backup time (shown in the Time Machine preferences).  What is the reason for this?   Feature or bug?  img src="https://i.stack.imgur.com/u6Yhn.jpg" alt="TM backups" 

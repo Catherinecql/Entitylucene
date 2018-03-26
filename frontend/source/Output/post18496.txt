@@ -1,0 +1,1 @@
+Multi threaded file copy? <body> I was wondering if there exists a method or tool to copy a lot (thousands) of small files/directories using multiple threads?  Such a tool exists for Windows: RichCopy, Robocopy or vXCopy.  Cheers, Niels R.  <answer18499> Give Ultracopier a try 

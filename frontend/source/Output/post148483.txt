@@ -1,0 +1,1 @@
+how to achieve messages in osx server from message app in mavericks <body> I am using message app in mac mavericks and I also have osx server. Messages are achieved when users in osx server send message to each other from PC, iphone,etc. Is it possible to get messages achieved for imessage (between 2 apple-IDs) ?  

@@ -1,0 +1,1 @@
+Is it possible for heat to warp a Unibody MacBook Pro? <body> Inspired by this question: Bulge in MacBook Pro near Hard drive  Could the heat generated from a MacBook Pro (over a period of several hours running at around 100% CPU usage) warp an area of the Unibody shell?  Specifically- would this be a possibility if it was a Mid 2010 Unibody Case? 

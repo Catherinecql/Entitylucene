@@ -1,0 +1,1 @@
+permanently display time stamps in MacOs Messages? <body> Does anyone know of a work around or extension to permanently view time stamps in the messages app? I am aware you can hover over and see it but I would like to have the time next to all messages. Or, a 2 or 3 finger swipe (likewise to iPhone) where you could see the times. Thank you 

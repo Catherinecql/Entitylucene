@@ -1,0 +1,1 @@
+Can you download Xcode on iPhone? <body> Can you download Xcode on strongiPhone/strong?  <answer194032> Briefly, no.  Xcode is OS X only. You strongmust/strong have a Mac to download Xcode.  <comment231352> You can _create_ apps for the iPhone in Xcode on a Macintosh computer, though.

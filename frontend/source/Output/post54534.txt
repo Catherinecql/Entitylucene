@@ -1,0 +1,1 @@
+Boot into Legacy HD option rEFIt <body> I just synced my rEFIt partition tool and now I get an option to boot from legacy HD when at the moment the only bootable disk is that cotaining Mac OS X. Has anyone got any idea of how I can get rid of this option from the rEFIt menu? 

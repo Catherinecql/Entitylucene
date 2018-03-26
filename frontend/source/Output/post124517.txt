@@ -1,0 +1,1 @@
+Context menu got empty separator <body> I’ve got empty lines in context menus, what is it and how could I get rid of it?  img src="https://i.stack.imgur.com/bVDRL.png" alt="Context menu"  <answer124522> Got it, it was an outdated TotalFinder plugin. Installed the newest and context menu is OK now. 

@@ -1,0 +1,1 @@
+in-app purchases do not work in my accepted app <body> I coded an app with in-app purchases. Everything was good. I configured the sandbox and tested everything. Everything was perfectly fine. I uploaded the app to itunes connect and the app has been accepted. But the in-app purchases are not within the app! They still are 'Ready to submit' why? Can I activate them in some way? 

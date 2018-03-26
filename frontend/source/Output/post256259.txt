@@ -1,0 +1,1 @@
+How to open terminal in Mac using keyboard shortcut? <body> Keyboard shortcut to open terminal in mac OSX ?   <answer256263> Though a basic Google search could have given you the answer, but in any case,  Press CMD + Space to open spotlight search, and type terminal and hit return.  <comment319553> Is there any command like Ubuntu CTRL + ALT + T

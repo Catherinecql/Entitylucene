@@ -1,0 +1,1 @@
+Wifi Printing on Shared Wifi Network <body> I am trying to set up a wireless printer (Epson XP 330) on a shared network in a dormitory-like building. Is this possible? I am using a Mac running OSX 10.11.6 

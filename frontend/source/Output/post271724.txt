@@ -1,0 +1,1 @@
+I can't reduce disk image size on Yosemite <body> I have a disk image having a size of 40GB, I want to resize it and make it 25 GB.  I click the image, I select "resize image", it says min size is 23.86GB, I choose 25GB and then confirm. Nothing happens, no error messages, no resize.  Am I doing something wrong?  Yosemite 10.10.5, macbook pro mid 2009, SSD 250GB.  Thanks. 

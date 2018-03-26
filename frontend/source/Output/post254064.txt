@@ -1,0 +1,1 @@
+Smart Mailboxes disappeared after Sierra update <body> Updated to Sierra 10.12 and now see that all my Smart Mailboxes have disappeared from Mail. How can I make them reappear? 

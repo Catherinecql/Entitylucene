@@ -1,0 +1,1 @@
+Mavericks GPS Receiver <body> Can anyone suggest an USB GPS receiver that has support for Mavericks 10.9?   It would be nice if it has a replaceable antenna.   I'm going to use it for reading data from within an application I'm about to write. 

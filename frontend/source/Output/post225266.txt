@@ -1,0 +1,1 @@
+Google accounts sync frequently <body> My Google accounts on my Mac sync constantly. codeaccountsd/codeand codesoagent/code go crazy and codeMessages/code works hard or freezes, etc.  Can’t I tell my contacts to just sync like once an hour or something?  The fetch selection in contacts  preferences seems to not be respected. 

@@ -1,0 +1,1 @@
+How to delete the windows support software? <body> I stop the process when "codedownloading windows support software/code" in BootCamp, and I don't know where the downloaded files are.  How to delete the uncompleted downloading files? 

@@ -1,0 +1,1 @@
+iMac latest OS, Photos 2.0. Photos not syncing photos from iCloud <body> Images from iPad are in iCloud already, but they are not syncing promptly to Photos app on my iMac. Images from yesterday that I want to work with today have still not come in 24 hours later.  How can I troubleshoot this? 

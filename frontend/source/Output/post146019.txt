@@ -1,0 +1,1 @@
+Update multiple devices with one download using iTunes? <body> I have multiple iOS devices: iPhone 5, iPad 2, 3, air.  Is it possible to use iTunes to make one download and update on all these devices?  <answer146023> As it won't download the same binary file for each device: Nope.   <comment172077> Nope. It's not possible.

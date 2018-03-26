@@ -1,0 +1,1 @@
+What SatNav software will run on an iPhone 3G? <body> I have an iphone 3G running iOS 4.2.1 (highest supported iOS for this phone). Is there any free/cheap SatNav software that will run on it? Navfree GPS looked good, but unfortunately requires iOS 4.3. I have tried to download several other iphone SatNav apps and each time I get the same message - "Requires iOS 4.3".  

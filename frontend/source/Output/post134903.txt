@@ -1,0 +1,1 @@
+Create a shortcut in topbar for accessing folder quickly <body> I want to create a icon in top menu for accessing folder quickly, is it possible?  <answer134904> There's a freeware app that allows you to do this:  • XMenu  And likely many others too. 

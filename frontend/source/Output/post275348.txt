@@ -1,0 +1,1 @@
+location of camera shutter sound in iOS10 <body> looking to change my shutter sound by finding the camera sound using Ifile. It used to be found at System/Library/Audio/UISounds/photoshutter.caf but is no longer there.   Can anyone please specify where the camera shutter sound in iOS10 is? 

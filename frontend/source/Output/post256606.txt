@@ -1,0 +1,1 @@
+why does imovie app quit unexpectedly in macOS Sierra operating system(version:10.12)? <body> I am trying to export (save) imovie project in imovie app in macOS Sierra operating system, but the app quits unexpectedly..so what is the reason for this,  can anyone help me regarding this..  thanks..  strongos version :macOS Sierra/strong   strongversion    :10.12/strong 

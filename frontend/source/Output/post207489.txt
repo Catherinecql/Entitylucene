@@ -1,0 +1,1 @@
+Can I hide only the unfocused windows of the current application and not others? <body> I know I can hide inactive applications with ⌥⌘H but I want to hide only the unfocused windows of the active applications. Is there a way to do this with perhaps a keyboard shortcut? 

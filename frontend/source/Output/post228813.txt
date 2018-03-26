@@ -1,0 +1,1 @@
+OS X: Notify Login va Email <body> Is there a way, possibly via a third party app, a shell script, or apple script, to send an email automatically when a user has logged in to OS X?  Thanks 

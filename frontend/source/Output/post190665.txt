@@ -1,0 +1,1 @@
+How to set no tabs in TextMate <body> I do not want tabs as symbols in Textmate.  I would like to them be for instance 4 spaces.   How can you make each 'tab' be 4 spaces?  <answer191600> Put this in your ~/.tm_properties:  precodetabSize         = 4 softTabs        = true /code/pre 

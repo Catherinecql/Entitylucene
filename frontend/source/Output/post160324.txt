@@ -1,0 +1,1 @@
+Ipad 2 no longer pairing on bluetooth <body> By mistake, I asked my ipad to ignore a Bluetooth speaker divice. how can I reverse that instruction?   <comment188473> Did you tell it to ignore? how?  Or did you click "forget this device"?  in which case you just need to re-pair

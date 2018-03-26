@@ -1,0 +1,1 @@
+What does 'Erase All Content And Settings' do, exactly? <body> Does this option completely re-install iOS from somewhere within the iPad, or does it just erase the settings? 

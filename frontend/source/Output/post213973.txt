@@ -1,0 +1,1 @@
+Save password for custom keychain <body> I get this keychain promt after every reboot. Can I just set the password somehow, so I don't have to enter it again?  img src="https://i.stack.imgur.com/RIAP9.png" alt="keychain promt"  <comment258324> Is the keychain password the same as your login password?

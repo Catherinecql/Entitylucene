@@ -1,0 +1,1 @@
+I want to log out of the current iCloud account on my iMac <body> When I click sign out in System Preferences I get an error message reading: mail was unable to delete xx@comcast.net. Relaunch Mail then sign out of iCloud again. However when I try to launch mail, it quits unexpectedly.img src="https://i.stack.imgur.com/g5ell.png" alt="enter image description here" 

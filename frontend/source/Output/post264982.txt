@@ -1,0 +1,1 @@
+Can I restore an iPhone back up to a newer version of iOS? <body> I currently have an iPhone 6 Plus with iOS 8.1.2 (very old).  I also have a new iPhone 7 Plus with iOS 10.2.  Can I backup the old one via iTunes, and restore to the new iPhone? Or should I first upgrade the iPhone 6 Plus to iOS 10.2, then back it up, then restore? 

@@ -1,0 +1,1 @@
+Emacs does not auto restart after reboot? <body> I install Emacs via Homebrew and create a symbolic link:  /Applications/Emacs.app - /usr/local/Cellar/emacs/24.3/Emacs.app  What does not seem to work properly is that after restarting, other applications previously open will automatically restart but Emacs does not.  Any ideas? 

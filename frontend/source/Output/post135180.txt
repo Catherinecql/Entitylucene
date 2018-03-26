@@ -1,0 +1,1 @@
+Can one iPhone be registered to multiple Developer accounts? <body> I have an Apple iOS Developer account and I registered my iPhones UUID to this account (to create Provisioning Profiles, etc.).  Is it possible to add this iPhones UUID to another iOS Developer account?  <answer135181> h2Yes/h2  A single device can be added to as many developer accounts as necessary. 

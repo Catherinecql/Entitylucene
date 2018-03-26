@@ -1,0 +1,1 @@
+Moving exclusively to tags to manage files in OS X <body> Has anyone using OS X abandoned folders completely and moved exclusively to using tags? If so, has this been successful (a better way to manage files)? What are the pros and cons? What advice would you give to someone when making the transition from folders to tags? 

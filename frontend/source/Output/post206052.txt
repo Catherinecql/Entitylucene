@@ -1,0 +1,1 @@
+Terminal Command to Edit Hostname <body> How can I edit the strongemHostname/em/strong of my MacBook Pro via the CLI?br Currently running Mac OS X Yosemite (Version 10.10.5). 

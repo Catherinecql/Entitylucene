@@ -1,0 +1,1 @@
+Espresso - Folders Above FIles? <body> I recently purchased Espresso, however I'm slightly disappointed with the sidebar.  I'm wondering if there's a way to arrange the "Project Files" so that the folders go above the files. It's just bugging my OCD, haha.  Thanks!  <comment83259> The best people to ask are probably the people who wrote it: http://macrabbit.com/support/

@@ -1,0 +1,1 @@
+How can I "Delete All" from Inbox and or Sent mail folder <body> The sent items folder is about 8 GB and I need to clear it out to free up space. Is there any way to do it without selecting each individual message? 

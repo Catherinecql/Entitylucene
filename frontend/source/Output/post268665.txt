@@ -1,0 +1,1 @@
+XDM -Xtreme Download Manager Autostart up disable <body> I want to disable Autostart of xdm on my mac os sierra ,there is no entry in login items in system preferences!neither there is any settings regarding such in xdm settings!!what should i do inorder to turnoff this Autostartup of this app? Didn't get any Google Result on this ! Help me please 

@@ -1,0 +1,1 @@
+Printing from Safari cuts lines on page breaks <body> When I print from safari on 10.6 and 10.7 sometimes the top half of the line is printed on one page and the bottom half is printed on the next. This seems to be independent of the printer as the pdf output is also chopped in pdf output.  How can I fix this? 

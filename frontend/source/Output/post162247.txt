@@ -1,0 +1,1 @@
+I transfer a picture folder from desktop to an imovie project in 10.0.3 <body> How do I transfer a folder from desktop to an imovie 10.0.5 project?  <answer162250> In iMovie you can import files. The option for this is located in the top of the iMovie screen.   <comment189658> What do you mean by folder?

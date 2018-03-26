@@ -1,0 +1,1 @@
+Run AppleScript On Mouse Move <body> Is there a way to run AppleScript on mouse move?  Ideally I want to detect the mouse location and if it is in a certain to run a specific script. 

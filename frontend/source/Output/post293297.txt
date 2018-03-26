@@ -1,0 +1,1 @@
+Bluetooth LE Privacy <body> Is there a way to turn off or bypass Bluetooth Privacy on iPhone 5/6/7? I want to be able to sniff my phone's actual BT MAC address.   <answer293314> No, there's no way to turn it off.  

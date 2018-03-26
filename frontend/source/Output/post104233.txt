@@ -1,0 +1,1 @@
+Installing BackTrack Via VMware <body> I use VMware and I would like to be able to turn a partition of the hard drive into BackTrack.  Is there any way to do this as I have been unable to create a live CD/USB because of Mac's bad boot/BIOS.  supSystem Specs: MacBook, OS X 10.8.5, 2.4 Ghz Intel, 2GB RAM, 250 GB Hitachi/sup 

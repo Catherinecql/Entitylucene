@@ -1,0 +1,1 @@
+Extracting WebSQL sqlite files from iOS <body> I have a friend that has very sensitive information locked in a few WebSQL files stored in Chrome on their iPhone. The domain name changed, and now there is no way to access those files which are only accessible through the original domain. Is there a way of accessing these files? He is running iOS 10.3.2. 

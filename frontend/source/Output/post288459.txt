@@ -1,0 +1,1 @@
+iPhone 6s stuck in recovery mode and can't restore/update even in DFU after downgrading from iOS 11 <body> So I decided to download Ios 11 beta for fun thinking it would be easy to downgrade to 10.3.2 and I have my phone all backed up on a computer but I can't update my phone or anything. The phone just keeps going back the Recovery Mode. What do I do?? 

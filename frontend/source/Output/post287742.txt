@@ -1,0 +1,1 @@
+Where is MacOS's Trash metadata saved? <body> Since MacOS's Trash-can has a "Put Back" feature, the information about files' source locations must be saved somewhere; where is the source location saved? And while we're on the topic, what other information about deleted files are tracked? 

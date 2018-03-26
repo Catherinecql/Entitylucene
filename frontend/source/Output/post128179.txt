@@ -1,0 +1,1 @@
+Purchased iTunes Songs Doesn’t Show Up in Artist Section <body> Some of the songs I purchased from iTunes Music Store show up in the codeSongs/code section, but not under codeArtists/code section.  ul liWhat can be the possible cause of it?/li liIs it because the songs are part of collection?/li liIs there any way to show them under codeArtists/code section?/li /ul 

@@ -1,0 +1,1 @@
+How to make annotations' outlines partially transparent in El Capitan's Preview application? <body> When drawing shapes and annotations, I can set the fill to be transparent easily enough but is there a way to make the outline partially transparent so that the viewer can see what's under them? 

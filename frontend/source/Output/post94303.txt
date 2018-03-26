@@ -1,0 +1,1 @@
+Finding Where Alias Points Even With Deleted File <body> Can I find where an alias was pointing to, if the file is deleted?  <answer94304> In the finder : codeCmd+I/code or  codeRight click &gt; Get Info/code 

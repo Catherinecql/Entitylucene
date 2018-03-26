@@ -1,0 +1,1 @@
+My MacBook Pro (Retina, OS X El Capitan) doesn't automatically connect to the internet? <body> My Mac won't connect to the internet unless I click on the wifi symbol and then select the network I want to join. It remembers the network, because I never have to put a password in, but I'm fairly sure it used to automatically connect?  

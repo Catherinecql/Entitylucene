@@ -1,0 +1,1 @@
+Does OS X support LLDP-MED? <body> Does OS X support Link Layer Discovery Protocol-Media Endpoint Discovery (LLDPMED) ?  I've been unable to find any documentation for LLDP on OS X, and internet searches seems to indicate that it's only available through Open LLDP, which requires it to be compiled separately.  

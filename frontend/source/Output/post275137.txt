@@ -1,0 +1,1 @@
+Single Key Macro for OS X <body> I want to make a simple macro for a game I play but can't figure out how through mac programs. I'm looking to run a macro where when I press x, it outputs as pressing the x key twice in a row very fast (.5milliseconds).  Basically turning x into xx, but having the output very fast 

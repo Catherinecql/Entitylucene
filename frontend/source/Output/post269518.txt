@@ -1,0 +1,1 @@
+Customize control strip in Keynote <body> I'd like to add the View-Light Table button on the touch bar.  Is this possible?  I've been trying to find a way, but no success until now.   <answer277891> All you can do is go into the view where you want to add it and then go to "customize touch bar" and see what options it gives you. 

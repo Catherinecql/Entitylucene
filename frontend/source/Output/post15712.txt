@@ -1,0 +1,1 @@
+Can I disable Wi-fi on a Time Capsule? <body> Is it possible to disable Wi-fi on a Time Capsule device and use it only wired ?  <answer15721> With Airport Utility, select the time capsule; Airport tab; Wireless tab.  In the Wireless Mode dropdown, choose 'Off'.  img src="https://i.stack.imgur.com/185h7.png" alt="enter image description here" 

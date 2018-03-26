@@ -1,0 +1,1 @@
+USB external drive on MacBook Air <body> I don't seem to be able to use multiple UDB external HDD on my MacBook Air. When I plug in a second HDD, the first one is ejected. Is there a limitation or is there a function that I have not selected? Thanks 

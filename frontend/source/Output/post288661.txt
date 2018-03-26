@@ -1,0 +1,1 @@
+macOS sierra apple calendar doesn't update to current day <body> The dock icon updates properly but the calendar itself doesn't change the red highlight badge to the current day.    In System Preferences  Date &amp; Time  "Set Date and Time Automatically" is checked.  If I quit the app and relaunch, it does open with the correct day. 

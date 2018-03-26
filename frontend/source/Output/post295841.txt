@@ -1,0 +1,1 @@
+What process does macOS Sierra PiP run under? <body> In macOS Sierra, HTML5 videos running under Safari can be put in picture-in-picture. Which process does this run under (WebKit, Safari, Dock, Finder, codeWindowServer/code, its own process or something else)? 

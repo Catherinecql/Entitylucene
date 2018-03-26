@@ -1,0 +1,1 @@
+Show list of clients of wifi hotspot Mac OS X <body> I have MBA and I access internet using ethernet to USB adapter. Now I'm sharing wifi to my other devices, but I want to know the information about all clients of my hotspot. Not only mac address, but names and time they're connected too. Is there a way to do that or an app? 

@@ -1,0 +1,1 @@
+Cisco IPsec VPN does not keep the password <body> I am using El Capitan on my MacBook Air. Does any one knows why Cisco IPsec does not remember the password and how to fix that?  Many thanks, PM 

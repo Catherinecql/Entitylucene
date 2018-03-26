@@ -1,0 +1,1 @@
+How do I get Yosemite to download updates before asking me to restart? <body> Yosemite nags me that updates are available.  If I click install, it says, it hasn't finished downloading.  Is there a way to tell it to download before asking, but to ask me if I want to install? 

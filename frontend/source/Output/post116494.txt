@@ -1,0 +1,1 @@
+Pass through mic to iPhone USB dock? <body> Is there a way (or an app) that will let me pass through audio from a mic into the headphone jack, and output that same audio through the connector port on iOS?  <comment136302> what exactly is your goal?

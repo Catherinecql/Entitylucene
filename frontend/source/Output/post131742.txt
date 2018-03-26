@@ -1,0 +1,1 @@
+How can I upgrade my OS X 10.4.11 to Snow Leopard and then Mavericks? <body> I am on iMac PowerPC with OS X 10.4.11br Can I upgrade to Snow Leopard and then to Mavericks? If so, how?  <answer131744> PowerPC is only supported up until Mac Os X 10.5 (Leopard), so Mavericks is out of the question. Snow Leopard (10.6) is also too high. 10.5 is the highest possible. 

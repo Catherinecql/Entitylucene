@@ -1,0 +1,1 @@
+Is there an easy way to print from an iOS device to server shared print queues? <body> I don't want to have to resort to using another computer to print to the server-shared print queues. Is this possible under iOS 10, or might it be possible under iOS 11? 

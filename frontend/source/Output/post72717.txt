@@ -1,0 +1,1 @@
+My Mac has stopped working <body> I installed bootcamp about a month or two ago and I installed windows 7. Well everything worked just fine until one day whenever I would start up my computer and hold down the option key the Mac choice wasn't there, only the windows. So now everytime I try to switch back to Mac my computer thinks it's windows or something and now I'm stuck. 

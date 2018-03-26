@@ -1,0 +1,1 @@
+Disable contacts and event detection banner in El Capitan Mail <body> I would like to remove the new 'events' and 'contacts' banners that appear across the top of my incoming mail. I never use them, and they are distracting. Does anyone know how to turn them off? 

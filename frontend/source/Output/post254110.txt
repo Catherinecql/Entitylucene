@@ -1,0 +1,1 @@
+creating test *.IPA for iPhone 7 <body> i want to create test *.IPA for iPhone 7 i have added UUID in provisional profile but when i archive my project and extract, all compatible device list does not show iPhone 7 and universal *.IPA is not installing in iPhone 7.  

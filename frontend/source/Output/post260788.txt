@@ -1,0 +1,1 @@
+Valid areas for sticker placement <body> Can someone explain to me what areas on the iMessage chat screen are valid for sticker placement? Sometimes a sticker placement will be rejected when placing on certain parts of the screen. I haven't quite figure what the parameters are. 

@@ -1,0 +1,1 @@
+New monitor for macbook pro non retina <body> I got a wide 27 inch dell monitor for my pc and mac but only see two aspect ratios in the mac display widnow. Is there any way to get more? It doesn't appear to like the wide display. I am not mirroring. I am scaling it. 

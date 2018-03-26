@@ -1,0 +1,1 @@
+How do I delete a HomeKit invite? <body> I have HomeKit and it’s stuck on the accept invite step for about 9 months.   The sender  has since removed my access but this remains.  What are my options?  img src="https://i.stack.imgur.com/ZjbnF.jpg" alt="enter image description here"  <comment364816> Have you tried to swipe left on that element?

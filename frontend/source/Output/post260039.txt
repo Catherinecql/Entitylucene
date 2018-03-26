@@ -1,0 +1,1 @@
+Mail crashes after installation of IOS 10.1.1 <body> My mail closes within 5-8 seconds after opening since I updated to 10.1.1.   I powered off and still the same thing.  Help!! 

@@ -1,0 +1,1 @@
+What does the shortcut picture with x within bounded right arrow mean? <body> This is the shortcut I am interested in:  img src="https://i.stack.imgur.com/4pwUQ.png" alt="enter image description here"  <answer207099> This is strongForward Delete/strong (on Windows keyboards called strongDel/strong). You can achieve it on MacBook keyboard with kbdFn/kbd+kbd⌫ Backspace/kbd. 

@@ -1,0 +1,1 @@
+Update badge notification <body> I cannot get the update badge notification to go away on the App Store (the notification bubble at the top right corner of an app). There are no updates that need downloading but the badge still shows that there is one. I've powered down the phone and still shows up....what next? 

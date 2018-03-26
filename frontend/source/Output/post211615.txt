@@ -1,0 +1,1 @@
+iBooks: Can hidden purchased books get updated? <body> I purchased a book in iBooks Store and download it to my local library. Then I hide my purchased book in iCloud.  Here is my question: Will the downloaded purchased book still get updated if there is a new version of the book?  <comment255452> You bought it, so it should update indeed.

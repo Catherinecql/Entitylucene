@@ -1,0 +1,1 @@
+Playback during Copying <body> When I copied a movie over the Network, via Finder, back in 10.5 I could simply open it in VLC during copying. However on 10.7 it tells me the file is used by OS X and could, therefore, not be opened. Is there a way to do this in Lion as well?   

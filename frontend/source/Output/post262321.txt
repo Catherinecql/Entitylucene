@@ -1,0 +1,1 @@
+Stop force click opening dictionary <body> I love using force click to show me word definitions,  img src="https://i.stack.imgur.com/6KeG7.png" width="300"  yet dislike having the dictionary open sometimes when I force click different areas of the screen which don't contain text.  How do I stop force click opening dictionary? 

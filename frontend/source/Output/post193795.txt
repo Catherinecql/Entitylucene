@@ -1,0 +1,1 @@
+To install GNU Strings in OSX <body> I run unsuccessfully codebrew search strings/code giving only codeCaskroom/cask/stringsfile/code.   I want to run this commmand codestrings -td -3 &lt;file.raw/code.  How can you install GNU Strings in OSX?  <answer193800> Run   precodebrew install binutils /code/pre  which install binary tools of GNU. 

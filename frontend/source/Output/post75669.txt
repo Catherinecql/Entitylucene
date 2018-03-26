@@ -1,0 +1,1 @@
+Change events alert default time in Apple Calendar <body> I need to change the alerts preference in Apple Calendar. I would like all the alerts for events on a particular day to be given the day before at a specific time (6 am). Now I can do the day before but not specify a time. The default is the time of the event. 

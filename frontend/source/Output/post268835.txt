@@ -1,0 +1,1 @@
+Is there an official list for iTunes / iOS version compatibility? <body> I've found answers on this site stating that iOS 10 is not compatible with iTunes 12.2 (the latest iTunes version available for macOS 10.7). This helped with a problem I have.  Is there an official document from Apple that shows which iOS versions are compatible with which iTunes versions? 

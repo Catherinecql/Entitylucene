@@ -1,0 +1,1 @@
+How to continue merging when using git mergetool on MacOS (file merge)? <body> I am using codegit mergetool/code to activate Apple file merge in a terminal, and after I finish merging a file, I cannot go to the next file. I will have to codecontrol + c/code to exist git mergetool and then do it again to continue merging next file. How can I merge multiple files in one go? 

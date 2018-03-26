@@ -1,0 +1,1 @@
+How to remove the group name from the email subject? <body> If we send a mail to a group team@mydomain.com in Server.app it rewrites the subject as [groupname] before the subject. We want to remove this. 

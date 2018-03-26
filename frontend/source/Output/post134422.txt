@@ -1,0 +1,1 @@
+Control of iPod Touch from Android <body> I'm trying to revive my iPod Touch 4s running 6.1.6 as a media hub, but I cannot find a suitable software to remotely control music reproduction FROM an Android device. I would prefer to control the native music app, but also Google Play Music would be fine. 

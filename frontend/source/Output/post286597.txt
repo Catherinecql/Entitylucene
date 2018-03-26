@@ -1,0 +1,1 @@
+Mail marking non iCloud emails as junk in iCloud junk folder <body> I have 4 email accounts in mac mail.  2 iCloud accounts and 2 gmail accounts.  Suddenly mail is marking legit email as junk and putting it my main iCloud junk folder.  Any idea why this would suddenly start happening? 

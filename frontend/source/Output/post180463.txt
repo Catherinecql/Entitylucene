@@ -1,0 +1,1 @@
+What is the latest iOS 8.3 baseband for iPhone 6? <body> I want to update my iPhone 6 to iOS 8.3, but my device is unlocked with R-Sim. I want to know if the new iOS firmware will update the baseband &amp; relock my device. Please help.  <answer180472> 2.23.03 for a european (Austria) GSM Perhaps contact the vendor if it's compatible.  

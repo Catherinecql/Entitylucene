@@ -1,0 +1,1 @@
+How do I access OpenGL specific settings for the Nvidia driver? <body> I have a MacBookPro5,1 with an NVidia 9600 GT running OS X 10.6.8 (64-bit).  In the Linux-world there is a codenvidia-settings/code command to control various OpenGL specific settings, however under OS X I can't find such a tool.   How do I control the NVidia settings on my Mac?  

@@ -1,0 +1,1 @@
+How to save video from my iphone 5 to Time Capsule? <body> Is it possible to save video from my iphone 5 to Time Capsule? If yes, how to do this?  <answer119446> No, the Time Capsule can only backup through Time Machine. Since the iPhone doesn't run Time Machine, you can't backup the video directly. 

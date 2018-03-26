@@ -1,0 +1,1 @@
+Getting bash-3.2 everytime I "su" <body> Whenever I su, PS1 changes to \s-\v\$. Why is that? Tried setting it, but it still changes when I su again, or exit the terminal. What to do?  <comment268678> Try `sudo su -` instead of `sudo su`! <comment268702> Or `sudo -s` :-) <comment268997> Why would i want to sudo su? It's just switching users

@@ -1,0 +1,1 @@
+External Disk to use with iTunes in a AirPort Extreme <body> I have a external disk that I use now to have my iTunes collection, I want to connect the same disk to the AirPort Extreme so I dont have to use a USB port in my Notebook.   Does anyone have a reccomendation?  <answer392> Any standard USB disk should work.  <comment364> Ok, Today I will try with the one I have.

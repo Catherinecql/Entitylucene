@@ -1,0 +1,1 @@
+Apple Mail -- is it possible to hide a mailbox? <body> I wonder is it possible to hide a mailbox in Mail? I would like not to see the Draft. Currently I set it on local, and disabled showing Google Drafts on Gmail side. However, I see the box in the list on the lefthand side. Thanks! 

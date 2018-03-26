@@ -1,0 +1,1 @@
+How do I edit (remove frames from) an animated GIF using Preview (Mountain Lion) <body> I've been able to access the animated GIF, similarly to this thread, but I want to remove frames from the GIF. Is this possible with Preview, or do I need to use a different software? 

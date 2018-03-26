@@ -1,0 +1,1 @@
+Upload PDF or Doc file issue <body> i am new to IOS developement developement and i creating one app .in that app feature as upload pdf or doc file to need to send to server.i am not aware about that thing. Please suggest any answers to me. 

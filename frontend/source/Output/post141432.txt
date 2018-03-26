@@ -1,0 +1,1 @@
+Download ios 7 apps how? <body> I have a iphone 3gs which has a ios 6.1.6. I want to download ios 7 to run applications like Facebook, SoundCloud, etc.  But it cant be downloaded on my device which seems fully updated.  How may I upgrade it?  <answer141433> This is not possible. Apps requiring iOS 7 can't be installed on any version of iOS prior to iOS 7. 

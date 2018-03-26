@@ -1,0 +1,1 @@
+Audible alarm for iPod Touch low battery <body> I'd like my iPod Touch to play an alarm sound whenever the battery is low (for example, 10% power remaining). Is it possible to do this?  <answer61277> Unfortunately not. The battery warnings are fixed system behaviour, and not configurable by the user currently. 

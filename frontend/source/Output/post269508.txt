@@ -1,0 +1,1 @@
+MBPr 15 (2014) boots from Windows 10 USB drive. MBPr 13 (2015) doesn't, same USB drive <body> A MacBook Pro 15" (2014) boots from a fresh created Windows 10 USB drive. All works fine. The same drive doesn't show up in the boot menu on MacBook Pro 13" (2015) or a MacBook 12" (2016).  Any ideas? 

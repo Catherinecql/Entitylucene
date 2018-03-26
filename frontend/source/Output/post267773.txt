@@ -1,0 +1,1 @@
+MacOS: USB history (name and timestamp of connected devices) <body> My external HDD was stolen from me a few weeks ago but I just realised this recently. I really need to know when was the last time I connected this device to my computer. I know its name, is there any way to get the history of the devices which were connected to the computer? 

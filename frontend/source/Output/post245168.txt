@@ -1,0 +1,1 @@
+Can I clean up by date created in reverse order? <body> So I have a folder of documents that I want to sort by the date they were created. I know you can do this in list view, but I really want it to be in icon view. There is a clean up by date created function, but I really want the oldest files at the tp and vice versa. Any help would be greatly appreciated. 

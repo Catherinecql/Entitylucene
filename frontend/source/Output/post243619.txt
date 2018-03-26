@@ -1,0 +1,1 @@
+Change the nature of a project with iMovie <body> I have created a codeMovie/code with iMovie. I have just realised now that in fact I should have created an codeAppPreview/code.  Is there a way to convert my codeMovie/code into an codeAppPreview/code?  <answer243621> Create a new codeAppPreview/code and then copy-paste your codeMovie/code project to it. 

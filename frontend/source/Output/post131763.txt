@@ -1,0 +1,1 @@
+iOS - Howto get notification email when battery is less than 20% <body> I wish to receive an alert/notification with email when iPad Mini battery is less are equal than 20%  I use iPad mini only in public transport, not regularly. So no manual solution. 

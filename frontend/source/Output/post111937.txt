@@ -1,0 +1,1 @@
+Some incoming emails have no From address and no content after iOS 7 <body> After I upgraded to iOS 7 in my iPhone 5 I've been getting emails that have No Sender, No Content (in All Inboxes) and I can't open them. How can I fix this and why does it happen?   

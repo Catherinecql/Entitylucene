@@ -1,0 +1,1 @@
+get output volume with AppleScript <body> I'm writing an AppleScript which should show the value for the output volume. With codeget volume settings/code I'm getting 4 values, but I need just the output volume value. The integer should be shown in a codedisplay dialog/code.  <answer191341> use this:  precodedisplay alert output volume of (get volume settings) /code/pre 

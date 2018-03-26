@@ -1,0 +1,1 @@
+Can I update to iOS 7.1.2, instead of iOS 8.1, on iPhone 5S? <body> Can anyone help me? My iPhone 5S is on iOS 7.1.1. Can i still update to 7.1.2 without Apple forcing me to update to iOS 8.1?  <answer153934> You can't. Apple has stopped signing iOS 7.1.2 but they are currently signing iOS 8.1. Your two choices are to stay put on 7.1.1 or upgrade to 8.1  

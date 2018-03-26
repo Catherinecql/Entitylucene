@@ -1,0 +1,1 @@
+Sharing Flag colors and names over multiple macs running Lion <body> I have upgraded to Lion and have found that Flagit is not compatable. What I liked is that I could share settings over IMAP. I am wondering if this is possble using the Mail flag colors and custom names?  In other words can I make changes on one computer and have them synched to the rest? 

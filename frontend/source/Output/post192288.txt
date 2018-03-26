@@ -1,0 +1,1 @@
+Delete folder/album from Photos <body> How do I delete a folder or an album from Photos?  Have searched internet for answer and tried using control, option and command keys.  <answer192289> ul liRight-click on the folder/album and select Delete./li liSelect the folder/album and press ⌘⌫/li /ul 

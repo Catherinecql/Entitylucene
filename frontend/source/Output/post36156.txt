@@ -1,0 +1,1 @@
+When I backed up my calendar from 5th generation  iPod Touch to iCloud, all events have disappeared. How do I get them back? <body> I turned on iCloud from settings on my iPod Touch (iOS 5.0.1).  Backup to iCloud proceeded but all calendar entries have disappeared. 

@@ -1,0 +1,1 @@
+How to remove a boot flag in MBR using fdisk? <body> Using codesudo fdisk -e /dev/disk0/code I can set a boot flag with the command codeflag/code followed by the partition number. How can I unset this flag? 

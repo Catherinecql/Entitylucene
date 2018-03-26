@@ -1,0 +1,1 @@
+Offline HTML5 iPad: Gmail and Docs <body> There was some recent news about the release of an HTML5-powered offline Gmail and Docs.  But it looks like these won't work on the iPad. Is this true? If so, is there a way that I can use these tools on my iPad?  <answer35819> Safari can handle HTML5.  What makes you think they won't work anyway? 

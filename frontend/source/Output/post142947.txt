@@ -1,0 +1,1 @@
+Phonetic Names false <body> Some contacts are allocated 'false' as Phonetic First and Last Names. They are then moved to 'F' in the list. Why does this uncommanded allocation of 'false' occur and how can I stop it?  <comment168396> What account are these contacts part of?

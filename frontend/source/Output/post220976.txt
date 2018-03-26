@@ -1,0 +1,1 @@
+How do you stop a looping Keynote presentation on iPad? <body> I made a presentation in Keynote, looped it so as to share locally. Now I want to send it to friends, but I cant figure out how to stop the looping to get the share button back?  <answer220984> Pinch out to exit (zoom out gesture). 

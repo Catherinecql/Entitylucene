@@ -1,0 +1,1 @@
+Ipod Touch - multiple accounts for 1 game on 1 ipod <body> I have 2 kids that want to play the same game, separate account, on 1 Ipod Touch. Is there a way we can do this? They want their separate scores. I tried creating 2 different Game Center Accounts, but that didn't help. 

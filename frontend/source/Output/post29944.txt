@@ -1,0 +1,1 @@
+What is the PAR folder I see on my desktop after burning and formatting a project in DVD Studio Pro? <body> After burning and formatting a project with DVD Studio Pro, I have a folder named "PAR" on my desktop. In it is a file with the project name and it has the file extension code.par/code What is the file for? What information does it contain? Is it okay to delete it? 

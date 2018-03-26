@@ -1,0 +1,1 @@
+Multiple VPNs active on iOS? <body> Is it possible to have more than one VPN active at a time on iOS?  <comment281456> This doesn't seem to make sense. What would you be tunneling to then? <comment282050> one VPN might cover 192.168.0.0/16 and another might cover 10.0.0.0/8, for example.

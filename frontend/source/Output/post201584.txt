@@ -1,0 +1,1 @@
+Exclamation mark over messages icon <body> I have an exclamation mark showing over my messages icon on my iPhone and it wont let me access messages. Any idea how to resolve?  <answer201585> The exclamation mark means that a message you attempted to send was not sent—you had no signal, for example. 

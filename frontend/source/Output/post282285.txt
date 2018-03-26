@@ -1,0 +1,1 @@
+StarCraft: Brood War always says there's an update available <body> I Steamed down the recently released free version of StarCraft: Brood War and it runs fine. However, every time I start it, it tells me there is an update available. The update downloads fairly quickly and installs fine, but then it tells me the same thing next time I start it. Anyone seen/fixed this? 

@@ -1,0 +1,1 @@
+Adding Unicode decorators to text in Pages <body> Is it possible to add a copied (via codeCmd+C/code), for example, vector arrow to  a letter in Pages? If so, how?  <answer68578> You can show the character viewer by selecting Special Characters from the Edit menu. It doesn't support copying characters, but you can add characters by dragging them to text views. 

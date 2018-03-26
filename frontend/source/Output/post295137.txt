@@ -1,0 +1,1 @@
+Is my GPT head ok? <body> I recently tried to take a backup of my Mac by booting in recovery then using the restore function to copy Macintosh HD but then I get an error "The disk should be GPT to copy recovery partition" I didn't want to copy it.But Did this affect my GPT head.  sudo gpt show disk0 shows:  img src="https://i.stack.imgur.com/wB40h.png" alt="does it seem ok" 

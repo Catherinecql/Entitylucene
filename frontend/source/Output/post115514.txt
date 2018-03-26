@@ -1,0 +1,1 @@
+Mavericks not keeping apps on their respective screens after screensaver <body> I have an issue that is driving me nuts: I have dual screens plugged on my Mac Mini and when I move some apps on my secondary screen, they are all back on my main screen right after I unlock it from the screensaver.  Any idea how to correct this? 

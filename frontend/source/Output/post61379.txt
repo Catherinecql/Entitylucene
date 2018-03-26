@@ -1,0 +1,1 @@
+Mountain Lion Finder having issues <body> In Mountain Lion, Finder recently started acting weird. Sometimes I can't resize Finder windows (I just have to close the window and open a new one), and quicklook windows zoom out of the wrong place. Is anyone else having this issue? 

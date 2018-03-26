@@ -1,0 +1,1 @@
+Why does AirPlay allow the iPhone 6s to go to sleep? <body> When AirPlaying something on an iPhone 6s the AirPlay stream pauses or dies when the iPhone 6s's screen goes dark or sleeps. AirPlay should prevent the streaming device from sleeping. How do I fix this?  <answer212820> Turning off the LivePhoto wallpaper feature seems to fix the issue. 

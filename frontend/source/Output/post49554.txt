@@ -1,0 +1,1 @@
+Import footnotes from Word document into iBooks Author? <body> Is there a way of keeping the footnotes made in a Pages or MS Word file when importing them into a new iBooks Author book? 

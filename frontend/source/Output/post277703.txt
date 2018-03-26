@@ -1,0 +1,1 @@
+How do I setup a new iPhone running iOS 10 when the home button doesnt work? <body> I restored my device to iOS 10 and I cant seem to be able to setup the phone since iOS 10 asks you to "Press home button to setup" or something.  Touch assist is disabled by default.  How can I proceed without taking it to apple...? 

@@ -1,0 +1,1 @@
+Update app on Appstore <body> Is it possible to build Xcode for app update on store without owning a Mac?  I recently bought an IOS app but i don't know how i can update it since i don't have a mac devise.  Thanks.  <comment320188> While not an ***exact*** dupe, the general question - *can I run Xcode on a non-Mac* - and the answer provided in the linked question are the same.

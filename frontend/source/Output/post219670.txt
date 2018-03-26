@@ -1,0 +1,1 @@
+In App Purchases <body> If two or more devices are connected by the same Apple ID and you buy an in app purchase, does that in app purchase come for free on the other devices with the same Apple ID? 

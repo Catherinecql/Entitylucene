@@ -1,0 +1,1 @@
+Screen sharing part of screen <body> I have a 60 inch retina tv that i use as my screen. Whenever I screenshare it tries to share all of it.  Is there any program where I can only share part of my screen?  Thanks!  <comment363521> I do not believe that neither ARD or VNC support this. I could do it in RDP but that is for Windows PCs... sorry

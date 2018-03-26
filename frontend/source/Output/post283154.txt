@@ -1,0 +1,1 @@
+my facebook contacts are now in my iphone contacts. How do I un-sync them? <body> At some point, I must have asked to "sync" facebook contacts with my phone contacts. However this is NOT what I wanted. I didn't want that at all. How do I "u-sync" them?? HELP please  <comment356936> What about unchecking **Preferences** - **Facebook** - **Contacts** ?

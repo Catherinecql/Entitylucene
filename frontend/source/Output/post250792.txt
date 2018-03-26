@@ -1,0 +1,1 @@
+Access Control Lists (ACL) and Extended Attributes of the contents of user home folder <body> What are the correct Access Control Lists and Extended Attributes of the files and subdirectories in the user home directory? Can I just clear all of them if I do not understand where they come from? 

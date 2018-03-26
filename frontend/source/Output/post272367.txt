@@ -1,0 +1,1 @@
+macOS Sierra with increased HD space after upgraded <body> After upgrading from El Capitan to macOS Sierra, my system volume suddenly has more free space.  The increment is about 300%.  Not complaining but just curious what had transpired?   

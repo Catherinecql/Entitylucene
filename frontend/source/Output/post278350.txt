@@ -1,0 +1,1 @@
+Garageband Instrument appears in Logic Pro 9 but not in Mainstage 3 <body> The title says it as it is.   I can use Garageband instruments in Logic Pro 9.1.8 but no "Garageband" option appears in the Mainstage 3 instrument channel strip. Any ideas how to get them seen, please?  Macbook Pro 2.9ghz i7, El Capitan, 8gb RAM. 

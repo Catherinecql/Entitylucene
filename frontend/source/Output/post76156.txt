@@ -1,0 +1,1 @@
+How to connect iOS 6 device to projector via VGA adapter? <body> After upgraded to iOS6, I cannot connect to my projector for presentation via VGA adapter, before it worked well.  How do I make it work now? 

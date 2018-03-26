@@ -1,0 +1,1 @@
+Mac through a corporate proxy? <body> I am about to obtain a new Mac laptop. However, the only internet connection I use is through a corporate proxy (Microsoft ISA server).  I plan to install CNTLM on the laptop to tunnel traffic.  What issues could I have with this? Will software update work? And OS updates? 

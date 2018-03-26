@@ -1,0 +1,1 @@
+Record video while playing music (no app, html5 functionality) <body> I am looking for a solution in HTML5 for recording video while playing sounds.  A few apps can do this (JamCam, Snapchat, etc.) but we want this functionality to work from a website.  Can this be done? If it can be done, can you please point me towards a solution. 

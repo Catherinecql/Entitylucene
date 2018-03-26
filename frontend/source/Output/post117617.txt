@@ -1,0 +1,1 @@
+Is there any way to access display settings from the menu bar in Mavericks? <body> I used to always have an icon, but now it's gone unless mirroring is available :-(  <answer117619> You can download the Display Menu app from the App Store  I use it all the time. Best of all - it is free! 

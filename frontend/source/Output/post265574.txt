@@ -1,0 +1,1 @@
+Memory discrepancy between Memory Clean & htop <body> Can someone explain to me why the Memory Clean (paid version) app reports memory usage in +- 3GB fluctuations than what htop/top tell me? Which one is more accurate?  <comment332972> Can you add some screenshots showing the difference? Ideally add the appropriate part of Activity Monitor as well.

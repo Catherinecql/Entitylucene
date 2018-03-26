@@ -1,0 +1,1 @@
+Unlocking MacBook Air with apple watch will not work consistently <body> I have followed all the steps to enable "unlock Mac with Apple watch".  Unlocking will work for a few days, then stops and I get the following.   "Your Apple Watch must be signed into iCloud to allow it to unlock your Mac. You can sign in using the Apple Watch app on your iPhone." 

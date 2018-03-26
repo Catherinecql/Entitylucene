@@ -1,0 +1,1 @@
+iOS: Clear Notifcation on Settings App for TFA <body> Since I upgraded to 10.3.1 there has been a badge notification stuck on the Settings app that says "1".  When I go into the app, the notification is on the Two Factor Authentication setting.  I have this DISABLED and don't want to enable it.  How can I get it to quit nagging me? 

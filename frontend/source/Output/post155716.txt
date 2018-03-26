@@ -1,0 +1,1 @@
+Adding annotation in iBooks <body> How can I add annotations on my book using iBooks?  Any time that I try to create an annotation, iBooks wants to create a new copy, with this message:  codeThe original document can't be changed, so a duplicate with your changes has been created./code 

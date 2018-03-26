@@ -1,0 +1,1 @@
+Change update frequency of App Store in Yosemite? <body> Similar to Change update frequency of app store in Mountain Lion?  Is there a way to change the frequency the App Store checks for updates in Yosemite?  <answer189448> The same command still works in Yosemite:  precodesudo defaults write /Library/Preferences/com.apple.SoftwareUpdate ScheduleFrequency 3 /code/pre 

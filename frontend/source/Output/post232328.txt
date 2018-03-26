@@ -1,0 +1,1 @@
+How do I configure the Emacs-like keyboard shortcuts in OS X? <body> OS X has built in support for many Emacs-like keyboard shortcuts: for example, kbdControl/kbd-kbdA/kbd moves the cursor to the beginning of the paragraph and kbdControl/kbd-kbdE/kbd moves the cursor to the end. How can I configure these shortcuts and add more of them? 

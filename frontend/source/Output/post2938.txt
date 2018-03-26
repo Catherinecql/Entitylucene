@@ -1,0 +1,1 @@
+What can be the different filetypes of videos shot using iPhone/iPod Touch? <body> Is it mp4 or m4v or mov? I'm not sure. Please tell me what can be the different formats shot using iPhone or iPod Touch  THANX!!  <answer2962> The iPhone and iPod touch only shoots one format:  H.264 in a .mov container - at 1280x720 at 30 FPS.  

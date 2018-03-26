@@ -1,0 +1,1 @@
+App download on mac? <body> If users download my App on their Mac, would it count as a "download"? Also, does Apple track each download by the device or by the iTunes account?  <answer127197> ol liYes, downloads from iTunes on a desktop computer will count/li liBy account/li /ol 

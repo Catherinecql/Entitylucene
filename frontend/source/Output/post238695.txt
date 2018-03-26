@@ -1,0 +1,1 @@
+How do I get programmatic access to the word definition after it pops up when highlighting (three-finger tap) a word in OS X? <body> I would like to build up a list of words and their definitions of the words that I highlighted (three-finger tapped) so that I can come back to them later. Is there a way to get access to the dictionary or the event containing the word?  

@@ -1,0 +1,1 @@
+Finder won't search external hard drive now that I've updated to 10.7 Lion <body> I recently updated from 10.6 to 10.7 and now Finder won't search my network attached sever. It worked fine up until the update. I have tried re-indexing the Spotlight Search, but that doesn't work and I don't even use Spotlight. 

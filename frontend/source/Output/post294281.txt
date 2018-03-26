@@ -1,0 +1,1 @@
+MacBook Pro can't get ipv6 automatically <body> MacBook Pro Early 2013(macOS 10.12.6)  Other device like iPhone, iPad and other Mac all get ipv6 automatically via Wi-Fi, but this one can't get ipv6 at all.  Router:AirPort Time Capsule(Latest firmware, Latest Version) 

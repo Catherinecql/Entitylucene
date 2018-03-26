@@ -1,0 +1,1 @@
+Does OSX save geolocation data related to my preferred wifi networks? <body> Does OS X save geographic location data for my preferred WiFi networks, and if so where can I find this information? 

@@ -1,0 +1,1 @@
+How does bartender work? <body> I'm curious how bartender2 works. Is there any OS api to remove any menu-bar icon? I can see its very hard to remove spotlight icon. Read here, it requires binary editing and all, high level stuff. How bartender is able to do it easily? 

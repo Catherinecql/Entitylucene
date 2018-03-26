@@ -1,0 +1,1 @@
+Word 2011: Create caption header without numbering <body> I want to create a header for each page which displays the caption.      But i don't want to show the number of the caption.   How can i manage this?   For now, i did it with strongStyleRef/strong, but it displays the number of each caption, too. 

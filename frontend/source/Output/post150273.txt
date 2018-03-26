@@ -1,0 +1,1 @@
+Looking for IPv6 modem for bridge mode <body> I have a Time Capsule and a modem in bridge mode. I would like to switch to IPv6 so that I can stop using NAT. My modem does not have IPv6 support so I need a new one but I can't find one that on the specs is compatible.br Is there a list of IPv6 compatible modems? Which do you know they are? 

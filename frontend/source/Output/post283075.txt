@@ -1,0 +1,1 @@
+Mac OS Sierra. Is it possible to have the virtual keyboard at the time of login? <body> I can enable the onscreen keyboard using system preferences when I have logged in.  but I wonder if its possible to perform the login itself by using the virtual keyboard. 

@@ -1,0 +1,1 @@
+Where has the "define" ability gone when selecting a word in an SMS message or email? <body> When selecting a word in an SMS message or email, how do I access the "define" ability?  <answer256157> It's now labeled as "Look Up" in the menu.  img src="https://i.stack.imgur.com/eIPxJ.jpg" alt="Selecting a word in IOS"  <comment319294> It's now called "Look Up"

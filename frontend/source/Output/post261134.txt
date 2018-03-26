@@ -1,0 +1,1 @@
+Unable to download apps from the internet <body> I'm trying to download fruit ninja from the internet but it keeps coming up with the message I was wondering if anyone could help me fix it thanks img src="https://i.stack.imgur.com/7LcyB.jpg" alt="enter image description here"  <comment326995> Check that you have enough free space and also try later.

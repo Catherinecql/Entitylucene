@@ -1,0 +1,1 @@
+Normal Temparature of a Macbook Pro <body> I received my Macbook Pro yesterday. I would like to know what is the normal temperature of a Macbook Pro. Here is mine  img src="https://i.stack.imgur.com/8ObEd.png" alt="enter image description here"  is this okay ?  <answer106363> My new MacBook Air sometimes reaches 50°C, so you should be fine. 

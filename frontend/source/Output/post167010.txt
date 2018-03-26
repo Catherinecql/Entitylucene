@@ -1,0 +1,1 @@
+How to reconnect to NFS server using another login? <body> I use finder.  This is my connection:  precodenfs://192.168.1.10/nfs/ /code/pre  I logged as a guest before. But now I need to change user. Where I can change login data to connect to nfs as another user? 

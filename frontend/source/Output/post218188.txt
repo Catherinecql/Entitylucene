@@ -1,0 +1,1 @@
+System storage not being correctly represented in 'About This Mac' <body> For some reason, in the 'About this mac' under storage, my mac running el capitan (macbook pro 13" early 2015) doesnt correctly display how much storage i've used. Does anyone have a fix for this?img src="https://i.stack.imgur.com/j5vJi.png" alt="enter image description here" 

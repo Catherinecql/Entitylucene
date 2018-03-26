@@ -1,0 +1,1 @@
+How do I set Command-F to search by 'Name Contains' in Mountain Lion? <body> I have seen the tip om how to Search by Filename.  However, it still uses the default -- 'Name Matches...' I find this MUCH less useful than searching for 'Name Contains'.  I saw an OSX 10.4 on editing the plist to achieve this result.  Is this doable in Mountain Lion or are there other options?  ta ben 

@@ -1,0 +1,1 @@
+Two finger swipe to go to previous tab doesn't work in Google Chrome when a PDF is opened. How can I fix this? I use a MacBook Pro <body> As per the question, the two finger swipe to go to the previous tab works well in Google Chrome, except when I've opened a PDF file in a tab. Any ideas on how to get it working? 

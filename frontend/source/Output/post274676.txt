@@ -1,0 +1,1 @@
+Safari tools symbols missing <body> I just started using Safari and I notice the tools have no symbols to indicate their role. Is it normal or a bug? How do I fix it?  img src="https://i.stack.imgur.com/YNiKq.png" alt="enter image description here" 

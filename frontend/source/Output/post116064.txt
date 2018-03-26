@@ -1,0 +1,1 @@
+Lacie Hard Drive converted itself to FDISK_partition from GUID_partition <body> I am running OS X 10.6.8 and my Lacie external hard drive converted itself from GUID_partition to FDISK_partition all by itself.  How can I force the disk to mount just to get the files off of it? I am desperate! 

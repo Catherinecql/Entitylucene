@@ -1,0 +1,1 @@
+Why do I only see 50 episodes possible on podcasts <body> Before the last ITunes upgrade it was possible to view all episodes of a podcast.  But now the most I'm able to see are 50.  Is there a way to view more?  Or has ITunes placed a limit on how many shows a podcast can have available?  <comment249962> Podcasts have a limit of about 500 episodes. It must be the iTunes update.

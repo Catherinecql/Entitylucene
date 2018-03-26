@@ -1,0 +1,1 @@
+How to downgrade iOS to previous version? <body> I really need to downgrade from strongiOS 9/strong to strongiOS 8/strong on my iPad Mini. Is it possible at all?  <answer214966> Unfortunately, the firmware signing window has since closed for iOS 8.4.1 (as well as all earlier iOS builds for your device), so it should not be possible.  Source: https://ipsw.me/8.4.1 

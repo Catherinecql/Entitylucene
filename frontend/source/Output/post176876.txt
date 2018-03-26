@@ -1,0 +1,1 @@
+Deleting games from iPhone 5s and ipad <body> If I delete a game from my Game Center on my iPad, will it delete the game off of my iPhone?  <answer176880> Yes, the game account is bound to your apple id. Seen as though the game center syncs,You will loze the data on all devices! 

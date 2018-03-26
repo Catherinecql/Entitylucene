@@ -1,0 +1,1 @@
+Mac Mini DVD Player Up-converting <body> I have a Mac Mini connected to a 1080p television.    Does the Apple DVD player (or even the OS) up-convert to 1080p from SD playback, like some standalone players do? 

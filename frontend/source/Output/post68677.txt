@@ -1,0 +1,1 @@
+How do I stop iOS 6 update on a jailbroken iPhone? <body> I started it by mistake, and every time I connect to Wifi it resumes downloading. I have shell access, as the phone is jailbroken: Could this be useful? What should I do to stop the update process? 

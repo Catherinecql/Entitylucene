@@ -1,0 +1,1 @@
+How do you make Google Chrome use KeyBindings file? <body> I have a lot of customized key bindings in my code~/Library/KeyBindings/DefaultKeyBinding.dict/code file. Google Chrome does not appear to respect them (or at least, version 53.x on OS X 10.10.5 Yosemite does not).  How can I get Google Chrome to respect the key bindings file? 

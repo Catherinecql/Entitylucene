@@ -1,0 +1,1 @@
+Is there a way to open Mail.App from QuickMailer? <body> Is there any way to open Mail.App from QuickMailer?  My dock auto-hides to get more screen space.  <answer134664> That's actually pretty easy, you just double click the icon in the Menubar.  img src="https://i.stack.imgur.com/0ltQq.jpg" alt="QuickMailer menubar icon" 

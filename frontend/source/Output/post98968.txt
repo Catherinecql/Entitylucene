@@ -1,0 +1,1 @@
+Downloading Google+ photos into iPhoto <body> I have a bunch of photos uploaded to Google+ from an Android phone.  I'd like to import them into iPhoto on my Mac, which is where I store my photos.  Is there an easy way to do this?  <comment117398> Is your question how to import photos from Google+ into iPhoto on a Mac? <comment119334> That's correct.

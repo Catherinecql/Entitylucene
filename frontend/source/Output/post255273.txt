@@ -1,0 +1,1 @@
+is there a way to disable update notifications in iWork apps (Pages, Keynote, Numbers)? <body> Even with App Store Automatic Updates set to OFF, all of the iWork apps pop up a modal dialog box on startup to inform you there is an update. Is there a way to disable this behavior (in El Capitan)? 

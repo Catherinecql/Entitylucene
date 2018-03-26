@@ -1,0 +1,1 @@
+No Remote app for Apple TV? <body> I used to have the iTunes Remote app on my Apple Watch. Now I have both the Apple TV Remote and iTunes Remote apps on my iPhone, but can't seem to install either onto my Apple Watch.   Has support for this ended?  <comment316736> I don't have a solution for you, but on watchOS 3 I have Remote working just fine.

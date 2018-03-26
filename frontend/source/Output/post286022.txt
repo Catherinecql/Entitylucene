@@ -1,0 +1,1 @@
+Find total number of songs in Apple Music library <body> How can I find the total number of songs in my Apple Music library (both downloaded and not downloaded songs)?  If I go to Settings  General  About, I can find the number of downloaded songs, but I also want to know the number of not downloaded songs that are in my library. 

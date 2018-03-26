@@ -1,0 +1,1 @@
+How can I designate a default email account in Apple Mail on Mountain Lion? <body> Opening a new mail to compose currently defaults to the Cloud email.  I want to change that default to my Gmail (set up already in Apple Mail).  How can I do this?  <answer88380> The default mail is the first one in the list. So just move it up in the preferences.  

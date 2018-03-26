@@ -1,0 +1,1 @@
+Is there a scroll lock key under macOS Sierra? <body> It used to be codeshift + F14/code or codefn + F14/code for scroll lock. I don't think it works anymore. 

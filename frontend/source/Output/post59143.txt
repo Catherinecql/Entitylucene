@@ -1,0 +1,1 @@
+Keep TrueCrypt volume mounted on ML after FUS <body> Does anybody know how can I prevent a TrueCrypt volume from dismounting after "fast user switching" on Mountain Lion? 

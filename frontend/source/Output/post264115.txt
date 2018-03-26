@@ -1,0 +1,1 @@
+Not Getting Message from other iPhone users <body> When I send out messages to other iPhone users, they get my response. However, when they respond back to me, the message will not come through. What could be the problem?  <comment330967> Do you have iMessage active on other Mac devices?

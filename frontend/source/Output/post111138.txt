@@ -1,0 +1,1 @@
+Seamless listening from iPhone to iMac? <body> Is there any way to synchronise music playback position between iOS and OS X, so that I can go from listening to a song on my iPhone, then continue listening to it at the same place on my computer when I open it?  <answer111141> Yes there is. By using iPhone app called Seamless. 

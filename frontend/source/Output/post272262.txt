@@ -1,0 +1,1 @@
+Prevent rotation reset in Maps.app <body> How do you prevent Maps from resetting rotation? If you rotate a map then zoom in or out, the map will reset back to north on top.  <comment342217> Seemingly some conditions where this doesn't happen making it all the more frustrating when it does.

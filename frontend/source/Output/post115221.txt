@@ -1,0 +1,1 @@
+How to retrieve unsaved password <body> How can I Retrieve unsaved passwords from history on safari or hard drive of a macbook pro  password not saved on keychain.  <answer115222> You can't, user input is not cached in Safari. But hopefully the web site you want to log in to allows you to reset/resend your password 

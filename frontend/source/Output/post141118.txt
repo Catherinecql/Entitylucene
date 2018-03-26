@@ -1,0 +1,1 @@
+Automatically adjust brightness on second monitor <body> I am using a Late 2013 21.5" iMac with a 22" Samsung TV as a second monitor. My iMac automatically changes its brightness throughout the day. Is there any way I can get my Samsung TV to automatically change the brightness in sync with my iMac? 

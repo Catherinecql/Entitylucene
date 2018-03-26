@@ -1,0 +1,1 @@
+Deleting Individual Messages does not change chronological display <body> If I delete an individual message from a conversation, the historical order of the messages does not change. In fact, the last clock time for a contact remains the time of the deleted message. How do i fix this? 

@@ -1,0 +1,1 @@
+automatically share photos to Photos iCloud Shared Albums <body> I'd like to script the Yosemite Photos app so that every time I place images to a folder on my desktop, it automatically is imported into the Photos app and uploaded to a shared album. Is this possible? 

@@ -1,0 +1,1 @@
+iPhone 5 can't open webpages when VPN is on <body> I'm using iPhone 5 and iPad 2, not jailbroken, with iOS 6.1.4 and VPN turned on. Safari and any other browser apps can't open pages.  <comment118299> It appears your question got cut off. What do you see? Do any websites work? <comment118304> Maybe you might need to use a proxy ?

@@ -1,0 +1,1 @@
+Difficulty sending iMessage <body> I'm having difficulty sending a photo (9.6 mb) through iMessage in OS X Yosemite from my Mac. When I check iMessage, it indicates "undelivered".   Can anyone help me out?  <comment181600> p.s. I have no trouble sending the picture through my iPhone.

@@ -1,0 +1,1 @@
+How can I record iPhone screen's activity? <body> I want to record some activities of a particular app on my iPhone as video. That app was installed from Appstore. Is there any trick (free) that helps to record the iPhone's screen? Or can I run that app in my Xcode's simulator?  

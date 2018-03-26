@@ -1,0 +1,1 @@
+How to put reverb on a live broadcast in real time? <body> I'm using an app. I know how to do it on a PC, but there's a problem - I can't find an app for the iPhone that can give me a real-time effect while I'm on my broadcasting show. I found an app with reverb but only I can hear this effect and no one else. 

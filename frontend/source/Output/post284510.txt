@@ -1,0 +1,1 @@
+Batch change broken aliases to new path <body> I have a folder of MP3 aliases that're pointing to a folder that was sadly deleted. Luckily, I have a backup folder except that it's mixed in with a lot of other files, so I can't just drag everything over. What I wanted to do was update all the broken aliases to this new folder. 

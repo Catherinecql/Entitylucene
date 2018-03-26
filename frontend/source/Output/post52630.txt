@@ -1,0 +1,1 @@
+How can I get the Twitter app to sync less often? <body> It seems to be syncing all the time, and I get distracted with the blue bird on my menu.   Can I set it to sync every 10+ minutes?  <comment60185> Can't you just remove the bird from the menubar? Or set it to turn blue only when you have a @-reply or a direct message? <comment60217> Yes, I'm doing that now.

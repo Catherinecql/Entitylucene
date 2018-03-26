@@ -1,0 +1,1 @@
+We share iCloud accounts on two devices, can both backup photos to iCloud? <body> Can 2 devices back up each one's photos with same iCloud account into iCloud?  <answer128147> Yes, iCloud backup will keep the backups of your Camera Roll separate.  If you mean Photo Stream, yes, the photos will be merged into a single Photo Stream. 

@@ -1,0 +1,1 @@
+Jailbreak an iPad 1 on a PowerMac G4? <body> Is it possible to jailbreak an iPad 1 on a PowerPC?  I've tried Greenpois0n on PowerPC, but for some reason that doesn't work, so is there any other software I can use?  (iPad is running iOS 5)  <answer246714> Absinthe 2.0.4 has support for PowerPC. It works on iOS 5.0 - 5.1.1. 

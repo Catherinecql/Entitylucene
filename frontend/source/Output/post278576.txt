@@ -1,0 +1,1 @@
+Open Keychain Access safety notes on iPhone? <body> Is it possible to open Keychain Access safety notes on iPhone?  img src="https://i.stack.imgur.com/kzrLo.png" alt="enter image description here"  <answer278578> No, Secure Notes are not available on iOS.  If you wish to use password-protected notes cross-platform, you can use Notes.app. 

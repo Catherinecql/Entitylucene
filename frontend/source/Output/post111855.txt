@@ -1,0 +1,1 @@
+OS X Server 10.8 PDF manual <body> Where can I find the PDF manual for OS X Server 10.8?  <answer111871> Lion server guides can be found here.  <comment131460> Hi Welcome to AskDifferent, a simple google query would have answered your question.  Please read the Question section of the help page :http://apple.stackexchange.com/help

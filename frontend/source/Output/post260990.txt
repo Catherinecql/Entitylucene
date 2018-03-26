@@ -1,0 +1,1 @@
+Connect a bluetooth keyboard as a game controller to an iPad? <body> Is it possible to connect a bluetooth keyboard as a game controller to an iPad?   <answer261005> You can jailbreak and then use the Cydia app controllers for all. 

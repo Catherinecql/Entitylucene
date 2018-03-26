@@ -1,0 +1,23 @@
+.Layout {
+	// background: #ff500a;
+	// content: "";
+	// position: fixed;
+	// // z-index: 5;
+
+	// display: block;
+	// // max-width: 1024px;
+	// margin: 0;
+	// top: 50%;
+	top:30%;
+	left:50%;
+	position: absolute;
+	transform: translateX(-50%);
+	.content{
+
+		padding:40px 0;
+
+	}
+	// .section{ 
+	// 	margin:40px 0px;
+	// }
+}

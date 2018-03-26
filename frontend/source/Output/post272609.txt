@@ -1,0 +1,1 @@
+Mac os LDAP server connectivity issue <body> we have file server hosted in mac os x el capitan and a ladap server hosted in mac osx Tiger. Users are trying to connect fileserver from windows 10 using ldap credentials. But they are failed to authenticate. But if we migrate ldap server to el capiton then they are able to login 

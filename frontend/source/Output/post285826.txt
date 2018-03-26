@@ -1,0 +1,1 @@
+Invert scroll direction Windows 10 Bootcamp <body> I have just bootcamped my Mac using the Windows 10 ISO and can not find any setting to change the scroll direction to the MacOS way. I have tried other answers on here but they were for Windows 7 and 8 respectively and did not work.  Is there a way to change the scroll direction for Windows 10 Bootcamp? 

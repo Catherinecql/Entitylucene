@@ -1,0 +1,1 @@
+Website won't open even after deleting SelfControl <body>    strongPossible Duplicate:/strongbr   How to disable Self Control application?       So I deleted SelfControl and when the website still didn't work I did the little terminal command things like killall SelfControl but it said no matching processes were found. I don't know if I should just wait or what. Help please!!! 

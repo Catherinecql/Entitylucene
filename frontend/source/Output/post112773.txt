@@ -1,0 +1,1 @@
+Scheduled reminders question? <body> Are scheduled reminders supposed to show up in Calendar.app if both are using icloud?    PS: iOS 7.0.4, OSX Mavericks  <answer112779> Calendar.app and Reminders.app are distincts apps. They do not share their data even when stored on the cloud.   So no, Calendar won't show you reminders.  

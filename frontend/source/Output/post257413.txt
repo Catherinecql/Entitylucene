@@ -1,0 +1,1 @@
+How to install Safari 10 on OS X El Capitan? <body> After update Safari 10 Safari doesn't open anymore. Is there any option to install Safari 10 or 9 from in 10.11.6 ?  <comment321403> There are a few ways to do this, but how easy they are depends on your situation. Do you have Time Machine backups? What Mac model do you have? And, do you have access to another Mac (if so, what)?

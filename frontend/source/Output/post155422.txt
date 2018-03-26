@@ -1,0 +1,1 @@
+Frame rate of 11 FPS in World of Warcraft after upgrading to Yosemite <body> Any ideas why this started after upgrading to Yosemite? I checked the activity monitor and not much else is going on the network.  <answer155437> It seems you are facing a known issue. Wait for an update I suppose. http://us.battle.net/wow/en/forum/topic/14926302581#3 

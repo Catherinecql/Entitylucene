@@ -1,0 +1,1 @@
+Command-J instead of down arrow <body> The up/down keys of the new macbook pro are too small to reach quickly. Thus, I would like to map Command-J to down and Command-K to up. What's the best way of achieving this?  

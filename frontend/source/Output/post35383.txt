@@ -1,0 +1,1 @@
+Why aren't all calendars showing up in reminders <body> When I create a reminder in iCal on Mac OS 10.7 and try to assign a calendar to it then not all calendars seem show up.   Is this normal?  <answer35389> Starting from OSX 10.7 there are 2 kinds of calendars: Calendars and Reminder Lists. Make sure the calendar you're trying to assign is a Reminder List. 

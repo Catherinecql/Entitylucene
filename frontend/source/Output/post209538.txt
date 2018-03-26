@@ -1,0 +1,1 @@
+When I go to my calendar it isn't working <body> When I go to my monthly calendar I can no longer go to a date?! I have to manually scroll through. Any ideas on why or how to fix?   <answer209542> Try a double click on the date. It seems to be a bug.  <comment252755> That worked. Thanks!!

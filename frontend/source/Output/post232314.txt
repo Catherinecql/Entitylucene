@@ -1,0 +1,1 @@
+Magic Mouse - Scroll Area <body> I would like to reduce the scroll surface area on my Magic Mouse. I tend to engage the scroll just by resting my index or middle finger on the surface. Thoughts?  <answer232322> There is a free third party app called Magic Prefs which allows you to adjust the scroll area and a bunch of other things  http://magicprefs.com/ 

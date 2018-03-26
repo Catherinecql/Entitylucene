@@ -1,0 +1,1 @@
+Create a contact in people in Outlook 2016 <body> In Mail for Mac I can create a contact directly from an email message. In Outlook 2016 for Mac how can I do that as well? Seems like email has made more advances that Outlook has.  <answer226347> Message → Sender → Add to People  img src="https://i.stack.imgur.com/NZYRs.png" width="390" 

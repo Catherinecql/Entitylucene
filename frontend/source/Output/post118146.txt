@@ -1,0 +1,1 @@
+How can Apple TV connect to a LEAP-protected network? <body> I have a WiFi network protected by LEAP (http://en.wikipedia.org/wiki/Lightweight_Extensible_Authentication_Protocol).  When choosing the network on Apple TV, it doesn't go through - says it's missing some configuration.  How can I connect to the network? 

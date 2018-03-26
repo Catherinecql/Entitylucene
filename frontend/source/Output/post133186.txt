@@ -1,0 +1,1 @@
+If I use a custom image for my desktop it disappears <body> Hi I've recently got this problem after installing mavericks on my 2010 macbook air, then every time I start up the comp the desktop background becomes the default wave background like before.  Then I decided to get the new macbook air recently released and it has the same problem  How can I fix the problem. 

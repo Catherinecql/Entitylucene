@@ -1,0 +1,1 @@
+Disabling Captive Network Assistant in macOS Sierra 10.12 <body> It seems that Captive Network Assistant.app has moved or is no longer present in Sierra.  I am looking to disable the WebView popup window when connecting to a wifi network with a captive portal. 

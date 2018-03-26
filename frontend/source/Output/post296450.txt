@@ -1,0 +1,1 @@
+Disabling iCloud Drive sync on specific Wifi networks <body> Is there a way to do this ? I have disabled iCloud Drive for certain directories by adding code.nosync/code to it's name but this situation is different. Maybe using monitoring the wifi network SSID and launching a custom command. 

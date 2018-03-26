@@ -1,0 +1,1 @@
+iphone 6 headset turns off normal phone - can I disable this behavior? <body> When I insert headset into iphone 6 I can not use phone as normal  handheld device. I.e. phone signal is not shared between headset and speaker/phone.  What if I need to share phone signal (both in and out).  I.e if I plug headset both phone and headset should operate simultaneously. 

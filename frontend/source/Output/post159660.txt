@@ -1,0 +1,1 @@
+Disable sticky-keys sound <body> Is there a way to disable the sound made when sticky-keys are enabled or disabled by press-shift-five-times?   Since changing to OS X 10.9, this sound is played every time on startup, which is quite annoying. 

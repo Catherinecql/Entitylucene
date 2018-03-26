@@ -1,0 +1,1 @@
+Pausing/Stopping Audio Book from playing <body> I have a 4s iphone and sometimes the audio books will start playing (obviously, I do something that sets it off), but what that is I have no idea and I would like to know how to pause it.   

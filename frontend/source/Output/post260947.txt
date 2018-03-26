@@ -1,0 +1,1 @@
+Highlight current app in dock? <body> Is there a native or 3rd party way to highlight the currently focused app in the dock, similar to the Windows toolbar?  <comment326693> There's no native way, no. I'm not sure about third-party, but the primary reason there's no built-in way to do it is you can tell the front-most app at a glance by looking at the menu bar.

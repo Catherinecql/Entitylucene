@@ -1,0 +1,1 @@
+connect to bluetooth network shortcut <body> I use my phone's bluetooth tethering most of time. Is there a shortcut (or a way to bind one) to: img src="https://i.stack.imgur.com/3rBWA.png" alt="enter image description here" 

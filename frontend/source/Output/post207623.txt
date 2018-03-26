@@ -1,0 +1,1 @@
+Youtube in background <body> In iOS 9.0.1, I can no longer use the control center play/pause button to force play Youtube in the background while open in Safari. I can see the name of the video, but if i click "play" the button flashes white, but doesn't change to "pause" and the video doesn't play. Why is this happening and is there any way to fix it? 

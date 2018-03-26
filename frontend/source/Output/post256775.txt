@@ -1,0 +1,1 @@
+Notes App disappeared on iPhone & iPad <body> i used an iPhone 6 and an iPad2 - after I upgraded to iOS 10.0.2. my notes app disappeared from both my devices. 

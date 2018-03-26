@@ -1,0 +1,1 @@
+Using the same email to enroll for iOS Device Enrollment Program <body> I am trying to enroll for Apple's new Device Enrollment Program (deploy.apple.com). For some reason, it won't take the email I am using for my existing business developer program. Can I enroll for this program without having to create another Apple ID or register for another developer program? 

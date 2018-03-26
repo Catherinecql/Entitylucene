@@ -1,0 +1,1 @@
+List all purgeable files in macOS Sierra <body> I disabled macOS Sierra storage optimizations and the Storage tab in About this Mac still shows over 70 GB as purgeable space. Is there a utility to display which files are considered as purgeable? 

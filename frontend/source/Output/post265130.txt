@@ -1,0 +1,1 @@
+How to lock an application in macOS Sierra? <body> I want to lock some apps if I've used it for more than a certain amount of time. How do I do that? Or is there a way to do that? For what it's worth, I'm using macOS Sierra 10.12.1. 

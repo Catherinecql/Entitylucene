@@ -1,0 +1,1 @@
+How to remove jpeg file from jpeg+raw file in iPhoto <body> I accidentally shot photos in jpeg+raw format and now they're imported in iPhoto. How do I remove the jpeg version of the photo? I only need raw in my library and I'll make new jpeg once I'm done editing.  

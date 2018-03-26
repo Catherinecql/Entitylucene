@@ -1,0 +1,1 @@
+Enable chrome://flags/#enable-npapi via Puppet manifest <body> Any ideas how a Puppet manifest for OS X should look like to enable the use of NPAPI plugins in Chrome on managed clients? I would like to enable this settings for a big group of users remotely.  <comment216621> What do you have so far? Can you post your script for installing chrome?

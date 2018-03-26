@@ -1,0 +1,1 @@
+Terminal Change text appear area to bottom right <body> I want my terminal to have the prompt lines (I don't know what to call them) come from the bottom of the terminal window, and be fixed to the right of the screen, not the left. Is there any way to basically invert the place that my terminal text comes from?  <comment256538> Does this help? http://superuser.com/a/229825

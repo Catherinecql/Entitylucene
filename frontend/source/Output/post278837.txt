@@ -1,0 +1,1 @@
+Customs Look Up functionalities <body> I frequently use the Look Up functionality on macOS to get the traduction of a word (thanks to a custom dictionnary that I added). I wonder if it's possible to add extra features like save a word in a note. My goal is to create a list of all these words to learn them later.  

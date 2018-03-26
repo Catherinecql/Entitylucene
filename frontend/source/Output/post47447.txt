@@ -1,0 +1,1 @@
+How long does the ios clean tmp directory? <body> I had a test , use the function NSTemporaryDirectory ,create a file in tmp ,and reboot the    apps ,but it doesn't clean that directory, i search it from internet , and found it may clean ,not must, so I want to know how long and at which point it clean the tmp? 

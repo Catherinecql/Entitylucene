@@ -1,0 +1,1 @@
+How to see the total current RAM usage of any app in macOS, in particular, Chrome? <body> I don't seem to find the answer anywhere else. There are process managers in Windows that shows per app total RAM usage but could't find any way for macOS. 

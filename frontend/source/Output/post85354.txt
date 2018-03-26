@@ -1,0 +1,1 @@
+How do I invert the scroll direction on my Magic Mouse? <body> I'm used to Windows so I'm not used to the natural scroll with the Apple bluetooth mouse.  How do I change this to be the standard, scroll down goes down functionality? 

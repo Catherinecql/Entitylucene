@@ -1,0 +1,1 @@
+Removing standby/sleep on a Macbook Pro running headless Ubuntu server 16.04.2 LTS <body> Is there a way to remove sleep or standby on a MacBook Pro model id 11,3 mid-2014 that is running Ubuntu server 16.04.2 LTS image?  I would like to close the lid while the ubuntu server is running if it's possible.  Kind regards, 

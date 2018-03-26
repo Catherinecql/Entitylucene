@@ -1,0 +1,1 @@
+Is applicationDidFinishLaunchingWithOptions called when an app updates? <body> I noticed that when updating via testflight the app gets relaunched (applicationDidFinishLaunchingWithOptions is called again), is a regular update from the store (with auto-update enabled) the same? Or does the runtime of the app continue through updates? 

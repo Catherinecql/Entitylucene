@@ -1,0 +1,1 @@
+How to change color profiles on ssh iterm2 on SSH? <body> mac os x lion; Using Iterm2;  I wish to change my iterm2 color profiles if I do ssh on terminal.  Can this be done ?  

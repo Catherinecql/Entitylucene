@@ -1,0 +1,1 @@
+How can I get full resolution on Mac Book Pro Retina? <body> I am using a Mac Book Pro 15" retina display which supposedly has a 2880x1800 resolution, but I don't seem to be getting that many pixels.  In the control panel, if I choose the codeScaled/code radio button the farthest setting to the right says codelooks like 1920x1200/code, how can I get the complete resolution? 

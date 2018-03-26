@@ -1,0 +1,1 @@
+Outlook and iPhone 4 not synching calendar? <body> With iOS 6 my iPhone 4S was syncing the calendar fine from Outlook (2010) on my work PC. Now all entries on my iPhone are gone and it won't sync with Outlook, which is still showing all my appointments. 

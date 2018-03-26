@@ -1,0 +1,1 @@
+How to increase the font size of plist editor (not code editor) in Xcode 8? <body> is there any settings in Xcode which can increase the font size of plist editor (especially the key and the value text)? (I tried Preference  Fonts and Colors but seems change nothing)  img src="https://i.stack.imgur.com/MecUZ.png" alt="" 
